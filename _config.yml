@@ -1,0 +1,36 @@
+title: Abdi Haji
+description: Ground-level data meets grand strategy
+url: "https://abdigh26.github.io"
+baseurl: ""
+author: Abdi Haji
+email: abdihaji@warsawuni.edu.pl
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Collections
+collections:
+  reports:
+    output: true
+    permalink: /reports/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "reports"
+    values:
+      layout: "report"
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
