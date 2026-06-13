@@ -1,0 +1,24 @@
+---
+layout: default
+title: Articles
+---
+
+<div style="padding: 3rem 0 1rem;">
+  <div class="hero-eyebrow">Analysis & Commentary</div>
+  <h1 style="font-family: var(--font-display); font-weight: 800; font-size: 2.5rem; margin-bottom: 0.5rem;">Articles</h1>
+  <p style="color: var(--text-dim); max-width: 560px;">In-depth analysis of Somalia's security landscape, conflict dynamics, and geopolitical implications for the Horn of Africa.</p>
+</div>
+
+<div class="article-list" style="padding-bottom: 4rem;">
+  {% for post in site.posts %}
+  <a class="article-row" href="{{ post.url }}">
+    <span class="article-date">{{ post.date | date: "%d %b %Y" }}</span>
+    <span class="article-title">{{ post.title }}</span>
+    <span class="article-arrow">→</span>
+  </a>
+  {% else %}
+  <div style="padding: 4rem 0; color: var(--text-faint); font-family: var(--font-mono); font-size: 0.75rem; letter-spacing: 0.1em;">
+    FIRST ARTICLE COMING SOON
+  </div>
+  {% endfor %}
+</div>
