@@ -1,0 +1,33 @@
+---
+layout: default
+title: Reports
+---
+
+<div style="padding: 3rem 0 1rem;">
+  <div class="hero-eyebrow">Situation Reports & Trend Analysis</div>
+  <h1 style="font-family: var(--font-display); font-weight: 800; font-size: 2.5rem; margin-bottom: 0.5rem;">Reports</h1>
+  <p style="color: var(--text-dim); max-width: 560px;">Weekly situation reports, monthly trend analyses, and annual reviews of Somalia's security environment — all grounded in verified incident data.</p>
+</div>
+
+<div style="padding-bottom: 4rem;">
+  <div class="card-grid">
+    {% for report in site.reports %}
+    <a class="card" href="{{ report.url }}">
+      <div class="card-tag">{{ report.category | default: "Report" | upcase }} — {{ report.date | date: "%b %Y" }}</div>
+      <h3 class="card-title">{{ report.title }}</h3>
+      <p class="card-excerpt">{{ report.excerpt | strip_html | truncate: 130 }}</p>
+    </a>
+    {% else %}
+    <div class="card">
+      <div class="card-tag">WEEKLY SITREP — COMING SOON</div>
+      <h3 class="card-title">Somalia Security Situation Report</h3>
+      <p class="card-excerpt">Weekly situation reports covering Al-Shabaab activity, civilian targeting, and security trends across Somalia's Federal Member States.</p>
+    </div>
+    <div class="card">
+      <div class="card-tag">MONTHLY ANALYSIS — COMING SOON</div>
+      <h3 class="card-title">Monthly Incident Trend Review</h3>
+      <p class="card-excerpt">Data-driven monthly analysis of incident patterns, fatality trends, and actor dynamics across Somalia and the Horn of Africa.</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>
