@@ -1,0 +1,88 @@
+---
+layout: default
+title: Home
+---
+
+<section class="hero">
+  <div class="hero-eyebrow">Somalia Security Analysis</div>
+  <h1 class="hero-headline">Ground-level data<br>meets grand strategy.</h1>
+  <p class="hero-sub">Rigorous, data-driven analysis of conflict, insurgency, and security dynamics across the Horn of Africa. Published by Abdi Haji.</p>
+  <div class="hero-cta">
+    <a href="/reports/" class="btn-primary">Reports</a>
+    <a href="/articles/" class="btn-ghost">Articles</a>
+    <a href="/dashboard/" class="btn-ghost">Live Dashboard →</a>
+  </div>
+</section>
+
+<section class="stat-bar">
+  <div class="stat">
+    <span class="stat-num">14,500+</span>
+    <span class="stat-label">Incidents tracked</span>
+  </div>
+  <div class="stat-divider"></div>
+  <div class="stat">
+    <span class="stat-num">2022–2026</span>
+    <span class="stat-label">Coverage period</span>
+  </div>
+  <div class="stat-divider"></div>
+  <div class="stat">
+    <span class="stat-num">Weekly</span>
+    <span class="stat-label">Data updates</span>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-label">Latest Reports</div>
+  <div class="card-grid">
+    {% for report in site.reports limit:3 %}
+    <a class="card" href="{{ report.url }}">
+      <div class="card-tag">{{ report.category | upcase }}</div>
+      <h3 class="card-title">{{ report.title }}</h3>
+      <p class="card-meta">{{ report.date | date: "%B %Y" }}</p>
+      <p class="card-excerpt">{{ report.excerpt | strip_html | truncate: 120 }}</p>
+    </a>
+    {% else %}
+    <div class="card card--empty">
+      <div class="card-tag">COMING SOON</div>
+      <h3 class="card-title">First report publishing soon</h3>
+      <p class="card-excerpt">Weekly situation reports, monthly trend analyses, and deep-dives on Somalia security dynamics.</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-label">Latest Articles</div>
+  <div class="article-list">
+    {% for post in site.posts limit:5 %}
+    <a class="article-row" href="{{ post.url }}">
+      <span class="article-date">{{ post.date | date: "%d %b %Y" }}</span>
+      <span class="article-title">{{ post.title }}</span>
+      <span class="article-arrow">→</span>
+    </a>
+    {% else %}
+    <div class="article-row article-row--empty">
+      <span class="article-date">—</span>
+      <span class="article-title">Articles coming soon</span>
+    </div>
+    {% endfor %}
+  </div>
+  <a href="/articles/" class="view-all">View all articles →</a>
+</section>
+
+<section class="section section--dashboard-promo">
+  <div class="section-label">Live Data</div>
+  <div class="dashboard-promo">
+    <div class="dashboard-promo-text">
+      <h2>Somalia Incident Dashboard</h2>
+      <p>Interactive maps and charts updated weekly from a live dataset of 14,500+ verified security incidents across Somalia, sourced from ACLED.</p>
+      <a href="/dashboard/" class="btn-primary">Open Dashboard →</a>
+    </div>
+    <div class="dashboard-promo-stats">
+      <div class="mini-stat">Incidents by FMS</div>
+      <div class="mini-stat">Fatality trends</div>
+      <div class="mini-stat">Actor breakdown</div>
+      <div class="mini-stat">Geospatial map</div>
+    </div>
+  </div>
+</section>
