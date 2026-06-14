@@ -10,15 +10,16 @@ title: Articles
 </div>
 
 <div class="article-list" style="padding-bottom: 4rem;">
+  <a class="article-row" href="/articles/somali-army-building.html">
+    <span class="article-date">13 Jun 2026</span>
+    <span class="article-title">Building an Army in Wartime — A Full-Spectrum Review of Somalia's Military Project</span>
+    <span class="article-arrow">→</span>
+  </a>
   {% for post in site.posts %}
   <a class="article-row" href="{{ post.url }}">
     <span class="article-date">{{ post.date | date: "%d %b %Y" }}</span>
     <span class="article-title">{{ post.title }}</span>
     <span class="article-arrow">→</span>
   </a>
-  {% else %}
-  <div style="padding: 4rem 0; color: var(--text-faint); font-family: var(--font-mono); font-size: 0.75rem; letter-spacing: 0.1em;">
-    FIRST ARTICLE COMING SOON
-  </div>
   {% endfor %}
 </div>
