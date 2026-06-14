@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Building an Army in Wartime — Somali OSINT Brief</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300;400;500;600&display=swap');
+
+  :root {
+    --bg:        #0d0f12;
+    --bg2:       #13161b;
+    --bg3:       #1a1e25;
+    --border:    #242830;
+    --border2:   #2e3340;
+    --accent:    #c8a96e;   /* aged brass */
+    --accent2:   #7fb3c8;   /* cold signal blue */
+    --danger:    #c84b3c;
+    --text:      #d4cfc8;
+    --text2:     #8a8780;
+    --text3:     #5a5855;
+    --white:     #edeae3;
+    --mono:      'IBM Plex Mono', monospace;
+    --serif:     'Libre Baskerville', Georgia, serif;
+    --sans:      'Inter', system-ui, sans-serif;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── MASTHEAD ── */
+  .masthead {
+    border-bottom: 1px solid var(--border);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text3);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .masthead-brand { color: var(--accent); font-weight: 500; }
+  .masthead-meta { display: flex; gap: 24px; }
+
+  /* ── HERO ── */
+  .hero {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 72px 24px 56px;
+    border-bottom: 1px solid var(--border);
+  }
+  .hero-eyebrow {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .hero-eyebrow::before {
+    content: '';
+    display: inline-block;
+    width: 28px;
+    height: 1px;
+    background: var(--accent);
+  }
+  .hero h1 {
+    font-family: var(--serif);
+    font-size: clamp(2rem, 4.5vw, 3.4rem);
+    font-weight: 700;
+    line-height: 1.18;
+    color: var(--white);
+    margin-bottom: 20px;
+    letter-spacing: -0.01em;
+  }
+  .hero h1 em {
+    font-style: italic;
+    color: var(--accent);
+  }
+  .hero-deck {
+    font-size: 1.12rem;
+    color: var(--text2);
+    max-width: 680px;
+    line-height: 1.75;
+    margin-bottom: 36px;
+    font-family: var(--serif);
+    font-style: italic;
+  }
+  .hero-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 0;
+  }
+  .hero-stat {
+    background: var(--bg2);
+    padding: 20px 18px;
+    text-align: center;
+  }
+  .hero-stat-num {
+    font-family: var(--mono);
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: var(--accent);
+    display: block;
+    letter-spacing: -0.02em;
+  }
+  .hero-stat-num.danger { color: var(--danger); }
+  .hero-stat-num.blue { color: var(--accent2); }
+  .hero-stat-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text3);
+    font-family: var(--mono);
+    margin-top: 4px;
+    display: block;
+  }
+
+  /* ── LAYOUT ── */
+  .article-body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* ── PART HEADERS ── */
+  .part {
+    padding: 64px 0 0;
+    border-top: 1px solid var(--border);
+    margin-top: 56px;
+  }
+  .part:first-child { margin-top: 0; border-top: none; padding-top: 56px; }
+  .part-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text3);
+    margin-bottom: 10px;
+  }
+  .part-label span { color: var(--accent); }
+  .part h2 {
+    font-family: var(--serif);
+    font-size: clamp(1.4rem, 2.8vw, 2rem);
+    font-weight: 700;
+    color: var(--white);
+    line-height: 1.25;
+    margin-bottom: 8px;
+  }
+  .part-period {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--accent2);
+    letter-spacing: 0.1em;
+    margin-bottom: 28px;
+  }
+
+  /* ── PROSE ── */
+  .prose p {
+    font-size: 1rem;
+    line-height: 1.82;
+    color: var(--text);
+    margin-bottom: 1.4em;
+    font-family: var(--serif);
+  }
+  .prose p:last-child { margin-bottom: 0; }
+  .prose strong { color: var(--white); font-weight: 700; }
+  .prose em { color: var(--accent); font-style: italic; }
+
+  /* ── PULL QUOTES ── */
+  .pullquote {
+    border-left: 3px solid var(--accent);
+    padding: 20px 28px;
+    margin: 36px 0;
+    background: var(--bg2);
+  }
+  .pullquote p {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-style: italic;
+    color: var(--white);
+    line-height: 1.6;
+    margin: 0;
+  }
+  .pullquote-source {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text3);
+    margin-top: 12px;
+  }
+
+  /* ── DATA CALLOUTS ── */
+  .data-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin: 32px 0;
+  }
+  .data-cell {
+    background: var(--bg2);
+    padding: 22px 20px;
+  }
+  .data-cell-num {
+    font-family: var(--mono);
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--accent);
+    display: block;
+  }
+  .data-cell-num.red { color: var(--danger); }
+  .data-cell-num.blue { color: var(--accent2); }
+  .data-cell-label {
+    font-size: 11px;
+    color: var(--text3);
+    font-family: var(--mono);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-top: 4px;
+    display: block;
+  }
+  .data-cell-note {
+    font-size: 12px;
+    color: var(--text2);
+    margin-top: 6px;
+    line-height: 1.4;
+  }
+
+  /* ── CHARTS ── */
+  .chart-block {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    padding: 28px 24px 24px;
+    margin: 40px 0;
+  }
+  .chart-title {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin-bottom: 4px;
+  }
+  .chart-subtitle {
+    font-size: 12px;
+    color: var(--text3);
+    margin-bottom: 20px;
+    font-family: var(--mono);
+  }
+  .chart-wrap {
+    position: relative;
+    height: 260px;
+  }
+  .chart-wrap.tall { height: 320px; }
+  .chart-source {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text3);
+    text-align: right;
+    margin-top: 12px;
+    letter-spacing: 0.06em;
+  }
+
+  /* ── TIMELINE ── */
+  .timeline {
+    margin: 36px 0;
+    position: relative;
+    padding-left: 28px;
+    border-left: 2px solid var(--border2);
+  }
+  .timeline-item {
+    margin-bottom: 28px;
+    position: relative;
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -35px;
+    top: 6px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 2px solid var(--bg);
+  }
+  .timeline-item.setback::before { background: var(--danger); }
+  .timeline-item.neutral::before { background: var(--accent2); }
+  .timeline-year {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--accent);
+    letter-spacing: 0.1em;
+    margin-bottom: 4px;
+  }
+  .timeline-item.setback .timeline-year { color: var(--danger); }
+  .timeline-item.neutral .timeline-year { color: var(--accent2); }
+  .timeline-text {
+    font-size: 0.93rem;
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .timeline-text strong { color: var(--white); }
+
+  /* ── FORCE STRUCTURE DIAGRAM ── */
+  .force-diagram {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    padding: 32px 28px;
+    margin: 40px 0;
+  }
+  .force-diagram h3 {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin-bottom: 24px;
+  }
+  .force-tier {
+    margin-bottom: 20px;
+  }
+  .force-tier-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text3);
+    margin-bottom: 10px;
+  }
+  .force-units {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .force-unit {
+    padding: 8px 14px;
+    border: 1px solid var(--border2);
+    font-size: 12px;
+    font-family: var(--mono);
+    line-height: 1.35;
+  }
+  .force-unit.elite { border-color: var(--accent); color: var(--accent); background: rgba(200,169,110,0.06); }
+  .force-unit.regular { border-color: var(--border2); color: var(--text2); }
+  .force-unit.foreign { border-color: var(--accent2); color: var(--accent2); background: rgba(127,179,200,0.06); }
+  .force-unit.militia { border-color: var(--text3); color: var(--text3); }
+  .force-unit .unit-name { font-weight: 500; display: block; }
+  .force-unit .unit-meta { font-size: 10px; color: var(--text3); margin-top: 2px; }
+  .force-unit.elite .unit-meta { color: rgba(200,169,110,0.6); }
+  .force-unit.foreign .unit-meta { color: rgba(127,179,200,0.6); }
+  .force-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+  .force-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .legend-dot {
+    width: 10px; height: 10px; border-radius: 1px;
+  }
+  .legend-dot.elite { background: var(--accent); }
+  .legend-dot.regular { background: var(--border2); }
+  .legend-dot.foreign { background: var(--accent2); }
+  .legend-dot.militia { background: var(--text3); }
+
+  /* ── MYTH BOXES ── */
+  .myth-block {
+    border: 1px solid var(--border);
+    margin: 28px 0;
+    overflow: hidden;
+  }
+  .myth-header {
+    background: var(--bg3);
+    padding: 14px 20px;
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    border-bottom: 1px solid var(--border);
+  }
+  .myth-badge {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 4px 8px;
+    border: 1px solid;
+    white-space: nowrap;
+    margin-top: 2px;
+    flex-shrink: 0;
+  }
+  .myth-badge.myth { color: var(--danger); border-color: var(--danger); }
+  .myth-badge.reality { color: var(--accent2); border-color: var(--accent2); }
+  .myth-badge.propaganda { color: var(--accent); border-color: var(--accent); }
+  .myth-claim {
+    font-family: var(--serif);
+    font-size: 1rem;
+    color: var(--white);
+    font-style: italic;
+    line-height: 1.5;
+  }
+  .myth-body {
+    padding: 18px 20px;
+    font-size: 0.93rem;
+    line-height: 1.72;
+    color: var(--text);
+    font-family: var(--serif);
+  }
+  .myth-body strong { color: var(--white); }
+
+  /* ── SCENARIO CARDS ── */
+  .scenarios {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin: 32px 0;
+  }
+  .scenario-card {
+    background: var(--bg2);
+    padding: 24px 20px;
+  }
+  .scenario-letter {
+    font-family: var(--mono);
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 10px;
+  }
+  .scenario-card:nth-child(1) .scenario-letter { color: var(--accent2); }
+  .scenario-card:nth-child(2) .scenario-letter { color: var(--accent); }
+  .scenario-card:nth-child(3) .scenario-letter { color: var(--danger); }
+  .scenario-title {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--white);
+    margin-bottom: 12px;
+  }
+  .scenario-body {
+    font-size: 0.88rem;
+    color: var(--text2);
+    line-height: 1.65;
+  }
+  .scenario-odds {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text3);
+    margin-top: 14px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  /* ── DATA NOTE BLOCK ── */
+  .data-note {
+    background: rgba(127,179,200,0.05);
+    border: 1px solid rgba(127,179,200,0.2);
+    padding: 20px 22px;
+    margin: 36px 0;
+    font-size: 0.88rem;
+    color: var(--text2);
+    line-height: 1.7;
+    font-family: var(--mono);
+  }
+  .data-note strong { color: var(--accent2); }
+
+  /* ── DIVIDER ── */
+  .section-divider {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 52px 0 0;
+    color: var(--text3);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .section-divider::before, .section-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 40px 24px;
+    max-width: 900px;
+    margin: 64px auto 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .footer-brand {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--accent);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .footer-meta {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text3);
+    letter-spacing: 0.08em;
+    text-align: right;
+    line-height: 1.8;
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 640px) {
+    .hero-stats { grid-template-columns: repeat(2, 1fr); }
+    .data-row { grid-template-columns: 1fr; }
+    .scenarios { grid-template-columns: 1fr; }
+    .masthead-meta { display: none; }
+    .hero { padding: 48px 20px 40px; }
+    .article-body { padding: 0 20px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- MASTHEAD -->
+<div class="masthead">
+  <span class="masthead-brand">Somali OSINT Brief</span>
+  <div class="masthead-meta">
+    <span>Somalia Security Review</span>
+    <span>June 2026</span>
+    <span>Vol. III</span>
+  </div>
+</div>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="hero-eyebrow">Analytical Review — Somalia Security Series</div>
+  <h1>Building an Army<br>in <em>Wartime</em></h1>
+  <div style="font-family:var(--mono);font-size:11px;color:var(--text3);margin-bottom:20px;letter-spacing:0.08em;">
+    By <span style="color:var(--accent);">Abdi Haji</span> &nbsp;·&nbsp; June 2026
+  </div>
+  <p class="hero-deck">Sixty years of soldiers, thirty years of collapse, twenty years of so-called rebuilding — and the force still cannot hold a district without foreign air cover. A full-spectrum review of Somalia's military project: what went wrong, what is working, and what the word "rebuilding" has been hiding all along.</p>
+  <div class="hero-stats">
+    <div class="hero-stat">
+      <span class="hero-stat-num">14,584</span>
+      <span class="hero-stat-label">Security Incidents<br>2022–2025</span>
+    </div>
+    <div class="hero-stat">
+      <span class="hero-stat-num danger">7,110</span>
+      <span class="hero-stat-label">SNA Fatalities<br>2022–2025</span>
+    </div>
+    <div class="hero-stat">
+      <span class="hero-stat-num">32,000</span>
+      <span class="hero-stat-label">SNA Personnel<br>on Paper</span>
+    </div>
+    <div class="hero-stat">
+      <span class="hero-stat-num blue">~19,000</span>
+      <span class="hero-stat-label">Actually<br>Deployable</span>
+    </div>
+  </div>
+</header>
+
+<main class="article-body">
+
+  <!-- PART I -->
+  <section class="part">
+    <div class="part-label"><span>Part I</span> — Foundation</div>
+    <h2>The Golden Army That Never Was</h2>
+    <div class="part-period">1960 — 1977</div>
+    <div class="prose">
+      <p>On July 1, 1960, two colonial territories — British Somaliland and Italian Somalia — merged into a single republic. The new state inherited two military traditions that barely fit together: the British-trained Somaliland Scouts and the Italian-administered Corpo di Sicurezza. This was not a birth but a fusion, and the seams would eventually tear.</p>
+      <p>In the 1960s, the Cold War turned Somalia into a bidding war. The Soviet Union won the first round. By the early 1970s, the Somali National Army had Soviet MiG fighters, T-54 tanks, and artillery sufficient to make it one of the largest forces on the continent. The military coup of 1969 that brought Siad Barre to power was not, in retrospect, a surprise — the army was the most organized institution in the country.</p>
+      <p>But the Golden Era myth is precisely that: a myth. The army's strength was externally financed, narrowly loyal, and built around a political project — Greater Somalia — that would consume it. <strong>The Ogaden War of 1977–78 was the turning point.</strong> Somalia's best military generation was spent on an irredentist gamble against Ethiopia. When the Soviets switched sides and backed Addis Ababa, the SNA's Soviet-supplied arsenal was turned against itself. Somalia lost the war, lost its superpower patron, and never recovered the military momentum it briefly held.</p>
+      <p>Two structural pathologies were baked in from that era: first, the pursuit of an irredentist agenda that exceeded any realistic military capacity; second, Siad Barre's deliberate manipulation of clan loyalties within the officer corps — promotions tied to lineage, not merit. Both would define the army's collapse a decade later, and both continue to haunt its reconstruction today.</p>
+    </div>
+  </section>
+
+  <!-- PART II -->
+  <section class="part">
+    <div class="part-label"><span>Part II</span> — Collapse</div>
+    <h2>Burbur: The Catastrophe Years</h2>
+    <div class="part-period">1977 — 2004</div>
+    <div class="prose">
+      <p>Somalis use the word <em>burbur</em> — catastrophe — to describe what happened between December 1991 and March 1992. Four months of fighting in Mogadishu alone killed an estimated 25,000 people. 1.5 million fled the country. At least 2 million were internally displaced. The army did not merely lose cohesion; it atomized, with its weapons, vehicles, and soldiers absorbed into competing clan factions.</p>
+      <p>The collapse was also a Cold War casualty. As Somalia's strategic importance to the West declined after 1989, the foreign aid that had sustained the state was withdrawn. Without the resources to maintain the patronage system that held Barre's coalition together, the regime lost its grip on the military. By January 1991, Hawiye clan forces had driven Barre from Mogadishu. The army that followed him out of the city was no longer a national institution — it was one more armed faction in a country of armed factions.</p>
+      <p>The 1990s were not simply chaotic — they were formative in the wrong direction. A generation of Somali men learned to hold a weapon in the context of clan war, not national service. The warlord economy built incentive structures that rewarded armed loyalty over professional discipline. When the Transitional Federal Government was established in 2004, it did not inherit a blank slate. It inherited a militia ecosystem, and it had to negotiate with that ecosystem before it could begin to replace it.</p>
+    </div>
+
+    <div class="pullquote">
+      <p>"The TFG's first task was not to build an army. It was to convince the men with guns that being in the army was more valuable than not being in it."</p>
+      <div class="pullquote-source">— Analyst assessment, post-2004 transition period</div>
+    </div>
+  </section>
+
+  <!-- PART III — with TIMELINE -->
+  <section class="part">
+    <div class="part-label"><span>Part III</span> — Reconstruction</div>
+    <h2>Twenty Years of "Re-building," By Committee</h2>
+    <div class="part-period">2004 — 2022</div>
+    <div class="prose">
+      <p>The TFG era launched an international reconstruction effort that, in retrospect, was simultaneously too ambitious and too fragmented. The United States, European Union, Turkey, Uganda, Kenya, Ethiopia, and the UAE all began training programs at different times, under different doctrines, with different accountability structures. The result was not a national army. It was a collection of parallel forces, each answering to its funder's strategic logic as much as to Mogadishu.</p>
+      <p>The African Union Mission in Somalia (AMISOM) — later ATMIS — provided the essential security umbrella under which all reconstruction happened. Without it, every Somali government since 2007 would have fallen. This is a statement of structural dependency, not a criticism. The dependency itself became the problem: the SNA was never forced to develop independent operational capacity when AU troops were reliably available to hold the line.</p>
+    </div>
+
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-year">2004</div>
+        <div class="timeline-text"><strong>TFG established</strong> in Nairobi. First attempt at formal military reconstitution. Initial force: several thousand irregular fighters nominally integrated.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year">2006</div>
+        <div class="timeline-text"><strong>Islamic Courts Union</strong> briefly controls most of south Somalia. Ethiopian intervention ousts ICU. Al-Shabaab splinters off and begins insurgency — the threat that will define the next two decades.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year">2007</div>
+        <div class="timeline-text"><strong>AMISOM deployed.</strong> African Union troops — initially Ugandan and Burundian — provide the first credible security umbrella. SNA begins reconstruction under this cover.</div>
+      </div>
+      <div class="timeline-item neutral">
+        <div class="timeline-year">2013</div>
+        <div class="timeline-text"><strong>Danab Brigade founded</strong> by U.S. AFRICOM and Bancroft Global Development. Multi-clan recruitment, ring-fenced command, on-time salaries. 150 soldiers initially — will grow to ~2,500.</div>
+      </div>
+      <div class="timeline-item neutral">
+        <div class="timeline-year">2017</div>
+        <div class="timeline-text"><strong>Turkey establishes Camp TURKSOM</strong> — its first overseas military base, in Mogadishu. Gorgor Brigade launched. Turkey becomes the largest single bilateral trainer of SNA personnel.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year">2021</div>
+        <div class="timeline-text"><strong>Electoral crisis.</strong> Gorgor forces ordered to storm a hotel housing opposition leaders. Turkish trainers intervene and block the deployment. First major documented case of attempted political misuse of an elite unit.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year">2022</div>
+        <div class="timeline-text"><strong>Hassan Sheikh returns to power.</strong> Launches major Ma'awisley-backed counteroffensive in Hiiraan and Galmudug. Initial territorial gains celebrated as a turning point. ACLED data records 6,612 incidents this year — the highest in the dataset.</div>
+      </div>
+      <div class="timeline-item setback">
+        <div class="timeline-year">2023</div>
+        <div class="timeline-text"><strong>National Security Architecture signed</strong>: federal agreement on 30,000 soldiers + 40,000 police. On paper, progress. In practice, ghost soldiers and fragmented command remain unresolved.</div>
+      </div>
+      <div class="timeline-item setback">
+        <div class="timeline-year">2024</div>
+        <div class="timeline-text"><strong>Jubaland fiasco.</strong> SNA offensive against Jubaland — a federal member state — ends in defeat. Hundreds of federal troops flee into Kenya. International donors begin "recalibrating" partnerships. Al-Shabaab attacks El Dher in Galmudug, overrunning four military bases.</div>
+      </div>
+      <div class="timeline-item setback">
+        <div class="timeline-year">2025</div>
+        <div class="timeline-text"><strong>Al-Shabaab recaptures Sabiid, Anole</strong> in Lower Shabelle — 40km from Mogadishu. Assassination attempt on President Hassan Sheikh. Jaalle Siyaad military academy bombed. Territorial losses reverse key 2022 gains.</div>
+      </div>
+    </div>
+
+    <div class="prose">
+      <p>Two units stand apart from the general failure of the multi-donor model. The <strong>Danab Brigade</strong> (U.S.-trained) and the <strong>Gorgor Brigade</strong> (Turkey-trained) are the only SNA components assessed as genuinely capable of offensive operations. The reason Danab works where regular brigades do not is instructive: multi-clan recruitment by design, an insulated command structure, consistent pay, and permanent U.S. veto power over mission assignments. The U.S. has never permitted Danab to be deployed for political purposes against federal member states. That protection is a feature, not an anomaly — and it is the reason the unit retains operational value.</p>
+      <p>Gorgor is second in capability but more vulnerable. Turkey has not built the same political firewall around the unit, and Gorgor has been subject to attempted misuse during Somalia's intermittent political crises. Over 1,300 Gorgor troops deserted during the 2022–2024 offensive period. Several battalion commanders were killed. The unit remains potent, but its structural exposure to political manipulation limits its long-term reliability.</p>
+    </div>
+  </section>
+
+  <!-- CHART: INCIDENTS BY YEAR / ACTOR -->
+  <div class="chart-block">
+    <div class="chart-title">Security Incidents by Actor Category — 2022 to 2025</div>
+    <div class="chart-subtitle">Source: Somali OSINT Brief Dataset (ACLED-based) · 14,584 total incidents</div>
+    <div class="chart-wrap">
+      <canvas id="actorChart"></canvas>
+    </div>
+    <div class="chart-source">Data: Somali OSINT Brief Dataset · 2025 figures partial (Apr–Jun only)</div>
+  </div>
+
+  <!-- CHART: FATALITIES QUARTERLY -->
+  <div class="chart-block">
+    <div class="chart-title">SNA Fatalities by Quarter — 2022 to 2025</div>
+    <div class="chart-subtitle">Quarterly SNA fatality counts — the true cost paid by Somali forces, and the pattern behind the counteroffensive cycle</div>
+    <div class="chart-wrap tall">
+      <canvas id="fatalChart"></canvas>
+    </div>
+    <div class="chart-source">Data: Somali OSINT Brief Dataset · 7,110 total SNA fatalities recorded</div>
+  </div>
+
+  <!-- PART IV -->
+  <section class="part">
+    <div class="part-label"><span>Part IV</span> — Current State</div>
+    <h2>The Paper Army and the Real Army</h2>
+    <div class="part-period">2025 — 2026</div>
+    <div class="prose">
+      <p>The central fact of Somalia's military posture in 2026 is the gap between nominal strength and operational reality. The SNA officially numbers around 32,000 personnel. The EU Asylum Agency's most recent assessment puts deployable forces at approximately 19,000 — a 40 percent discrepancy explained almost entirely by ghost soldiers, multi-job holders, desertion, and al-Shabaab infiltration. The Defence Minister acknowledged in November 2025 that corruption and ghost soldiers remain a "serious threat to progress," warning that every dollar must reach the front line. That this needs to be said, from the government itself, is a measure of how far the front line is from receiving it.</p>
+      <p>The 2025 national budget allocated $171 million to the Ministry of Defence — approximately 13 percent of total spending. This figure is simultaneously the largest defence budget in Somali history and dramatically insufficient for the stated goal of a 100,000-strong professional army. For context, the U.S. has spent more than $2.5 billion on Somali security sector assistance since 2007. The system it helped build still cannot independently defend Lower Shabelle.</p>
+    </div>
+
+    <div class="data-row">
+      <div class="data-cell">
+        <span class="data-cell-num">~13,000</span>
+        <span class="data-cell-label">Ghost Soldiers</span>
+        <div class="data-cell-note">Difference between paper strength (32k) and deployable estimate (19k)</div>
+      </div>
+      <div class="data-cell">
+        <span class="data-cell-num red">7,110</span>
+        <span class="data-cell-label">SNA Fatalities</span>
+        <div class="data-cell-note">Recorded fatalities in incidents where SNA/Gov forces were the primary target, 2022–2025</div>
+      </div>
+      <div class="data-cell">
+        <span class="data-cell-num blue">4,540</span>
+        <span class="data-cell-label">Attacks on SNA</span>
+        <div class="data-cell-note">SNA was the primary target in 31% of all incidents, 2022–2025</div>
+      </div>
+    </div>
+
+    <!-- CHART: SNA TARGETED vs AL-SHABAAB TARGETED -->
+    <div class="chart-block">
+      <div class="chart-title">Who Is Taking the Hits — SNA vs. Al-Shabaab as Primary Target</div>
+      <div class="chart-subtitle">Attacks specifically targeting SNA vs. attacks targeting Al-Shabaab, by year</div>
+      <div class="chart-wrap">
+        <canvas id="targetChart"></canvas>
+      </div>
+      <div class="chart-source">Data: Somali OSINT Brief Dataset · Target field analysis</div>
+    </div>
+
+    <!-- FORCE STRUCTURE -->
+    <div class="force-diagram">
+      <h3>Somalia's Parallel Military Architecture — As of 2026</h3>
+      <div class="force-tier">
+        <div class="force-tier-label">Tier 1 — Elite / Capable of Independent Operations</div>
+        <div class="force-units">
+          <div class="force-unit elite">
+            <span class="unit-name">Danab Brigade</span>
+            <span class="unit-meta">~2,500 troops · US-trained · Multi-clan</span>
+          </div>
+          <div class="force-unit elite">
+            <span class="unit-name">Gorgor Brigade</span>
+            <span class="unit-meta">~4,000 troops · Turkey-trained · Isparta/TURKSOM</span>
+          </div>
+        </div>
+      </div>
+      <div class="force-tier">
+        <div class="force-tier-label">Tier 2 — Functional but Clan-Dependent</div>
+        <div class="force-units">
+          <div class="force-unit regular">
+            <span class="unit-name">SNA Regular Brigades</span>
+            <span class="unit-meta">~12,500 deployable · Uneven training · Uneven pay</span>
+          </div>
+          <div class="force-unit regular">
+            <span class="unit-name">Haramcad (Cheetah)</span>
+            <span class="unit-meta">Special Police · Turkey-trained · SPF</span>
+          </div>
+          <div class="force-unit regular">
+            <span class="unit-name">Puntland Security Forces</span>
+            <span class="unit-meta">UAE-supported · Autonomous command · ISIS-focused</span>
+          </div>
+          <div class="force-unit regular">
+            <span class="unit-name">Jubaland Dervish Force</span>
+            <span class="unit-meta">FMS-level · Clan-aligned · Limited interoperability</span>
+          </div>
+        </div>
+      </div>
+      <div class="force-tier">
+        <div class="force-tier-label">Tier 3 — Irregular / Auxiliary</div>
+        <div class="force-units">
+          <div class="force-unit militia">
+            <span class="unit-name">Ma'awisley Militias</span>
+            <span class="unit-meta">Community-raised · Hiiraan/Galmudug · Effective locally only</span>
+          </div>
+          <div class="force-unit militia">
+            <span class="unit-name">Clan Auxiliaries</span>
+            <span class="unit-meta">Variable · FMS-dependent · Not nationally integrated</span>
+          </div>
+        </div>
+      </div>
+      <div class="force-tier">
+        <div class="force-tier-label">Tier 4 — External Enablers (Load-Bearing)</div>
+        <div class="force-units">
+          <div class="force-unit foreign">
+            <span class="unit-name">AUSSOM</span>
+            <span class="unit-meta">AU mission · Replaced ATMIS Jan 2025 · 12-month mandate</span>
+          </div>
+          <div class="force-unit foreign">
+            <span class="unit-name">US AFRICOM</span>
+            <span class="unit-meta">Drone/air support · Danab oversight · CT intelligence</span>
+          </div>
+          <div class="force-unit foreign">
+            <span class="unit-name">Turkish Forces</span>
+            <span class="unit-meta">Camp TURKSOM · TB2/Akinci drones · Gorgor support</span>
+          </div>
+          <div class="force-unit foreign">
+            <span class="unit-name">UAE (PMPF support)</span>
+            <span class="unit-meta">FMS-level partnerships · Puntland / Jubaland</span>
+          </div>
+        </div>
+      </div>
+      <div class="force-legend">
+        <div class="force-legend-item"><div class="legend-dot elite"></div> Elite / capable</div>
+        <div class="force-legend-item"><div class="legend-dot regular"></div> Regular / functional</div>
+        <div class="force-legend-item"><div class="legend-dot militia"></div> Irregular / auxiliary</div>
+        <div class="force-legend-item"><div class="legend-dot foreign"></div> Foreign enabler</div>
+      </div>
+    </div>
+
+    <!-- CHART: INCIDENTS BY FMS -->
+    <div class="chart-block">
+      <div class="chart-title">Security Incidents by Federal Member State — 2022 to 2025</div>
+      <div class="chart-subtitle">Where the war is actually being fought — Southwest and Benadir absorb the majority of violence</div>
+      <div class="chart-wrap tall">
+        <canvas id="fmsChart"></canvas>
+      </div>
+      <div class="chart-source">Data: Somali OSINT Brief Dataset</div>
+    </div>
+
+    <div class="prose">
+      <p>The infiltration problem is not peripheral — it is structural. Al-Shabaab's Amniyat intelligence wing actively recruits within SNA units, plants operatives during enlistment drives, and leverages the group's insider network to conduct targeted assassinations of military commanders. The expedited recruitment of former al-Shabaab fighters during the 2022 counteroffensive — prioritizing numbers over vetting — created direct vectors for infiltration that the security apparatus has not closed.</p>
+      <p>A second structural problem operates alongside infiltration: the political misuse of security forces. The 2024 SNA offensive against Jubaland — a Somali federal member state — ended in military humiliation, with hundreds of troops crossing into Kenya in retreat. This was not an anomaly. In mid-2025, the federal government was delivering arms to aligned militias in both Puntland and Jubaland to pressure those governments, forcing both states to divert counter-terrorism resources to internal political disputes. International partners — including several European governments — have responded by beginning to recalibrate their security partnerships with Mogadishu.</p>
+    </div>
+
+    <!-- CHART: INCIDENT TYPES -->
+    <div class="chart-block">
+      <div class="chart-title">Incident Type Breakdown — 2022 to 2025</div>
+      <div class="chart-subtitle">Armed battles remain dominant, but the composition of violence is shifting as the counteroffensive stalls</div>
+      <div class="chart-wrap">
+        <canvas id="typeChart"></canvas>
+      </div>
+      <div class="chart-source">Data: Somali OSINT Brief Dataset · TYPE2 field classification</div>
+    </div>
+  </section>
+
+  <!-- PART V: MYTHS -->
+  <section class="part">
+    <div class="part-label"><span>Part V</span> — Information Environment</div>
+    <h2>Myths, Propaganda, and What the Data Actually Shows</h2>
+    <div class="part-period">Analytical Layer</div>
+
+    <div class="myth-block">
+      <div class="myth-header">
+        <div class="myth-badge myth">Myth #0</div>
+        <div class="myth-claim">"Somalia is rebuilding its military." The word 're-building' implies there was something functional to restore.</div>
+      </div>
+      <div class="myth-body">
+        This is the foundational claim of every donor briefing, every government press release, and every AU communiqué since 2004 — and it is analytically wrong. The pre-1991 SNA was an externally-financed Cold War instrument built on clan patronage and aimed at an irredentist project it could not sustain. It was never a national army in any meaningful institutional sense. When it collapsed in 1991, there was no blueprint to return to, no institutional memory to recover, no professional corps to reconstitute. <strong>What Somalia has been attempting is original construction</strong> — building a national military from scratch, in active conflict, with no agreed national identity as its foundation. The word "re-building" flatters the starting point and obscures the real difficulty of the task. Every stakeholder who uses it is, consciously or not, understating what would actually need to happen for the project to succeed.
+      </div>
+    </div>
+
+
+      <div class="myth-body">
+        <strong>What the data shows:</strong> The 2022 counteroffensive produced real territorial gains, particularly in Hiiraan and Galmudug. Fatalities recorded in the dataset fell from 12,261 (2022) to 5,908 (2024) — a reduction that partially reflects operational success. But by July 2025, al-Shabaab had recaptured Sabiid and Anole in Lower Shabelle, establishing a strategic triangle that enables encirclement of government positions. The 2022 Ma'awisley momentum was never institutionalized. Towns taken could not be held without ATMIS/AUSSOM air cover and logistical support. <strong>Progress is real; sustainability is the unsolved variable.</strong>
+      </div>
+    </div>
+
+    <div class="myth-block">
+      <div class="myth-header">
+        <div class="myth-badge myth">Myth</div>
+        <div class="myth-claim">"Foreign training programs are building a unified national army."</div>
+      </div>
+      <div class="myth-body">
+        <strong>What the data shows:</strong> The multi-donor training model has produced capabilities, not cohesion. Most SNA brigades remain clan militias with uniforms. Parallel training efforts by the U.S., EU, Turkey, and UK have generally fallen short because the fundamental loyalty structure — clan elder over national command — has not changed. The two functional exceptions (Danab, Gorgor) work precisely because they were <em>insulated from that structure</em> by their funders. Scaling insulation to a 30,000-troop force requires political will that does not currently exist in Mogadishu or in any capital providing assistance.
+      </div>
+    </div>
+
+    <div class="myth-block">
+      <div class="myth-header">
+        <div class="myth-badge myth">Myth</div>
+        <div class="myth-claim">"Al-Shabaab is an external enemy. The army just needs to fight harder."</div>
+      </div>
+      <div class="myth-body">
+        <strong>What the data shows:</strong> Al-Shabaab operates <em>inside</em> the SNA through the Amniyat intelligence wing. Insider attacks and base penetrations appear consistently across the dataset — 1,967 incidents in 2022 alone matched keywords indicating base/camp involvement. The February 2024 attack on a military base in Mogadishu was executed by operatives who had been recruited or planted during the counteroffensive's accelerated enlistment drives. This is not occasional infiltration — it is a sustained operational doctrine. Every piece of intelligence the SNA generates has a non-trivial probability of reaching al-Shabaab before it reaches the commander it was intended for.
+      </div>
+    </div>
+
+    <div class="myth-block">
+      <div class="myth-header">
+        <div class="myth-badge propaganda">Propaganda</div>
+        <div class="myth-claim">Official kill counts from both sides are operationally meaningful numbers.</div>
+      </div>
+      <div class="myth-body">
+        <strong>The inflation problem:</strong> Both the Somali government and al-Shabaab systematically inflate enemy casualties and minimize own losses. The June 2024 El Dher attack illustrates this precisely: the government claimed 60+ militants killed; al-Shabaab claimed 59+ SNA killed. Independent verification of either figure is impossible. Our incident dataset records the events without adjudicating the claims — a methodological honesty that official briefings rarely practice. The number that does not inflate is fatality counts from mass-casualty events, because the bodies are visible. It is the small-unit engagement claims that cannot be trusted from either source.
+      </div>
+    </div>
+
+    <div class="myth-block">
+      <div class="myth-header">
+        <div class="myth-badge reality">Reality</div>
+        <div class="myth-claim">The Danab model demonstrates what works — and why it is not being scaled.</div>
+      </div>
+      <div class="myth-body">
+        <strong>The actual lesson:</strong> Danab's operational effectiveness rests on four pillars: multi-clan recruitment by quota, a command structure insulated from political interference by U.S. veto, consistent and on-time salary payment, and rigorous pre-training vetting separate from regular SNA intake. None of these pillars is technically difficult to replicate. All of them are politically uncomfortable for a federal government that uses clan balance as a currency of political management. The reason Danab works and regular brigades do not is not resources. It is that Danab's design constraints require Mogadishu to surrender levers of patronage it has no intention of surrendering.
+      </div>
+    </div>
+
+    <!-- CHART: AIRSTRIKES -->
+    <div class="chart-block">
+      <div class="chart-title">Air &amp; Drone Strikes by Actor — 2022 to 2025</div>
+      <div class="chart-subtitle">Somalia's air war is almost entirely conducted by external actors — the SNA owns minimal strike capacity</div>
+      <div class="chart-wrap">
+        <canvas id="airChart"></canvas>
+      </div>
+      <div class="chart-source">Data: Somali OSINT Brief Dataset · TYPE2: Air/drone strike events</div>
+    </div>
+  </section>
+
+  <!-- PART VI & VII: FUTURE -->
+  <section class="part">
+    <div class="part-label"><span>Parts VI &amp; VII</span> — Outlook</div>
+    <h2>Three Futures for Somalia's Military</h2>
+    <div class="part-period">2026 — 2035</div>
+    <div class="prose">
+      <p>The near-term trajectory — 2026 to 2028 — is constrained by two hard facts. First, AUSSOM's mandate runs on 12-month renewable cycles, creating permanent uncertainty about the security umbrella. Second, the federal government's demonstrated willingness to deploy military assets against its own federal member states has begun to fracture the international donor coalition that funds the rebuilding effort. Some European governments have already started recalibrating partnerships.</p>
+      <p>The Defence Minister's stated ambition of a 100,000-strong professional army is a political aspiration operating in a $171 million budget reality. The math does not close. Three structural scenarios are plausible for the medium-to-long term:</p>
+    </div>
+
+    <div class="scenarios">
+      <div class="scenario-card">
+        <div class="scenario-letter">A</div>
+        <div class="scenario-title">Integration Succeeds</div>
+        <div class="scenario-body">A durable political settlement between Mogadishu and the FMS enables national recruitment, standardized pay, and unified command. Danab and Gorgor become blueprints for regular forces, not exceptions. Ghost soldiers are purged via biometric payroll. Foreign trainers gradually shift to advisory rather than operational roles.</div>
+        <div class="scenario-odds">Probability: Low · Requires political will that has not materialized in 20 years of trying</div>
+      </div>
+      <div class="scenario-card">
+        <div class="scenario-letter">B</div>
+        <div class="scenario-title">Patchwork Stability</div>
+        <div class="scenario-body">The SNA never unifies but sub-forces (Danab, Gorgor, PSF, state-level units) carve out defensible zones. A de facto security patchwork stabilizes without consolidating. Foreign enablers remain indefinitely. Al-Shabaab controls rural areas; government controls urban corridors. A frozen conflict with periodic escalation.</div>
+        <div class="scenario-odds">Probability: Moderate · Current trajectory's most likely destination</div>
+      </div>
+      <div class="scenario-card">
+        <div class="scenario-letter">C</div>
+        <div class="scenario-title">Collapse &amp; Recurrence</div>
+        <div class="scenario-body">Donor fatigue, continued political misuse of security forces, and al-Shabaab's July 2025 territorial gains compound. AUSSOM mandate not renewed. SNA fragmentation accelerates. Al-Shabaab reconsolidates toward Mogadishu. A security vacuum comparable to post-2006 re-emerges.</div>
+        <div class="scenario-odds">Probability: Rising · Africa Center Nov 2025 warning was explicit on this pathway</div>
+      </div>
+    </div>
+
+    <div class="prose">
+      <p>Scenario B is the default if nothing changes. It is also unsatisfying to every party: not stable enough for investors or humanitarians, not resolved enough for Somali citizens, and not cost-effective enough for donors who have been writing cheques for two decades. The window in which Scenario A remains achievable is narrowing — not because the capability problem is unsolvable, but because the political economy of the current arrangement has given key actors incentives to perpetuate dysfunction.</p>
+      <p>The most honest thing that can be said about Somalia's military project in 2026 is this: <strong>the army knows how to fight. It does not yet know what it is fighting for.</strong> Until national identity — rather than clan, faction, or foreign paymaster — becomes the primary loyalty structure of the Somali soldier, every training program is renting capability rather than building it.</p>
+    </div>
+  </section>
+
+  <!-- DATA NOTE -->
+  <div class="data-note">
+    <strong>A note on the data:</strong> Incident analysis in this article draws from the Somali OSINT Brief master dataset (ACLED-derived), which now spans February 1997 to June 2025 — 51,202 incidents total. Figures cited in this piece focus on the 2022–2025 period (14,584 events) for direct comparability with the "rebuilding era" narrative. SNA fatality figures (7,110) represent recorded fatalities in incidents where SNA or government forces were the primary target. The dataset records actors, targets, incident types, fatalities, injuries, and geographic coordinates at district level, and is updated automatically every week. 2025 figures cover January–June only and should not be annualized directly. All casualty figures represent recorded incidents; actual totals are likely higher given reporting gaps in rural and conflict-affected areas. The dataset does not adjudicate disputed kill claims — both government and al-Shabaab figures are recorded as reported, not verified. The full interactive dataset is explorable on the <a href="/dashboard.html" style="color:var(--accent2);">Somali OSINT Brief dashboard</a>.
+  </div>
+
+  <div class="section-divider">End of Analysis</div>
+
+</main>
+
+<footer>
+  <div>
+    <div class="footer-brand">Somali OSINT Brief</div>
+    <div style="font-size:11px;color:var(--text3);font-family:var(--mono);margin-top:6px;">Somalia Security Series · Ground-level data meets grand strategy</div>
+    <div style="font-size:13px;color:var(--accent);font-family:var(--serif);margin-top:12px;font-style:italic;">By Abdi Haji</div>
+    <div style="font-size:10px;color:var(--text3);font-family:var(--mono);margin-top:6px;line-height:1.8;">
+      © 2026 Somali OSINT Brief / Abdi Haji. All rights reserved.<br>
+      No part of this analysis, its data visualizations, or written content<br>
+      may be reproduced, republished, or distributed without written permission.<br>
+      Data sourced from ACLED · Analysis and editorial content original.
+    </div>
+  </div>
+  <div class="footer-meta">
+    Published June 2026<br>
+    Data: Somali OSINT Brief Master Dataset (ACLED)<br>
+    14,584 incidents · 2022–2025 (51,202 total · 1997–2025)
+  </div>
+</footer>
+
+<script>
+// ── CHART DEFAULTS ──
+Chart.defaults.color = '#5a5855';
+Chart.defaults.borderColor = '#242830';
+Chart.defaults.font.family = "'IBM Plex Mono', monospace";
+Chart.defaults.font.size = 11;
+
+const GOLD   = '#c8a96e';
+const BLUE   = '#7fb3c8';
+const RED    = '#c84b3c';
+const GREY   = '#3a3f4a';
+const GREY2  = '#2a2f38';
+const WHITE  = '#edeae3';
+const TEXT2  = '#8a8780';
+
+// ── 1. ACTOR CHART (stacked bar) ──
+new Chart(document.getElementById('actorChart'), {
+  type: 'bar',
+  data: {
+    labels: ['2022', '2023', '2024', '2025 (Apr–Jun)'],
+    datasets: [
+      {
+        label: 'Al-Shabaab',
+        data: [4689, 2659, 1657, 358],
+        backgroundColor: RED,
+        borderWidth: 0,
+      },
+      {
+        label: 'SNA / Gov Forces',
+        data: [1082, 638, 473, 222],
+        backgroundColor: GOLD,
+        borderWidth: 0,
+      },
+      {
+        label: 'Clan / Other',
+        data: [775, 708, 789, 295],
+        backgroundColor: GREY,
+        borderWidth: 0,
+      },
+      {
+        label: 'ATMIS / Foreign',
+        data: [66, 88, 59, 4],
+        backgroundColor: BLUE,
+        borderWidth: 0,
+      },
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, padding: 16, color: TEXT2 } },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: { stacked: true, grid: { display: false }, ticks: { color: TEXT2 } },
+      y: { stacked: true, grid: { color: '#1e2228' }, ticks: { color: TEXT2 } }
+    }
+  }
+});
+
+// ── 2. FATALITIES QUARTERLY ──
+new Chart(document.getElementById('fatalChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Q1 22','Q2 22','Q3 22','Q4 22','Q1 23','Q2 23','Q3 23','Q4 23','Q1 24','Q2 24','Q3 24','Q4 24','Q2 25'],
+    datasets: [
+      {
+        label: 'SNA Fatalities',
+        data: [427, 444, 688, 1151, 1226, 362, 906, 225, 429, 324, 739, 244, 317],
+        backgroundColor: (ctx) => {
+          const v = ctx.raw;
+          if (v >= 4000) return RED;
+          if (v >= 2500) return '#b06040';
+          return GREY;
+        },
+        borderWidth: 0,
+        borderRadius: 2,
+      },
+      {
+        label: 'Incidents',
+        data: [1380, 1553, 1892, 1787, 1748, 980, 731, 634, 865, 721, 843, 549, 879],
+        type: 'line',
+        borderColor: GOLD,
+        backgroundColor: 'transparent',
+        pointBackgroundColor: GOLD,
+        pointRadius: 3,
+        tension: 0.3,
+        yAxisID: 'y2',
+        borderWidth: 1.5,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, padding: 16, color: TEXT2 } },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: { grid: { display: false }, ticks: { color: TEXT2, maxRotation: 45 } },
+      y: { grid: { color: '#1e2228' }, ticks: { color: TEXT2 }, title: { display: true, text: 'Fatalities', color: TEXT2 } },
+      y2: { position: 'right', grid: { display: false }, ticks: { color: TEXT2 }, title: { display: true, text: 'Incidents', color: TEXT2 } }
+    }
+  }
+});
+
+// ── 3. TARGET CHART ──
+new Chart(document.getElementById('targetChart'), {
+  type: 'bar',
+  data: {
+    labels: ['2022', '2023', '2024', '2025 (Apr–Jun)'],
+    datasets: [
+      {
+        label: 'SNA / Gov Forces Targeted',
+        data: [2443, 1405, 970, 151],
+        backgroundColor: RED,
+        borderWidth: 0,
+        borderRadius: 2,
+      },
+      {
+        label: 'Al-Shabaab Targeted',
+        data: [978, 607, 417, 214],
+        backgroundColor: GOLD,
+        borderWidth: 0,
+        borderRadius: 2,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, padding: 16, color: TEXT2 } },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: { grouped: true, grid: { display: false }, ticks: { color: TEXT2 } },
+      y: { grid: { color: '#1e2228' }, ticks: { color: TEXT2 } }
+    }
+  }
+});
+
+// ── 4. FMS STACKED CHART ──
+new Chart(document.getElementById('fmsChart'), {
+  type: 'bar',
+  data: {
+    labels: ['2022', '2023', '2024', '2025 (Apr–Jun)'],
+    datasets: [
+      { label: 'Southwest',    data: [2296, 1218, 1227, 84],  backgroundColor: RED,    borderWidth: 0 },
+      { label: 'Benadir',      data: [1337,  856,  300, 35],  backgroundColor: GOLD,   borderWidth: 0 },
+      { label: 'Hirshabelle',  data: [1240,  653,  372, 87],  backgroundColor: BLUE,   borderWidth: 0 },
+      { label: 'Jubaland',     data: [1042,  706,  524, 565], backgroundColor: '#6a8a6a', borderWidth: 0 },
+      { label: 'Galmudug',     data: [ 440,  523,  286, 22],  backgroundColor: '#7a6a9a', borderWidth: 0 },
+      { label: 'Other',        data: [ 257,  137,  269, 86],  backgroundColor: GREY,   borderWidth: 0 },
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, padding: 12, color: TEXT2 } },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: { stacked: true, grid: { display: false }, ticks: { color: TEXT2 } },
+      y: { stacked: true, grid: { color: '#1e2228' }, ticks: { color: TEXT2 } }
+    }
+  }
+});
+
+// ── 5. INCIDENT TYPES ──
+new Chart(document.getElementById('typeChart'), {
+  type: 'bar',
+  data: {
+    labels: ['2022', '2023', '2024', '2025 (Apr–Jun)'],
+    datasets: [
+      { label: 'Armed Battle',           data: [3295, 1551, 1256, 375], backgroundColor: RED,    borderWidth: 0 },
+      { label: 'Explosion / IED',        data: [1362,  949,  516,  97], backgroundColor: GOLD,   borderWidth: 0 },
+      { label: 'Violence vs. Civilians', data: [1138,  612,  344, 104], backgroundColor: '#b07040', borderWidth: 0 },
+      { label: 'Strategic / Other',      data: [ 817,  981,  862, 303], backgroundColor: GREY,   borderWidth: 0 },
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, padding: 16, color: TEXT2 } },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: { stacked: true, grid: { display: false }, ticks: { color: TEXT2 } },
+      y: { stacked: true, grid: { color: '#1e2228' }, ticks: { color: TEXT2 } }
+    }
+  }
+});
+
+// ── 6. AIRSTRIKES ──
+new Chart(document.getElementById('airChart'), {
+  type: 'bar',
+  data: {
+    labels: ['2022', '2023', '2024', '2025 (Apr–Jun)'],
+    datasets: [
+      { label: 'US Forces',          data: [23, 43,  2, 15], backgroundColor: BLUE,  borderWidth: 0, borderRadius: 2 },
+      { label: 'Kenya / Ethiopia',   data: [22, 16,  0,  0], backgroundColor: GREY,  borderWidth: 0, borderRadius: 2 },
+      { label: 'Turkey',             data: [ 2,  1,  0,  0], backgroundColor: GOLD,  borderWidth: 0, borderRadius: 2 },
+      { label: 'SNA / Somali AF',    data: [ 0,  1,  4,  3], backgroundColor: '#6a8a6a', borderWidth: 0, borderRadius: 2 },
+      { label: 'Unidentified',       data: [ 4,  5,  3, 19], backgroundColor: RED,   borderWidth: 0, borderRadius: 2 },
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, padding: 16, color: TEXT2 } },
+      tooltip: { mode: 'index' }
+    },
+    scales: {
+      x: { stacked: true, grid: { display: false }, ticks: { color: TEXT2 } },
+      y: { stacked: true, grid: { color: '#1e2228' }, ticks: { color: TEXT2 } }
+    }
+  }
+});
+</script>
+</body>
+</html>
