@@ -6,11 +6,11 @@ title: Home
 <section class="hero">
   <div class="hero-eyebrow">Somalia Security Analysis</div>
   <h1 class="hero-headline">Ground-level data<br>meets grand strategy.</h1>
-  <p class="hero-sub">Rigorous, data-driven analysis of conflict, insurgency, and security dynamics across the Horn of Africa. Published by Abdi Haji.</p>
+  <p class="hero-sub">Rigorous, data-driven analysis of conflict, insurgency, and security dynamics across the Horn of Africa. By Abdi Haji.</p>
   <div class="hero-cta">
-    <a href="/reports/" class="btn-primary">Reports</a>
-    <a href="/articles/" class="btn-ghost">Articles</a>
-    <a href="/dashboard/" class="btn-ghost">Live Dashboard →</a>
+    <a href="/reports.html" class="btn-primary">Reports</a>
+    <a href="/articles.html" class="btn-ghost">Articles</a>
+    <a href="/dashboard.html" class="btn-ghost">Live Dashboard →</a>
   </div>
 </section>
 
@@ -32,26 +32,6 @@ title: Home
 </section>
 
 <section class="section">
-  <div class="section-label">Latest Reports</div>
-  <div class="card-grid">
-    {% for report in site.reports limit:3 %}
-    <a class="card" href="{{ report.url }}">
-      <div class="card-tag">{{ report.category | upcase }}</div>
-      <h3 class="card-title">{{ report.title }}</h3>
-      <p class="card-meta">{{ report.date | date: "%B %Y" }}</p>
-      <p class="card-excerpt">{{ report.excerpt | strip_html | truncate: 120 }}</p>
-    </a>
-    {% else %}
-    <div class="card card--empty">
-      <div class="card-tag">COMING SOON</div>
-      <h3 class="card-title">First report publishing soon</h3>
-      <p class="card-excerpt">Weekly situation reports, monthly trend analyses, and deep-dives on Somalia security dynamics.</p>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="section">
   <div class="section-label">Latest Articles</div>
   <div class="article-list">
     {% for post in site.posts limit:5 %}
@@ -61,13 +41,13 @@ title: Home
       <span class="article-arrow">→</span>
     </a>
     {% else %}
-    <div class="article-row article-row--empty">
+    <div class="article-row">
       <span class="article-date">—</span>
       <span class="article-title">Articles coming soon</span>
     </div>
     {% endfor %}
   </div>
-  <a href="/articles/" class="view-all">View all articles →</a>
+  <a href="/articles.html" class="view-all">View all articles →</a>
 </section>
 
 <section class="section section--dashboard-promo">
@@ -75,8 +55,8 @@ title: Home
   <div class="dashboard-promo">
     <div class="dashboard-promo-text">
       <h2>Somalia Incident Dashboard</h2>
-      <p>Interactive maps and charts updated weekly from a live dataset of 14,500+ verified security incidents across Somalia, sourced from ACLED.</p>
-      <a href="/dashboard/" class="btn-primary">Open Dashboard →</a>
+      <p>Interactive maps and charts updated weekly from a live dataset of 14,500+ verified security incidents across Somalia.</p>
+      <a href="/dashboard.html" class="btn-primary">Open Dashboard →</a>
     </div>
     <div class="dashboard-promo-stats">
       <div class="mini-stat">Incidents by FMS</div>
