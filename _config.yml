@@ -4,6 +4,7 @@ url: "https://abdigh26.github.io"
 baseurl: ""
 author: Abdi Haji
 email: abdihaji@warsawuni.edu.pl
+# build: 2
 
 # Build
 markdown: kramdown
