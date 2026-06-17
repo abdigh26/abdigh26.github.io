@@ -1,26 +1,25 @@
 ---
 layout: default
-title: Dashboard
-permalink: /dashboard.html
+title: Articles
 ---
 
-<div style="padding: 4rem 0 2rem;">
-  <div class="hero-eyebrow">Live Data</div>
-  <h1 style="font-family: var(--font-display); font-weight: 800; font-size: 2.5rem; margin-bottom: 1rem;">Somalia Incident Dashboard</h1>
-  <p style="color: var(--text-dim); max-width: 560px; margin-bottom: 2rem;">Interactive maps and charts from 51,000+ verified security incidents across Somalia, spanning 1997–present. Updated weekly from ACLED.</p>
+<div style="padding: 3rem 0 1rem;">
+  <div class="hero-eyebrow">Analysis & Commentary</div>
+  <h1 style="font-family: var(--font-display); font-weight: 800; font-size: 2.5rem; margin-bottom: 0.5rem;">Articles</h1>
+  <p style="color: var(--text-dim); max-width: 560px;">In-depth analysis of Somalia's security landscape, conflict dynamics, and geopolitical implications for the Horn of Africa.</p>
 </div>
 
-<div style="border: 1px solid var(--border); background: var(--bg-card); margin-bottom: 4rem; overflow: hidden;">
-  <iframe
-    src="https://somalia-dashboard-ngeyxusdcd9jjtvsi4bh5a.streamlit.app/?embed=true"
-    style="width: 100%; height: 1400px; border: none; display: block;"
-    title="Somalia Security Incident Dashboard"
-    loading="lazy">
-  </iframe>
-</div>
-
-<div style="padding-bottom: 3rem;">
-  <a href="https://somalia-dashboard-ngeyxusdcd9jjtvsi4bh5a.streamlit.app/" target="_blank" class="btn-ghost">
-    Open Full Screen →
+<div class="article-list" style="padding-bottom: 4rem;">
+  <a class="article-row" href="/articles/somali-army-building.html">
+    <span class="article-date">13 Jun 2026</span>
+    <span class="article-title">Building an Army in Wartime — A Full-Spectrum Review of Somalia's Military Project</span>
+    <span class="article-arrow">→</span>
   </a>
+  {% for post in site.posts %}
+  <a class="article-row" href="{{ post.url }}">
+    <span class="article-date">{{ post.date | date: "%d %b %Y" }}</span>
+    <span class="article-title">{{ post.title }}</span>
+    <span class="article-arrow">→</span>
+  </a>
+  {% endfor %}
 </div>
