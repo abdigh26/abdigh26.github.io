@@ -156,21 +156,24 @@
       display: flex;
       align-items: center;
       gap: 0;
-      padding: 2rem 0;
+      padding: 1.5rem 0;
       border-bottom: 1px solid var(--border);
     }
-    .stat { flex: 1; text-align: center; }
+    .stat { flex: 1; text-align: center; padding: 0 0.5rem; }
     .stat-num {
       display: block;
       font-family: var(--font-display);
       font-weight: 700;
-      font-size: 1.6rem;
+      font-size: clamp(0.95rem, 3.5vw, 1.6rem);
       color: var(--accent);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
     .stat-label {
       font-family: var(--font-mono);
-      font-size: 0.65rem;
-      letter-spacing: 0.15em;
+      font-size: clamp(0.45rem, 1.2vw, 0.65rem);
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--text-dim);
     }
@@ -178,6 +181,7 @@
       width: 1px;
       height: 40px;
       background: var(--border);
+      flex-shrink: 0;
     }
 
     /* ── Sections ───────────────────────────────────────────── */
@@ -422,7 +426,7 @@
 <body>
   <nav>
     <div class="nav-inner">
-      <a href="/" class="nav-logo">OSINT</a>
+      <a href="/" class="nav-logo">S<span>.</span>OSINT</a>
       <ul class="nav-links">
         <li><a href="/reports.html">Reports</a></li>
         <li><a href="/articles.html">Articles</a></li>
