@@ -1,0 +1,303 @@
+{
+  "last_updated": "2026-06-18T00:00:00Z",
+  "news": [
+    {
+      "id": "n001",
+      "type": "news",
+      "title": "Somaliland-Israel Diplomatic Talks Continue in Tel Aviv",
+      "source": "Reuters",
+      "url": "https://www.reuters.com",
+      "date": "2026-06-16",
+      "region": "Somalia",
+      "tags": ["Somaliland", "Israel", "Diplomacy"]
+    },
+    {
+      "id": "n002",
+      "type": "news",
+      "title": "ATMIS Final Withdrawal Sparks Security Concerns in Lower Shabelle",
+      "source": "Garowe Online",
+      "url": "https://www.garoweonline.com",
+      "date": "2026-06-15",
+      "region": "Somalia",
+      "tags": ["ATMIS", "SNA", "Security"]
+    },
+    {
+      "id": "n003",
+      "type": "news",
+      "title": "Ethiopia-Eritrea Border Talks Stall Over Badme",
+      "source": "AFP",
+      "url": "https://www.afp.com",
+      "date": "2026-06-14",
+      "region": "Eritrea",
+      "tags": ["Ethiopia", "Eritrea", "Border"]
+    },
+    {
+      "id": "n004",
+      "type": "news",
+      "title": "Houthi Strike Hits Fuel Tanker in Gulf of Aden",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com",
+      "date": "2026-06-17",
+      "region": "Red Sea",
+      "tags": ["Houthis", "Maritime", "Red Sea"]
+    },
+    {
+      "id": "n005",
+      "type": "news",
+      "title": "Kenya Deploys Additional Forces to Mandera Following Al-Shabaab Attack",
+      "source": "The Star Kenya",
+      "url": "https://www.the-star.co.ke",
+      "date": "2026-06-13",
+      "region": "Kenya",
+      "tags": ["Kenya", "Al-Shabaab", "NFD"]
+    }
+  ],
+  "articles": [
+    {
+      "id": "a001",
+      "type": "article",
+      "title": "How Clan Dynamics Shape Al-Shabaab Recruitment",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com",
+      "date": "2022-06",
+      "region": "Somalia",
+      "tags": ["Al-Shabaab", "Clans", "Recruitment"],
+      "excerpt": "A granular examination of how clan marginalization, economic grievance, and ideological framing combine to sustain Al-Shabaab's recruiting pipeline across southern Somalia."
+    },
+    {
+      "id": "a002",
+      "type": "article",
+      "title": "Ethiopia's Fragile Peace: What the Pretoria Agreement Left Unresolved",
+      "source": "Foreign Affairs",
+      "url": "https://foreignaffairs.com",
+      "date": "2023-02",
+      "region": "Ethiopia",
+      "tags": ["Tigray", "Peace Process", "Ethiopia"],
+      "excerpt": "Critical appraisal of the Cessation of Hostilities Agreement, the implementation gaps in DDR, and the risk of renewed conflict in Amhara region."
+    },
+    {
+      "id": "a003",
+      "type": "article",
+      "title": "Berbera Port and the New Competition for the Horn",
+      "source": "The Africa Report",
+      "url": "https://theafricareport.com",
+      "date": "2021-09",
+      "region": "Somalia",
+      "tags": ["Somaliland", "Berbera", "UAE"],
+      "excerpt": "How DP World's investment in Berbera has transformed the port into a geopolitical flashpoint, drawing in Ethiopian demand, Emirati capital, and FGS opposition."
+    },
+    {
+      "id": "a004",
+      "type": "article",
+      "title": "Eritrea's Long Game in the Horn",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org",
+      "date": "2022-03",
+      "region": "Eritrea",
+      "tags": ["Eritrea", "PFDJ", "Geopolitics"],
+      "excerpt": "Isaias Afwerki's strategic calculus, Eritrea's role in the Tigray war, and how Asmara is repositioning as a regional spoiler or potential stabilizer."
+    },
+    {
+      "id": "a005",
+      "type": "article",
+      "title": "Somali National Army: Building Capacity Under Fire",
+      "source": "Journal of Eastern African Studies",
+      "url": "https://tandfonline.com",
+      "date": "2023-09",
+      "region": "Somalia",
+      "tags": ["SNA", "Military", "Danab"],
+      "excerpt": "Scholarly assessment of SNA force generation since 2012, examining donor coordination failures, clan integration in officer corps, and Danab's operational record."
+    },
+    {
+      "id": "a006",
+      "type": "article",
+      "title": "The Israel-Somaliland Rapprochement: Drivers and Limits",
+      "source": "Middle East Eye",
+      "url": "https://middleeasteye.net",
+      "date": "2024-11",
+      "region": "Somalia",
+      "tags": ["Somaliland", "Israel", "Diplomacy"],
+      "excerpt": "Analysis of what motivated Somaliland President Irro's outreach to Israel — intelligence cooperation, arms, and symbolic recognition — and the constraints imposed by Gulf patron relationships."
+    },
+    {
+      "id": "a007",
+      "type": "article",
+      "title": "UAE's Strategic Footprint Across the Horn of Africa",
+      "source": "Chatham House",
+      "url": "https://chathamhouse.org",
+      "date": "2021-07",
+      "region": "Somalia",
+      "tags": ["UAE", "Gulf", "Basing"],
+      "excerpt": "Mapping Emirati military, commercial, and diplomatic investments from Eritrea to Somaliland to Djibouti, and how Abu Dhabi thinks about the Red Sea as a strategic perimeter."
+    },
+    {
+      "id": "a008",
+      "type": "article",
+      "title": "Food Security Collapse in the Sahel-Horn Corridor",
+      "source": "FEWS NET",
+      "url": "https://fews.net",
+      "date": "2022-11",
+      "region": "Somalia",
+      "tags": ["Food Security", "Drought", "IPC"],
+      "excerpt": "How simultaneous climate shocks, conflict displacement, and import price surges following Ukraine combined to push parts of Somalia toward famine in 2022."
+    }
+  ],
+  "reports": [
+    {
+      "id": "r001",
+      "type": "report",
+      "title": "Somalia: Al-Shabaab Five Years After Westgate",
+      "source": "International Crisis Group",
+      "url": "https://crisisgroup.org",
+      "date": "2018-09",
+      "region": "Somalia",
+      "tags": ["Al-Shabaab", "Security"],
+      "excerpt": "A comprehensive assessment of Al-Shabaab's evolution, financing mechanisms, and territorial control following the Westgate attack."
+    },
+    {
+      "id": "r002",
+      "type": "report",
+      "title": "Financing Al-Shabaab: The Vital Port of Kismayo",
+      "source": "Hiraal Institute",
+      "url": "https://hiraalinstitute.org",
+      "date": "2020-03",
+      "region": "Somalia",
+      "tags": ["Al-Shabaab", "Finance", "Kismayo"],
+      "excerpt": "Detailed investigation into revenue streams at Kismayo port, documenting how Al-Shabaab extracts taxation from charcoal, livestock, and goods traffic."
+    },
+    {
+      "id": "r003",
+      "type": "report",
+      "title": "The Tigray War and Its Regional Implications",
+      "source": "Crisis Group",
+      "url": "https://crisisgroup.org",
+      "date": "2021-11",
+      "region": "Ethiopia",
+      "tags": ["Tigray", "Ethiopia", "TPLF"],
+      "excerpt": "Analysis of the conflict's humanitarian trajectory and spillover risks for the Horn, including Eritrean involvement and fragmentation of ENDF command structures."
+    },
+    {
+      "id": "r004",
+      "type": "report",
+      "title": "Red Sea Security and the Houthi Maritime Campaign",
+      "source": "CSIS",
+      "url": "https://csis.org",
+      "date": "2024-02",
+      "region": "Red Sea",
+      "tags": ["Houthis", "Maritime", "Red Sea"],
+      "excerpt": "Strategic assessment of Houthi drone and missile attacks on commercial shipping in the Red Sea, their impact on global trade, and coalition responses."
+    },
+    {
+      "id": "r005",
+      "type": "report",
+      "title": "ATMIS Transition and the Security Vacuum in Somalia",
+      "source": "Heritage Institute",
+      "url": "https://heritageinstitute.org",
+      "date": "2023-07",
+      "region": "Somalia",
+      "tags": ["ATMIS", "Security Forces", "Transition"],
+      "excerpt": "Evaluation of the ATMIS drawdown timeline and Somalia's capacity to absorb security responsibilities, identifying critical gaps in Danab integration and logistics."
+    },
+    {
+      "id": "r006",
+      "type": "report",
+      "title": "Somaliland's Strategic Position in a Contested Horn",
+      "source": "Sahan Research",
+      "url": "https://sahanresearch.com",
+      "date": "2024-05",
+      "region": "Somalia",
+      "tags": ["Somaliland", "Berbera", "Geopolitics"],
+      "excerpt": "Examination of Somaliland's diplomatic outreach, the Berbera Corridor project, and competing interests of UAE, Ethiopia, and the FGS in the Gulf of Aden."
+    },
+    {
+      "id": "r007",
+      "type": "report",
+      "title": "Djibouti's Balancing Act: Great Power Competition",
+      "source": "Africa Center for Strategic Studies",
+      "url": "https://africacenter.org",
+      "date": "2022-08",
+      "region": "Djibouti",
+      "tags": ["Djibouti", "China", "Great Power"],
+      "excerpt": "How Djibouti manages Chinese, US, French, and Japanese basing arrangements simultaneously while extracting maximum economic rent from its geographic position."
+    },
+    {
+      "id": "r008",
+      "type": "report",
+      "title": "Kenya's Northern Frontier and Cross-Border Insecurity",
+      "source": "IPSS",
+      "url": "https://addisababa.edu.et",
+      "date": "2021-04",
+      "region": "Kenya",
+      "tags": ["Kenya", "Al-Shabaab", "Border"],
+      "excerpt": "Analysis of Al-Shabaab's cross-border operations into Kenya, clan dynamics in the NFD, and the effectiveness of Kenya's counter-insurgency strategy."
+    }
+  ],
+  "books": [
+    {
+      "id": "b001",
+      "type": "book",
+      "title": "Al-Shabaab in Somalia: The History and Ideology",
+      "source": "Stig Jarle Hansen",
+      "url": "https://www.hurstpublishers.com",
+      "date": "2013",
+      "region": "Somalia",
+      "tags": ["Al-Shabaab", "Ideology", "Jihadism"],
+      "excerpt": "The definitive scholarly account of Al-Shabaab's origins, internal divisions, international connections, and evolution from ICU offshoot to territorial insurgency."
+    },
+    {
+      "id": "b002",
+      "type": "book",
+      "title": "The Horn of Africa: State Formation and Decay",
+      "source": "Christopher Clapham",
+      "url": "https://www.hurstpublishers.com",
+      "date": "2017",
+      "region": "Ethiopia",
+      "tags": ["State Formation", "Horn of Africa", "Political Science"],
+      "excerpt": "Clapham's comparative analysis of how Ethiopia, Eritrea, Somalia, and Djibouti have each navigated the tension between sovereignty and territorial control."
+    },
+    {
+      "id": "b003",
+      "type": "book",
+      "title": "War in the Horn: The Crisis of Governance and Ethnicity",
+      "source": "John Young",
+      "url": "https://www.cambridge.org",
+      "date": "2020",
+      "region": "Ethiopia",
+      "tags": ["Ethiopia", "TPLF", "Governance"],
+      "excerpt": "Analysis of ethnic federalism's contradictions in Ethiopia and how TPLF-center tension produced the conditions for the 2020 Tigray conflict."
+    },
+    {
+      "id": "b004",
+      "type": "book",
+      "title": "Eritrea: How the Dream Died",
+      "source": "Roy Pateman",
+      "url": "https://www.ibtauris.com",
+      "date": "2019",
+      "region": "Eritrea",
+      "tags": ["Eritrea", "Independence", "Authoritarianism"],
+      "excerpt": "Chronicles Eritrea's transformation from liberation movement to one of Africa's most repressive states under Isaias Afwerki's PFDJ rule."
+    },
+    {
+      "id": "b005",
+      "type": "book",
+      "title": "Making Sense of the Somali Crisis",
+      "source": "Jama Mohamed Ghalib",
+      "url": "https://www.penguinbooks.com",
+      "date": "2016",
+      "region": "Somalia",
+      "tags": ["Somalia", "State Building", "History"],
+      "excerpt": "An insider account of Somali state collapse and reconstruction efforts, drawing on decades of firsthand experience in Somali governance and diplomacy."
+    },
+    {
+      "id": "b006",
+      "type": "book",
+      "title": "Somalia: A Country in Peril, a Policy Nightmare",
+      "source": "Kenneth Menkhaus",
+      "url": "https://www.usip.org",
+      "date": "2007",
+      "region": "Somalia",
+      "tags": ["Somalia", "State Failure", "Policy"],
+      "excerpt": "Menkhaus's foundational analysis of Somali statelessness, the clan system's role in resilience and fragmentation, and the limits of external intervention."
+    }
+  ]
+}
