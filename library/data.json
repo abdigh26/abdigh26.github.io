@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-06-18T00:00:00Z",
+  "last_updated": "2026-06-18T05:58:42.943317+00:00",
   "news": [
+    {
+      "id": "n_0a18946a8a",
+      "type": "news",
+      "title": "In gaining Israel’s recognition, Somaliland may also have inherited its enemies",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/422110/in-gaining-israels-recognition-somaliland-may-also-have-inherited-its-enemies/",
+      "date": "2026-06-16",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Houthis",
+        "Israel"
+      ],
+      "excerpt": "As Hargeisa deepens ties with Tel Aviv and celebrates its biggest diplomatic breakthrough in 35 years, threats from the Houthis, condemnation from Hamas and growing opposition across the Muslim world raise questions about the price of recognition."
+    },
+    {
+      "id": "n_ea719fe39b",
+      "type": "news",
+      "title": "Beyond the headlines, does Kenya have the political will to end femicides?",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/06/beyond-the-headlines-does-kenya-have-the-political-will-to-end-femicides/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-headlines-does-kenya-have-the-political-will-to-end-femicides",
+      "date": "2026-06-16",
+      "region": "Kenya",
+      "tags": [
+        "Kenya",
+        "Governance"
+      ],
+      "excerpt": "On June 1st, as Kenya marked Madaraka (self-governance) Day, a different kind of freedom match took place on the streets of Nairobi. Women&#8217;s rights organizations, civil society groups, survivors, and concerned citizens gather to demand action against the rising cases of femicide and gender-bas"
+    },
+    {
+      "id": "n_cc8f3c69ab",
+      "type": "news",
+      "title": "The Algorithm Will See You Now: Deepfake Doctors and the Commodification of Care in Kenya",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/06/the-algorithm-will-see-you-now-deepfake-doctors-and-the-commodification-of-care-in-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=the-algorithm-will-see-you-now-deepfake-doctors-and-the-commodification-of-care-in-kenya",
+      "date": "2026-06-16",
+      "region": "Kenya",
+      "tags": [
+        "Kenya"
+      ],
+      "excerpt": "A few months ago, I was scrolling through TikTok when I came across a video. In a brightly lit room with brown décor, a doctor in a checkered shirt was discussing PCOS, a common condition that affects many women globally. As he shared medical insights and opinions, he repeatedly recommended herbal s"
+    },
     {
       "id": "n001",
       "type": "news",
@@ -9,7 +51,11 @@
       "url": "https://www.reuters.com",
       "date": "2026-06-16",
       "region": "Somalia",
-      "tags": ["Somaliland", "Israel", "Diplomacy"]
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Diplomacy"
+      ]
     },
     {
       "id": "n002",
@@ -19,7 +65,11 @@
       "url": "https://www.garoweonline.com",
       "date": "2026-06-15",
       "region": "Somalia",
-      "tags": ["ATMIS", "SNA", "Security"]
+      "tags": [
+        "ATMIS",
+        "SNA",
+        "Security"
+      ]
     },
     {
       "id": "n003",
@@ -29,7 +79,11 @@
       "url": "https://www.afp.com",
       "date": "2026-06-14",
       "region": "Eritrea",
-      "tags": ["Ethiopia", "Eritrea", "Border"]
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Border"
+      ]
     },
     {
       "id": "n004",
@@ -39,7 +93,11 @@
       "url": "https://www.aljazeera.com",
       "date": "2026-06-17",
       "region": "Red Sea",
-      "tags": ["Houthis", "Maritime", "Red Sea"]
+      "tags": [
+        "Houthis",
+        "Maritime",
+        "Red Sea"
+      ]
     },
     {
       "id": "n005",
@@ -49,7 +107,11 @@
       "url": "https://www.the-star.co.ke",
       "date": "2026-06-13",
       "region": "Kenya",
-      "tags": ["Kenya", "Al-Shabaab", "NFD"]
+      "tags": [
+        "Kenya",
+        "Al-Shabaab",
+        "NFD"
+      ]
     }
   ],
   "articles": [
@@ -61,7 +123,11 @@
       "url": "https://warontherocks.com",
       "date": "2022-06",
       "region": "Somalia",
-      "tags": ["Al-Shabaab", "Clans", "Recruitment"],
+      "tags": [
+        "Al-Shabaab",
+        "Clans",
+        "Recruitment"
+      ],
       "excerpt": "A granular examination of how clan marginalization, economic grievance, and ideological framing combine to sustain Al-Shabaab's recruiting pipeline across southern Somalia."
     },
     {
@@ -72,7 +138,11 @@
       "url": "https://foreignaffairs.com",
       "date": "2023-02",
       "region": "Ethiopia",
-      "tags": ["Tigray", "Peace Process", "Ethiopia"],
+      "tags": [
+        "Tigray",
+        "Peace Process",
+        "Ethiopia"
+      ],
       "excerpt": "Critical appraisal of the Cessation of Hostilities Agreement, the implementation gaps in DDR, and the risk of renewed conflict in Amhara region."
     },
     {
@@ -83,7 +153,11 @@
       "url": "https://theafricareport.com",
       "date": "2021-09",
       "region": "Somalia",
-      "tags": ["Somaliland", "Berbera", "UAE"],
+      "tags": [
+        "Somaliland",
+        "Berbera",
+        "UAE"
+      ],
       "excerpt": "How DP World's investment in Berbera has transformed the port into a geopolitical flashpoint, drawing in Ethiopian demand, Emirati capital, and FGS opposition."
     },
     {
@@ -94,7 +168,11 @@
       "url": "https://africanarguments.org",
       "date": "2022-03",
       "region": "Eritrea",
-      "tags": ["Eritrea", "PFDJ", "Geopolitics"],
+      "tags": [
+        "Eritrea",
+        "PFDJ",
+        "Geopolitics"
+      ],
       "excerpt": "Isaias Afwerki's strategic calculus, Eritrea's role in the Tigray war, and how Asmara is repositioning as a regional spoiler or potential stabilizer."
     },
     {
@@ -105,7 +183,11 @@
       "url": "https://tandfonline.com",
       "date": "2023-09",
       "region": "Somalia",
-      "tags": ["SNA", "Military", "Danab"],
+      "tags": [
+        "SNA",
+        "Military",
+        "Danab"
+      ],
       "excerpt": "Scholarly assessment of SNA force generation since 2012, examining donor coordination failures, clan integration in officer corps, and Danab's operational record."
     },
     {
@@ -116,7 +198,11 @@
       "url": "https://middleeasteye.net",
       "date": "2024-11",
       "region": "Somalia",
-      "tags": ["Somaliland", "Israel", "Diplomacy"],
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Diplomacy"
+      ],
       "excerpt": "Analysis of what motivated Somaliland President Irro's outreach to Israel — intelligence cooperation, arms, and symbolic recognition — and the constraints imposed by Gulf patron relationships."
     },
     {
@@ -127,7 +213,11 @@
       "url": "https://chathamhouse.org",
       "date": "2021-07",
       "region": "Somalia",
-      "tags": ["UAE", "Gulf", "Basing"],
+      "tags": [
+        "UAE",
+        "Gulf",
+        "Basing"
+      ],
       "excerpt": "Mapping Emirati military, commercial, and diplomatic investments from Eritrea to Somaliland to Djibouti, and how Abu Dhabi thinks about the Red Sea as a strategic perimeter."
     },
     {
@@ -138,7 +228,11 @@
       "url": "https://fews.net",
       "date": "2022-11",
       "region": "Somalia",
-      "tags": ["Food Security", "Drought", "IPC"],
+      "tags": [
+        "Food Security",
+        "Drought",
+        "IPC"
+      ],
       "excerpt": "How simultaneous climate shocks, conflict displacement, and import price surges following Ukraine combined to push parts of Somalia toward famine in 2022."
     }
   ],
@@ -151,7 +245,10 @@
       "url": "https://crisisgroup.org",
       "date": "2018-09",
       "region": "Somalia",
-      "tags": ["Al-Shabaab", "Security"],
+      "tags": [
+        "Al-Shabaab",
+        "Security"
+      ],
       "excerpt": "A comprehensive assessment of Al-Shabaab's evolution, financing mechanisms, and territorial control following the Westgate attack."
     },
     {
@@ -162,7 +259,11 @@
       "url": "https://hiraalinstitute.org",
       "date": "2020-03",
       "region": "Somalia",
-      "tags": ["Al-Shabaab", "Finance", "Kismayo"],
+      "tags": [
+        "Al-Shabaab",
+        "Finance",
+        "Kismayo"
+      ],
       "excerpt": "Detailed investigation into revenue streams at Kismayo port, documenting how Al-Shabaab extracts taxation from charcoal, livestock, and goods traffic."
     },
     {
@@ -173,7 +274,11 @@
       "url": "https://crisisgroup.org",
       "date": "2021-11",
       "region": "Ethiopia",
-      "tags": ["Tigray", "Ethiopia", "TPLF"],
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "TPLF"
+      ],
       "excerpt": "Analysis of the conflict's humanitarian trajectory and spillover risks for the Horn, including Eritrean involvement and fragmentation of ENDF command structures."
     },
     {
@@ -184,7 +289,11 @@
       "url": "https://csis.org",
       "date": "2024-02",
       "region": "Red Sea",
-      "tags": ["Houthis", "Maritime", "Red Sea"],
+      "tags": [
+        "Houthis",
+        "Maritime",
+        "Red Sea"
+      ],
       "excerpt": "Strategic assessment of Houthi drone and missile attacks on commercial shipping in the Red Sea, their impact on global trade, and coalition responses."
     },
     {
@@ -195,7 +304,11 @@
       "url": "https://heritageinstitute.org",
       "date": "2023-07",
       "region": "Somalia",
-      "tags": ["ATMIS", "Security Forces", "Transition"],
+      "tags": [
+        "ATMIS",
+        "Security Forces",
+        "Transition"
+      ],
       "excerpt": "Evaluation of the ATMIS drawdown timeline and Somalia's capacity to absorb security responsibilities, identifying critical gaps in Danab integration and logistics."
     },
     {
@@ -206,7 +319,11 @@
       "url": "https://sahanresearch.com",
       "date": "2024-05",
       "region": "Somalia",
-      "tags": ["Somaliland", "Berbera", "Geopolitics"],
+      "tags": [
+        "Somaliland",
+        "Berbera",
+        "Geopolitics"
+      ],
       "excerpt": "Examination of Somaliland's diplomatic outreach, the Berbera Corridor project, and competing interests of UAE, Ethiopia, and the FGS in the Gulf of Aden."
     },
     {
@@ -217,7 +334,11 @@
       "url": "https://africacenter.org",
       "date": "2022-08",
       "region": "Djibouti",
-      "tags": ["Djibouti", "China", "Great Power"],
+      "tags": [
+        "Djibouti",
+        "China",
+        "Great Power"
+      ],
       "excerpt": "How Djibouti manages Chinese, US, French, and Japanese basing arrangements simultaneously while extracting maximum economic rent from its geographic position."
     },
     {
@@ -228,7 +349,11 @@
       "url": "https://addisababa.edu.et",
       "date": "2021-04",
       "region": "Kenya",
-      "tags": ["Kenya", "Al-Shabaab", "Border"],
+      "tags": [
+        "Kenya",
+        "Al-Shabaab",
+        "Border"
+      ],
       "excerpt": "Analysis of Al-Shabaab's cross-border operations into Kenya, clan dynamics in the NFD, and the effectiveness of Kenya's counter-insurgency strategy."
     }
   ],
@@ -241,7 +366,11 @@
       "url": "https://www.hurstpublishers.com",
       "date": "2013",
       "region": "Somalia",
-      "tags": ["Al-Shabaab", "Ideology", "Jihadism"],
+      "tags": [
+        "Al-Shabaab",
+        "Ideology",
+        "Jihadism"
+      ],
       "excerpt": "The definitive scholarly account of Al-Shabaab's origins, internal divisions, international connections, and evolution from ICU offshoot to territorial insurgency."
     },
     {
@@ -252,7 +381,11 @@
       "url": "https://www.hurstpublishers.com",
       "date": "2017",
       "region": "Ethiopia",
-      "tags": ["State Formation", "Horn of Africa", "Political Science"],
+      "tags": [
+        "State Formation",
+        "Horn of Africa",
+        "Political Science"
+      ],
       "excerpt": "Clapham's comparative analysis of how Ethiopia, Eritrea, Somalia, and Djibouti have each navigated the tension between sovereignty and territorial control."
     },
     {
@@ -263,7 +396,11 @@
       "url": "https://www.cambridge.org",
       "date": "2020",
       "region": "Ethiopia",
-      "tags": ["Ethiopia", "TPLF", "Governance"],
+      "tags": [
+        "Ethiopia",
+        "TPLF",
+        "Governance"
+      ],
       "excerpt": "Analysis of ethnic federalism's contradictions in Ethiopia and how TPLF-center tension produced the conditions for the 2020 Tigray conflict."
     },
     {
@@ -274,7 +411,11 @@
       "url": "https://www.ibtauris.com",
       "date": "2019",
       "region": "Eritrea",
-      "tags": ["Eritrea", "Independence", "Authoritarianism"],
+      "tags": [
+        "Eritrea",
+        "Independence",
+        "Authoritarianism"
+      ],
       "excerpt": "Chronicles Eritrea's transformation from liberation movement to one of Africa's most repressive states under Isaias Afwerki's PFDJ rule."
     },
     {
@@ -285,7 +426,11 @@
       "url": "https://www.penguinbooks.com",
       "date": "2016",
       "region": "Somalia",
-      "tags": ["Somalia", "State Building", "History"],
+      "tags": [
+        "Somalia",
+        "State Building",
+        "History"
+      ],
       "excerpt": "An insider account of Somali state collapse and reconstruction efforts, drawing on decades of firsthand experience in Somali governance and diplomacy."
     },
     {
@@ -296,7 +441,11 @@
       "url": "https://www.usip.org",
       "date": "2007",
       "region": "Somalia",
-      "tags": ["Somalia", "State Failure", "Policy"],
+      "tags": [
+        "Somalia",
+        "State Failure",
+        "Policy"
+      ],
       "excerpt": "Menkhaus's foundational analysis of Somali statelessness, the clan system's role in resilience and fragmentation, and the limits of external intervention."
     }
   ]
