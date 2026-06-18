@@ -415,6 +415,7 @@ h1 em { color: var(--accent); font-style: italic; }
     <div class="stat"><span class="stat-n" id="sBooks">—</span><span class="stat-l">Books</span></div>
     <div class="live-pill"><div class="live-dot"></div>Live</div>
     <span class="updated-at" id="updatedAt"></span>
+    <button onclick="debugSearch()" style="font-family:'IBM Plex Mono',monospace;font-size:10px;padding:4px 10px;background:none;border:1px solid #252b35;color:#5c6270;border-radius:4px;cursor:pointer;">DEBUG</button>
   </div>
 </div>
 
@@ -656,6 +657,10 @@ async function runSearch() {
   const q = document.getElementById('searchInput').value.trim();
   if (!q) { S.query=''; S.page=1; render(); document.getElementById('aiBox').classList.remove('show'); return; }
   S.query = q; S.page = 1;
+  // Always search across all tabs
+  S.tab = 'all';
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.querySelector('[data-tab="all"]').classList.add('active');
   render();
 
   const aiBox = document.getElementById('aiBox');
@@ -690,6 +695,26 @@ async function runSearch() {
 document.getElementById('searchInput').addEventListener('keydown', e => {
   if (e.key === 'Enter') runSearch();
 });
+
+// ── DEBUG ──────────────────────────────────────────────────────────────────
+window.debugSearch = function() {
+  const info = `
+DB loaded: ${!!DB}
+news: ${DB.news?.length}
+articles: ${DB.articles?.length}
+reports: ${DB.reports?.length}
+books: ${DB.books?.length}
+allItems: ${allItems().length}
+S.tab: ${S.tab}
+S.query: "${S.query}"
+filtered: ${getFiltered().length}
+
+First item title: ${allItems()[0]?.title}
+ATMIS in titles: ${allItems().filter(i=>(i.title||'').toLowerCase().includes('atmis')).length}
+ATMIS in tags: ${allItems().filter(i=>(i.tags||[]).some(t=>t.toLowerCase().includes('atmis'))).length}
+  `.trim();
+  alert(info);
+};
 
 // ── INIT ───────────────────────────────────────────────────────────────────
 loadData();
