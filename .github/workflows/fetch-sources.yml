@@ -1,0 +1,33 @@
+name: HOA Library â€” Daily News Fetch
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC (9AM EAT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run fetch script
+        run: python .github/workflows/fetch_sources.py
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name "HOA Library Bot"
+          git config user.email "actions@github.com"
+          git add library/data.json
+          git diff --staged --quiet || git commit -m "chore: daily news update $(date -u +%Y-%m-%d)"
+          git push
