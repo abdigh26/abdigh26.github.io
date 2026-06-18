@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-06-18T05:58:42.943317+00:00",
+  "last_updated": "2026-06-18T17:49:34.739541+00:00",
   "news": [
+    {
+      "id": "n_4d8b01e8e2",
+      "type": "news",
+      "title": "Somalia warns Israel against meddling in Somaliland",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss",
+      "date": "2026-06-18",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Israel"
+      ],
+      "excerpt": "The message came after Somaliland opened its first overseas embassy this week, in Jerusalem."
+    },
+    {
+      "id": "n_97c8144d91",
+      "type": "news",
+      "title": "What Al-Shabaab Understands About Somali Authority",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/06/what-al-shabaab-understands-about-somali-authority/?utm_source=rss&utm_medium=rss&utm_campaign=what-al-shabaab-understands-about-somali-authority",
+      "date": "2026-06-18",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "In south-central Somalia, a trader knows what to expect at an al-Shabaab checkpoint. The rate is fixed, set out in a published schedule. The receipt allows passage through the next checkpoint without paying again. If the assessment seems unfair, there is a court the trader can appeal to. This is how"
+    },
     {
       "id": "n_0a18946a8a",
       "type": "news",
