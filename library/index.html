@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HOA Intelligence Library — Horn of Africa</title>
+<meta name="description" content="Articles, reports, books, and daily news covering Somalia, Ethiopia, Eritrea, Djibouti, Kenya, and the Red Sea region.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Inter:wght@300;400;500;600&display=swap');
+
+:root {
+  --bg:           #080909;
+  --surface:      #0f1114;
+  --surface2:     #13161c;
+  --border:       #1c2028;
+  --border2:      #252b35;
+  --accent:       #c8a84b;
+  --accent-dim:   rgba(200,168,75,0.10);
+  --accent-glow:  rgba(200,168,75,0.04);
+  --text:         #e4e5e9;
+  --text-dim:     #9ca3af;
+  --text-muted:   #5c6270;
+  --red:          #d95f4b;
+  --green:        #4bb88a;
+  --blue:         #5590cc;
+  --purple:       #8b6fd4;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── HEADER ─────────────────────────────────────────────── */
+header {
+  position: sticky; top: 0; z-index: 200;
+  background: rgba(8,9,9,0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+.header-inner {
+  max-width: 1120px; margin: 0 auto;
+  padding: 0 20px;
+  height: 52px;
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+}
+.logo {
+  display: flex; align-items: baseline; gap: 10px;
+  flex-shrink: 0;
+}
+.logo-main {
+  font-family: 'Playfair Display', serif;
+  font-size: 17px; font-weight: 900;
+  color: var(--accent);
+  letter-spacing: -0.3px;
+}
+.logo-sub {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; color: var(--text-muted);
+  letter-spacing: 1.5px; text-transform: uppercase;
+}
+.nav {
+  display: flex; gap: 2px; flex-shrink: 0;
+}
+.nav-btn {
+  padding: 5px 13px; border-radius: 4px;
+  border: none; background: none;
+  color: var(--text-muted); font-size: 12px; font-weight: 500;
+  cursor: pointer; transition: all 0.15s;
+  font-family: 'Inter', sans-serif;
+  white-space: nowrap;
+}
+.nav-btn:hover { color: var(--text); background: var(--surface); }
+.nav-btn.active { color: var(--accent); background: var(--accent-dim); }
+
+/* ─── HERO ───────────────────────────────────────────────── */
+.hero {
+  padding: 52px 20px 44px;
+  background: linear-gradient(170deg, rgba(200,168,75,0.05) 0%, transparent 60%);
+  border-bottom: 1px solid var(--border);
+}
+.hero-inner { max-width: 1120px; margin: 0 auto; }
+
+.hero-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 18px;
+  display: flex; align-items: center; gap: 10px;
+}
+.hero-eyebrow::before {
+  content: '';
+  width: 24px; height: 1px; background: var(--accent);
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(30px, 5.5vw, 56px);
+  font-weight: 900; line-height: 1.08;
+  color: var(--text); margin-bottom: 14px;
+}
+h1 em { color: var(--accent); font-style: italic; }
+
+.hero-desc {
+  color: var(--text-dim); font-size: 14px;
+  max-width: 520px; line-height: 1.75; margin-bottom: 30px;
+}
+
+/* Search */
+.search-wrap { position: relative; max-width: 660px; }
+.search-input {
+  width: 100%;
+  background: var(--surface);
+  border: 1px solid var(--border2);
+  border-radius: 6px;
+  padding: 13px 140px 13px 18px;
+  color: var(--text); font-size: 14px;
+  font-family: 'Inter', sans-serif;
+  outline: none; transition: border-color 0.2s, box-shadow 0.2s;
+}
+.search-input::placeholder { color: var(--text-muted); }
+.search-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(200,168,75,0.08);
+}
+.search-btn {
+  position: absolute; right: 6px; top: 50%; transform: translateY(-50%);
+  background: var(--accent); color: #080909;
+  border: none; border-radius: 4px;
+  padding: 7px 18px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px; font-weight: 600; letter-spacing: 0.8px;
+  cursor: pointer; transition: opacity 0.15s;
+}
+.search-btn:hover { opacity: 0.85; }
+.search-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+/* ─── STATS BAR ──────────────────────────────────────────── */
+.stats-bar {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 8px 20px;
+}
+.stats-inner {
+  max-width: 1120px; margin: 0 auto;
+  display: flex; gap: 28px; align-items: center; flex-wrap: wrap;
+}
+.stat { display: flex; align-items: center; gap: 7px; font-size: 12px; }
+.stat-n {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600; color: var(--accent);
+}
+.stat-l { color: var(--text-muted); }
+
+.live-pill {
+  display: flex; align-items: center; gap: 6px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 1px; text-transform: uppercase;
+  color: var(--green);
+}
+.live-dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--green);
+  animation: blink 2.2s ease-in-out infinite;
+}
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+.updated-at {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; color: var(--text-muted);
+  margin-left: auto;
+}
+
+/* ─── LAYOUT ─────────────────────────────────────────────── */
+.layout {
+  max-width: 1120px; margin: 0 auto;
+  padding: 28px 20px;
+  display: grid;
+  grid-template-columns: 1fr 288px;
+  gap: 28px;
+  align-items: start;
+}
+
+/* ─── FILTERS ────────────────────────────────────────────── */
+.filters {
+  display: flex; gap: 6px; margin-bottom: 18px;
+  flex-wrap: wrap; align-items: center;
+}
+.filter-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--text-muted); margin-right: 2px;
+}
+.chip {
+  padding: 4px 12px; border-radius: 20px;
+  border: 1px solid var(--border2);
+  background: none; color: var(--text-muted);
+  font-size: 12px; cursor: pointer;
+  transition: all 0.15s; font-family: 'Inter', sans-serif;
+}
+.chip:hover { border-color: var(--accent); color: var(--accent); }
+.chip.on { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+
+/* ─── SECTION LABEL ──────────────────────────────────────── */
+.section-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--text-muted);
+  display: flex; align-items: center; gap: 12px;
+  margin-bottom: 16px;
+}
+.section-label::after { content:''; flex:1; height:1px; background: var(--border); }
+
+/* ─── AI BOX ─────────────────────────────────────────────── */
+.ai-box {
+  background: var(--surface);
+  border: 1px solid var(--border2);
+  border-left: 3px solid var(--accent);
+  border-radius: 6px;
+  padding: 16px 18px;
+  margin-bottom: 20px;
+  display: none;
+}
+.ai-box.show { display: block; }
+.ai-top {
+  display: flex; align-items: center; gap: 10px; margin-bottom: 10px;
+}
+.ai-badge {
+  font-family: 'IBM Plex Mono', monospace; font-size: 9px;
+  letter-spacing: 1.5px; text-transform: uppercase;
+  background: var(--accent-dim); color: var(--accent);
+  padding: 3px 8px; border-radius: 3px;
+}
+.ai-q { font-size: 12px; color: var(--text-dim); font-style: italic; }
+.ai-body { font-size: 13px; color: var(--text); line-height: 1.8; }
+.ai-thinking { color: var(--text-muted); font-style: italic; font-size: 13px; }
+
+/* ─── CARDS ──────────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 15px 17px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+  text-decoration: none; display: block; color: inherit;
+}
+.card:hover { border-color: var(--border2); background: var(--surface2); }
+
+.card-head {
+  display: flex; align-items: flex-start;
+  justify-content: space-between; gap: 10px; margin-bottom: 7px;
+}
+.badge {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px; letter-spacing: 1px; text-transform: uppercase;
+  padding: 3px 7px; border-radius: 3px; flex-shrink: 0;
+}
+.badge-news    { background: rgba(217,95,75,0.15);  color: var(--red); }
+.badge-article { background: rgba(85,144,204,0.15); color: var(--blue); }
+.badge-report  { background: rgba(75,184,138,0.15); color: var(--green); }
+.badge-book    { background: rgba(200,168,75,0.15); color: var(--accent); }
+
+.card-date {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px; color: var(--text-muted); white-space: nowrap;
+}
+.card-title {
+  font-size: 15px; font-weight: 600;
+  color: var(--text); line-height: 1.38; margin-bottom: 5px;
+}
+.card-source { font-size: 12px; color: var(--text-muted); margin-bottom: 7px; }
+.card-excerpt {
+  font-size: 13px; color: var(--text-dim); line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 9px; }
+.tag {
+  background: var(--surface2); border: 1px solid var(--border);
+  color: var(--text-muted); font-size: 11px;
+  padding: 2px 7px; border-radius: 3px;
+}
+
+/* ─── LOADING SKELETON ───────────────────────────────────── */
+.skel {
+  background: linear-gradient(90deg, var(--surface) 0%, var(--surface2) 50%, var(--surface) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s infinite;
+  border-radius: 4px; height: 13px; margin-bottom: 8px;
+}
+@keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+.skel-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 6px; padding: 15px 17px; margin-bottom: 8px;
+}
+
+/* ─── EMPTY ──────────────────────────────────────────────── */
+.empty {
+  text-align: center; padding: 52px 20px;
+  color: var(--text-muted); font-size: 14px;
+}
+.empty-icon { font-size: 28px; margin-bottom: 10px; }
+
+/* ─── PAGINATION ─────────────────────────────────────────── */
+.pagination { display: flex; gap: 5px; justify-content: center; margin-top: 18px; }
+.pg-btn {
+  padding: 5px 12px; border: 1px solid var(--border2);
+  border-radius: 4px; background: none;
+  color: var(--text-muted); font-size: 12px; cursor: pointer;
+  font-family: 'IBM Plex Mono', monospace; transition: all 0.15s;
+}
+.pg-btn:hover, .pg-btn.on { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+
+/* ─── SIDEBAR ────────────────────────────────────────────── */
+.sidebar { display: flex; flex-direction: column; gap: 18px; position: sticky; top: 68px; }
+
+.sb-block {
+  background: var(--surface);
+  border: 1px solid var(--border); border-radius: 6px; overflow: hidden;
+}
+.sb-head {
+  padding: 11px 15px; border-bottom: 1px solid var(--border);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--text-muted);
+  display: flex; align-items: center; gap: 8px;
+}
+
+/* News items */
+.sb-news-item {
+  padding: 11px 15px; border-bottom: 1px solid var(--border);
+  cursor: pointer; transition: background 0.13s;
+  text-decoration: none; display: block;
+}
+.sb-news-item:last-child { border-bottom: none; }
+.sb-news-item:hover { background: var(--surface2); }
+.sb-news-title { font-size: 12px; font-weight: 500; color: var(--text); margin-bottom: 4px; line-height: 1.4; }
+.sb-news-meta { font-size: 10px; color: var(--text-muted); font-family: 'IBM Plex Mono', monospace; }
+
+/* Topics */
+.topics { padding: 11px 15px; display: flex; flex-direction: column; gap: 9px; }
+.topic-row { display: flex; align-items: center; justify-content: space-between; font-size: 12px; gap: 10px; }
+.topic-name { color: var(--text-dim); flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bar-wrap { width: 64px; height: 3px; background: var(--border); border-radius: 2px; overflow: hidden; flex-shrink: 0; }
+.bar-fill { height: 100%; background: var(--accent); border-radius: 2px; }
+.topic-n { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--text-muted); }
+
+/* Publishers */
+.publishers { padding: 11px 15px; display: flex; flex-direction: column; gap: 7px; }
+.pub-row { display: flex; justify-content: space-between; align-items: center; font-size: 12px; }
+.pub-name { color: var(--text-dim); }
+.pub-n { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--text-muted); }
+
+/* ─── RESPONSIVE ─────────────────────────────────────────── */
+@media (max-width: 780px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { display: none; }
+  h1 { font-size: 28px; }
+  .hero { padding: 36px 16px 30px; }
+  .header-inner { gap: 8px; }
+  .logo-sub { display: none; }
+  .nav-btn { padding: 5px 9px; font-size: 11px; }
+  .updated-at { display: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-main">HOA Library</span>
+      <span class="logo-sub">Intelligence Database</span>
+    </div>
+    <nav class="nav">
+      <button class="nav-btn active" data-tab="all"     onclick="setTab(this)">All</button>
+      <button class="nav-btn"        data-tab="news"    onclick="setTab(this)">News</button>
+      <button class="nav-btn"        data-tab="article" onclick="setTab(this)">Articles</button>
+      <button class="nav-btn"        data-tab="report"  onclick="setTab(this)">Reports</button>
+      <button class="nav-btn"        data-tab="book"    onclick="setTab(this)">Books</button>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">Horn of Africa · Open Intelligence</div>
+    <h1>Every source.<br><em>One library.</em></h1>
+    <p class="hero-desc">Articles, reports, and books from the last 5–15 years. News updated daily. Covering Somalia, Ethiopia, Eritrea, Djibouti, Kenya, and the Red Sea strategic corridor.</p>
+    <div class="search-wrap">
+      <input class="search-input" id="searchInput" type="text"
+             placeholder="Search or ask — e.g. Al-Shabaab financing, Berbera port…" />
+      <button class="search-btn" id="searchBtn" onclick="runSearch()">SEARCH</button>
+    </div>
+  </div>
+</div>
+
+<!-- STATS -->
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat"><span class="stat-n" id="sNews">—</span><span class="stat-l">News</span></div>
+    <div class="stat"><span class="stat-n" id="sArticles">—</span><span class="stat-l">Articles</span></div>
+    <div class="stat"><span class="stat-n" id="sReports">—</span><span class="stat-l">Reports</span></div>
+    <div class="stat"><span class="stat-n" id="sBooks">—</span><span class="stat-l">Books</span></div>
+    <div class="live-pill"><div class="live-dot"></div>Live</div>
+    <span class="updated-at" id="updatedAt"></span>
+  </div>
+</div>
+
+<!-- LAYOUT -->
+<div class="layout">
+
+  <!-- MAIN CONTENT -->
+  <div id="mainCol">
+    <!-- AI BOX -->
+    <div class="ai-box" id="aiBox">
+      <div class="ai-top">
+        <span class="ai-badge">AI Analysis</span>
+        <span class="ai-q" id="aiQ"></span>
+      </div>
+      <div class="ai-body" id="aiBody"></div>
+    </div>
+
+    <!-- FILTERS -->
+    <div class="filters" id="filterRow">
+      <span class="filter-label">Region</span>
+      <button class="chip on"  onclick="setRegion(this,'all')">All</button>
+      <button class="chip"     onclick="setRegion(this,'Somalia')">Somalia</button>
+      <button class="chip"     onclick="setRegion(this,'Ethiopia')">Ethiopia</button>
+      <button class="chip"     onclick="setRegion(this,'Eritrea')">Eritrea</button>
+      <button class="chip"     onclick="setRegion(this,'Djibouti')">Djibouti</button>
+      <button class="chip"     onclick="setRegion(this,'Kenya')">Kenya</button>
+      <button class="chip"     onclick="setRegion(this,'Red Sea')">Red Sea</button>
+    </div>
+
+    <div class="section-label" id="secLabel">All Sources</div>
+    <div id="cardsList"></div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <!-- Live News -->
+    <div class="sb-block">
+      <div class="sb-head"><div class="live-dot"></div> Today's News</div>
+      <div id="sbNews"></div>
+    </div>
+    <!-- Topics -->
+    <div class="sb-block">
+      <div class="sb-head">Top Topics</div>
+      <div class="topics" id="sbTopics"></div>
+    </div>
+    <!-- Publishers -->
+    <div class="sb-block">
+      <div class="sb-head">Key Publishers</div>
+      <div class="publishers" id="sbPublishers"></div>
+    </div>
+  </aside>
+</div>
+
+<script>
+// ── STATE ──────────────────────────────────────────────────────────────────
+const S = { tab:'all', region:'all', query:'', page:1, perPage:9 };
+let DB = { news:[], articles:[], reports:[], books:[] };
+
+// ── LOAD DATA ──────────────────────────────────────────────────────────────
+async function loadData() {
+  showSkeletons();
+  try {
+    const res = await fetch('data.json?_=' + Date.now());
+    DB = await res.json();
+  } catch(e) {
+    console.warn('data.json not found, using empty DB');
+  }
+  updateStats();
+  render();
+  renderSidebar();
+}
+
+function updateStats() {
+  document.getElementById('sNews').textContent     = DB.news.length;
+  document.getElementById('sArticles').textContent = DB.articles.length;
+  document.getElementById('sReports').textContent  = DB.reports.length;
+  document.getElementById('sBooks').textContent    = DB.books.length;
+  if (DB.last_updated) {
+    const d = new Date(DB.last_updated);
+    document.getElementById('updatedAt').textContent =
+      'Updated ' + d.toLocaleDateString('en-GB', {day:'numeric',month:'short',year:'numeric'});
+  }
+}
+
+function allItems() {
+  return [...DB.news, ...DB.articles, ...DB.reports, ...DB.books];
+}
+
+// ── FILTER ─────────────────────────────────────────────────────────────────
+function getFiltered() {
+  let items = S.tab === 'all' ? allItems() : DB[S.tab === 'news' ? 'news' : S.tab + 's'] || [];
+  if (S.region !== 'all') items = items.filter(i => i.region === S.region);
+  if (S.query) {
+    const q = S.query.toLowerCase();
+    items = items.filter(i =>
+      (i.title||'').toLowerCase().includes(q) ||
+      (i.source||'').toLowerCase().includes(q) ||
+      (i.excerpt||'').toLowerCase().includes(q) ||
+      (i.tags||[]).some(t => t.toLowerCase().includes(q))
+    );
+  }
+  // Sort: news by date desc, others stable
+  items = [...items].sort((a,b) => {
+    if (a.type === 'news' && b.type === 'news') return (b.date||'').localeCompare(a.date||'');
+    if (a.type === 'news') return -1;
+    if (b.type === 'news') return 1;
+    return 0;
+  });
+  return items;
+}
+
+// ── RENDER ─────────────────────────────────────────────────────────────────
+function render() {
+  const filtered = getFiltered();
+  const total = filtered.length;
+  const pages = Math.ceil(total / S.perPage);
+  const slice = filtered.slice((S.page-1)*S.perPage, S.page*S.perPage);
+
+  // Section label
+  const label = S.query ? `${total} result${total!==1?'s':''} for "${S.query}"` :
+                S.tab !== 'all' ? `${total} ${S.tab}${total!==1?'s':''}` :
+                `All Sources (${total})`;
+  document.getElementById('secLabel').textContent = label;
+
+  const list = document.getElementById('cardsList');
+
+  if (!slice.length) {
+    list.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div>No results. Try a different search or filter.</div>`;
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+
+  list.innerHTML = slice.map(card).join('');
+
+  // Pagination
+  const pg = document.getElementById('pagination');
+  if (pages <= 1) { pg.innerHTML = ''; return; }
+  let h = '';
+  if (S.page > 1) h += pgBtn('← Prev', S.page-1);
+  for (let i=1;i<=Math.min(pages,7);i++) h += pgBtn(i, i, i===S.page);
+  if (S.page < pages) h += pgBtn('Next →', S.page+1);
+  pg.innerHTML = h;
+}
+
+function pgBtn(label, page, active=false) {
+  return `<button class="pg-btn${active?' on':''}" onclick="goPage(${page})">${label}</button>`;
+}
+
+function card(d) {
+  const url = d.url || '#';
+  const tags = (d.tags||[]).map(t=>`<span class="tag">${t}</span>`).join('');
+  const excerpt = d.excerpt ? `<div class="card-excerpt">${esc(d.excerpt)}</div>` : '';
+  return `
+  <a class="card" href="${url}" target="_blank" rel="noopener">
+    <div class="card-head">
+      <span class="badge badge-${d.type}">${d.type}</span>
+      <span class="card-date">${fmtDate(d.date)}</span>
+    </div>
+    <div class="card-title">${esc(d.title)}</div>
+    <div class="card-source">${esc(d.source)}</div>
+    ${excerpt}
+    <div class="card-tags">${tags}<span class="tag">${d.region||''}</span></div>
+  </a>`;
+}
+
+function esc(s) {
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function fmtDate(s) {
+  if (!s) return '';
+  const ms = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const p = s.split('-');
+  if (p.length===3) return `${parseInt(p[2])} ${ms[parseInt(p[1])-1]} ${p[0]}`;
+  if (p.length===2) return `${ms[parseInt(p[1])-1]} ${p[0]}`;
+  return p[0];
+}
+
+function goPage(p) { S.page=p; render(); window.scrollTo(0,200); }
+
+function showSkeletons() {
+  const sk = () => `<div class="skel-card"><div class="skel" style="width:40%"></div><div class="skel" style="width:85%"></div><div class="skel" style="width:65%"></div></div>`;
+  document.getElementById('cardsList').innerHTML = sk()+sk()+sk();
+}
+
+// ── SIDEBAR ────────────────────────────────────────────────────────────────
+function renderSidebar() {
+  // Top news items
+  const news = [...DB.news].sort((a,b)=>(b.date||'').localeCompare(a.date||'')).slice(0,6);
+  document.getElementById('sbNews').innerHTML = news.length
+    ? news.map(n=>`
+      <a class="sb-news-item" href="${n.url||'#'}" target="_blank" rel="noopener">
+        <div class="sb-news-title">${esc(n.title)}</div>
+        <div class="sb-news-meta">${esc(n.source)} · ${fmtDate(n.date)}</div>
+      </a>`).join('')
+    : `<div style="padding:14px;color:var(--text-muted);font-size:12px">No news yet — run the GitHub Action to fetch.</div>`;
+
+  // Topics
+  const tagCount = {};
+  allItems().forEach(i => (i.tags||[]).forEach(t => { tagCount[t]=(tagCount[t]||0)+1; }));
+  const topTags = Object.entries(tagCount).sort((a,b)=>b[1]-a[1]).slice(0,7);
+  const maxT = topTags[0]?.[1] || 1;
+  document.getElementById('sbTopics').innerHTML = topTags.map(([t,n])=>`
+    <div class="topic-row">
+      <span class="topic-name">${esc(t)}</span>
+      <div class="bar-wrap"><div class="bar-fill" style="width:${Math.round(n/maxT*100)}%"></div></div>
+      <span class="topic-n">${n}</span>
+    </div>`).join('');
+
+  // Publishers
+  const srcCount = {};
+  allItems().forEach(i => { if(i.source) srcCount[i.source]=(srcCount[i.source]||0)+1; });
+  const topSrc = Object.entries(srcCount).sort((a,b)=>b[1]-a[1]).slice(0,7);
+  document.getElementById('sbPublishers').innerHTML = topSrc.map(([s,n])=>`
+    <div class="pub-row">
+      <span class="pub-name">${esc(s)}</span>
+      <span class="pub-n">${n}</span>
+    </div>`).join('');
+}
+
+// ── CONTROLS ──────────────────────────────────────────────────────────────
+function setTab(btn) {
+  S.tab = btn.dataset.tab; S.page = 1;
+  document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function setRegion(btn, region) {
+  S.region = region; S.page = 1;
+  document.querySelectorAll('#filterRow .chip').forEach(b=>b.classList.remove('on'));
+  btn.classList.add('on');
+  render();
+}
+
+// ── SEARCH + AI ────────────────────────────────────────────────────────────
+async function runSearch() {
+  const q = document.getElementById('searchInput').value.trim();
+  if (!q) { S.query=''; S.page=1; render(); document.getElementById('aiBox').classList.remove('show'); return; }
+  S.query = q; S.page = 1;
+  render();
+
+  const aiBox = document.getElementById('aiBox');
+  const aiBody = document.getElementById('aiBody');
+  const aiQ = document.getElementById('aiQ');
+  aiBox.classList.add('show');
+  aiQ.textContent = `"${q}"`;
+  aiBody.innerHTML = '<span class="ai-thinking">Generating intelligence analysis…</span>';
+  document.getElementById('searchBtn').disabled = true;
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-6',
+        max_tokens: 1000,
+        system: `You are a Horn of Africa security and geopolitics analyst. Given a search query, write a tight 3–4 sentence intelligence brief: what is this issue, where does it stand today, and what is the key analytical tension. Professional, direct, no preamble or bullet points. Write as if for a policy audience.`,
+        messages: [{ role:'user', content:`Query: ${q}` }]
+      })
+    });
+    const data = await res.json();
+    const text = (data.content||[]).map(c=>c.text||'').join('') || 'Analysis unavailable.';
+    aiBody.textContent = text;
+  } catch(e) {
+    aiBody.innerHTML = '<span class="ai-thinking">Analysis unavailable. Showing filtered results below.</span>';
+  }
+  document.getElementById('searchBtn').disabled = false;
+}
+
+// ── KEYBOARD ───────────────────────────────────────────────────────────────
+document.getElementById('searchInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') runSearch();
+});
+
+// ── INIT ───────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
