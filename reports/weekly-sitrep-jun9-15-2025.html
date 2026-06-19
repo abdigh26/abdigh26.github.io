@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weekly Situation Report: Jun 9–15, 2025 — Somali OSINT Brief</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0c;
+    --bg-card: #111116;
+    --bg-raised: #17171e;
+    --border: #222230;
+    --accent: #c8a96e;
+    --accent-dim: #7a6540;
+    --red: #c0392b;
+    --blue: #4a7ab5;
+    --text: #e2e2e8;
+    --text-dim: #7a7a90;
+    --text-faint: #3a3a50;
+    --serif: 'Syne', sans-serif;
+    --mono: 'IBM Plex Mono', monospace;
+    --body: 'Inter', sans-serif;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 16px; }
+  body { background: var(--bg); color: var(--text); font-family: var(--body); font-weight: 300; line-height: 1.7; }
+  a { color: var(--accent); }
+
+  .masthead {
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+  .masthead-brand { color: var(--accent); font-weight: 500; }
+
+  .container { max-width: 860px; margin: 0 auto; padding: 0 2rem; }
+
+  .report-header {
+    padding: 3.5rem 0 2.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .report-type {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .report-type::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 1px;
+    background: var(--accent);
+  }
+  .report-title {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(1.8rem, 5vw, 2.8rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.75rem;
+  }
+  .report-meta {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    color: var(--text-faint);
+    margin-bottom: 2rem;
+  }
+
+  .kpi-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 3rem;
+  }
+  .kpi {
+    background: var(--bg-card);
+    padding: 1.25rem 1rem;
+    text-align: center;
+  }
+  .kpi-num {
+    display: block;
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 1.8rem;
+    color: var(--accent);
+    line-height: 1;
+    margin-bottom: 0.4rem;
+  }
+  .kpi-num.red { color: var(--red); }
+  .kpi-num.blue { color: var(--blue); }
+  .kpi-label {
+    font-family: var(--mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+
+  .section { padding: 2.5rem 0; border-bottom: 1px solid var(--border); }
+  .section-label {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--accent-dim);
+    margin-bottom: 1.25rem;
+  }
+  .section-title {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+    color: var(--text);
+  }
+  .prose { color: var(--text-dim); font-size: 0.95rem; line-height: 1.8; }
+  .prose p { margin-bottom: 1rem; }
+  .prose strong { color: var(--text); font-weight: 500; }
+
+  .incident-list { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); }
+  .incident {
+    background: var(--bg-card);
+    padding: 1.25rem 1.5rem;
+    display: grid;
+    grid-template-columns: 80px 1fr auto;
+    gap: 1rem;
+    align-items: start;
+  }
+  .incident:hover { background: var(--bg-raised); }
+  .incident-date { font-family: var(--mono); font-size: 0.62rem; color: var(--text-faint); padding-top: 2px; }
+  .incident-body {}
+  .incident-title { font-size: 0.9rem; color: var(--text); margin-bottom: 0.3rem; line-height: 1.4; }
+  .incident-loc { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-dim); }
+  .incident-fatal {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--red);
+    text-align: right;
+    white-space: nowrap;
+  }
+  .incident-fatal span { display: block; font-family: var(--mono); font-size: 0.55rem; color: var(--text-faint); font-weight: 400; }
+
+  .breakdown-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  .breakdown-block {}
+  .breakdown-title { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-dim); margin-bottom: 0.75rem; }
+  .bar-row { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.5rem; }
+  .bar-label { font-size: 0.78rem; color: var(--text-dim); width: 160px; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; height: 4px; background: var(--border); border-radius: 2px; }
+  .bar-fill { height: 4px; background: var(--accent); border-radius: 2px; }
+  .bar-fill.red { background: var(--red); }
+  .bar-num { font-family: var(--mono); font-size: 0.62rem; color: var(--text-faint); width: 28px; text-align: right; flex-shrink: 0; }
+
+  .callout {
+    border-left: 2px solid var(--accent);
+    padding: 1rem 1.5rem;
+    background: var(--bg-card);
+    margin: 1.5rem 0;
+    font-size: 0.92rem;
+    color: var(--text-dim);
+    line-height: 1.7;
+  }
+  .callout strong { color: var(--accent); }
+
+  .tag {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border: 1px solid var(--border);
+    padding: 0.2rem 0.5rem;
+    color: var(--text-dim);
+    margin-right: 0.4rem;
+    margin-bottom: 0.4rem;
+  }
+  .tag.red { border-color: var(--red); color: var(--red); }
+  .tag.gold { border-color: var(--accent); color: var(--accent); }
+
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    color: var(--text-faint);
+    line-height: 1.8;
+  }
+  .footer-brand { color: var(--accent-dim); font-size: 0.65rem; margin-bottom: 0.5rem; }
+
+  @media (max-width: 640px) {
+    .masthead { flex-direction: column; gap: 0.5rem; text-align: center; }
+    .kpi-row { grid-template-columns: repeat(2, 1fr); }
+    .breakdown-grid { grid-template-columns: 1fr; }
+    .incident { grid-template-columns: 60px 1fr auto; gap: 0.5rem; }
+    footer { flex-direction: column; gap: 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <span class="masthead-brand">Somali OSINT Brief</span>
+  <div style="display:flex;gap:2rem;">
+    <span>Weekly SitRep</span>
+    <span>9–15 June 2025</span>
+    <span>Issue #01</span>
+  </div>
+</div>
+
+<div class="container">
+
+  <header class="report-header">
+    <div class="report-type">Weekly Situation Report</div>
+    <h1 class="report-title">Somalia Security Situation Report<br>9–15 June 2025</h1>
+    <div class="report-meta">Published 19 June 2025 &nbsp;·&nbsp; Somali OSINT Brief &nbsp;·&nbsp; By Abdi Haji</div>
+
+    <div class="kpi-row">
+      <div class="kpi">
+        <span class="kpi-num">107</span>
+        <span class="kpi-label">Incidents</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi-num red">124</span>
+        <span class="kpi-label">Fatalities</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi-num">46</span>
+        <span class="kpi-label">Battles</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi-num blue">3</span>
+        <span class="kpi-label">Active fronts</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Executive Summary -->
+  <section class="section">
+    <div class="section-label">Executive Summary</div>
+    <div class="prose">
+      <p>The week of 9–15 June 2025 recorded <strong>107 security incidents</strong> across Somalia resulting in <strong>124 confirmed fatalities</strong>. Kinetic activity was dominated by battles (46 incidents, 43% of the total), with significant concurrent activity in strategic developments (34 incidents) reflecting ongoing intelligence operations, defections, and resource movements.</p>
+      <p>Three fronts drove the majority of lethal violence: <strong>Lower Shabelle</strong> (Afgooye corridor), <strong>Hiraan</strong> (Bulo Burto axis), and <strong>Bari</strong> (Bossaso/Galgala highlands). Al-Shabaab remained the most active actor (45 incidents), but government forces — particularly Danab, the SNA, and the Puntland Dervish Force — drove the week's highest single-incident fatality counts through offensive operations.</p>
+      <p>Notably, the week's deadliest incident involved <strong>Puntland Dervish Force vs. Islamic State Somalia Province (ISSP)</strong> near Bossaso — a reminder that the IS threat in northeastern Somalia remains kinetically active alongside the more prominent Al-Shabaab campaign.</p>
+    </div>
+  </section>
+
+  <!-- Deadliest Incidents -->
+  <section class="section">
+    <div class="section-label">Significant Incidents</div>
+    <div class="incident-list">
+
+      <div class="incident">
+        <div class="incident-date">13 Jun</div>
+        <div class="incident-body">
+          <div class="incident-title">Puntland Dervish Force vs. ISSP — Cadayle, Bossaso</div>
+          <div class="incident-loc">Bari · Puntland</div>
+          <div style="margin-top:0.5rem;" class="prose"><p>Puntland Dervish Force conducted an offensive operation against Islamic State Somalia Province in Cadayle village near Balade (Bossaso, Bari). The clash — part of an ongoing Puntland-led counter-IS campaign in the Galgala highlands — resulted in the week's highest single-incident death toll.</p></div>
+          <div style="margin-top:0.5rem;"><span class="tag red">Battle</span><span class="tag">IS-Somalia</span><span class="tag">Puntland</span></div>
+        </div>
+        <div class="incident-fatal">15<span>killed</span></div>
+      </div>
+
+      <div class="incident">
+        <div class="incident-date">11 Jun</div>
+        <div class="incident-body">
+          <div class="incident-title">International/Allied Forces Strike — Jowhar, Middle Shabelle</div>
+          <div class="incident-loc">Middle Shabelle · Hirshabelle</div>
+          <div style="margin-top:0.5rem;" class="prose"><p>International forces (coded as Unidentified Military Forces), operating in coordination with government security forces, conducted a strike in Jowhar district. The operation resulted in 13 killed, consistent with the broader pattern of coordinated US/international-SNA counter-terrorism operations that intensified significantly in early 2025.</p></div>
+          <div style="margin-top:0.5rem;"><span class="tag red">Airstrike</span><span class="tag">Int'l Forces</span><span class="tag">Hirshabelle</span></div>
+        </div>
+        <div class="incident-fatal">13<span>killed</span></div>
+      </div>
+
+      <div class="incident">
+        <div class="incident-date">9 Jun</div>
+        <div class="incident-body">
+          <div class="incident-title">Danab vs. Al-Shabaab — Gaalware, Afgooye</div>
+          <div class="incident-loc">Lower Shabelle · Southwest</div>
+          <div style="margin-top:0.5rem;" class="prose"><p>For the second consecutive day, Danab special forces clashed with Al-Shabaab in Gaalware village (Afgooye, Lower Shabelle). The multi-day engagement reflects a sustained push to reclaim the Afgooye corridor — a strategic Al-Shabaab logistics and tax-collection route connecting the Middle and Lower Shabelle regions.</p></div>
+          <div style="margin-top:0.5rem;"><span class="tag red">Battle</span><span class="tag">Danab</span><span class="tag">Lower Shabelle</span></div>
+        </div>
+        <div class="incident-fatal">12<span>killed</span></div>
+      </div>
+
+      <div class="incident">
+        <div class="incident-date">9 Jun</div>
+        <div class="incident-body">
+          <div class="incident-title">Al-Shabaab vs. SNA/Hawadle Militia — Mooro-erri, Bulo Burto</div>
+          <div class="incident-loc">Hiraan · Hirshabelle</div>
+          <div style="margin-top:0.5rem;" class="prose"><p>Al-Shabaab clashed with a combined force of SNA troops and Hawadle clan militia near Moqokori village (Bulo Burto, Hiraan). The engagement illustrates the clan militia integration strategy that has become a structural feature of Somalia's counter-insurgency — and its inherent fragility when clan incentives shift.</p></div>
+          <div style="margin-top:0.5rem;"><span class="tag red">Battle</span><span class="tag">Al-Shabaab</span><span class="tag">Hiraan</span></div>
+        </div>
+        <div class="incident-fatal">8<span>killed</span></div>
+      </div>
+
+      <div class="incident">
+        <div class="incident-date">10 Jun</div>
+        <div class="incident-body">
+          <div class="incident-title">SNA/SWSPF/AUSSOM vs. Al-Shabaab — Saabid, Afgooye</div>
+          <div class="incident-loc">Lower Shabelle · Southwest</div>
+          <div style="margin-top:0.5rem;" class="prose"><p>A multi-force operation involving SNA, Southwest Special Police Forces, and AUSSOM UPDF troops engaged Al-Shabaab in Saabid village (Afgooye). The joint operation underscores continued AUSSOM engagement in Lower Shabelle despite the mission's ongoing transition questions.</p></div>
+          <div style="margin-top:0.5rem;"><span class="tag red">Battle</span><span class="tag">AUSSOM</span><span class="tag">Lower Shabelle</span></div>
+        </div>
+        <div class="incident-fatal">7<span>killed</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Incident Breakdown -->
+  <section class="section">
+    <div class="section-label">Incident Breakdown</div>
+    <div class="breakdown-grid">
+      <div class="breakdown-block">
+        <div class="breakdown-title">By Event Type</div>
+        <div class="bar-row"><span class="bar-label">Battles</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-num">46</span></div>
+        <div class="bar-row"><span class="bar-label">Strategic developments</span><div class="bar-track"><div class="bar-fill" style="width:74%"></div></div><span class="bar-num">34</span></div>
+        <div class="bar-row"><span class="bar-label">Explosions/Remote</span><div class="bar-track"><div class="bar-fill" style="width:24%"></div></div><span class="bar-num">11</span></div>
+        <div class="bar-row"><span class="bar-label">Violence vs civilians</span><div class="bar-track"><div class="bar-fill red" style="width:22%"></div></div><span class="bar-num">10</span></div>
+        <div class="bar-row"><span class="bar-label">Protests</span><div class="bar-track"><div class="bar-fill" style="width:11%"></div></div><span class="bar-num">5</span></div>
+      </div>
+      <div class="breakdown-block">
+        <div class="breakdown-title">By Actor</div>
+        <div class="bar-row"><span class="bar-label">Al Shabaab</span><div class="bar-track"><div class="bar-fill red" style="width:100%"></div></div><span class="bar-num">45</span></div>
+        <div class="bar-row"><span class="bar-label">SNA (2022-)</span><div class="bar-track"><div class="bar-fill" style="width:42%"></div></div><span class="bar-num">19</span></div>
+        <div class="bar-row"><span class="bar-label">SNA/Puntland Dervish</span><div class="bar-track"><div class="bar-fill" style="width:27%"></div></div><span class="bar-num">12</span></div>
+        <div class="bar-row"><span class="bar-label">Protesters</span><div class="bar-track"><div class="bar-fill" style="width:11%"></div></div><span class="bar-num">5</span></div>
+        <div class="bar-row"><span class="bar-label">SW Special Police</span><div class="bar-track"><div class="bar-fill" style="width:11%"></div></div><span class="bar-num">5</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Assessment -->
+  <section class="section">
+    <div class="section-label">Assessment</div>
+    <div class="prose">
+      <div class="callout"><strong>Afgooye Corridor:</strong> Multi-day Danab operations in Gaalware/Saabid signal a deliberate push to contest Al-Shabaab's hold on the corridor connecting Middle and Lower Shabelle. This route is critical for AS logistics and tax extraction — sustained pressure here has strategic significance beyond the immediate battle counts.</div>
+      <div class="callout"><strong>ISSP in Bari:</strong> The Bossaso incident (15 killed) is the deadliest IS-attributed engagement in recent weeks. Puntland Dervish Force's operational tempo against ISSP in the Galgala highlands has intensified — but the IS presence in northeast Somalia remains understated in most coverage focused on AS.</div>
+      <div class="callout"><strong>Protest activity:</strong> Five protest incidents recorded this week (Mogadishu/Benadir-focused) are consistent with ongoing political tension over government resource allocation and FMS relations. Worth monitoring for escalation into political violence.</div>
+    </div>
+  </section>
+
+  <!-- Data note -->
+  <section class="section" style="border-bottom:none;">
+    <div class="section-label">Data Note</div>
+    <div class="prose" style="font-size:0.82rem; color:var(--text-faint);">
+      <p>This report draws from the Somali OSINT Brief master dataset (ACLED-derived), covering 51,248+ incidents from 1997 to present, updated weekly. Incident counts reflect verified events within the reporting period. Fatality figures represent recorded deaths; actual totals may be higher due to reporting gaps in active conflict zones. The full dataset is explorable at the <a href="/dashboard.html">Somali OSINT Brief Dashboard</a>.</p>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div>
+    <div class="footer-brand">Somali OSINT Brief</div>
+    <div>Ground-level data meets grand strategy</div>
+    <div style="margin-top:0.5rem;">By Abdi Haji · Published June 2026</div>
+  </div>
+  <div style="text-align:right;">
+    <div>Weekly SitRep · Issue #01</div>
+    <div>Data: ACLED via Somali OSINT Brief Dataset</div>
+    <div>© 2026 Somali OSINT Brief. All rights reserved.</div>
+  </div>
+</footer>
+
+</body>
+</html>
