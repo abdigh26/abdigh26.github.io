@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Monthly Trend Review: Apr–Jun 2025 — Somali OSINT Brief</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0a0a0c; --bg-card: #111116; --bg-raised: #17171e;
+    --border: #222230; --accent: #c8a96e; --accent-dim: #7a6540;
+    --red: #c0392b; --blue: #4a7ab5; --text: #e2e2e8;
+    --text-dim: #7a7a90; --text-faint: #3a3a50;
+    --serif: 'Syne', sans-serif; --mono: 'IBM Plex Mono', monospace; --body: 'Inter', sans-serif;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: var(--body); font-weight: 300; line-height: 1.7; }
+  a { color: var(--accent); }
+
+  .masthead { border-bottom: 1px solid var(--border); padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-dim); }
+  .masthead-brand { color: var(--accent); font-weight: 500; }
+  .container { max-width: 860px; margin: 0 auto; padding: 0 2rem; }
+
+  .report-header { padding: 3.5rem 0 2.5rem; border-bottom: 1px solid var(--border); }
+  .report-type { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.25em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; display: flex; align-items: center; gap: 0.75rem; }
+  .report-type::before { content: ''; display: inline-block; width: 20px; height: 1px; background: var(--accent); }
+  .report-title { font-family: var(--serif); font-weight: 800; font-size: clamp(1.8rem, 5vw, 2.8rem); line-height: 1.1; letter-spacing: -0.02em; margin-bottom: 0.75rem; }
+  .report-meta { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.1em; color: var(--text-faint); margin-bottom: 2rem; }
+
+  .kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: 3rem; }
+  .kpi { background: var(--bg-card); padding: 1.25rem 1rem; text-align: center; }
+  .kpi-num { display: block; font-family: var(--serif); font-weight: 700; font-size: 1.8rem; color: var(--accent); line-height: 1; margin-bottom: 0.4rem; }
+  .kpi-num.red { color: var(--red); }
+  .kpi-num.green { color: #c0392b; }
+  .kpi-label { font-family: var(--mono); font-size: 0.58rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-dim); }
+
+  .section { padding: 2.5rem 0; border-bottom: 1px solid var(--border); }
+  .section-label { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent-dim); margin-bottom: 1.25rem; }
+  .prose { color: var(--text-dim); font-size: 0.95rem; line-height: 1.8; }
+  .prose p { margin-bottom: 1rem; }
+  .prose strong { color: var(--text); font-weight: 500; }
+
+  .chart-wrap { background: var(--bg-card); border: 1px solid var(--border); padding: 1.5rem; margin: 1.5rem 0; }
+  .chart-title { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-dim); margin-bottom: 1rem; }
+  .chart-canvas { max-height: 280px; }
+
+  .breakdown-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 1rem; }
+  .breakdown-block {}
+  .breakdown-title { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-dim); margin-bottom: 0.75rem; }
+  .bar-row { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.5rem; }
+  .bar-label { font-size: 0.78rem; color: var(--text-dim); width: 160px; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; height: 4px; background: var(--border); border-radius: 2px; }
+  .bar-fill { height: 4px; background: var(--accent); border-radius: 2px; }
+  .bar-fill.red { background: var(--red); }
+  .bar-num { font-family: var(--mono); font-size: 0.62rem; color: var(--text-faint); width: 32px; text-align: right; flex-shrink: 0; }
+
+  .callout { border-left: 2px solid var(--accent); padding: 1rem 1.5rem; background: var(--bg-card); margin: 1.5rem 0; font-size: 0.92rem; color: var(--text-dim); line-height: 1.7; }
+  .callout strong { color: var(--accent); }
+  .callout.red { border-color: var(--red); }
+  .callout.red strong { color: var(--red); }
+
+  .compare-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; margin-top: 1rem; }
+  .compare-table th { font-family: var(--mono); font-size: 0.58rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-dim); padding: 0.6rem 1rem; border-bottom: 1px solid var(--border); text-align: left; }
+  .compare-table td { padding: 0.7rem 1rem; border-bottom: 1px solid var(--border); color: var(--text-dim); }
+  .compare-table tr:last-child td { border-bottom: none; }
+  .compare-table .highlight { color: var(--red); font-weight: 500; }
+  .compare-table .positive { color: #5a9e6f; }
+
+  .tag { display: inline-block; font-family: var(--mono); font-size: 0.58rem; letter-spacing: 0.1em; text-transform: uppercase; border: 1px solid var(--border); padding: 0.2rem 0.5rem; color: var(--text-dim); margin-right: 0.4rem; margin-bottom: 0.4rem; }
+  .tag.red { border-color: var(--red); color: var(--red); }
+  .tag.gold { border-color: var(--accent); color: var(--accent); }
+
+  footer { border-top: 1px solid var(--border); padding: 2rem; margin-top: 3rem; display: flex; justify-content: space-between; align-items: start; font-family: var(--mono); font-size: 0.6rem; color: var(--text-faint); line-height: 1.8; }
+  .footer-brand { color: var(--accent-dim); font-size: 0.65rem; margin-bottom: 0.5rem; }
+
+  @media (max-width: 640px) {
+    .masthead { flex-direction: column; gap: 0.5rem; text-align: center; }
+    .kpi-row { grid-template-columns: repeat(2, 1fr); }
+    .breakdown-grid { grid-template-columns: 1fr; }
+    footer { flex-direction: column; gap: 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <span class="masthead-brand">Somali OSINT Brief</span>
+  <div style="display:flex;gap:2rem;">
+    <span>Monthly Trend Review</span>
+    <span>Apr–Jun 2025</span>
+    <span>Issue #01</span>
+  </div>
+</div>
+
+<div class="container">
+
+  <header class="report-header">
+    <div class="report-type">Monthly Incident Trend Review</div>
+    <h1 class="report-title">Somalia Security Trends<br>April – June 2025</h1>
+    <div class="report-meta">Published June 2026 &nbsp;·&nbsp; Somali OSINT Brief &nbsp;·&nbsp; By Abdi Haji</div>
+
+    <div class="kpi-row">
+      <div class="kpi">
+        <span class="kpi-num">901</span>
+        <span class="kpi-label">Total incidents</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi-num red">1,940</span>
+        <span class="kpi-label">Fatalities</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi-num">+53%</span>
+        <span class="kpi-label">vs same period 2024</span>
+      </div>
+      <div class="kpi">
+        <span class="kpi-num red">366</span>
+        <span class="kpi-label">AS incidents</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Executive Summary -->
+  <section class="section">
+    <div class="section-label">Executive Summary</div>
+    <div class="prose">
+      <p>The April–June 2025 period recorded <strong>901 security incidents</strong> and <strong>1,940 fatalities</strong> across Somalia — a <strong>53% increase in incidents</strong> and <strong>50% increase in fatalities</strong> compared to the same period in 2024 (587 incidents, 1,292 fatalities). This represents one of the most violent quarters in the dataset's recent history.</p>
+      <p>Al-Shabaab remained the dominant actor (366 incidents, 41% of total), while the <strong>Somali National Army</strong> (138 incidents) and the <strong>Puntland Dervish Force</strong> (40 incidents) together accounted for nearly 20% of all recorded activity — reflecting the dual-front character of Somalia's security environment: the AS insurgency in the south-central regions, and the ISSP campaign in the northeast.</p>
+      <p>Geographically, <strong>Hirshabelle</strong> (87 incidents) and <strong>Southwest</strong> (84 incidents) bore the heaviest burden, consistent with Al-Shabaab's operational concentration in the Shabelle and Jubba river valleys. A significant new variable in this period: the recorded activity of <strong>US Military Forces (2025-)</strong> — 22 incidents — marking the formal coding of resumed American unilateral strike operations in Somalia.</p>
+    </div>
+  </section>
+
+  <!-- Trend Chart -->
+  <section class="section">
+    <div class="section-label">Incident Trend</div>
+    <div class="chart-wrap">
+      <div class="chart-title">Monthly Incidents & Fatalities — Apr–Jun 2025 vs 2024</div>
+      <canvas id="trendChart" class="chart-canvas"></canvas>
+    </div>
+    <div class="prose">
+      <p>The 53% year-on-year surge in incidents reflects a combination of intensified government offensive operations (particularly in Lower Shabelle and Hiraan), Al-Shabaab's tactical adaptation through insurgency activities and IED use, and the entry of US forces as a recorded actor. The fatality rate per incident (2.15 in 2025 vs 2.20 in 2024) remained stable — suggesting the volume increase, not lethality per engagement, is the primary driver.</p>
+    </div>
+  </section>
+
+  <!-- FMS Breakdown -->
+  <section class="section">
+    <div class="section-label">Geographic Distribution</div>
+    <div class="breakdown-grid">
+      <div class="breakdown-block">
+        <div class="breakdown-title">Incidents by FMS (Apr–Jun 2025)</div>
+        <div class="bar-row"><span class="bar-label">Hirshabelle</span><div class="bar-track"><div class="bar-fill red" style="width:100%"></div></div><span class="bar-num">87</span></div>
+        <div class="bar-row"><span class="bar-label">Southwest</span><div class="bar-track"><div class="bar-fill red" style="width:97%"></div></div><span class="bar-num">84</span></div>
+        <div class="bar-row"><span class="bar-label">Jubaland</span><div class="bar-track"><div class="bar-fill" style="width:51%"></div></div><span class="bar-num">44</span></div>
+        <div class="bar-row"><span class="bar-label">Benadir</span><div class="bar-track"><div class="bar-fill" style="width:40%"></div></div><span class="bar-num">35</span></div>
+        <div class="bar-row"><span class="bar-label">Puntland</span><div class="bar-track"><div class="bar-fill" style="width:32%"></div></div><span class="bar-num">28</span></div>
+        <div class="bar-row"><span class="bar-label">Galmudug</span><div class="bar-track"><div class="bar-fill" style="width:25%"></div></div><span class="bar-num">22</span></div>
+      </div>
+      <div class="breakdown-block">
+        <div class="breakdown-title">Event Type Distribution</div>
+        <div class="bar-row"><span class="bar-label">Battles</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-num">246</span></div>
+        <div class="bar-row"><span class="bar-label">Insurgency Activities</span><div class="bar-track"><div class="bar-fill red" style="width:85%"></div></div><span class="bar-num">208</span></div>
+        <div class="bar-row"><span class="bar-label">Strategic Developments</span><div class="bar-track"><div class="bar-fill" style="width:83%"></div></div><span class="bar-num">204</span></div>
+        <div class="bar-row"><span class="bar-label">Violence vs civilians</span><div class="bar-track"><div class="bar-fill red" style="width:35%"></div></div><span class="bar-num">86</span></div>
+        <div class="bar-row"><span class="bar-label">Explosions/Remote</span><div class="bar-track"><div class="bar-fill" style="width:35%"></div></div><span class="bar-num">85</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Actor Analysis -->
+  <section class="section">
+    <div class="section-label">Actor Analysis</div>
+    <div class="prose">
+      <table class="compare-table">
+        <thead>
+          <tr>
+            <th>Actor</th>
+            <th>Incidents</th>
+            <th>Share</th>
+            <th>Note</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Al Shabaab</td><td class="highlight">366</td><td>41%</td><td>Dominant actor across all FMS</td></tr>
+          <tr><td>SNA (2022-)</td><td>138</td><td>15%</td><td>Primarily battle engagements</td></tr>
+          <tr><td>SNA/Puntland Dervish</td><td>40</td><td>4%</td><td>Northeast counter-IS operations</td></tr>
+          <tr><td>Protesters</td><td>34</td><td>4%</td><td>Concentrated in Benadir</td></tr>
+          <tr><td>Unidentified Military</td><td>29</td><td>3%</td><td>Likely US/int'l airstrikes</td></tr>
+          <tr><td>Hawadle Clan Militia</td><td>25</td><td>3%</td><td>Hiraan clan integration ops</td></tr>
+          <tr><td class="highlight">US Military Forces (2025-)</td><td class="highlight">22</td><td class="highlight">2%</td><td class="highlight">New actor — resumed unilateral ops</td></tr>
+          <tr><td>Puntland Maritime Police</td><td>20</td><td>2%</td><td>Coastal security operations</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="callout red" style="margin-top:1.5rem;">
+      <strong>US Military Forces (2025-):</strong> The formal coding of 22 US military incidents in this period marks a significant data development. Following the resumption of unilateral American counterterrorism operations in early 2025, ACLED began coding US forces as a distinct actor. This aligns with reporting of intensified Danab-US joint operations and independent US airstrikes targeting AS command nodes — particularly in Hiraan and Lower Shabelle.
+    </div>
+  </section>
+
+  <!-- Year-on-Year Comparison -->
+  <section class="section">
+    <div class="section-label">Year-on-Year Comparison</div>
+    <div class="chart-wrap">
+      <div class="chart-title">Apr–Jun 2024 vs Apr–Jun 2025</div>
+      <canvas id="compareChart" class="chart-canvas"></canvas>
+    </div>
+    <div class="callout">
+      <strong>Key finding:</strong> The 53% year-on-year increase in incidents is the largest quarterly surge recorded in the 2022–2025 period. The increase is broad-based — visible across all FMS — rather than concentrated in a single theater, suggesting a structural escalation rather than a localized flare-up.
+    </div>
+  </section>
+
+  <!-- Assessment -->
+  <section class="section">
+    <div class="section-label">Assessment & Outlook</div>
+    <div class="prose">
+      <div class="callout"><strong>Structural escalation:</strong> The volume increase across all FMS — not just traditional hotspots — suggests Al-Shabaab is successfully maintaining pressure on multiple fronts simultaneously, forcing the SNA to distribute limited resources across a wide theater. This is consistent with a classic insurgent exhaustion strategy.</div>
+      <div class="callout"><strong>US re-engagement:</strong> The resumption of US unilateral operations introduces a high-capability variable that could meaningfully degrade AS command structures — but also risks civilian harm incidents that complicate the government's legitimacy narrative. The 29 "Unidentified Military Forces" incidents likely contain additional US activity not yet formally attributed.</div>
+      <div class="callout"><strong>Northeast divergence:</strong> Puntland's IS-focused campaign (40 Dervish Force incidents) represents a genuinely separate conflict dynamic from the AS-dominated south-central theater. The two fronts draw on different force sets, operate under different political frameworks, and have limited operational overlap — but both consume Somali security bandwidth.</div>
+      <div class="callout"><strong>Q3 2025 forecast:</strong> Based on the trajectory of the past three quarters, Q3 2025 (July–September) is likely to sustain elevated incident levels, with continued concentration in Hirshabelle and Southwest. Seasonal factors (reduced movement during harvest and rains) may modestly suppress AS activity in rural Lower Shabelle, but urban IED activity in Mogadishu typically persists through these periods.</div>
+    </div>
+  </section>
+
+  <!-- Data note -->
+  <section class="section" style="border-bottom:none;">
+    <div class="section-label">Data Note</div>
+    <div class="prose" style="font-size:0.82rem; color:var(--text-faint);">
+      <p>This report draws from the Somali OSINT Brief master dataset (ACLED-derived), covering 51,248+ incidents from 1997 to present, updated weekly. The reporting period (April–June 2025) reflects available ACLED data as of June 2026 — some incidents from June 2025 may be subject to revision as ACLED's verification process continues. Year-on-year comparisons use the equivalent calendar period from 2024. The full dataset is explorable at the <a href="/dashboard.html">Somali OSINT Brief Dashboard</a>.</p>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div>
+    <div class="footer-brand">Somali OSINT Brief</div>
+    <div>Ground-level data meets grand strategy</div>
+    <div style="margin-top:0.5rem;">By Abdi Haji · Published June 2026</div>
+  </div>
+  <div style="text-align:right;">
+    <div>Monthly Trend Review · Issue #01</div>
+    <div>Data: ACLED via Somali OSINT Brief Dataset</div>
+    <div>© 2026 Somali OSINT Brief. All rights reserved.</div>
+  </div>
+</footer>
+
+<script>
+const chartDefaults = {
+  backgroundColor: '#0a0a0c',
+  color: '#7a7a90',
+};
+Chart.defaults.color = '#7a7a90';
+Chart.defaults.borderColor = '#222230';
+Chart.defaults.font.family = 'IBM Plex Mono';
+
+// Trend chart
+new Chart(document.getElementById('trendChart'), {
+  type: 'bar',
+  data: {
+    labels: ['April', 'May', 'June (partial)'],
+    datasets: [
+      {
+        label: 'Incidents 2025',
+        data: [309, 298, 294],
+        backgroundColor: 'rgba(200,169,110,0.7)',
+        borderColor: '#c8a96e',
+        borderWidth: 1,
+      },
+      {
+        label: 'Incidents 2024',
+        data: [195, 208, 184],
+        backgroundColor: 'rgba(74,122,181,0.4)',
+        borderColor: '#4a7ab5',
+        borderWidth: 1,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: true,
+    plugins: { legend: { position: 'top' } },
+    scales: {
+      y: { grid: { color: '#222230' }, ticks: { color: '#7a7a90' } },
+      x: { grid: { color: '#222230' }, ticks: { color: '#7a7a90' } }
+    }
+  }
+});
+
+// YoY comparison
+new Chart(document.getElementById('compareChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Incidents', 'Fatalities'],
+    datasets: [
+      {
+        label: 'Apr–Jun 2024',
+        data: [587, 1292],
+        backgroundColor: 'rgba(74,122,181,0.5)',
+        borderColor: '#4a7ab5',
+        borderWidth: 1,
+      },
+      {
+        label: 'Apr–Jun 2025',
+        data: [901, 1940],
+        backgroundColor: 'rgba(192,57,43,0.6)',
+        borderColor: '#c0392b',
+        borderWidth: 1,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: true,
+    plugins: { legend: { position: 'top' } },
+    scales: {
+      y: { grid: { color: '#222230' }, ticks: { color: '#7a7a90' } },
+      x: { grid: { color: '#222230' }, ticks: { color: '#7a7a90' } }
+    }
+  }
+});
+</script>
+</body>
+</html>
