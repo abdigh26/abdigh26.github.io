@@ -11,23 +11,15 @@ title: Reports
 
 <div style="padding-bottom: 4rem;">
   <div class="card-grid">
-    {% for report in site.reports %}
-    <a class="card" href="{{ report.url }}">
-      <div class="card-tag">{{ report.category | default: "Report" | upcase }} — {{ report.date | date: "%b %Y" }}</div>
-      <h3 class="card-title">{{ report.title }}</h3>
-      <p class="card-excerpt">{{ report.excerpt | strip_html | truncate: 130 }}</p>
+    <a class="card" href="/reports/weekly-sitrep-jun9-15-2025.html">
+      <div class="card-tag">Weekly SitRep — Jun 2025 · Issue #01</div>
+      <h3 class="card-title">Somalia Security Situation Report: 9–15 June 2025</h3>
+      <p class="card-excerpt">107 incidents, 124 fatalities. Active fronts in Afgooye corridor, Hiraan, and Bossaso. Puntland Dervish Force vs. ISSP recorded as week's deadliest engagement.</p>
     </a>
-    {% else %}
-    <div class="card">
-      <div class="card-tag">WEEKLY SITREP — COMING SOON</div>
-      <h3 class="card-title">Somalia Security Situation Report</h3>
-      <p class="card-excerpt">Weekly situation reports covering Al-Shabaab activity, civilian targeting, and security trends across Somalia's Federal Member States.</p>
-    </div>
-    <div class="card">
-      <div class="card-tag">MONTHLY ANALYSIS — COMING SOON</div>
-      <h3 class="card-title">Monthly Incident Trend Review</h3>
-      <p class="card-excerpt">Data-driven monthly analysis of incident patterns, fatality trends, and actor dynamics across Somalia and the Horn of Africa.</p>
-    </div>
-    {% endfor %}
+    <a class="card" href="/reports/monthly-trend-apr-jun-2025.html">
+      <div class="card-tag">Monthly Review — Apr–Jun 2025 · Issue #01</div>
+      <h3 class="card-title">Somalia Security Trends: April – June 2025</h3>
+      <p class="card-excerpt">901 incidents, 1,940 fatalities — a 53% year-on-year surge. US Military Forces coded as new actor. Hirshabelle and Southwest remain the most active theaters.</p>
+    </a>
   </div>
 </div>
