@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-06-18T17:49:34.739541+00:00",
+  "last_updated": "2026-06-19T16:19:55.136684+00:00",
   "news": [
+    {
+      "id": "n_a9233c1b42",
+      "type": "news",
+      "title": "Ethiopia on the edge of its widest and most catastrophic war",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/422413/ethiopia-on-the-edge-of-its-widest-and-most-catastrophic-war/",
+      "date": "2026-06-19",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "As alliances among anti-government forces emerge and the federal government intensifies its militarised policies, Ethiopia risks becoming entangled in a broader and potentially devastating war that could draw in multiple actors and cause instability beyond its borders."
+    },
     {
       "id": "n_4d8b01e8e2",
       "type": "news",
