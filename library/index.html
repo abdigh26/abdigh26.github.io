@@ -672,7 +672,7 @@ async function runSearch() {
   document.getElementById('searchBtn').disabled = true;
 
   try {
-    const GEMINI_KEY = 'AQ.Ab8RN6J1iDA2I3AdoD5CE9qOkYIA2mrYGgH1JxOGYR0ju_Ft0g';
+    const GEMINI_KEY = 'AQ.Ab8RN6LRSKP5VSAOgJDMtlqHT6FUTOa1p20nqpT8OxChelVK0A';
     const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
