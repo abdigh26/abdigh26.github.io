@@ -378,6 +378,7 @@ h1 em { color: var(--accent); font-style: italic; }
 <!-- HEADER -->
 <header>
   <div class="header-inner">
+    <a href="/" style="font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-muted);text-decoration:none;border:1px solid var(--border2);padding:5px 10px;border-radius:4px;white-space:nowrap;flex-shrink:0;transition:color 0.15s;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-muted)'">← SOB</a>
     <div class="logo">
       <span class="logo-main">HOA Library</span>
       <span class="logo-sub">Intelligence Database</span>
@@ -671,19 +672,20 @@ async function runSearch() {
   document.getElementById('searchBtn').disabled = true;
 
   try {
-    const res = await const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AQ.Ab8RN6J1iDA2I3AdoD5CE9qOkYIA2mrYGgH1JxOGYR0ju_Ft0g`, {
-  method: 'POST',
-  headers: { 'Content-Type': 'application/json' },
-  body: JSON.stringify({
-    system_instruction: {
-      parts: [{ text: 'You are a Horn of Africa security and geopolitics analyst. Given a search query, write a tight 3–4 sentence intelligence brief: what is this issue, where does it stand today, and what is the key analytical tension. Professional, direct, no preamble or bullet points.' }]
-    },
-    contents: [{ parts: [{ text: `Query: ${q}` }] }]
-  })
-});
-const data = await res.json();
-const text = data.candidates?.[0]?.content?.parts?.[0]?.text || 'Analysis unavailable.';
-aiBody.textContent = text;
+    const GEMINI_KEY = 'AQ.Ab8RN6J1iDA2I3AdoD5CE9qOkYIA2mrYGgH1JxOGYR0ju_Ft0g';
+    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        system_instruction: {
+          parts: [{ text: 'You are a Horn of Africa security and geopolitics analyst. Given a search query, write a tight 3–4 sentence intelligence brief: what is this issue, where does it stand today, and what is the key analytical tension. Professional, direct, no preamble or bullet points. Write as if for a policy audience.' }]
+        },
+        contents: [{ parts: [{ text: `Query: ${q}` }] }]
+      })
+    });
+    const data = await res.json();
+    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || 'Analysis unavailable.';
+    aiBody.textContent = text;
   } catch(e) {
     aiBody.innerHTML = '<span class="ai-thinking">Analysis unavailable. Showing filtered results below.</span>';
   }
