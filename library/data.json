@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-06-19T16:19:55.136684+00:00",
+  "last_updated": "2026-06-20T12:16:15.084514+00:00",
   "news": [
+    {
+      "id": "n_22b4de45de",
+      "type": "news",
+      "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
+      "date": "2026-06-20",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Red Sea",
+        "Israel"
+      ],
+      "excerpt": "Six months after recognition, Israel and Somaliland say they are moving from symbolism to strategic cooperation."
+    },
     {
       "id": "n_a9233c1b42",
       "type": "news",
