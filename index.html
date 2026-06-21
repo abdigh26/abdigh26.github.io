@@ -11,7 +11,6 @@ title: Home
     <a href="/reports.html" class="btn-primary">Reports</a>
     <a href="/articles.html" class="btn-ghost">Articles</a>
     <a href="/dashboard.html" class="btn-ghost">Live Dashboard →</a>
-<a href="/library/" class="btn-ghost">HOA Library →</a>
   </div>
 </section>
 
@@ -35,12 +34,17 @@ title: Home
 <section class="section">
   <div class="section-label">Latest Articles</div>
   <div class="article-list">
+    <a class="article-row" href="/articles/berbera-axis.html">
+      <span class="article-date">21 Jun 2026</span>
+      <span class="article-title">The Berbera Axis: How Israel's Recognition of Somaliland Is Redrawing the Red Sea</span>
+      <span class="article-arrow">→</span>
+    </a>
     <a class="article-row" href="/articles/somali-army-building.html">
       <span class="article-date">13 Jun 2026</span>
       <span class="article-title">Building an Army in Wartime — A Full-Spectrum Review of Somalia's Military Project</span>
       <span class="article-arrow">→</span>
     </a>
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:3 %}
     <a class="article-row" href="{{ post.url }}">
       <span class="article-date">{{ post.date | date: "%d %b %Y" }}</span>
       <span class="article-title">{{ post.title }}</span>
