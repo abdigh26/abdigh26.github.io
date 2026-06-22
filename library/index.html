@@ -672,7 +672,7 @@ async function runSearch() {
   document.getElementById('searchBtn').disabled = true;
 
   try {
-    const res = await fetch('https://hoa-gemini-proxy.chrismark09cm.workers.dev/', {
+    const res = await fetch('https://hoa-gemini-proxy.chrismark09cm.workers.dev', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
