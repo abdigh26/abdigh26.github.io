@@ -672,7 +672,7 @@ async function runSearch() {
   document.getElementById('searchBtn').disabled = true;
 
   try {
-    const res = await fetch('hoa-gemini-proxy.chrismark09cm.workers.dev', {
+    const res = await fetch('https://hoa-gemini-proxy.chrismark09cm.workers.dev', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -686,7 +686,7 @@ async function runSearch() {
     const text = data.candidates?.[0]?.content?.parts?.[0]?.text || 'Analysis unavailable.';
     aiBody.textContent = text;
   } catch(e) {
-    aiBody.innerHTML = '<span class="ai-thinking">Analysis unavailable. Showing filtered results below.</span>';
+    aiBody.innerHTML = `<span class="ai-thinking">Error: ${e.message}</span>`;
   }
   document.getElementById('searchBtn').disabled = false;
 }
