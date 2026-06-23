@@ -89,6 +89,9 @@ nav {
   color: var(--text-muted);
 }
 
+/* Hide mobile lockup on desktop */
+.nav-logo-lockup { display: none; }
+
 /* Nav links */
 .nav-links {
   display: flex;
@@ -692,9 +695,57 @@ footer {
   .hero { padding: 48px 24px 40px; margin: 0; }
   .stat-bar { flex-wrap: wrap; margin: 0; }
   .stat-divider { display: none; }
+
+  /* Masthead logo on mobile — S/O/B column lockup */
+  nav { height: auto; }
+  .nav-inner {
+    height: auto;
+    padding: 14px 20px 14px;
+    position: relative;
+    align-items: center;
+  }
+  .nav-logo {
+    flex-direction: row;
+    gap: 0;
+    width: calc(100% - 52px);
+  }
+  .nav-logo-main { display: none; }
+  .nav-logo-sub  { display: none; }
+  .nav-logo-lockup {
+    display: flex;
+    width: 100%;
+  }
+  .nav-logo-col {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1;
+  }
+  .nav-logo-col-letter {
+    font-family: var(--font-display);
+    font-weight: 900;
+    font-size: 40px;
+    color: var(--accent);
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+  .nav-logo-col-word {
+    font-family: var(--font-mono);
+    font-size: 8.5px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-top: 4px;
+  }
+  .nav-hamburger {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px;
+  }
+  .nav-drawer { top: 92px; }
 }
 @media (max-width: 520px) {
-  .nav-logo-sub { display: none; }
   .brief-strip { flex-direction: column; align-items: flex-start; }
 }
   </style>
@@ -705,8 +756,24 @@ footer {
 <nav>
   <div class="nav-inner">
     <a href="/" class="nav-logo">
+      <!-- Desktop: compact stacked -->
       <span class="nav-logo-main">SOB</span>
       <span class="nav-logo-sub">Somali OSINT Brief</span>
+      <!-- Mobile: S/O/B column lockup -->
+      <span class="nav-logo-lockup">
+        <span class="nav-logo-col">
+          <span class="nav-logo-col-letter">S</span>
+          <span class="nav-logo-col-word">Somali</span>
+        </span>
+        <span class="nav-logo-col">
+          <span class="nav-logo-col-letter">O</span>
+          <span class="nav-logo-col-word">OSINT</span>
+        </span>
+        <span class="nav-logo-col">
+          <span class="nav-logo-col-letter">B</span>
+          <span class="nav-logo-col-word">Brief</span>
+        </span>
+      </span>
     </a>
     <ul class="nav-links">
       <li><a href="/reports.html">Reports</a></li>
