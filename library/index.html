@@ -27,9 +27,7 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
 html { scroll-behavior: smooth; }
-
 body {
   background: var(--bg);
   color: var(--text);
@@ -52,31 +50,24 @@ header {
   height: 52px;
   display: flex; align-items: center; justify-content: space-between; gap: 16px;
 }
-.logo {
-  display: flex; align-items: baseline; gap: 10px;
-  flex-shrink: 0;
-}
+.logo { display: flex; align-items: baseline; gap: 10px; flex-shrink: 0; }
 .logo-main {
   font-family: 'Playfair Display', serif;
   font-size: 17px; font-weight: 900;
-  color: var(--accent);
-  letter-spacing: -0.3px;
+  color: var(--accent); letter-spacing: -0.3px;
 }
 .logo-sub {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 10px; color: var(--text-muted);
   letter-spacing: 1.5px; text-transform: uppercase;
 }
-.nav {
-  display: flex; gap: 2px; flex-shrink: 0;
-}
+.nav { display: flex; gap: 2px; flex-shrink: 0; }
 .nav-btn {
   padding: 5px 13px; border-radius: 4px;
   border: none; background: none;
   color: var(--text-muted); font-size: 12px; font-weight: 500;
   cursor: pointer; transition: all 0.15s;
-  font-family: 'Inter', sans-serif;
-  white-space: nowrap;
+  font-family: 'Inter', sans-serif; white-space: nowrap;
 }
 .nav-btn:hover { color: var(--text); background: var(--surface); }
 .nav-btn.active { color: var(--accent); background: var(--accent-dim); }
@@ -88,18 +79,13 @@ header {
   border-bottom: 1px solid var(--border);
 }
 .hero-inner { max-width: 1120px; margin: 0 auto; }
-
 .hero-eyebrow {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
   color: var(--accent); margin-bottom: 18px;
   display: flex; align-items: center; gap: 10px;
 }
-.hero-eyebrow::before {
-  content: '';
-  width: 24px; height: 1px; background: var(--accent);
-}
-
+.hero-eyebrow::before { content: ''; width: 24px; height: 1px; background: var(--accent); }
 h1 {
   font-family: 'Playfair Display', serif;
   font-size: clamp(30px, 5.5vw, 56px);
@@ -107,7 +93,6 @@ h1 {
   color: var(--text); margin-bottom: 14px;
 }
 h1 em { color: var(--accent); font-style: italic; }
-
 .hero-desc {
   color: var(--text-dim); font-size: 14px;
   max-width: 520px; line-height: 1.75; margin-bottom: 30px;
@@ -153,12 +138,8 @@ h1 em { color: var(--accent); font-style: italic; }
   display: flex; gap: 28px; align-items: center; flex-wrap: wrap;
 }
 .stat { display: flex; align-items: center; gap: 7px; font-size: 12px; }
-.stat-n {
-  font-family: 'IBM Plex Mono', monospace;
-  font-weight: 600; color: var(--accent);
-}
+.stat-n { font-family: 'IBM Plex Mono', monospace; font-weight: 600; color: var(--accent); }
 .stat-l { color: var(--text-muted); }
-
 .live-pill {
   display: flex; align-items: center; gap: 6px;
   font-family: 'IBM Plex Mono', monospace;
@@ -171,11 +152,9 @@ h1 em { color: var(--accent); font-style: italic; }
   animation: blink 2.2s ease-in-out infinite;
 }
 @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
-
 .updated-at {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px; color: var(--text-muted);
-  margin-left: auto;
+  font-size: 10px; color: var(--text-muted); margin-left: auto;
 }
 
 /* ─── LAYOUT ─────────────────────────────────────────────── */
@@ -218,7 +197,7 @@ h1 em { color: var(--accent); font-style: italic; }
 }
 .section-label::after { content:''; flex:1; height:1px; background: var(--border); }
 
-/* ─── AI BOX ─────────────────────────────────────────────── */
+/* ─── AI SEARCH BOX ──────────────────────────────────────── */
 .ai-box {
   background: var(--surface);
   border: 1px solid var(--border2);
@@ -229,9 +208,7 @@ h1 em { color: var(--accent); font-style: italic; }
   display: none;
 }
 .ai-box.show { display: block; }
-.ai-top {
-  display: flex; align-items: center; gap: 10px; margin-bottom: 10px;
-}
+.ai-top { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
 .ai-badge {
   font-family: 'IBM Plex Mono', monospace; font-size: 9px;
   letter-spacing: 1.5px; text-transform: uppercase;
@@ -249,9 +226,8 @@ h1 em { color: var(--accent); font-style: italic; }
   border-radius: 6px;
   padding: 15px 17px;
   margin-bottom: 8px;
-  cursor: pointer;
   transition: border-color 0.15s, background 0.15s;
-  text-decoration: none; display: block; color: inherit;
+  display: block; color: inherit;
 }
 .card:hover { border-color: var(--border2); background: var(--surface2); }
 
@@ -276,18 +252,73 @@ h1 em { color: var(--accent); font-style: italic; }
 .card-title {
   font-size: 15px; font-weight: 600;
   color: var(--text); line-height: 1.38; margin-bottom: 5px;
+  text-decoration: none; display: block;
 }
+.card-title:hover { color: var(--accent); }
 .card-source { font-size: 12px; color: var(--text-muted); margin-bottom: 7px; }
 .card-excerpt {
   font-size: 13px; color: var(--text-dim); line-height: 1.6;
   display: -webkit-box;
   -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
-.card-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 9px; }
+.card-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 9px; align-items: center; }
 .tag {
   background: var(--surface2); border: 1px solid var(--border);
   color: var(--text-muted); font-size: 11px;
   padding: 2px 7px; border-radius: 3px;
+}
+
+/* ─── BLUF ENGINE ────────────────────────────────────────── */
+.bluf-btn {
+  display: inline-flex; align-items: center; gap: 5px;
+  background: none;
+  border: 1px solid var(--border2);
+  color: var(--text-muted);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 0.8px;
+  padding: 3px 10px; border-radius: 3px;
+  cursor: pointer; transition: all 0.15s;
+  margin-left: auto;
+}
+.bluf-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-dim);
+}
+.bluf-btn.loading {
+  opacity: 0.6; cursor: not-allowed;
+}
+.bluf-btn .bolt { font-size: 11px; }
+
+.bluf-panel {
+  margin-top: 10px;
+  padding: 11px 14px;
+  background: rgba(200,168,75,0.04);
+  border: 1px solid rgba(200,168,75,0.18);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  display: none;
+}
+.bluf-panel.show { display: block; }
+
+.bluf-header {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 7px;
+}
+.bluf-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--accent);
+}
+.bluf-cached {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px; color: var(--text-muted);
+  margin-left: auto;
+}
+.bluf-text {
+  font-size: 13px; color: var(--text); line-height: 1.75;
+}
+.bluf-thinking {
+  font-size: 12px; color: var(--text-muted); font-style: italic;
 }
 
 /* ─── LOADING SKELETON ───────────────────────────────────── */
@@ -322,7 +353,6 @@ h1 em { color: var(--accent); font-style: italic; }
 
 /* ─── SIDEBAR ────────────────────────────────────────────── */
 .sidebar { display: flex; flex-direction: column; gap: 18px; position: sticky; top: 68px; }
-
 .sb-block {
   background: var(--surface);
   border: 1px solid var(--border); border-radius: 6px; overflow: hidden;
@@ -334,8 +364,6 @@ h1 em { color: var(--accent); font-style: italic; }
   color: var(--text-muted);
   display: flex; align-items: center; gap: 8px;
 }
-
-/* News items */
 .sb-news-item {
   padding: 11px 15px; border-bottom: 1px solid var(--border);
   cursor: pointer; transition: background 0.13s;
@@ -345,16 +373,12 @@ h1 em { color: var(--accent); font-style: italic; }
 .sb-news-item:hover { background: var(--surface2); }
 .sb-news-title { font-size: 12px; font-weight: 500; color: var(--text); margin-bottom: 4px; line-height: 1.4; }
 .sb-news-meta { font-size: 10px; color: var(--text-muted); font-family: 'IBM Plex Mono', monospace; }
-
-/* Topics */
 .topics { padding: 11px 15px; display: flex; flex-direction: column; gap: 9px; }
 .topic-row { display: flex; align-items: center; justify-content: space-between; font-size: 12px; gap: 10px; }
 .topic-name { color: var(--text-dim); flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .bar-wrap { width: 64px; height: 3px; background: var(--border); border-radius: 2px; overflow: hidden; flex-shrink: 0; }
 .bar-fill { height: 100%; background: var(--accent); border-radius: 2px; }
 .topic-n { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--text-muted); }
-
-/* Publishers */
 .publishers { padding: 11px 15px; display: flex; flex-direction: column; gap: 7px; }
 .pub-row { display: flex; justify-content: space-between; align-items: center; font-size: 12px; }
 .pub-name { color: var(--text-dim); }
@@ -421,10 +445,8 @@ h1 em { color: var(--accent); font-style: italic; }
 
 <!-- LAYOUT -->
 <div class="layout">
-
-  <!-- MAIN CONTENT -->
   <div id="mainCol">
-    <!-- AI BOX -->
+    <!-- AI SEARCH BOX -->
     <div class="ai-box" id="aiBox">
       <div class="ai-top">
         <span class="ai-badge">AI Analysis</span>
@@ -452,17 +474,14 @@ h1 em { color: var(--accent); font-style: italic; }
 
   <!-- SIDEBAR -->
   <aside class="sidebar">
-    <!-- Live News -->
     <div class="sb-block">
       <div class="sb-head"><div class="live-dot"></div> Today's News</div>
       <div id="sbNews"></div>
     </div>
-    <!-- Topics -->
     <div class="sb-block">
       <div class="sb-head">Top Topics</div>
       <div class="topics" id="sbTopics"></div>
     </div>
-    <!-- Publishers -->
     <div class="sb-block">
       <div class="sb-head">Key Publishers</div>
       <div class="publishers" id="sbPublishers"></div>
@@ -471,6 +490,9 @@ h1 em { color: var(--accent); font-style: italic; }
 </div>
 
 <script>
+// ── CONFIG ─────────────────────────────────────────────────────────────────
+const CF_WORKER = 'https://hoa-gemini-proxy.chrismark09cm.workers.dev';
+
 // ── STATE ──────────────────────────────────────────────────────────────────
 const S = { tab:'all', region:'all', query:'', page:1, perPage:9 };
 let DB = { news:[], articles:[], reports:[], books:[] };
@@ -482,18 +504,58 @@ async function loadData() {
     const res = await fetch('data.json?_=' + Date.now());
     DB = await res.json();
   } catch(e) {
-    console.warn('data.json not found, using empty DB');
+    console.warn('data.json not found');
   }
   updateStats();
   render();
   renderSidebar();
 }
 
+// ── BLUF ENGINE ────────────────────────────────────────────────────────────
+async function getBluf(btn, articleId, url, title, excerpt) {
+  const panel   = document.getElementById('bluf-panel-'  + articleId);
+  const textEl  = document.getElementById('bluf-text-'   + articleId);
+  const cachedEl = document.getElementById('bluf-cached-' + articleId);
+
+  // Toggle off if already showing
+  if (panel.classList.contains('show')) {
+    panel.classList.remove('show');
+    btn.innerHTML = '<span class="bolt">⚡</span> BLUF';
+    return;
+  }
+
+  panel.classList.add('show');
+  btn.classList.add('loading');
+  btn.innerHTML = '<span class="bolt">⚡</span> Loading…';
+  textEl.innerHTML = '<span class="bluf-thinking">Generating BLUF…</span>';
+  cachedEl.textContent = '';
+
+  try {
+    // Single call to Worker — it handles cache check + Gemini + cache write
+    const res = await fetch(CF_WORKER + '/bluf', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ articleUrl: url, title, excerpt })
+    });
+
+    const data = await res.json();
+    textEl.textContent   = data.bluf || 'BLUF unavailable.';
+    cachedEl.textContent = data.cached ? '✓ cached' : 'live';
+
+  } catch(e) {
+    textEl.innerHTML = `<span class="bluf-thinking">Error: ${e.message}</span>`;
+  }
+
+  btn.classList.remove('loading');
+  btn.innerHTML = '<span class="bolt">⚡</span> BLUF';
+}
+
+// ── STATS ──────────────────────────────────────────────────────────────────
 function updateStats() {
-  document.getElementById('sNews').textContent     = DB.news.length;
-  document.getElementById('sArticles').textContent = DB.articles.length;
-  document.getElementById('sReports').textContent  = DB.reports.length;
-  document.getElementById('sBooks').textContent    = DB.books.length;
+  document.getElementById('sNews').textContent     = DB.news?.length || 0;
+  document.getElementById('sArticles').textContent = DB.articles?.length || 0;
+  document.getElementById('sReports').textContent  = DB.reports?.length || 0;
+  document.getElementById('sBooks').textContent    = DB.books?.length || 0;
   if (DB.last_updated) {
     const d = new Date(DB.last_updated);
     document.getElementById('updatedAt').textContent =
@@ -502,12 +564,12 @@ function updateStats() {
 }
 
 function allItems() {
-  return [...DB.news, ...DB.articles, ...DB.reports, ...DB.books];
+  return [...(DB.news||[]), ...(DB.articles||[]), ...(DB.reports||[]), ...(DB.books||[])];
 }
 
 // ── FILTER ─────────────────────────────────────────────────────────────────
 function getFiltered() {
-  let items = S.tab === 'all' ? allItems() : DB[S.tab === 'news' ? 'news' : S.tab + 's'] || [];
+  let items = S.tab === 'all' ? allItems() : (DB[S.tab === 'news' ? 'news' : S.tab + 's'] || []);
   if (S.region !== 'all') items = items.filter(i => i.region === S.region);
   if (S.query) {
     const q = S.query.toLowerCase();
@@ -518,7 +580,6 @@ function getFiltered() {
       (i.tags||[]).some(t => t.toLowerCase().includes(q))
     );
   }
-  // Sort: news by date desc, others stable
   items = [...items].sort((a,b) => {
     if (a.type === 'news' && b.type === 'news') return (b.date||'').localeCompare(a.date||'');
     if (a.type === 'news') return -1;
@@ -535,23 +596,20 @@ function render() {
   const pages = Math.ceil(total / S.perPage);
   const slice = filtered.slice((S.page-1)*S.perPage, S.page*S.perPage);
 
-  // Section label
   const label = S.query ? `${total} result${total!==1?'s':''} for "${S.query}"` :
                 S.tab !== 'all' ? `${total} ${S.tab}${total!==1?'s':''}` :
                 `All Sources (${total})`;
   document.getElementById('secLabel').textContent = label;
 
   const list = document.getElementById('cardsList');
-
   if (!slice.length) {
     list.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div>No results. Try a different search or filter.</div>`;
     document.getElementById('pagination').innerHTML = '';
     return;
   }
 
-  list.innerHTML = slice.map(card).join('');
+  list.innerHTML = slice.map(cardHTML).join('');
 
-  // Pagination
   const pg = document.getElementById('pagination');
   if (pages <= 1) { pg.innerHTML = ''; return; }
   let h = '';
@@ -565,25 +623,47 @@ function pgBtn(label, page, active=false) {
   return `<button class="pg-btn${active?' on':''}" onclick="goPage(${page})">${label}</button>`;
 }
 
-function card(d) {
+function cardHTML(d) {
   const url = d.url || '#';
-  const tags = (d.tags||[]).map(t=>`<span class="tag">${t}</span>`).join('');
+  const tags = (d.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('');
   const excerpt = d.excerpt ? `<div class="card-excerpt">${esc(d.excerpt)}</div>` : '';
+  const isNews = d.type === 'news';
+
+  // BLUF button only for news items
+  const blufBtn = isNews ? `
+    <button class="bluf-btn" onclick="event.stopPropagation();getBluf(this,'${esc(d.id)}','${esc(url)}','${esc(d.title).replace(/'/g,"\\'")}','${esc(d.excerpt||'').replace(/'/g,"\\'")}')">
+      <span class="bolt">⚡</span> BLUF
+    </button>` : '';
+
+  const blufPanel = isNews ? `
+    <div class="bluf-panel" id="bluf-panel-${esc(d.id)}">
+      <div class="bluf-header">
+        <span class="bluf-label">⚡ BLUF</span>
+        <span class="bluf-cached" id="bluf-cached-${esc(d.id)}"></span>
+      </div>
+      <div class="bluf-text" id="bluf-text-${esc(d.id)}"></div>
+    </div>` : '';
+
   return `
-  <a class="card" href="${url}" target="_blank" rel="noopener">
+  <div class="card">
     <div class="card-head">
       <span class="badge badge-${d.type}">${d.type}</span>
       <span class="card-date">${fmtDate(d.date)}</span>
     </div>
-    <div class="card-title">${esc(d.title)}</div>
+    <a class="card-title" href="${url}" target="_blank" rel="noopener">${esc(d.title)}</a>
     <div class="card-source">${esc(d.source)}</div>
     ${excerpt}
-    <div class="card-tags">${tags}<span class="tag">${d.region||''}</span></div>
-  </a>`;
+    <div class="card-tags">
+      ${tags}
+      <span class="tag">${d.region||''}</span>
+      ${blufBtn}
+    </div>
+    ${blufPanel}
+  </div>`;
 }
 
 function esc(s) {
-  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
 function fmtDate(s) {
@@ -604,17 +684,15 @@ function showSkeletons() {
 
 // ── SIDEBAR ────────────────────────────────────────────────────────────────
 function renderSidebar() {
-  // Top news items
-  const news = [...DB.news].sort((a,b)=>(b.date||'').localeCompare(a.date||'')).slice(0,6);
+  const news = [...(DB.news||[])].sort((a,b)=>(b.date||'').localeCompare(a.date||'')).slice(0,6);
   document.getElementById('sbNews').innerHTML = news.length
     ? news.map(n=>`
       <a class="sb-news-item" href="${n.url||'#'}" target="_blank" rel="noopener">
         <div class="sb-news-title">${esc(n.title)}</div>
         <div class="sb-news-meta">${esc(n.source)} · ${fmtDate(n.date)}</div>
       </a>`).join('')
-    : `<div style="padding:14px;color:var(--text-muted);font-size:12px">No news yet — run the GitHub Action to fetch.</div>`;
+    : `<div style="padding:14px;color:var(--text-muted);font-size:12px">No news yet.</div>`;
 
-  // Topics
   const tagCount = {};
   allItems().forEach(i => (i.tags||[]).forEach(t => { tagCount[t]=(tagCount[t]||0)+1; }));
   const topTags = Object.entries(tagCount).sort((a,b)=>b[1]-a[1]).slice(0,7);
@@ -626,7 +704,6 @@ function renderSidebar() {
       <span class="topic-n">${n}</span>
     </div>`).join('');
 
-  // Publishers
   const srcCount = {};
   allItems().forEach(i => { if(i.source) srcCount[i.source]=(srcCount[i.source]||0)+1; });
   const topSrc = Object.entries(srcCount).sort((a,b)=>b[1]-a[1]).slice(0,7);
@@ -655,24 +732,27 @@ function setRegion(btn, region) {
 // ── SEARCH + AI ────────────────────────────────────────────────────────────
 async function runSearch() {
   const q = document.getElementById('searchInput').value.trim();
-  if (!q) { S.query=''; S.page=1; render(); document.getElementById('aiBox').classList.remove('show'); return; }
+  if (!q) {
+    S.query=''; S.page=1; render();
+    document.getElementById('aiBox').classList.remove('show');
+    return;
+  }
   S.query = q; S.page = 1;
-  // Always search across all tabs
   S.tab = 'all';
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
   document.querySelector('[data-tab="all"]').classList.add('active');
   render();
 
-  const aiBox = document.getElementById('aiBox');
+  const aiBox  = document.getElementById('aiBox');
   const aiBody = document.getElementById('aiBody');
-  const aiQ = document.getElementById('aiQ');
+  const aiQ    = document.getElementById('aiQ');
   aiBox.classList.add('show');
   aiQ.textContent = `"${q}"`;
   aiBody.innerHTML = '<span class="ai-thinking">Generating intelligence analysis…</span>';
   document.getElementById('searchBtn').disabled = true;
 
   try {
-    const res = await fetch('https://hoa-gemini-proxy.chrismark09cm.workers.dev', {
+    const res = await fetch(CF_WORKER, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -691,7 +771,6 @@ async function runSearch() {
   document.getElementById('searchBtn').disabled = false;
 }
 
-// ── KEYBOARD ───────────────────────────────────────────────────────────────
 document.getElementById('searchInput').addEventListener('keydown', e => {
   if (e.key === 'Enter') runSearch();
 });
