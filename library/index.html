@@ -683,7 +683,7 @@ async function runSearch() {
       })
     });
     const data = await res.json();
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || JSON.stringify(data);
+    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || 'Analysis unavailable.';
     aiBody.textContent = text;
   } catch(e) {
     aiBody.innerHTML = `<span class="ai-thinking">Error: ${e.message}</span>`;
