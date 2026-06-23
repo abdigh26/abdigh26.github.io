@@ -616,9 +616,74 @@ footer {
 }
 .footer-links a:hover { color: var(--accent); background: var(--accent-dim); }
 
+/* ── Hamburger ───────────────────────────────────────────────── */
+.nav-hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 36px; height: 36px;
+  background: none;
+  border: 1px solid var(--border2);
+  border-radius: var(--radius);
+  cursor: pointer;
+  padding: 8px;
+  flex-shrink: 0;
+  transition: border-color 0.15s;
+}
+.nav-hamburger:hover { border-color: var(--accent); }
+.nav-hamburger span {
+  display: block;
+  width: 100%; height: 1.5px;
+  background: var(--text-muted);
+  border-radius: 2px;
+  transition: background 0.15s, transform 0.2s, opacity 0.2s;
+}
+.nav-hamburger:hover span { background: var(--accent); }
+.nav-hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.nav-hamburger.open span:nth-child(2) { opacity: 0; }
+.nav-hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+/* Mobile drawer */
+.nav-drawer {
+  display: none;
+  position: fixed;
+  top: 56px; left: 0; right: 0;
+  background: rgba(8,9,9,0.98);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  z-index: 199;
+  padding: 12px 16px 20px;
+  flex-direction: column;
+  gap: 2px;
+}
+.nav-drawer.open { display: flex; }
+.nav-drawer a {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  transition: color 0.15s, background 0.15s;
+  border-bottom: 1px solid var(--border);
+}
+.nav-drawer a:last-child { border-bottom: none; }
+.nav-drawer a:hover { color: var(--accent); background: var(--accent-dim); }
+.nav-drawer .drawer-brief {
+  color: var(--accent);
+  border: 1px solid var(--accent-mid);
+  text-align: center;
+  margin-top: 8px;
+  border-bottom: 1px solid var(--accent-mid);
+}
+
 /* ── Responsive ──────────────────────────────────────────────── */
 @media (max-width: 780px) {
+  .nav-links { display: none; }
   .nav-brief { display: none; }
+  .nav-hamburger { display: flex; }
   .platform-grid { grid-template-columns: 1fr; }
   .dashboard-promo { grid-template-columns: 1fr; gap: 24px; padding: 24px; }
   .article-row { grid-template-columns: 80px 1fr; }
@@ -629,7 +694,6 @@ footer {
   .stat-divider { display: none; }
 }
 @media (max-width: 520px) {
-  .nav-links li:nth-child(n+4) { display: none; }
   .nav-logo-sub { display: none; }
   .brief-strip { flex-direction: column; align-items: flex-start; }
 }
@@ -652,8 +716,40 @@ footer {
       <li><a href="/about.html">About</a></li>
     </ul>
     <a href="/brief/" class="nav-brief">Request Access</a>
+    <button class="nav-hamburger" id="navHamburger" aria-label="Open menu" onclick="toggleDrawer()">
+      <span></span><span></span><span></span>
+    </button>
   </div>
 </nav>
+
+<!-- MOBILE DRAWER -->
+<div class="nav-drawer" id="navDrawer">
+  <a href="/reports.html" onclick="closeDrawer()">Reports</a>
+  <a href="/articles.html" onclick="closeDrawer()">Articles</a>
+  <a href="/dashboard.html" onclick="closeDrawer()">Dashboard</a>
+  <a href="/library/" onclick="closeDrawer()">Library</a>
+  <a href="/about.html" onclick="closeDrawer()">About</a>
+  <a href="/brief/" class="drawer-brief" onclick="closeDrawer()">⚡ Request Access</a>
+</div>
+
+<script>
+function toggleDrawer() {
+  const drawer = document.getElementById('navDrawer');
+  const btn = document.getElementById('navHamburger');
+  drawer.classList.toggle('open');
+  btn.classList.toggle('open');
+}
+function closeDrawer() {
+  document.getElementById('navDrawer').classList.remove('open');
+  document.getElementById('navHamburger').classList.remove('open');
+}
+// Close drawer on outside click
+document.addEventListener('click', function(e) {
+  const drawer = document.getElementById('navDrawer');
+  const btn = document.getElementById('navHamburger');
+  if (!drawer.contains(e.target) && !btn.contains(e.target)) closeDrawer();
+});
+</script>
 
 <main class="site-main">
   {{ content }}
