@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HOA Intelligence Platform — Capability Brief</title>
+<meta name="description" content="Horn of Africa Intelligence Platform: automated conflict data, live intelligence library, and AI-powered analysis for institutional decision-makers.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg:         #080909;
+  --surface:    #0f1114;
+  --surface2:   #13161c;
+  --border:     #1c2028;
+  --border2:    #252b35;
+  --accent:     #c8a84b;
+  --accent-dim: rgba(200,168,75,0.10);
+  --text:       #e4e5e9;
+  --text-dim:   #9ca3af;
+  --text-muted: #5c6270;
+  --red:        #d95f4b;
+  --green:      #4bb88a;
+  --blue:       #5590cc;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── HEADER ─────────────────────────────────────────────── */
+header {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(8,9,9,0.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+  height: 52px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.logo {
+  font-family: 'Playfair Display', serif;
+  font-size: 16px; font-weight: 900;
+  color: var(--accent);
+}
+.header-tag {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--text-muted);
+}
+.request-btn {
+  background: var(--accent); color: #080909;
+  border: none; border-radius: 4px;
+  padding: 7px 18px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px; font-weight: 600; letter-spacing: 0.8px;
+  cursor: pointer; text-decoration: none;
+  transition: opacity 0.15s; white-space: nowrap;
+}
+.request-btn:hover { opacity: 0.85; }
+
+/* ── HERO ────────────────────────────────────────────────── */
+.hero {
+  min-height: 88vh;
+  display: flex; flex-direction: column; justify-content: center;
+  padding: 80px 24px 64px;
+  max-width: 860px; margin: 0 auto;
+  position: relative;
+}
+
+.hero-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 24px;
+  display: flex; align-items: center; gap: 12px;
+}
+.hero-eyebrow::before { content:''; width: 32px; height: 1px; background: var(--accent); }
+
+.hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(36px, 6vw, 72px);
+  font-weight: 900; line-height: 1.05;
+  color: var(--text); margin-bottom: 28px;
+  letter-spacing: -1px;
+}
+.hero h1 em { color: var(--accent); font-style: italic; }
+
+.hero-body {
+  font-size: 16px; color: var(--text-dim);
+  max-width: 580px; line-height: 1.8;
+  margin-bottom: 48px;
+}
+
+/* Data strip */
+.data-strip {
+  display: flex; gap: 0;
+  border: 1px solid var(--border2);
+  border-radius: 6px; overflow: hidden;
+  max-width: 580px; margin-bottom: 48px;
+}
+.data-cell {
+  flex: 1; padding: 16px 20px;
+  border-right: 1px solid var(--border2);
+}
+.data-cell:last-child { border-right: none; }
+.data-n {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px; font-weight: 900;
+  color: var(--accent); line-height: 1;
+  margin-bottom: 4px;
+}
+.data-l {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.hero-cta { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+.cta-primary {
+  background: var(--accent); color: #080909;
+  border: none; border-radius: 4px;
+  padding: 13px 28px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;
+  cursor: pointer; text-decoration: none;
+  transition: opacity 0.15s;
+}
+.cta-primary:hover { opacity: 0.85; }
+.cta-secondary {
+  color: var(--text-dim); font-size: 13px;
+  text-decoration: none; border-bottom: 1px solid var(--border2);
+  padding-bottom: 2px; transition: color 0.15s, border-color 0.15s;
+}
+.cta-secondary:hover { color: var(--accent); border-color: var(--accent); }
+
+/* ── SECTION BASE ─────────────────────────────────────────── */
+.section {
+  max-width: 860px; margin: 0 auto;
+  padding: 72px 24px;
+  border-top: 1px solid var(--border);
+}
+
+.section-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 2.5px; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 12px;
+}
+.section-title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(26px, 4vw, 40px);
+  font-weight: 900; line-height: 1.1;
+  color: var(--text); margin-bottom: 16px;
+}
+.section-body {
+  font-size: 15px; color: var(--text-dim);
+  max-width: 560px; line-height: 1.8;
+  margin-bottom: 40px;
+}
+
+/* ── PILLARS ─────────────────────────────────────────────── */
+.pillars { display: flex; flex-direction: column; gap: 2px; }
+.pillar {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 24px 28px;
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 0 20px;
+  align-items: start;
+  transition: border-color 0.15s;
+}
+.pillar:hover { border-color: var(--border2); }
+.pillar-num {
+  font-family: 'Playfair Display', serif;
+  font-size: 36px; font-weight: 900;
+  color: var(--border2); line-height: 1;
+  padding-top: 2px;
+}
+.pillar-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 6px;
+}
+.pillar-title {
+  font-size: 16px; font-weight: 600;
+  color: var(--text); margin-bottom: 8px; line-height: 1.3;
+}
+.pillar-desc { font-size: 13px; color: var(--text-dim); line-height: 1.7; }
+
+/* ── TIERS ───────────────────────────────────────────────── */
+.tiers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.tier {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 28px;
+}
+.tier.premium {
+  border-color: rgba(200,168,75,0.35);
+  background: linear-gradient(135deg, rgba(200,168,75,0.06) 0%, var(--surface) 60%);
+}
+.tier-badge {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px; letter-spacing: 2px; text-transform: uppercase;
+  padding: 3px 10px; border-radius: 3px;
+  display: inline-block; margin-bottom: 16px;
+}
+.tier-badge.free { background: var(--surface2); color: var(--text-muted); }
+.tier-badge.paid { background: var(--accent-dim); color: var(--accent); }
+.tier-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 22px; font-weight: 900;
+  color: var(--text); margin-bottom: 6px;
+}
+.tier-desc { font-size: 13px; color: var(--text-dim); margin-bottom: 20px; line-height: 1.6; }
+.tier-features { display: flex; flex-direction: column; gap: 9px; }
+.tier-feature {
+  display: flex; align-items: flex-start; gap: 10px;
+  font-size: 13px; color: var(--text-dim); line-height: 1.5;
+}
+.feat-icon { flex-shrink: 0; font-size: 12px; margin-top: 1px; }
+.feat-icon.on { color: var(--green); }
+.feat-icon.off { color: var(--text-muted); }
+.feat-icon.lock { color: var(--accent); }
+
+/* ── COVERAGE ────────────────────────────────────────────── */
+.coverage-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+}
+.cov-cell {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 18px 20px;
+}
+.cov-country {
+  font-size: 14px; font-weight: 600; color: var(--text);
+  margin-bottom: 4px;
+}
+.cov-desc { font-size: 12px; color: var(--text-muted); line-height: 1.5; }
+
+/* ── METHODOLOGY ─────────────────────────────────────────── */
+.method-list { display: flex; flex-direction: column; gap: 2px; }
+.method-item {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 16px 20px;
+  display: flex; align-items: flex-start; gap: 16px;
+}
+.method-key {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--accent); flex-shrink: 0; padding-top: 2px;
+  min-width: 120px;
+}
+.method-val { font-size: 13px; color: var(--text-dim); line-height: 1.6; }
+
+/* ── CTA BLOCK ───────────────────────────────────────────── */
+.cta-block {
+  max-width: 860px; margin: 0 auto;
+  padding: 72px 24px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+.cta-block-title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(28px, 5vw, 48px);
+  font-weight: 900; line-height: 1.1;
+  color: var(--text); margin-bottom: 16px;
+}
+.cta-block-title em { color: var(--accent); font-style: italic; }
+.cta-block-body {
+  font-size: 15px; color: var(--text-dim);
+  max-width: 480px; margin: 0 auto 36px;
+  line-height: 1.8;
+}
+.cta-email {
+  display: inline-block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px; color: var(--accent);
+  text-decoration: none;
+  border: 1px solid rgba(200,168,75,0.35);
+  padding: 13px 28px; border-radius: 4px;
+  transition: background 0.15s;
+}
+.cta-email:hover { background: var(--accent-dim); }
+
+/* ── FOOTER ──────────────────────────────────────────────── */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 24px;
+  display: flex; justify-content: space-between; align-items: center;
+  flex-wrap: wrap; gap: 12px;
+  max-width: 860px; margin: 0 auto;
+}
+.footer-logo {
+  font-family: 'Playfair Display', serif;
+  font-size: 14px; font-weight: 900; color: var(--accent);
+}
+.footer-links { display: flex; gap: 20px; }
+.footer-link {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--text-muted); text-decoration: none;
+  transition: color 0.15s;
+}
+.footer-link:hover { color: var(--accent); }
+
+/* ── DIVIDER LINE ─────────────────────────────────────────── */
+.rule {
+  border: none; border-top: 1px solid var(--border);
+  max-width: 860px; margin: 0 auto;
+}
+
+/* ── RESPONSIVE ──────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .tiers { grid-template-columns: 1fr; }
+  .coverage-grid { grid-template-columns: 1fr 1fr; }
+  .data-strip { flex-wrap: wrap; }
+  .data-cell { border-right: none; border-bottom: 1px solid var(--border2); }
+  .data-cell:last-child { border-bottom: none; }
+  .header-tag { display: none; }
+  .method-item { flex-direction: column; gap: 6px; }
+  .method-key { min-width: unset; }
+  footer { flex-direction: column; align-items: flex-start; }
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <span class="logo">HOA Intelligence</span>
+  <span class="header-tag">Capability Brief</span>
+  <a class="request-btn" href="mailto:chrismark09cm@gmail.com?subject=HOA Intelligence Platform — Access Request">Request Access</a>
+</header>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-eyebrow">Horn of Africa · Intelligence as a Service</div>
+  <h1>Conflict data.<br>Live intelligence.<br><em>Actionable insight.</em></h1>
+  <p class="hero-body">The HOA Intelligence Platform synthesizes 28 years of Somalia security incident data, daily open-source intelligence, and AI-powered analysis into a single operational resource built for institutional decision-makers.</p>
+
+  <div class="data-strip">
+    <div class="data-cell">
+      <div class="data-n">51K+</div>
+      <div class="data-l">Verified Incidents</div>
+    </div>
+    <div class="data-cell">
+      <div class="data-n">1997</div>
+      <div class="data-l">Dataset Origin</div>
+    </div>
+    <div class="data-cell">
+      <div class="data-n">Weekly</div>
+      <div class="data-l">Live Updates</div>
+    </div>
+    <div class="data-cell">
+      <div class="data-n">6</div>
+      <div class="data-l">Countries Covered</div>
+    </div>
+  </div>
+
+  <div class="hero-cta">
+    <a class="cta-primary" href="mailto:chrismark09cm@gmail.com?subject=HOA Intelligence Platform — Access Request">Request Access</a>
+    <a class="cta-secondary" href="https://abdigh26.github.io/library/" target="_blank" rel="noopener">View the Intelligence Library →</a>
+  </div>
+</div>
+
+<!-- PILLARS -->
+<div class="section">
+  <div class="section-eyebrow">Platform Architecture</div>
+  <h2 class="section-title">Three integrated intelligence layers.</h2>
+  <p class="section-body">Each pillar operates independently and feeds into the others — incident data informs library context, library context informs AI analysis.</p>
+
+  <div class="pillars">
+    <div class="pillar">
+      <div class="pillar-num">I</div>
+      <div>
+        <div class="pillar-label">Security Dashboard</div>
+        <div class="pillar-title">Somalia Conflict Incident Database, 1997–Present</div>
+        <div class="pillar-desc">51,000+ verified incidents sourced from ACLED and cross-referenced field reports. Filter by actor, event type, Federal Member State, district, and date range. Updated weekly via automated pipeline. Covers battles, IED events, targeted killings, civilian violence, and political developments across all Somali administrative regions.</div>
+      </div>
+    </div>
+    <div class="pillar">
+      <div class="pillar-num">II</div>
+      <div>
+        <div class="pillar-label">HOA Intelligence Library</div>
+        <div class="pillar-title">Live News, Reports & Academic Literature — Daily Ingestion</div>
+        <div class="pillar-desc">Automated daily aggregation of live press, think-tank briefs, UN reports, and peer-reviewed literature covering Somalia, Ethiopia, Eritrea, Djibouti, Kenya, and the Red Sea corridor. Every entry is tagged by region, topic, and source tier. AI-powered search returns direct intelligence assessments — not links.</div>
+      </div>
+    </div>
+    <div class="pillar">
+      <div class="pillar-num">III</div>
+      <div>
+        <div class="pillar-label">BLUF Engine</div>
+        <div class="pillar-title">On-Demand AI Summaries — Bottom Line Up Front</div>
+        <div class="pillar-desc">Every news item carries a one-click BLUF: two sentences stating exactly what happened and the immediate tactical, political, or commercial risk impact. Generated on demand by Gemini, cached permanently. Designed for analysts who need rapid situational awareness without reading full articles.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- COVERAGE -->
+<div class="section">
+  <div class="section-eyebrow">Geographic Coverage</div>
+  <h2 class="section-title">The full Horn of Africa strategic corridor.</h2>
+  <p class="section-body">Primary analytical focus on Somalia with broader Horn of Africa and Red Sea monitoring across six countries.</p>
+
+  <div class="coverage-grid">
+    <div class="cov-cell">
+      <div class="cov-country">Somalia</div>
+      <div class="cov-desc">Primary focus. 28-year incident dataset. All Federal Member States. Actor-level granularity.</div>
+    </div>
+    <div class="cov-cell">
+      <div class="cov-country">Ethiopia</div>
+      <div class="cov-desc">Conflict dynamics, Tigray/Amhara developments, federal instability monitoring.</div>
+    </div>
+    <div class="cov-cell">
+      <div class="cov-country">Eritrea</div>
+      <div class="cov-desc">Regional alignment shifts, Red Sea access, proxy conflict indicators.</div>
+    </div>
+    <div class="cov-cell">
+      <div class="cov-country">Djibouti</div>
+      <div class="cov-desc">Port security, basing dynamics, foreign military presence.</div>
+    </div>
+    <div class="cov-cell">
+      <div class="cov-country">Kenya</div>
+      <div class="cov-desc">Cross-border Al-Shabaab activity, northern frontier developments.</div>
+    </div>
+    <div class="cov-cell">
+      <div class="cov-country">Red Sea</div>
+      <div class="cov-desc">Bab al-Mandeb, Houthi interdiction, shipping lane risk, port access.</div>
+    </div>
+  </div>
+</div>
+
+<!-- TIERS -->
+<div class="section">
+  <div class="section-eyebrow">Access Tiers</div>
+  <h2 class="section-title">Public access. Institutional depth.</h2>
+  <p class="section-body">The platform is publicly accessible at the baseline level. Institutional access unlocks live data, full filtering, and bespoke deliverables.</p>
+
+  <div class="tiers">
+    <div class="tier">
+      <span class="tier-badge free">Public Access</span>
+      <div class="tier-name">Open</div>
+      <div class="tier-desc">Full platform access with a 30-day data lag on the security dashboard and standard library querying.</div>
+      <div class="tier-features">
+        <div class="tier-feature"><span class="feat-icon on">✓</span> Security dashboard (30-day lag)</div>
+        <div class="tier-feature"><span class="feat-icon on">✓</span> HOA Library — standard search</div>
+        <div class="tier-feature"><span class="feat-icon on">✓</span> Published analytical briefs</div>
+        <div class="tier-feature"><span class="feat-icon off">—</span> Live incident data</div>
+        <div class="tier-feature"><span class="feat-icon off">—</span> Advanced actor/district filters</div>
+        <div class="tier-feature"><span class="feat-icon off">—</span> BLUF Engine</div>
+        <div class="tier-feature"><span class="feat-icon off">—</span> Data exports</div>
+      </div>
+    </div>
+    <div class="tier premium">
+      <span class="tier-badge paid">Institutional</span>
+      <div class="tier-name">Premium</div>
+      <div class="tier-desc">Full platform access with live data, uncapped analysis, and custom research options for operational teams.</div>
+      <div class="tier-features">
+        <div class="tier-feature"><span class="feat-icon lock">⚡</span> Live incident data — no lag</div>
+        <div class="tier-feature"><span class="feat-icon lock">⚡</span> Full actor, district & type filters</div>
+        <div class="tier-feature"><span class="feat-icon lock">⚡</span> BLUF Engine — uncapped</div>
+        <div class="tier-feature"><span class="feat-icon lock">⚡</span> AI Library search — full depth</div>
+        <div class="tier-feature"><span class="feat-icon lock">⚡</span> Data exports (CSV, JSON)</div>
+        <div class="tier-feature"><span class="feat-icon lock">⚡</span> Bespoke research & custom briefs</div>
+        <div class="tier-feature"><span class="feat-icon lock">⚡</span> Dedicated analyst access</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- METHODOLOGY -->
+<div class="section">
+  <div class="section-eyebrow">Data Integrity</div>
+  <h2 class="section-title">Methodology & provenance.</h2>
+  <p class="section-body">Institutional buyers require verifiable data chains. Every record in the platform carries traceable sourcing and follows documented classification rules.</p>
+
+  <div class="method-list">
+    <div class="method-item">
+      <span class="method-key">Primary Source</span>
+      <span class="method-val">ACLED (Armed Conflict Location & Event Data Project) — cross-referenced with local Somali press, UN Security Council reports, and field correspondents.</span>
+    </div>
+    <div class="method-item">
+      <span class="method-key">Deduplication</span>
+      <span class="method-val">Automated MD5 fingerprint matching on Date + District + Actor + Event Type prevents duplicate records across manual daily entries and weekly automated ingestion.</span>
+    </div>
+    <div class="method-item">
+      <span class="method-key">Update Cycle</span>
+      <span class="method-val">Weekly automated sync via GitHub Actions pipeline. Daily library ingestion from RSS feeds, policy repositories, and live news sources.</span>
+    </div>
+    <div class="method-item">
+      <span class="method-key">Classification</span>
+      <span class="method-val">Events classified per ACLED schema: Battles, Explosions/Remote Violence, Violence Against Civilians, Protests, Riots, and Strategic Developments.</span>
+    </div>
+    <div class="method-item">
+      <span class="method-key">Coverage Span</span>
+      <span class="method-val">February 1997 to present. 51,200+ incident records across all Somali Federal Member States, districts, and localities.</span>
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="cta-block">
+  <h2 class="cta-block-title">Ready to operationalize<br><em>Horn of Africa intelligence?</em></h2>
+  <p class="cta-block-body">Contact us to discuss institutional access, custom research requirements, or a platform walkthrough for your team.</p>
+  <a class="cta-email" href="mailto:chrismark09cm@gmail.com?subject=HOA Intelligence Platform — Access Request">chrismark09cm@gmail.com</a>
+</div>
+
+<hr class="rule">
+
+<!-- FOOTER -->
+<footer>
+  <span class="footer-logo">HOA Intelligence Platform</span>
+  <div class="footer-links">
+    <a class="footer-link" href="https://abdigh26.github.io/" target="_blank">Platform</a>
+    <a class="footer-link" href="https://abdigh26.github.io/library/" target="_blank">Library</a>
+    <a class="footer-link" href="https://abdigh26.github.io/dashboard/" target="_blank">Dashboard</a>
+  </div>
+</footer>
+
+</body>
+</html>
