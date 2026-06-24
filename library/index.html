@@ -366,6 +366,16 @@ h1 em { color: var(--accent); font-style: italic; }
   font-size: 12px; color: var(--text-muted); font-style: italic;
 }
 
+/* ─── MOBILE LIVE BAR ───────────────────────────────────── */
+.mobile-live-bar {
+  display: none;
+  align-items: center;
+  gap: 16px;
+  padding: 8px 20px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+
 /* ─── LOADING SKELETON ───────────────────────────────────── */
 .skel {
   background: linear-gradient(90deg, var(--surface) 0%, var(--surface2) 50%, var(--surface) 100%);
@@ -433,10 +443,11 @@ h1 em { color: var(--accent); font-style: italic; }
 @media (max-width: 780px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { display: none; }
+  .mobile-live-bar { display: flex; }
   h1 { font-size: 28px; }
   .hero { padding: 36px 16px 30px; }
   .header-inner { gap: 8px; }
-  .updated-at { display: none; }
+  .updated-at { display: block; font-size: 10px; margin-left: auto; }
   /* Hide tab nav on mobile, show hamburger */
   .nav { display: none; }
   .hamburger { display: flex; }
@@ -507,6 +518,12 @@ h1 em { color: var(--accent); font-style: italic; }
 
 
 
+<!-- MOBILE LIVE BAR -->
+<div class="mobile-live-bar">
+  <div class="live-pill"><div class="live-dot"></div>Live</div>
+  <span class="updated-at" id="updatedAt"></span>
+</div>
+
 <!-- LAYOUT -->
 <div class="layout">
   <div id="mainCol">
@@ -569,6 +586,11 @@ async function loadData() {
     DB = await res.json();
   } catch(e) {
     console.warn('data.json not found');
+  }
+  if (DB.last_updated) {
+    const d = new Date(DB.last_updated);
+    const el = document.getElementById('updatedAt');
+    if (el) el.textContent = 'Updated ' + d.toLocaleDateString('en-GB', {day:'numeric',month:'short',year:'numeric'});
   }
   render();
   renderSidebar();
