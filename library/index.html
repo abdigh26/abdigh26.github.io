@@ -78,7 +78,9 @@ header {
   width: 36px; height: 36px;
   background: none; border: 1px solid var(--border2);
   border-radius: 4px; cursor: pointer;
-  padding: 8px; flex-shrink: 0; transition: border-color 0.15s;
+  padding: 8px; flex-shrink: 0;
+  margin-left: auto;
+  transition: border-color 0.15s;
 }
 .hamburger:hover { border-color: var(--accent); }
 .hamburger span {
@@ -191,6 +193,7 @@ h1 em { color: var(--accent); font-style: italic; }
 .live-dot {
   width: 6px; height: 6px; border-radius: 50%;
   background: var(--green);
+  flex-shrink: 0;
   animation: blink 2.2s ease-in-out infinite;
 }
 @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
@@ -437,10 +440,8 @@ h1 em { color: var(--accent); font-style: italic; }
   /* Hide tab nav on mobile, show hamburger */
   .nav { display: none; }
   .hamburger { display: flex; }
-  /* Tighten logo on mobile */
-  .logo-col-letter { font-size: 20px; }
-  .logo-col-word { font-size: 6.5px; }
-  .logo-col { min-width: 30px; }
+  /* Logo same size as desktop on mobile */
+  .logo-col { width: 56px; }
 }
 </style>
 </head>
