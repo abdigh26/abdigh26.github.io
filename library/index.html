@@ -50,17 +50,71 @@ header {
   height: 52px;
   display: flex; align-items: center; justify-content: space-between; gap: 16px;
 }
-.logo { display: flex; align-items: baseline; gap: 10px; flex-shrink: 0; }
-.logo-main {
+/* SOB Logo lockup */
+.logo-lockup {
+  display: flex; gap: 0;
+  text-decoration: none; flex-shrink: 0;
+}
+.logo-col {
+  display: flex; flex-direction: column;
+  align-items: flex-start; min-width: 36px;
+}
+.logo-col-letter {
   font-family: 'Playfair Display', serif;
-  font-size: 17px; font-weight: 900;
-  color: var(--accent); letter-spacing: -0.3px;
+  font-weight: 900; font-size: 23px;
+  color: var(--accent); line-height: 1; letter-spacing: -0.5px;
 }
-.logo-sub {
+.logo-col-word {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px; color: var(--text-muted);
-  letter-spacing: 1.5px; text-transform: uppercase;
+  font-size: 7px; letter-spacing: 1.5px;
+  text-transform: uppercase; color: var(--text-muted);
+  margin-top: 3px; white-space: nowrap;
 }
+
+/* Hamburger */
+.hamburger {
+  display: none; flex-direction: column;
+  justify-content: center; gap: 5px;
+  width: 36px; height: 36px;
+  background: none; border: 1px solid var(--border2);
+  border-radius: 4px; cursor: pointer;
+  padding: 8px; flex-shrink: 0; transition: border-color 0.15s;
+}
+.hamburger:hover { border-color: var(--accent); }
+.hamburger span {
+  display: block; width: 100%; height: 1.5px;
+  background: var(--text-muted); border-radius: 2px;
+  transition: background 0.15s, transform 0.2s, opacity 0.2s;
+}
+.hamburger:hover span { background: var(--accent); }
+.hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.hamburger.open span:nth-child(2) { opacity: 0; }
+.hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+/* Mobile drawer */
+.lib-drawer {
+  display: none; position: fixed;
+  top: 52px; left: 0; right: 0;
+  background: rgba(8,9,9,0.98);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  z-index: 199; padding: 12px 16px 20px;
+  flex-direction: column; gap: 2px;
+}
+.lib-drawer.open { display: flex; }
+.lib-drawer a {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--text-muted); padding: 12px 14px; border-radius: 4px;
+  transition: color 0.15s, background 0.15s;
+  border-bottom: 1px solid var(--border); text-decoration: none;
+}
+.lib-drawer a:last-child {
+  border-bottom: none; color: var(--accent);
+  border: 1px solid rgba(200,168,75,0.35);
+  text-align: center; margin-top: 8px;
+}
+.lib-drawer a:hover { color: var(--accent); background: var(--accent-dim); }
 .nav { display: flex; gap: 2px; flex-shrink: 0; }
 .nav-btn {
   padding: 5px 13px; border-radius: 4px;
@@ -391,9 +445,14 @@ h1 em { color: var(--accent); font-style: italic; }
   h1 { font-size: 28px; }
   .hero { padding: 36px 16px 30px; }
   .header-inner { gap: 8px; }
-  .logo-sub { display: none; }
-  .nav-btn { padding: 5px 9px; font-size: 11px; }
   .updated-at { display: none; }
+  /* Hide tab nav on mobile, show hamburger */
+  .nav { display: none; }
+  .hamburger { display: flex; }
+  /* Tighten logo on mobile */
+  .logo-col-letter { font-size: 20px; }
+  .logo-col-word { font-size: 6.5px; }
+  .logo-col { min-width: 30px; }
 }
 </style>
 </head>
@@ -402,11 +461,23 @@ h1 em { color: var(--accent); font-style: italic; }
 <!-- HEADER -->
 <header>
   <div class="header-inner">
-    <a href="/" style="font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--text-muted);text-decoration:none;border:1px solid var(--border2);padding:5px 10px;border-radius:4px;white-space:nowrap;flex-shrink:0;transition:color 0.15s;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-muted)'">← SOB</a>
-    <div class="logo">
-      <span class="logo-main">HOA Library</span>
-      <span class="logo-sub">Intelligence Database</span>
-    </div>
+    <!-- SOB Logo lockup -->
+    <a href="/" class="logo-lockup">
+      <span class="logo-col">
+        <span class="logo-col-letter">S</span>
+        <span class="logo-col-word">Somali</span>
+      </span>
+      <span class="logo-col">
+        <span class="logo-col-letter">O</span>
+        <span class="logo-col-word">OSINT</span>
+      </span>
+      <span class="logo-col">
+        <span class="logo-col-letter">B</span>
+        <span class="logo-col-word">Brief</span>
+      </span>
+    </a>
+
+    <!-- Tab nav -->
     <nav class="nav">
       <button class="nav-btn active" data-tab="all"     onclick="setTab(this)">All</button>
       <button class="nav-btn"        data-tab="news"    onclick="setTab(this)">News</button>
@@ -414,8 +485,22 @@ h1 em { color: var(--accent); font-style: italic; }
       <button class="nav-btn"        data-tab="report"  onclick="setTab(this)">Reports</button>
       <button class="nav-btn"        data-tab="book"    onclick="setTab(this)">Books</button>
     </nav>
+
+    <!-- Hamburger -->
+    <button class="hamburger" id="libHamburger" onclick="toggleLibDrawer()" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
   </div>
 </header>
+
+<!-- MOBILE DRAWER -->
+<div class="lib-drawer" id="libDrawer">
+  <a href="/" onclick="closeLibDrawer()">← SOB Home</a>
+  <a href="/reports.html" onclick="closeLibDrawer()">Reports</a>
+  <a href="/articles.html" onclick="closeLibDrawer()">Articles</a>
+  <a href="/dashboard.html" onclick="closeLibDrawer()">Dashboard</a>
+  <a href="/brief/" onclick="closeLibDrawer()">⚡ Request Access</a>
+</div>
 
 <!-- HERO -->
 <div class="hero">
@@ -777,6 +862,23 @@ document.getElementById('searchInput').addEventListener('keydown', e => {
 
 // ── INIT ───────────────────────────────────────────────────────────────────
 loadData();
+
+// ── LIBRARY DRAWER ─────────────────────────────────────────────────────────
+function toggleLibDrawer() {
+  const drawer = document.getElementById('libDrawer');
+  const btn = document.getElementById('libHamburger');
+  drawer.classList.toggle('open');
+  btn.classList.toggle('open');
+}
+function closeLibDrawer() {
+  document.getElementById('libDrawer').classList.remove('open');
+  document.getElementById('libHamburger').classList.remove('open');
+}
+document.addEventListener('click', function(e) {
+  const drawer = document.getElementById('libDrawer');
+  const btn = document.getElementById('libHamburger');
+  if (drawer && btn && !drawer.contains(e.target) && !btn.contains(e.target)) closeLibDrawer();
+});
 </script>
 </body>
 </html>
