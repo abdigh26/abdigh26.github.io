@@ -69,28 +69,44 @@ nav {
 /* Logo */
 .nav-logo {
   display: flex;
-  flex-direction: column;
-  gap: 1px;
   flex-shrink: 0;
   line-height: 1;
+  text-decoration: none;
 }
-.nav-logo-main {
+.nav-logo-main { display: none; }
+.nav-logo-sub  { display: none; }
+
+/* S/O/B lockup — desktop */
+.nav-logo-lockup {
+  display: flex;
+  gap: 0;
+}
+.nav-logo-col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 56px;
+  flex-shrink: 0;
+}
+.nav-logo-col-letter {
   font-family: var(--font-display);
-  font-weight: 800;
-  font-size: 15px;
+  font-weight: 900;
+  font-size: 23px;
   color: var(--accent);
-  letter-spacing: -0.3px;
+  line-height: 1;
+  letter-spacing: -0.5px;
 }
-.nav-logo-sub {
+.nav-logo-col-word {
   font-family: var(--font-mono);
-  font-size: 9px;
-  letter-spacing: 2px;
+  font-size: 7px;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
   color: var(--text-muted);
+  margin-top: 3px;
+  white-space: nowrap;
 }
 
-/* Hide mobile lockup on desktop */
-.nav-logo-lockup { display: none; }
+/* Lockup always visible */
 
 /* Nav links */
 .nav-links {
@@ -696,54 +712,7 @@ footer {
   .stat-bar { flex-wrap: wrap; margin: 0; }
   .stat-divider { display: none; }
 
-  /* Masthead logo on mobile — S/O/B column lockup */
-  nav { height: auto; }
-  .nav-inner {
-    height: auto;
-    padding: 14px 20px 14px;
-    position: relative;
-    align-items: center;
-  }
-  .nav-logo {
-    flex-direction: row;
-    gap: 0;
-    width: calc(100% - 52px);
-  }
-  .nav-logo-main { display: none; }
-  .nav-logo-sub  { display: none; }
-  .nav-logo-lockup {
-    display: flex;
-    width: 100%;
-  }
-  .nav-logo-col {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    flex: 1;
-  }
-  .nav-logo-col-letter {
-    font-family: var(--font-display);
-    font-weight: 900;
-    font-size: 40px;
-    color: var(--accent);
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-  .nav-logo-col-word {
-    font-family: var(--font-mono);
-    font-size: 8.5px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    color: var(--text-muted);
-    margin-top: 4px;
-  }
-  .nav-hamburger {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    right: 20px;
-  }
-  .nav-drawer { top: 92px; }
+  /* Mobile logo inherits desktop size — no override */
 }
 @media (max-width: 520px) {
   .brief-strip { flex-direction: column; align-items: flex-start; }
