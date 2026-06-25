@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-06-24T13:59:49.173390+00:00",
+  "last_updated": "2026-06-25T13:38:46.775480+00:00",
   "news": [
+    {
+      "id": "n_0c1bd5e0ae",
+      "type": "news",
+      "title": "Ethiopian Airlines prepares for a dogfight to replace Mesfin Tasew",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/423059/ethiopian-airlines-prepares-for-a-dogfight-to-replace-mesfin-tasew/",
+      "date": "2026-06-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "With a $7.6bn turnover and a mega-airport project on the horizon, the corporate succession race at state-owned Ethiopian Airlines rests firmly in the hands of the prime minister’s inner circle."
+    },
+    {
+      "id": "n_cdc6fcd3fc",
+      "type": "news",
+      "title": "Somalia: A State without Settlement",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/06/somalia-a-state-without-settlement/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-a-state-without-settlement",
+      "date": "2026-06-24",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia"
+      ],
+      "excerpt": "In early June, a warm evening in Mogadishu was punctuated once again by the staccato of gunfire and mortar shells. Not the result of an ambush by Al-Shabaab or a quarrel over a checkpoint, but rather deadly clashes emanating from a federal government seeking to secure its political grip on the capit"
+    },
     {
       "id": "n_c8f1a889c4",
       "type": "news",
