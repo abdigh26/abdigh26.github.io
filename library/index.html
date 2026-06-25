@@ -516,8 +516,6 @@ h1 em { color: var(--accent); font-style: italic; }
   </div>
 </div>
 
-
-
 <!-- MOBILE LIVE BAR -->
 <div class="mobile-live-bar">
   <div class="live-pill"><div class="live-dot"></div>Live</div>
@@ -572,7 +570,8 @@ h1 em { color: var(--accent); font-style: italic; }
 
 <script>
 // ── CONFIG ─────────────────────────────────────────────────────────────────
-const CF_WORKER = 'https://hoa-gemini-proxy.chrismark09cm.workers.dev';
+const BLUF_URL    = 'https://hoa-gemini-proxy.vercel.app/api/bluf';
+const ANALYZE_URL = 'https://hoa-gemini-proxy.vercel.app/api/analyze';
 
 // ── STATE ──────────────────────────────────────────────────────────────────
 const S = { tab:'all', region:'all', query:'', page:1, perPage:9 };
@@ -598,8 +597,8 @@ async function loadData() {
 
 // ── BLUF ENGINE ────────────────────────────────────────────────────────────
 async function getBluf(btn, articleId, url, title, excerpt) {
-  const panel   = document.getElementById('bluf-panel-'  + articleId);
-  const textEl  = document.getElementById('bluf-text-'   + articleId);
+  const panel    = document.getElementById('bluf-panel-'  + articleId);
+  const textEl   = document.getElementById('bluf-text-'   + articleId);
   const cachedEl = document.getElementById('bluf-cached-' + articleId);
 
   // Toggle off if already showing
@@ -616,11 +615,10 @@ async function getBluf(btn, articleId, url, title, excerpt) {
   cachedEl.textContent = '';
 
   try {
-    // Single call to Worker — it handles cache check + Gemini + cache write
-    const res = await fetch(CF_WORKER + '/bluf', {
+    const res = await fetch(BLUF_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ articleUrl: url, title, excerpt })
+      body: JSON.stringify({ url, title, content: excerpt })
     });
 
     const data = await res.json();
@@ -636,8 +634,6 @@ async function getBluf(btn, articleId, url, title, excerpt) {
 }
 
 // ── STATS ──────────────────────────────────────────────────────────────────
-
-
 function allItems() {
   return [...(DB.news||[]), ...(DB.articles||[]), ...(DB.reports||[]), ...(DB.books||[])];
 }
@@ -704,7 +700,6 @@ function cardHTML(d) {
   const excerpt = d.excerpt ? `<div class="card-excerpt">${esc(d.excerpt)}</div>` : '';
   const isNews = d.type === 'news';
 
-  // BLUF button only for news items
   const blufBtn = isNews ? `
     <button class="bluf-btn" onclick="event.stopPropagation();getBluf(this,'${esc(d.id)}','${esc(url)}','${esc(d.title).replace(/'/g,"\\'")}','${esc(d.excerpt||'').replace(/'/g,"\\'")}')">
       <span class="bolt">⚡</span> BLUF
@@ -827,18 +822,13 @@ async function runSearch() {
   document.getElementById('searchBtn').disabled = true;
 
   try {
-    const res = await fetch(CF_WORKER, {
+    const res = await fetch(ANALYZE_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        system_instruction: {
-          parts: [{ text: 'You are a Horn of Africa security and geopolitics analyst. Given a search query, write a tight 3–4 sentence intelligence brief: what is this issue, where does it stand today, and what is the key analytical tension. Professional, direct, no preamble or bullet points. Write as if for a policy audience.' }]
-        },
-        contents: [{ parts: [{ text: `Query: ${q}` }] }]
-      })
+      body: JSON.stringify({ query: q })
     });
     const data = await res.json();
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || 'Analysis unavailable.';
+    const text = data.analysis || 'Analysis unavailable.';
     aiBody.textContent = text;
   } catch(e) {
     aiBody.innerHTML = `<span class="ai-thinking">Error: ${e.message}</span>`;
