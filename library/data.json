@@ -1,6 +1,977 @@
 {
-  "last_updated": "2026-06-27T11:16:27.948262+00:00",
+  "last_updated": "2026-06-27T19:49:57.355558+00:00",
   "news": [
+    {
+      "id": "n_b00b130b42",
+      "type": "news",
+      "title": "SoDMA Sends Delegation for Flood Response Training in China",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-sends-delegation-for-flood-response-training-in-china/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU, Somalia &#8212; Somalia’s disaster management agency (SoDMA) and federal member state relief ministers held a farewell ceremony in Mogadishu for 25 officials who are heading to China for training on flood response. &#160; The 25 officials from SoDMA and state relief ministries will receiv"
+    },
+    {
+      "id": "n_e247010448",
+      "type": "news",
+      "title": "JSP oo Musharrax u magacaabay doorashada Galmudug",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/jsp-oo-musharrax-u-magacaabay-doorashada-galmudug/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Galmudug"
+      ],
+      "excerpt": "Muqdisho – Xarunta dhexe ee Ururka Caddaaladda iyo Wadajirka (JSP) ayaa lagu qabtay kulan muhiim ah oo Guddiga Fulinta ee ururka, kaas oo uu shir-guddoomiyay Xoghayaha Guud, Dr. Xuseen Sheekh Maxamuud. &#160; Kulanka ayaa diiradda lagu saaray u diyaar-garowga doorashooyinka soo socda ee Dowlad Gobol"
+    },
+    {
+      "id": "n_5712246298",
+      "type": "news",
+      "title": "Somalia Sends Disaster Officials to China for Flood Response Training",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-sends-disaster-officials-to-china-for-flood-response-training/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU, Somalia — Somalia&#8217;s disaster management agency on Saturday dispatched 25 officials to China for specialized training on flood preparedness and emergency response, as authorities brace for the possibility of heavy seasonal rains linked to the El Niño weather phenomenon. &#160; The of"
+    },
+    {
+      "id": "n_b6c4f1700e",
+      "type": "news",
+      "title": "Somali Defence Minister Hails Djibouti’s Role in Peace Efforts at Independence Anniversary",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somali-defence-minister-hails-djiboutis-role-in-peace-efforts-at-independence-anniversary/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Djibouti",
+        "Somalia"
+      ],
+      "excerpt": "BELEDWEYNE, Somalia — Somalia&#8217;s Minister of Defence, Ahmed Moallim Fiqi, on Saturday praised Djibouti&#8217;s contribution to peace and stability in Somalia as he joined celebrations marking the 49th anniversary of Djibouti&#8217;s independence in the central city of Beledweyne. &#160; Address"
+    },
+    {
+      "id": "n_16e0390488",
+      "type": "news",
+      "title": "Wasiirka Gaashaandhigga XFS oo Beledweyne uga qeyb galay xuska 49-aad ee madaxbannaanida Jabuuti",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/wasiirka-gaashaandhigga-xfs-oo-beledweyne-uga-qeyb-galay-xuska-49-aad-ee-madaxbannaanida-jabuuti/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Beledweyne – Wasiirka Gaashaandhigga XFS, Mudane Axmed Macallin Fiqi, ayaa maanta magaalada Beledweyne ee gobolka Hiiraan uga qeyb galay xuska iyo dabaal-degga munaasabadda 49-aad ee maalinta madax-bannaanida Jamhuuriyadda Jabuuti. &#160; Wasiir Fiqi ayaa ugu hambalyeeyay Madaxweynaha Jamhuuriyadda "
+    },
+    {
+      "id": "n_7bee4525f5",
+      "type": "news",
+      "title": "Macawiisleyda Xawaadle oo dhaqdhaqaaq ciidan ka bilaabay Baladweyne",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/macawiisleyda-xawaadle-oo-dhaqdhaqaaq-ciidan-ka-bilaabay-baladweyne/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Baladweyne – Ciidanka Macawiisleey Xawaadle ee ku sugan Baladweyne ayaa dhaqdhaqaaqyo Ciidan ka wada Magaaladaasi oo uu ku sugan yahay Wasiirka Gaashaandhigga Axmed Macalin Fiqi. Dhaqdhaqaaqyadaan ay Ciidanku wadaan ayaa ka dhashay kadib markii uu Hadal Hanjabaad dil u muuqday uu Wasiir Fiqi oo ku s"
+    },
+    {
+      "id": "n_fea7c2672b",
+      "type": "news",
+      "title": "Farmaajo oo Hambalyo u Diray Jamhuuriyadda Jabuuti",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/farmaajo-oo-hambalyo-u-diray-jamhuuriyadda-jabuuti/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "MUQDISHO &#8211; Madaxweynihii hore ee Soomaaliya, Maxamed Cabdullaahi Farmaajo, ayaa hambalyo u diray shacabka, Dowladda iyo hoggaanka Jamhuuriyadda Jabuuti munaasabadda 27-ka Juun oo ah maalinta xorriyadda iyo madaxbannaanida dalkaas. &#160; Farmaajo ayaa sheegay in munaasabaddani ay xasuusinayso "
+    },
+    {
+      "id": "n_75f250cd15",
+      "type": "news",
+      "title": "SoDMA oo sagootisay 25 sarkaal oo tababar uga ambabaxaya Shiinaha",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/sodma-oo-sagootisay-25-sarkaal-oo-tababar-uga-ambabaxaya-shiinaha/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Muqdisho – Guddoomiyaha Hay’adda Maareynta Musiibooyinka Qaranka Soomaaliyeed (SoDMA), Mudane Maxamuud Macallin Cabdulle, oo ay wehliyaan qaar ka mid ah Wasiirrada Gargaarka ee Dowlad-goboleedyada, ayaa maanta magaalada Muqdisho kulan sagootin ah ugu sameeyay 25 sarkaal. &#160; Saraakiishan oo ka ka"
+    },
+    {
+      "id": "n_b95f9fd6ea",
+      "type": "news",
+      "title": "Somalia, WHO Discuss Stronger Health Cooperation at Dubrovnik Forum",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/somalia-who-discuss-stronger-health-cooperation-at-dubrovnik-forum/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "DUBROVNIK, Croatia — Somalia&#8217;s Minister of Foreign Affairs and International Cooperation, Abdisalam Ali (Dhaay), held bilateral talks with the World Health Organization&#8217;s Regional Director for Europe, Dr. Hans Henri P. Kluge, on the sidelines of the Dubrovnik Forum, focusing on strengthe"
+    },
+    {
+      "id": "n_b28a404942",
+      "type": "news",
+      "title": "Clan Militia Mobilizes in Beledweyne Over Defense Minister’s Threatening Remarks",
+      "source": "Shabelle Media",
+      "url": "https://shabellemedia.com/clan-militia-mobilizes-in-beledweyne-over-defense-ministers-threatening-remarks/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Clan Conflict",
+        "Militia"
+      ],
+      "excerpt": "BELEDWEYNE, Somalia &#8211; Heavily armed fighters from the local Macawisley clan militia loyal to the Xawaadle sub-clan have launched intensive military movements across the strategic city of Beledweyne, where federal Defense Minister Ahmed Moalim Fiqi is currently visiting, local sources reported "
+    },
+    {
+      "id": "n_39fdfad9eb",
+      "type": "news",
+      "title": "Libaan Ahmed Hassan Unveils Vision for Galmudug After Securing JSP Endorsement",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/libaan-ahmed-hassan-unveils-vision-for-galmudug-after-securing-jsp-endorsement/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Elections",
+        "Galmudug"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;DHUSAMAREB: Following his endorsement as the Justice and Solidarity Party (JSP)&#8217;s presidential candidate for the 2026 Galmudug presidential election, Libaan Ahmed Hassan outlined his vision for the future of&#8230;"
+    },
+    {
+      "id": "n_b9a62a2847",
+      "type": "news",
+      "title": "Justice and Solidarity Party Endorses Libaan Ahmed Hassan for Galmudug Presidency",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/justice-and-solidarity-party-endorses-libaan-ahmed-hassan-for-galmudug-presidency/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Galmudug"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: The Executive Committee of Somalia&#8217;s Justice and Solidarity Party (JSP) on Saturday officially endorsed Libaan Ahmed Hassan as the party&#8217;s presidential candidate for the 2026–2031 leadership of Galmudug&#8230;"
+    },
+    {
+      "id": "n_1b8d6a5377",
+      "type": "news",
+      "title": "At Least Two Injured in Landmine Blast at Jowhar Security Checkpoint",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/at-least-two-injured-in-landmine-blast-at-jowhar-security-checkpoint/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Security"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;JOWHAR: At least two people were injured in a landmine explosion that occurred on Saturday at the Southern Checkpoint in Jowhar, the administrative capital of HirShabelle State. According to&#8230;"
+    },
+    {
+      "id": "n_049124d880",
+      "type": "news",
+      "title": "Somalia Rejects EU Claims It Refuses to Accept Deported Nationals",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somalia-rejects-eu-claims-it-refuses-to-accept-deported-nationals/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Somali President Hassan Sheikh Mohamud has dismissed claims by the European Union that Somalia is refusing to accept its nationals deported from Europe, insisting that no Somali citizen&#8230;"
+    },
+    {
+      "id": "n_bd3af163b0",
+      "type": "news",
+      "title": "Alleged $250 Million U.S. COVID Fraud Suspect Arrested in Mogadishu After Four Years on the Run",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/alleged-250-million-u-s-covid-fraud-suspect-arrested-in-mogadishu-after-four-years-on-the-run/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Somali authorities, working alongside the U.S. Federal Bureau of Investigation (FBI), have arrested Abdikerm Eidleh, an alleged central figure in the massive $250 million Feeding Our Future fraud&#8230;"
+    },
+    {
+      "id": "n_b73146f11c",
+      "type": "news",
+      "title": "President Hassan Sheikh Attends Djibouti’s 49th Independence Anniversary Celebrations",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/president-hassan-sheikh-attends-djiboutis-49th-independence-anniversary-celebrations/",
+      "date": "2026-06-27",
+      "region": "Djibouti",
+      "tags": [
+        "Djibouti"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;DJIBOUTI: President Hassan Sheikh Mohamud is taking part in a major ceremony marking the 49th anniversary of Djibouti&#8217;s independence from France on June 27, 1977.The celebrations, being held at&#8230;"
+    },
+    {
+      "id": "n_556632d7e7",
+      "type": "news",
+      "title": "Somali National Appointed to Senior UN Humanitarian Leadership Role",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/101366-2/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;NEW YORK: United Nations Secretary-General António Guterres has appointed Mohamed Yahya of Somalia as the new Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator at the UN&#8230;"
+    },
+    {
+      "id": "n_e36fc9b612",
+      "type": "news",
+      "title": "Qoorqoor Withdraws From Re-Election Race in Galmudug State",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/qoorqoor-withdraws-from-re-election-race-in-galmudug-state/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Elections",
+        "Galmudug",
+        "Maritime"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;DHUSAMAREB: President of Galmudug, Ahmed Abdi Kariye (Qoorqoor), has officially announced that he will not seek another term in office, saying he will support whoever is elected to lead&#8230;"
+    },
+    {
+      "id": "n_147cea2528",
+      "type": "news",
+      "title": "Somali Envoy Presents Credentials to Burkina Faso’s President",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somali-envoy-presents-credentials-to-burkina-fasos-president/",
+      "date": "2026-06-26",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; OUAGADOUGOU: Somalia&#8217;s non-resident ambassador to Burkina Faso, Jama Hassan Khalif, has presented his credentials to Burkina Faso&#8217;s interim President, Captain Ibrahim Traoré, formally assuming his diplomatic role&#8230;"
+    },
+    {
+      "id": "n_7897a3ea51",
+      "type": "news",
+      "title": "President Mohamud Honours Independence Heroes at Dhagaxtuur Monument",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/president-mohamud-honours-independence-heroes-at-dhagaxtuur-monument/",
+      "date": "2026-06-26",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: President Hassan Sheikh Mohamud has laid a wreath at the Dhagaxtuur Monument in Mogadishu, paying tribute to the men and women who fought for the country&#8217;s&#8230;"
+    },
+    {
+      "id": "n_25e2b6b288",
+      "type": "news",
+      "title": "Somalia hit with EU visa restrictions as bloc pressures Mogadishu over migrant readmissions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/eu-visa-restrictions-somalia/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The European Union has imposed new visa restrictions on Somali citizens, intensifying a growing dispute with Mogadishu over the return of Somalis living irregularly in Europe. EU member states approved the measures on Thursday after reviewing a European Commission "
+    },
+    {
+      "id": "n_1694334e03",
+      "type": "news",
+      "title": "FBI arrests fugitive Abdikerm Eidleh in Somalia over massive Minnesota fraud scheme",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/abdikerm-eidleh-arrested-somalia/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Abdikerm Eidleh, an alleged senior figure in the sprawling $250 million Feeding Our Future fraud scheme in Minnesota, was arrested Thursday in Somalia&#8217;s capital Mogadishu during a joint operation conducted by the FBI and Somali intelligence agencies, accordin"
+    },
+    {
+      "id": "n_e59443d107",
+      "type": "news",
+      "title": "Somaliland president receives hero’s welcome in Hargeisa after Israel visit",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-irro-returns-hargeisa-israel-visit/",
+      "date": "2026-06-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel"
+      ],
+      "excerpt": "HARGEISA (Somaliguardian) &#8211; Somaliland President Abdirahman Mohamed Abdullahi Irro returned to Hargeisa on Thursday to a jubilant public reception following a week-long working visit to Israel, where he opened Somaliland&#8217;s first embassy abroad in Jerusalem, a move that has intensified de"
+    },
+    {
+      "id": "n_09b9454457",
+      "type": "news",
+      "title": "Sa’diyo Bajaaj: Somalia court sentences activist to 3 years in prison",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/sadiyo-bajaaj-sentenced-somalia-activist/",
+      "date": "2026-06-25",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Banadir regional court in Somalia&#8217;s capital, Mogadishu, on Thursday sentenced young female activist and Tuktuk driver Sa&#8217;diyo Moalim Ali, widely known as Sa&#8217;diyo Bajaaj, to three years in prison in a ruling that critics have described as political"
+    },
+    {
+      "id": "n_c36c1e5bcb",
+      "type": "news",
+      "title": "Puntland bans Somalia government officials from entering region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-bans-somalia-government-officials-region/",
+      "date": "2026-06-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s Puntland authorities on Wednesday announced sweeping security measures targeting federal government activities inside the region, barring federal officials from entry, restricting the movement of militias allied with politicians aligned with Mogadis"
+    },
+    {
+      "id": "n_71bcf02487",
+      "type": "news",
+      "title": "Houthis threaten strikes on Somaliland over Israeli military foothold",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/houthis-threaten-israel-somaliland/",
+      "date": "2026-06-24",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Houthis",
+        "Somalia",
+        "Israel",
+        "Military"
+      ],
+      "excerpt": "HARGEISA (Somaliguardian) &#8211; Yemen&#8217;s Houthi movement has issued a strong warning against any Israeli military presence in Somaliland, days after reports emerged alleging that Tel Aviv deployed 50 special unit troops to the breakaway region in northern Somalia. Mohammed Al-Farah, a member "
+    },
+    {
+      "id": "n_968392df5e",
+      "type": "news",
+      "title": "FoZ founder pledges to force Somaliland recognition on Trump’s desk",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-recognition-trump-evans/",
+      "date": "2026-06-23",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "HARGEISA (Somaliguardian) &#8211; Friends of Zion (FoZ) founder Dr. Mike Evans said he intends to speak with U.S. President Donald Trump about the importance of formally recognizing Somaliland, citing the territory&#8217;s friendship with Israel during a special award ceremony held Thursday in Jerus"
+    },
+    {
+      "id": "n_a1ae80f194",
+      "type": "news",
+      "title": "Israel deploys troops to Somaliland",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/israel-troops-somaliland/",
+      "date": "2026-06-22",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Israel",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A senior Somali official has alleged that Israel deployed a small contingent of troops to Somaliland earlier this year, adding a new dimension to growing ties between Israel and the self-declared republic in northern Somalia, Middle East Eye reported on Monday. The"
+    },
+    {
+      "id": "n_431342ae87",
+      "type": "news",
+      "title": "Somalia: Intense clashes in Baidoa as political tensions peak",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-clashes-political-tensions/",
+      "date": "2026-06-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Heavy fighting erupted across Somalia&#8217;s Baidoa town on Saturday night as forces loyal to ousted Southwest State President Abdiasis Laftagaren clashed with federal government troops stationed in the town, sending residents scrambling for safety as gunfire and "
+    },
+    {
+      "id": "n_099534c3aa",
+      "type": "news",
+      "title": "Somalia govt, Puntland edge closer to armed conflict",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-armed-conflict/",
+      "date": "2026-06-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s federal government and the northeastern semi-autonomous region of Puntland are edging closer to a possible armed confrontation as rival military deployments intensify across the region, fueling fears that a years-long political dispute could erupt i"
+    },
+    {
+      "id": "n_8a0c81d8cc",
+      "type": "news",
+      "title": "Xog: DF oo qaadeysa tallaabo la xiriirta Dhuusamareeb kadib heshiiskii Qoorqoor",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/xog-df-oo-qaadeysa-tallaabo-la-xiriirta-dhuusamareeb-kadib-heshiiskii-qoorqoor/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Galmudug"
+      ],
+      "excerpt": "Dhuusamareeb (Caasimada Online) &#8211; Ka dib markii Madaxweynaha Dowlad-goboleedka Galmudug, Axmed Cabdi Kaariye (Qoorqoor), uu ka tanaasulay doorashada madaxtinimada Galmudug, ayay saraakiisha ciidamada Dowladda Federaalka magaalada Dhuusamareeb ka bilaabayaan dadaallo lagu xakameynayo hubka yaal"
+    },
+    {
+      "id": "n_4dbe1d4dd0",
+      "type": "news",
+      "title": "Key Feeding Our Future fraud suspect arrested in Somalia",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/key-feeding-our-future-fraud-suspect-arrested-in-somalia/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "Mogadishu, Somalia — A Minnesota man accused of helping run one of the largest pandemic-era fraud schemes in the United States has been taken into custody in Mogadishu, US prosecutors said, more than three years after he was indicted in the Feeding Our Future case. Abdikerm Abdelahi Eidleh, 42, of B"
+    },
+    {
+      "id": "n_e726f3f7c6",
+      "type": "news",
+      "title": "Macawiisleyda Hiiraan oo war kasoo saaray hanjabaaddii FIQI",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/macawiisleyda-hiiraan-oo-war-kasoo-saaray-hanjabaaddii-fiqi/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Beledweyne (Caasimada Online) &#8211; Macawiisleyda Beesha Xawaadle ee gobolka Hiiraan ayaa si kulul uga hadlay hadalka soo yeeray Wasiirka Gaashaandhigga, Axmed Macallin Fiqi oo maanta weerar afka ah ku qaaday Agaasimihii hore ee NISA, Cabdullahi Sanbaloolshe oo kasoo jeedo gobolkaasi. Fiqi oo maan"
+    },
+    {
+      "id": "n_10d3cd029a",
+      "type": "news",
+      "title": "Daawo: Fiqi oo kasoo duulay Beledweyne iyo Sanbaloolshe oo…",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/daawo-fiqi-oo-kasoo-duulay-beledweyne-iyo-sanbaloolshe-oo/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Muqdisho (Caasimada Online) &#8211; Wasiirka Gaashaandhigga Soomaaliya, Axmed Macallin Fiqi oo saaka booqasho ku tegay magaalada Beledweyne oo uu uga qayb-galay maalinta xorriyadda ee dalka Jamhuuriyadda Jabuuti ayaa galabta dib ugu soo laabtay magaalada Muqdisho ee caasimada dalka. Fiqi oo intii uu"
+    },
+    {
+      "id": "n_405e173ed1",
+      "type": "news",
+      "title": "EU tightens visa rules for Somalis over returns row",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/eu-tightens-visa-rules-for-somalis-over-returns-row/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu"
+      ],
+      "excerpt": "Brussels, Belgium — The European Union on Thursday tightened visa rules for Somali nationals, saying Mogadishu has failed to cooperate sufficiently in taking back citizens who have no legal right to remain in Europe. The Council of the European Union said the temporary measures followed an assessmen"
+    },
+    {
+      "id": "n_60fa1fea38",
+      "type": "news",
+      "title": "Eastern Libya bans Somalis, other nationalities from entry",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/eastern-libya-bans-somalis-other-nationalities-from-entry/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "Benghazi, Libya — Libya’s eastern-based government has banned nationals of Somalia, Sudan, Eritrea and Ethiopia from entering territory under its control, as authorities across the divided North African country intensify restrictions on migrants and refugees. The decree, issued Tuesday by the parall"
+    },
+    {
+      "id": "n_e074405fd3",
+      "type": "news",
+      "title": "Maxaa ka jira in Lafta-gareen uu dib u heshiisin la bilaabay DF?",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/maxaa-ka-jira-in-lafta-gareen-uu-dib-u-heshiisin-la-bilaabay-df/",
+      "date": "2026-06-27",
+      "region": "Kenya",
+      "tags": [
+        "Kenya"
+      ],
+      "excerpt": "Nairobi (Caasimada Online) – Madaxweynihii hore ee Koonfur Galbeed Soomaaliya, welina ku doodayo inuu yahay Madaxweynaha sharciga ah oo qoraal soo saaray ayaa ka hadlay warar lagu baahiyay baraha bulshada oo sheegayay inuu dib u heshiisiin la bilaabay Dowladda Federaalka Soomaaliya, si loo soo afjar"
+    },
+    {
+      "id": "n_3c6f5459aa",
+      "type": "news",
+      "title": "Houthis warn over Israeli troop deployment to Somaliland",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/houthis-warn-over-israeli-troop-deployment-to-somaliland/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Houthis",
+        "Israel",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Sanaa, Yemen — A senior official in Yemen’s Houthi movement has warned that the group would treat any Israeli or US military presence in Somali waters as a “legitimate target”, after reports that Israel deployed forces to Somaliland following its recognition of the breakaway Somali region. Mohammed "
+    },
+    {
+      "id": "n_2fd43d1904",
+      "type": "news",
+      "title": "Daawo: Fiqi oo u jawaabay Sanbaloolshe: “In uu nool yahay ayaa naxariis ah”",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/fiqi-oo-u-jawaabay-sanbaloolshe-inuu-noolyahay-ayaa-naxariis-ah/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Muqdisho (Caasimada Online) &#8211; Wasiirka Wasaaradda Gaashaandhigga Axmed Macallin Fiqi ayaa si kulul ugu jawaabay Agaasimihii hore ee Hay&#8217;adda Sirdoonka iyo Nabadsugidda Qaranka Cabdullahi Maxamed Cali (Sanbaloolshe) oo xalay weerar afka ah ku qaaday Madaxweyne Xasan Sheekh Maxamuud. Sanba"
+    },
+    {
+      "id": "n_108c29436e",
+      "type": "news",
+      "title": "Daawo: Somalia oo Record caalami ah jebisey kadib markii…",
+      "source": "Caasimada Online",
+      "url": "https://www.caasimada.net/daawo-soomaaliya-oo-record-caalami-ah-jebisey-kadib-markii/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "London (Caasimada Online) &#8211; Dowladda Federaalka Soomaaliya aya maanta jebisey Recordkii cusub oo ku aadan heshiisyada caalamiga ah, kadib markii Hay&#8217;adda Baddaha Aduunka IMO ay ka diiwaangelisey 15 heshiis oo caalami ah. Wasiirka Wasaaradda Dekadaha iyo Gaadiidka Badda Mudane, Cabduqaadi"
+    },
+    {
+      "id": "n_087ec6805b",
+      "type": "news",
+      "title": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somaliland-ogeysiiska-digniinta-ah-oo-ku-saabsan-astaanta-ganacsiga/",
+      "date": "2026-06-19",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA  Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hantida shirkadda PACIFIC INTERNATIONAL LINES (PRIVATE) LIMITED, oo ah shirkad gaar loo leeyahay oo lagu aasaasay kuna shaqaynaysa shuruucda Singapore, c"
+    },
+    {
+      "id": "n_c66c317fd4",
+      "type": "news",
+      "title": "SOMALILAND – OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somaliland-ogeysiis-digniin-ah-oo-ku-saabsan-astaanta-ganacsiga/",
+      "date": "2026-06-03",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND – OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay leedahay SHENZHEN LAMP TECHNOLOGY CO., LTD., oo laga aasaasay Shiinaha, cinwaankeeduna yahay No. 6 Lanjing North Road, Kengzi Street, Pingshan Distri"
+    },
+    {
+      "id": "n_b926bfbd5e",
+      "type": "news",
+      "title": "Somaliland:Buried Histories, Living Peace: The Intellectual Legacy in the Horn of Africa",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandburied-histories-living-peace-the-intellectual-legacy-in-the-horn-of-africa/",
+      "date": "2026-05-26",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somalilandsun:This article presents the theoretical and methodological innovations underlying the Archaeology of Peace, a subfield founded by Dr. Sada Mire through two decades of fieldwork across the Horn of Africa. Drawing upon empirical evidence from rock art sites, sacred landscapes, and medieval"
+    },
+    {
+      "id": "n_e64a1756c3",
+      "type": "news",
+      "title": "Somaliland’s Jerusalem Move and the Politics of Recognition",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilands-jerusalem-move-and-the-politics-of-recognition/",
+      "date": "2026-05-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somaliland’s Jerusalem Move and the Politics of Recognition &#160; In May 2026, Somaliland made a major diplomatic move by announcing that it would open its first embassy in Jerusalem. In doing so, it would become the eighth country to locate its primary diplomatic mission there. The appointment of "
+    },
+    {
+      "id": "n_d443a089f2",
+      "type": "news",
+      "title": "Somaliland:The Mayor of Minneapolis extended his congratulations to the people of Somaliland.",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandthe-mayor-of-minneapolis-extended-his-congratulations-to-the-people-of-somaliland/",
+      "date": "2026-05-19",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "Somalilandsun:The Mayor of Minneapolis, Jacob Frey, extended his congratulations to the people of Somaliland, stating that he is joining in the joy and celebrations from afar as Somaliland marks the 35th anniversary of the restoration of its statehood. Jacob Frey said: “From Minneapolis to Saint Pau"
+    },
+    {
+      "id": "n_d9301b95a4",
+      "type": "news",
+      "title": "LIVE: The 35th Anniversary Commemoration of Somaliland’s National Independence Day",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/live-the-35th-anniversary-commemoration-of-somalilands-national-independence-day/",
+      "date": "2026-05-18",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Today marks the 35th anniversary of Somaliland’s reassertion of its independence on 18 May 1991, an occasion being commemorated extensively across Somaliland and around the world. This year’s celebrations are notably distinct from previous commemorations, particularly in light of the prevailing poli"
+    },
+    {
+      "id": "n_e25d45a7e7",
+      "type": "news",
+      "title": "Somaliland:We will take the flag in our hands and protect it with our hands,” Minister Barkhad",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandwe-will-take-the-flag-in-our-hands-and-protect-it-with-our-hands-minister-barkhad/",
+      "date": "2026-05-13",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somalilandsun: We will take the flag in our hands and protect it with our hands,&#8221; Minister Barkhadhttps://m.youtube.com/watch?v=kmaDVWJngMs"
+    },
+    {
+      "id": "n_e7e9164b10",
+      "type": "news",
+      "title": "Somaliland:What Was Behind Netanyahu’s Secret Visit to the United Arab Emirates?",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandwhat-was-behind-netanyahus-secret-visit-to-the-united-arab-emirates/",
+      "date": "2026-05-13",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "Somalilandsun:As reported by the Israeli Prime Minister’s Office, Israeli Prime Minister Benjamin Netanyahu paid a discreet visit to the United Arab Emirates, where he held talks with the country’s president, Mohamed bin Zayed Al Nahyan. The two sides discussed ways to further strengthen bilateral r"
+    },
+    {
+      "id": "n_29ff6a26e3",
+      "type": "news",
+      "title": "Somaliland:The Mayor of the Capital City of Hargeisa Has Been Elected.",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandmaayarka-magaalada-hargeysa-oo-la-doortsy/",
+      "date": "2026-05-12",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somalilandsun: Cabdirisaaq Maxamed Faarax has been elected as the new Mayor of Hargeisa and will lead the capital city for the next two years. Meanwhile, Aadan Jaamac Xaddi was elected as Deputy Mayor. The two officials were elected today, Tuesday, and will officially assume responsibility for the l"
+    },
+    {
+      "id": "n_bb68e5cfd6",
+      "type": "news",
+      "title": "Somaliland:the Minister of Interior and Security of the Republic of Somaliland, today received at his office the newly elected Mayor and Deputy Mayor of Hargeisa,",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandthe-minister-of-interior-and-security-of-the-republic-of-somaliland-today-received-at-his-office-the-newly-elected-mayor-and-deputy-mayor-of-hargeisa/",
+      "date": "2026-05-12",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "Somaliland: Cabdale Maxamed Carab, the Minister of Interior and Security of the Republic of Somaliland, today received at his office the newly elected Mayor and Deputy Mayor of Hargeisa, along with several members of the Hargeisa Local Council. The Minister extended his congratulations to the newly "
+    },
+    {
+      "id": "n_a65224b95d",
+      "type": "news",
+      "title": "More than 30 members of Al-Shabaab Successfully eliminated in airstrikes in the Middle Shabelle",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/more-than-30-members-of-al-shabaab-successfully-eliminated-in-airstrikes-in-the-middle-shabelle/",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Airstrikes"
+      ],
+      "excerpt": "On Saturday, the Somali Federal Government revealed that the Somali National Army, in close collaboration with international partners, carried out airstrikes for the past couple of days, targeting bases where Al-Shabab fighters were based in the Middle Shabelle region. In a statement, the Somali def"
+    },
+    {
+      "id": "n_f8c709456e",
+      "type": "news",
+      "title": "Somalia Appeals to Arab nations to avoid relations and investment with Somaliland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-appeals-to-arab-nations-to-avoid-relations-and-investment-with-somaliland/",
+      "date": "2026-06-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "The Somali Federal Government has called on all member countries of the Arab League not to allow their lands, ports, companies and their financial systems to be used for anything that facilitates relations or investment with Somaliland. The State Minister of foreign affairs, Mr. Ali Mohamed Omar kno"
+    },
+    {
+      "id": "n_eb47e26b3a",
+      "type": "news",
+      "title": "NEC Unveils New Voter Registration Roadmap in Landmark Meeting with Political Parties Taskforce",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nec-unveils-new-voter-registration-roadmap-in-landmark-meeting-with-political-parties-taskforce/",
+      "date": "2026-06-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The National Electoral Commission (NEC) of the Republic of Somaliland on 22nd June 2026, held a high-level consultative meeting at its headquarters with the National Political Parties Taskforce, marking a significant step toward the country’s upcoming voter registration exercise and future electoral"
+    },
+    {
+      "id": "n_1a0366a506",
+      "type": "news",
+      "title": "A Preliminary Agreement reached in talks over Galmudug election process",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/a-preliminary-agreement-reached-in-talks-over-galmudug-election-process/",
+      "date": "2026-06-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Elections",
+        "Galmudug",
+        "Maritime"
+      ],
+      "excerpt": "Reports from Dhuusamareeb indicate that a preliminary understanding was reached in negotiations that lasted for several days between President of Galmudug regional state in Somalia, Mr. Ahmed Abdi Kaariye known as Qor Qor, and the Director of the National Security and Intelligence Agency (NISA), Mr."
+    },
+    {
+      "id": "n_cd5ef2d142",
+      "type": "news",
+      "title": "Somaliland orders illegal foreigners to leave the country within 10 days",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-orders-illegal-foreigners-to-leave-the-country-within-10-days/",
+      "date": "2026-06-22",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "On Monday, Somaliland government has ordered all undocumented foreign nationals to immediately leave its territory within 10 days, describing this move as strengthening the security and the stability in Somaliland. The State Minister of Interior, Mr. Abdirashid Mohamed Ahmed known as Magalo has inst"
+    },
+    {
+      "id": "n_4d6ee6c065",
+      "type": "news",
+      "title": "The United States carries out a series of airstrikes in Somalia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-united-states-carries-out-a-series-of-airstrikes-in-somalia/",
+      "date": "2026-06-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Airstrikes",
+        "Maritime"
+      ],
+      "excerpt": "U.S. Africa Command (AFRICOM) reportedly said that U.S. troops conducted the last four airstrikes in southern Somalia for the past week, targeting Al-Shabab militants. According to a statement released by AFRICOM, the airstrikes took place on 14, 16, 18 and 19th June, 2026. AFRICOM did not provide f"
+    },
+    {
+      "id": "n_d4cfdbe8aa",
+      "type": "news",
+      "title": "Somali Minister Denies reports that he visited Israel",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-minister-denies-reports-that-he-visited-israel/",
+      "date": "2026-06-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "The State Minister of Somalia’s Foreign Affairs, Mr. Ali Bal’ad, has strongly repudiated reports that have been widely circulated in the social media for the past hours, stating that he visited Israel secretly. A statement he posted on his official X account, Mr. Bal’ad has pointed out this informat"
+    },
+    {
+      "id": "n_72719b0b6c",
+      "type": "news",
+      "title": "Somaliland expresses confidence in getting recognition from the United States and Ethiopia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-expresses-confidence-in-getting-recognition-from-the-united-states-and-ethiopia/",
+      "date": "2026-06-21",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Ethiopia"
+      ],
+      "excerpt": "Somaliland announced that it is in diplomatic talks with the U.S. administration and Ethiopia, while it wants to get an international recognition, according to President, Abdirahman Mohamed Abdilahi Irro. In an interview with i24NEWS, while the President was on a five-day historic visit to Jerusalem"
+    },
+    {
+      "id": "n_5bf8281013",
+      "type": "news",
+      "title": "Al-Shabab’s reinforcements from Jilib join the ongoing battle in Lower Jubba region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shababs-reinforcements-from-jilib-join-the-ongoing-battle-in-lower-jubba-region/",
+      "date": "2026-06-20",
+      "region": "Somalia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "Reports from the Lower Jubba region say that Al-Shabab deployed reinforcements to battle zones in the region, specifically in areas between Afmadow and Janay Abdalle settlements. Al-Shabab’s reinforcements originated from Jilib District in Middle Jubba region, and have already reached Harboole and M"
+    },
+    {
+      "id": "n_a859b6f49b",
+      "type": "news",
+      "title": "Jubbaland has deployed new troops to the front line of Lower Jubba Region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/jubbaland-has-deployed-new-troops-to-the-front-line-of-lower-jubba-region/",
+      "date": "2026-06-20",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Jubaland"
+      ],
+      "excerpt": "Jubaland authorities in Somalia have deployed additional troops to war zones in the Lower Jubba region in order to reinforce the ongoing military operations, where troops are battling Al-Shabab militants. For the last few days, the military operation has been taking place in some areas between Afmad"
+    },
+    {
+      "id": "n_8d4c22ec9d",
+      "type": "news",
+      "title": "TPLF’s New Proclamation Codifies a Police State",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/06/23/tplfs-new-proclamation-codifies-a-police-state/?utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state&utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state",
+      "date": "2026-06-23",
+      "region": "Ethiopia",
+      "tags": [
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "This sweeping wartime law threatens rights, dissent, and due process.\nThe post TPLF&#8217;s New Proclamation Codifies a Police State appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_d58098fa06",
+      "type": "news",
+      "title": "Ethiopia Cannot Afford Another Disaster",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/06/13/ethiopia-cannot-afford-another-disaster/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster&utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster",
+      "date": "2026-06-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Urgent action is needed before political miscalculations lead to national ruin\nThe post Ethiopia Cannot Afford Another Disaster appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_e377b52c48",
+      "type": "news",
+      "title": "Washington’s Ethiopia Reset Risks Rewarding Impunity",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/06/01/washingtons-ethiopia-reset-risks-rewarding-impunity/?utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity&utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity",
+      "date": "2026-06-01",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Geopolitical priorities are eclipsing justice in postwar Ethiopia.\nThe post Washington’s Ethiopia Reset Risks Rewarding Impunity appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_f2742f2d2b",
+      "type": "news",
+      "title": "Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/05/26/pretorias-unfinished-peace-is-fueling-tigrays-new-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis&utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis",
+      "date": "2026-05-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Avoiding another war requires resolving the conditions Pretoria left unimplemented.\nThe post Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_82b20d752c",
+      "type": "news",
+      "title": "The AU Turned Pretoria Into Abiy’s Shield",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/05/20/the-au-turned-pretoria-into-abiys-shield/?utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield&utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield",
+      "date": "2026-05-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "How Africa’s leading institution turned a peace agreement into a tool of war\nThe post The AU Turned Pretoria Into Abiy’s Shield appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_345972c027",
+      "type": "news",
+      "title": "Teddy Afro’s Mourning Tent and Ethiopia’s Fractured National Imagination",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/05/16/teddy-afros-mourning-tent-and-ethiopias-fractured-national-imagination/?utm_source=rss&utm_medium=rss&utm_campaign=teddy-afros-mourning-tent-and-ethiopias-fractured-national-imagination&utm_source=rss&utm_medium=rss&utm_campaign=teddy-afros-mourning-tent-and-ethiopias-fractured-national-imagination",
+      "date": "2026-05-16",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "How one song exposed Ethiopia’s deepening political and social divides\nThe post Teddy Afro’s Mourning Tent and Ethiopia’s Fractured National Imagination appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_f5fe96f813",
+      "type": "news",
+      "title": "Abiy Ahmed Has Turned War Into a Governing Strategy",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/05/14/abiy-ahmed-has-turned-war-into-a-governing-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=abiy-ahmed-has-turned-war-into-a-governing-strategy&utm_source=rss&utm_medium=rss&utm_campaign=abiy-ahmed-has-turned-war-into-a-governing-strategy",
+      "date": "2026-05-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia is sliding toward another rupture amid widening and unresolved conflicts\nThe post Abiy Ahmed Has Turned War Into a Governing Strategy appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_673f5646db",
+      "type": "news",
+      "title": "Conflict Became Currency in Ethiopia’s Diaspora Media",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/05/03/conflict-became-currency-in-ethiopias-diaspora-media/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-became-currency-in-ethiopias-diaspora-media&utm_source=rss&utm_medium=rss&utm_campaign=conflict-became-currency-in-ethiopias-diaspora-media",
+      "date": "2026-05-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "SNA"
+      ],
+      "excerpt": "Outrage, identity politics, and money now shape transnational discourse\nThe post Conflict Became Currency in Ethiopia’s Diaspora Media appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_01c650c9b9",
+      "type": "news",
+      "title": "Abiy Is Quietly Dismantling Tigray",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/04/27/abiy-is-quietly-dismantling-tigray/?utm_source=rss&utm_medium=rss&utm_campaign=abiy-is-quietly-dismantling-tigray&utm_source=rss&utm_medium=rss&utm_campaign=abiy-is-quietly-dismantling-tigray",
+      "date": "2026-04-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Post-Pretoria calm conceals a slow strategy of fragmentation and control\nThe post Abiy Is Quietly Dismantling Tigray appeared first on Ethiopia Insight."
+    },
     {
       "id": "n_f6b11e658d",
       "type": "news",
