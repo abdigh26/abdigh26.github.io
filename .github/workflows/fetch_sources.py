@@ -21,11 +21,9 @@ NEWS_FEEDS = [
     # ── SOMALIA DEDICATED ─────────────────────────────────────────────────
     {"source": "Garowe Online",        "region": "Somalia",  "url": "https://www.garoweonline.com/en/rss",               "filter": []},
     {"source": "Hiiraan Online",       "region": "Somalia",  "url": "https://www.hiiraan.com/rss/hiiraan_news.xml",      "filter": []},
-    {"source": "Shabelle Media",       "region": "Somalia",  "url": "https://shabellemedia.com/feed/",                   "filter": []},
     {"source": "Goobjoog News",        "region": "Somalia",  "url": "https://goobjoog.com/english/feed/",                "filter": []},
     {"source": "Somali Guardian",      "region": "Somalia",  "url": "https://somaliguardian.com/feed/",                  "filter": []},
     {"source": "Radio Dalsan",         "region": "Somalia",  "url": "https://www.radiodalsan.com/en/feed/",              "filter": []},
-    {"source": "Caasimada Online",     "region": "Somalia",  "url": "https://www.caasimada.net/feed/",                   "filter": []},
 
     # ── SOMALILAND ────────────────────────────────────────────────────────
     {"source": "Somaliland Sun",       "region": "Somalia",  "url": "https://somalilandsun.com/feed/",                   "filter": []},
