@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-06-26T13:34:31.225663+00:00",
+  "last_updated": "2026-06-27T11:16:27.948262+00:00",
   "news": [
+    {
+      "id": "n_f6b11e658d",
+      "type": "news",
+      "title": "Somali intelligence helps US arrest alleged leader of Minnesota fraud",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/6/27/somali-intelligence-helps-us-arrest-alleged-ringleader-of-minnesota-fraud?traffic_source=rss",
+      "date": "2026-06-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "US prosecutors reach into Somalia for a suspect in US fraud case."
+    },
     {
       "id": "n_0c1bd5e0ae",
       "type": "news",
