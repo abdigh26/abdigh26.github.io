@@ -18,14 +18,37 @@ DATA_PATH = "library/data.json"
 
 # RSS sources — news only (daily fetch)
 NEWS_FEEDS = [
-    {"source": "Al Jazeera Horn", "region": "Somalia",  "url": "https://www.aljazeera.com/xml/rss/all.xml",         "filter": ["somalia","ethiopia","eritrea","djibouti","horn of africa","al-shabaab","somaliland","tigray","houthi"]},
-    {"source": "Garowe Online",   "region": "Somalia",  "url": "https://www.garoweonline.com/en/rss",               "filter": []},
-    {"source": "Hiiraan Online",  "region": "Somalia",  "url": "https://www.hiiraan.com/rss/hiiraan_news.xml",      "filter": []},
-    {"source": "The Star Kenya",  "region": "Kenya",    "url": "https://www.the-star.co.ke/rss",                    "filter": ["somalia","al-shabaab","mandera","wajir","garissa","horn"]},
-    {"source": "Addis Standard",  "region": "Ethiopia", "url": "https://addisstandard.com/feed/",                   "filter": []},
-    {"source": "Africa Report",   "region": "Somalia",  "url": "https://www.theafricareport.com/feed/",             "filter": ["somalia","ethiopia","eritrea","djibouti","horn","somaliland","tigray"]},
-    {"source": "African Arguments","region": "Somalia", "url": "https://africanarguments.org/feed/",                "filter": ["somalia","ethiopia","eritrea","djibouti","horn","somaliland","tigray","houthi","kenya"]},
-    {"source": "Crisis Group",    "region": "Somalia",  "url": "https://www.crisisgroup.org/rss.xml",               "filter": ["somalia","ethiopia","eritrea","djibouti","horn","somaliland","kenya","sudan"]},
+    # ── SOMALIA DEDICATED ─────────────────────────────────────────────────
+    {"source": "Garowe Online",        "region": "Somalia",  "url": "https://www.garoweonline.com/en/rss",               "filter": []},
+    {"source": "Hiiraan Online",       "region": "Somalia",  "url": "https://www.hiiraan.com/rss/hiiraan_news.xml",      "filter": []},
+    {"source": "Shabelle Media",       "region": "Somalia",  "url": "https://shabellemedia.com/feed/",                   "filter": []},
+    {"source": "Goobjoog News",        "region": "Somalia",  "url": "https://goobjoog.com/english/feed/",                "filter": []},
+    {"source": "Somali Guardian",      "region": "Somalia",  "url": "https://somaliguardian.com/feed/",                  "filter": []},
+    {"source": "Radio Dalsan",         "region": "Somalia",  "url": "https://www.radiodalsan.com/en/feed/",              "filter": []},
+    {"source": "Caasimada Online",     "region": "Somalia",  "url": "https://www.caasimada.net/feed/",                   "filter": []},
+
+    # ── SOMALILAND ────────────────────────────────────────────────────────
+    {"source": "Somaliland Sun",       "region": "Somalia",  "url": "https://somalilandsun.com/feed/",                   "filter": []},
+    {"source": "Somaliland Standard",  "region": "Somalia",  "url": "https://somalilandstandard.com/feed/",              "filter": []},
+
+    # ── ETHIOPIA ──────────────────────────────────────────────────────────
+    {"source": "Addis Standard",       "region": "Ethiopia", "url": "https://addisstandard.com/feed/",                   "filter": []},
+    {"source": "Ethiopia Insight",     "region": "Ethiopia", "url": "https://ethiopia-insight.com/feed/",                "filter": []},
+    {"source": "The Reporter Ethiopia","region": "Ethiopia", "url": "https://www.thereporterethiopia.com/feed/",         "filter": []},
+
+    # ── REGIONAL / MULTI-COUNTRY ──────────────────────────────────────────
+    {"source": "The East African",     "region": "Somalia",  "url": "https://www.theeastafrican.co.ke/rss",             "filter": ["somalia","ethiopia","eritrea","djibouti","horn","al-shabaab","somaliland"]},
+    {"source": "Africa Report",        "region": "Somalia",  "url": "https://www.theafricareport.com/feed/",            "filter": ["somalia","ethiopia","eritrea","djibouti","horn","somaliland","tigray"]},
+    {"source": "African Arguments",    "region": "Somalia",  "url": "https://africanarguments.org/feed/",               "filter": ["somalia","ethiopia","eritrea","djibouti","horn","somaliland","tigray","houthi","kenya"]},
+    {"source": "Crisis Group",         "region": "Somalia",  "url": "https://www.crisisgroup.org/rss.xml",              "filter": ["somalia","ethiopia","eritrea","djibouti","horn","somaliland","kenya","sudan"]},
+    {"source": "ACLED",                "region": "Somalia",  "url": "https://acleddata.com/feed/",                      "filter": ["somalia","ethiopia","eritrea","kenya","horn"]},
+
+    # ── RED SEA / MARITIME ────────────────────────────────────────────────
+    {"source": "Al Jazeera Horn",      "region": "Somalia",  "url": "https://www.aljazeera.com/xml/rss/all.xml",        "filter": ["somalia","ethiopia","eritrea","djibouti","horn of africa","al-shabaab","somaliland","tigray","houthi","red sea","bab al-mandeb"]},
+    {"source": "Middle East Eye",      "region": "Red Sea",  "url": "https://www.middleeasteye.net/rss",                "filter": ["somalia","horn of africa","houthi","red sea","djibouti","eritrea","bab al-mandeb"]},
+
+    # ── KENYA (border/security angle) ────────────────────────────────────
+    {"source": "The Star Kenya",       "region": "Kenya",    "url": "https://www.the-star.co.ke/rss",                   "filter": ["somalia","al-shabaab","mandera","wajir","garissa","horn"]},
 ]
 
 # Tag inference map
@@ -39,11 +62,19 @@ TAG_MAP = {
     "djibouti": "Djibouti", "somalia": "Somalia",
     "sna": "SNA", "danab": "Danab",
     "famine": "Food Security", "drought": "Drought",
-    "amisom": "AMISOM", "au": "African Union",
+    "au": "African Union",
     "israel": "Israel", "diplomacy": "Diplomacy",
     "military": "Military", "security": "Security",
     "election": "Elections", "governance": "Governance",
     "piracy": "Piracy", "maritime": "Maritime",
+    "airstrike": "Airstrikes", "bombing": "Airstrikes",
+    "puntland": "Puntland", "jubaland": "Jubaland",
+    "mogadishu": "Mogadishu", "kismayo": "Kismayo",
+    "wardheer": "Wardheer", "galmudug": "Galmudug",
+    "clan": "Clan Conflict", "militia": "Militia",
+    "idp": "Displacement", "displaced": "Displacement",
+    "food security": "Food Security", "famine": "Food Security",
+    "port": "Maritime", "shipping": "Maritime",
 }
 
 def infer_tags(text):
@@ -56,17 +87,17 @@ def infer_tags(text):
 
 def infer_region(text, default_region):
     text_lower = text.lower()
-    if any(w in text_lower for w in ["somalia", "mogadishu", "al-shabaab", "somaliland", "puntland"]):
+    if any(w in text_lower for w in ["somalia", "mogadishu", "al-shabaab", "somaliland", "puntland", "jubaland", "galmudug", "kismayo"]):
         return "Somalia"
-    if any(w in text_lower for w in ["ethiopia", "addis", "tigray", "amhara", "oromia"]):
+    if any(w in text_lower for w in ["ethiopia", "addis", "tigray", "amhara", "oromia", "abiy"]):
         return "Ethiopia"
     if any(w in text_lower for w in ["eritrea", "asmara"]):
         return "Eritrea"
     if any(w in text_lower for w in ["djibouti"]):
         return "Djibouti"
-    if any(w in text_lower for w in ["kenya", "nairobi", "mandera", "wajir"]):
+    if any(w in text_lower for w in ["kenya", "nairobi", "mandera", "wajir", "garissa"]):
         return "Kenya"
-    if any(w in text_lower for w in ["red sea", "bab el-mandeb", "gulf of aden", "houthi"]):
+    if any(w in text_lower for w in ["red sea", "bab el-mandeb", "gulf of aden", "houthi", "bab al-mandeb"]):
         return "Red Sea"
     return default_region
 
@@ -83,7 +114,6 @@ def parse_date(date_str):
             return datetime.strptime(date_str.strip(), fmt).strftime("%Y-%m-%d")
         except:
             pass
-    # fallback: extract YYYY-MM-DD
     m = re.search(r'(\d{4}-\d{2}-\d{2})', date_str)
     return m.group(1) if m else datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
@@ -102,7 +132,6 @@ def fetch_feed(feed_cfg):
         root = ET.fromstring(raw)
         ns = {"atom": "http://www.w3.org/2005/Atom"}
 
-        # Handle both RSS and Atom
         entries = root.findall(".//item") or root.findall(".//atom:entry", ns)
 
         for entry in entries[:30]:
@@ -120,7 +149,6 @@ def fetch_feed(feed_cfg):
             if not title:
                 continue
 
-            # Filter check
             filters = feed_cfg.get("filter", [])
             if filters:
                 combined = (title + " " + excerpt).lower()
@@ -173,10 +201,10 @@ def main():
             if item["id"] not in existing_ids:
                 new_items.append(item)
                 existing_ids.add(item["id"])
-        time.sleep(1)  # polite delay
+        time.sleep(1)
 
-    # Prepend new items, keep last 200 news items total
-    data["news"] = (new_items + data.get("news", []))[:200]
+    # Prepend new items, keep last 300 news items total
+    data["news"] = (new_items + data.get("news", []))[:300]
 
     save_data(data)
     print(f"\n✓ Done — {len(new_items)} new items added. Total news: {len(data['news'])}")
