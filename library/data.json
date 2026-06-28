@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-06-28T08:33:09.107183+00:00",
+  "last_updated": "2026-06-28T12:00:44.661952+00:00",
   "news": [
+    {
+      "id": "n_b0207de2b8",
+      "type": "news",
+      "title": "Somalia’s president names Ethiopia, Kenya and Djibouti as “missing parts” of greater Somalia – reviving a dream that once started a war",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-ethiopia-kenya-djibouti-missing-parts-greater-somalia/",
+      "date": "2026-06-28",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Kenya",
+        "Djibouti",
+        "Somalia"
+      ],
+      "excerpt": "It was the kind of sentence that travels. Measured in delivery, incendiary in implication. Standing before his nation on its independence anniversary this week, Somali President Hassan Sheikh Mohamud spoke not only of the Somalia that exists &#8211; a republic still rebuilding from more than three d"
+    },
+    {
+      "id": "n_adfb391469",
+      "type": "news",
+      "title": "Is Ethiopia’s Credit Cap Doing More Harm Than Good?",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51553/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "By AyeleGelan (PhD) For more than two years, Ethiopia’s economic policy has revolved around one overriding objective: bringing inflation under control. Few would dispute that this goal is important. Double-digit inflation has eroded household purchasing power, discouraged investment and complicated "
+    },
+    {
+      "id": "n_539bcb47be",
+      "type": "news",
+      "title": "Diverging Assessments Delay Ethiopia’s Debt Restructuring Prospects",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51549/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "“Ethiopia is left to navigate between hardening positions on both sides”: MoF Advisor Inconsistencies between IMF and creditor assessments of the Ethiopian economy is proving a hurdle in Ethiopia’s efforts to secure debt treatment under the G20 Common Framework, according to the Paris Club’s 2025 re"
+    },
+    {
+      "id": "n_a5667b1395",
+      "type": "news",
+      "title": "Eritrea’s “Low-Cost” Destabilization Strategy Poses Serious Security Threat: Getachew Reda",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51539/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea",
+        "Security"
+      ],
+      "excerpt": "US embassy urges dialogue in Tigray Eritrea&#8217;s primary security threat to Ethiopia no longer lies in conventional warfare but in organizing, financing, and coordinating armed groups operating inside the country, says Getachew Reda, advisor to the Prime Minister and former leader of the Tigray I"
+    },
+    {
+      "id": "n_060e62d336",
+      "type": "news",
+      "title": "Airbus Analysis Spotlights ET African Market Growth, Identifies Lucrative Routes",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51536/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopian Airlines is making strides in capturing market share from Gulf and regional competitors in routes connecting African hubs to centers like London and Dubai, according to an analysis published by European aerospace giant Airbus. The report, dubbed ‘Exploring the Horizons: A Study of Unserved"
+    },
+    {
+      "id": "n_9ea615283b",
+      "type": "news",
+      "title": "Afreximbank Urges Focus on Intra-African Trade, Showcases Rising Payment System Adoption",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51533/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "East African countries are accelerating the adoption of local currency settlement for cross border trade through the Pan-African Payment and Settlement System (PAPSS) as the continent pushes to reduce dependence on the US dollar and euro, according to the African Trade Report 2026. The report publis"
+    },
+    {
+      "id": "n_cac2beac0b",
+      "type": "news",
+      "title": "The National Dialogue’s Defining Test: Independence, Inclusion, and Trust",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51530/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "On June 24, the Ethiopian National Dialogue Commission (ENDC) marked its most significant milestone to date by officially unveiling eight core thematic agenda pillars. Ranging from state-building, the structure and form of government, and the status of federal cities, to peacebuilding, transitional "
+    },
+    {
+      "id": "n_c28d215510",
+      "type": "news",
+      "title": "Ethiopia’s Megaproject Push Leaves Legacy of Debt and Overexpansion, Officials Concede",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51527/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopian officials have acknowledged that decades of state-led megaproject expansion left the country burdened with massive debt and underutilized infrastructure, prompting a shift toward a more commercially driven approach to public investment. Speaking on Ethiopia&#8217;s infrastructure and inves"
+    },
+    {
+      "id": "n_e147303d35",
+      "type": "news",
+      "title": "Housing Market Study Set 11pct Benchmark for Annual Rent Increase",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51525/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A residential rental market study commissioned by the Addis Ababa City Administration has concluded that maintaining annual consumer inflation below 10 percent could stabilize natural rent increases at 11.24 percent, providing what researchers describe as a key benchmark for managing the city&#8217;"
+    },
+    {
+      "id": "n_a505fed056",
+      "type": "news",
+      "title": "Integrating Refugees: Risk or Opportunity?",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51520/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "The burden of sheltering the multitudes fleeing conflict, insecurity, persecution, and climate shocks from across the Horn of Africa and beyond has long fallen upon Ethiopia. Today, with no fewer than 1.2 million refugees residing here, Ethiopia is home to one of the world’s largest refugee populati"
+    },
+    {
+      "id": "n_2041238575",
+      "type": "news",
+      "title": "Seismic Shifts in Global Politics Beckon New Chapter for Ethiopia-Canada Ties",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51517/",
+      "date": "2026-06-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Djibouti"
+      ],
+      "excerpt": "Nicolas Simard is Canada’s ambassador to Ethiopia and Djibouti, as well as Head of Mission for Sudan. Before assuming his current role in July 2025, Simard served as ambassador to Mali, DRC, Nigeria, Bangladesh, in addition to a stint as director of planning and evaluation at the International Organ"
+    },
     {
       "id": "n_b00b130b42",
       "type": "news",
