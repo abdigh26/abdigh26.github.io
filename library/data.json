@@ -1,6 +1,239 @@
 {
-  "last_updated": "2026-06-28T12:00:44.661952+00:00",
+  "last_updated": "2026-06-29T17:14:27.063583+00:00",
   "news": [
+    {
+      "id": "n_c9d81f9dda",
+      "type": "news",
+      "title": "NIEBC Launches Voter Registration in Galgaduud",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somalia-expands-voter-registration-drive-to-galgaduud-as-electoral-preparations-continue/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; ELDHER: The National Independent Electoral and Boundaries Commission (NIEBC) has launched voter registration in Eldher district of Galgaduud region, marking the latest phase of preparations for the&#8230;"
+    },
+    {
+      "id": "n_40382977bc",
+      "type": "news",
+      "title": "PM Barre Inaugurates New Road in Mogadishu, Pledges Continued Infrastructure Investment",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/pm-barre-inaugurates-new-road-in-mogadishu-pledges-continued-infrastructure-investment/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Prime Minister Hamza Abdi Barre has inaugurated a newly constructed two-kilometre paved road in Mogadishu&#8217;s Daynile district, describing infrastructure development as key to the capital&#8217;s economic&#8230;"
+    },
+    {
+      "id": "n_1a64677eb6",
+      "type": "news",
+      "title": "South West State Launches Humanitarian Forum Focused On Drought Recovery and El Niño Preparedness",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/south-west-state-launches-humanitarian-forum-focused-on-drought-recovery-and-el-nino-preparedness/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Drought",
+        "African Union"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; BAIDOA: South West State President Abdiaziz Hassan Mohamed Laftagareen has opened Somalia&#8217;s Humanitarian Forum (CHF) in Baidoa, bringing together government officials, aid agencies and international partners to&#8230;"
+    },
+    {
+      "id": "n_23f518d9ff",
+      "type": "news",
+      "title": "Somalia Set For Government-Opposition Talks amid Election Deadlock",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somalia-set-for-government-opposition-talks-amid-election-deadlock/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: The federal government of Somalia and opposition politicians are expected to begin talks in the coming days aimed at breaking a political impasse over the country&#8217;s&#8230;"
+    },
+    {
+      "id": "n_022f21c53c",
+      "type": "news",
+      "title": "Joint SNA, South West Forces’ Operation Targets Armed Group near Baidoa",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/sna-south-west-forces-launch-operation-near-baidoa-amid-security-tensions/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "SNA",
+        "African Union",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Somali federal forces and troops from South West State have launched security operations on the outskirts of Baidoa targeting armed fighters loyal to the region&#8217;s former&#8230;"
+    },
+    {
+      "id": "n_dad6bb1981",
+      "type": "news",
+      "title": "Senior Somali Military Officer Graduates from Egypt’s War College",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/senior-somali-military-officer-graduates-from-egypts-war-college/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Senior Somali military officer Brig. Gen. Masud Mohamed Warsame has graduated from Egypt&#8217;s Military Academy for Higher Studies and Strategy after completing advanced studies at the&#8230;"
+    },
+    {
+      "id": "n_788e978902",
+      "type": "news",
+      "title": "Auditor General Urges Airport Operator to Implement Audit Recommendations",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/auditor-general-urges-airport-operator-to-implement-audit-recommendations/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Auditor General Ahmed Issa Gutale, has called on airport operator Favori LLC to implement outstanding audit recommendations aimed at improving financial transparency and accountability in the&#8230;"
+    },
+    {
+      "id": "n_3818b3b1fd",
+      "type": "news",
+      "title": "WFP Warns Funding Shortfall Fueling Somalia’s Nutrition Crisis",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/wfp-warns-funding-shortfall-fueling-somalias-nutrition-crisis/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU, (Xinhua) &#8212; Somalia&#8217;s food and nutrition crisis is deteriorating faster than anticipated due to failed rains, funding cuts, and spillover effects from the conflict in the Middle East, the&#8230;"
+    },
+    {
+      "id": "n_6aaec568e5",
+      "type": "news",
+      "title": "Somali, Ethiopian Leaders Set for Talks as Ties Continue to Improve",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somali-ethiopian-leaders-set-for-talks-as-ties-continue-to-improve/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; ADDIS ABABA: Federal Republic of Somalia President Hassan Sheikh Mohamud arrived in Addis Ababa on Sunday for a one-day working visit, where he is expected to hold&#8230;"
+    },
+    {
+      "id": "n_9f45a4d4b9",
+      "type": "news",
+      "title": "Somalia Prioritising Healthcare Reform, Deputy PM Says",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somalia-prioritising-healthcare-reform-deputy-pm-says/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Deputy Prime Minister Salah Ahmed Jama has said that the federal government was prioritising investment in healthcare to ensure citizens have access to quality, modern and&#8230;"
+    },
+    {
+      "id": "n_85ac943e4f",
+      "type": "news",
+      "title": "Somaliland rejects Somalia president Hassan Sheikh Mohamud’s dialogue offer, says it seeks to undermine recognition efforts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-rejects-hassan-sheikh-mohamud-dialogue-offer-recognition/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia"
+      ],
+      "excerpt": "HARGEISA (Somaliguardian) &#8211; Somaliland&#8217;s Minister of Justice, Yonis Ahmed Yonis, on Sunday firmly rejected a renewed offer of dialogue from Somalia&#8217;s President Hassan Sheikh Mohamud, accusing the Somali leader of inconsistency and arguing that the latest overture is designed to slo"
+    },
+    {
+      "id": "n_beb26982e7",
+      "type": "news",
+      "title": "Somalia crisis: Defence minister Fiqi threatens opposition as ex-spy chief Sanbalolshe alleges Hassan Sheikh Mohamud ordered June 3 ‘killing plot’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-crisis-fiqi-threatens-opposition-sanbalolshe-alleges-hassan-sheikh-mohamud-june-3-killing-plot/",
+      "date": "2026-06-28",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Clan Conflict",
+        "Militia"
+      ],
+      "excerpt": "By the time Defence Minister Ahmed Moalim Fiqi boarded his plane out of Beledweyne on Saturday, militia fighters from a rival clan had already moved to encircle the airstrip. He escaped. The political fallout did not. Fiqi&#8217;s remarks &#8211; that Somalia&#8217;s opposition leaders were alive so"
+    },
+    {
+      "id": "n_9540e97e47",
+      "type": "news",
+      "title": "Al-Shabaab is carrying out military movements in Jilib District, Middle Juba Region.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shabaab-is-carrying-out-military-movements-in-jilib-district-middle-juba-region/",
+      "date": "2026-06-29",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Military",
+        "Militia",
+        "Maritime"
+      ],
+      "excerpt": "The al-Qaeda-linked terrorist group of Al-Shabab is conducting activities in Jilib District of the Middle Jubba region, and is mobilizing its armed militias in a bid to prevent the Somali troops who are advancing towards in the area and  are expanding its presence in Lower Juba region. Reports confi"
+    },
+    {
+      "id": "n_279c48f5fa",
+      "type": "news",
+      "title": "Ethiopia Nears Restructuring Deal with Bondholders",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51583/",
+      "date": "2026-06-29",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond. The agreement, which features terms for subscription rights for a new international bond to be issued in the future, is the second "
+    },
+    {
+      "id": "n_d213f77323",
+      "type": "news",
+      "title": "TPLF Rejects EU Criticism, Accuses Federal Government of Violating Peace Deal",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51573/",
+      "date": "2026-06-29",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "The Tigray People’s Liberation Front (TPLF) has rejected European Union accusations that it is undermining Ethiopia’s 2022 peace agreement, instead accusing the federal government of violating the accord and warning that the Tigray region faces a growing risk of renewed conflict. In a statement issu"
+    },
+    {
+      "id": "n_7c28935b80",
+      "type": "news",
+      "title": "Resumption of Talks on Tigray is Urgent, Says EU",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51569/",
+      "date": "2026-06-29",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The European Union delegation in Ethiopia has urged for the resumption of talks to resolve tensions in Tigray. “A resumption of talks on the concrete implementation of CoHA by all sides is urgent. We fully support the mediation efforts led by the AU’s High Representative President Obasanjo to achiev"
+    },
     {
       "id": "n_b0207de2b8",
       "type": "news",
