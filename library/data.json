@@ -1,6 +1,136 @@
 {
-  "last_updated": "2026-06-30T12:32:57.462352+00:00",
+  "last_updated": "2026-07-01T13:57:47.713455+00:00",
   "news": [
+    {
+      "id": "n_b9baab7c92",
+      "type": "news",
+      "title": "Somalia Makes National ID Card Mandatory for Passport Applications",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somalia-makes-national-id-card-mandatory-for-passport-applications/",
+      "date": "2026-07-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: The Federal Government of Somalia has announced that, effective July 1, 2026, all citizens applying for any type of Somali passport will be required to possess a National&#8230;"
+    },
+    {
+      "id": "n_91f04c87bc",
+      "type": "news",
+      "title": "Galmudug Presidential Candidate Libaan Ahmed Hassan Calls for Unity on Somalia’s Independence Day",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/galmudug-presidential-candidate-libaan-ahmed-hassan-calls-for-unity-on-somalias-independence-day/",
+      "date": "2026-07-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Galmudug"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Galmudug presidential candidate Libaan Ahmed Hassan has extended his congratulations to the Somali people as the country marks July 1, the anniversary of Somalia&#8217;s independence and unification. In&#8230;"
+    },
+    {
+      "id": "n_90e248bdbf",
+      "type": "news",
+      "title": "ESCWA Reaffirms Commitment to Somalia’s Development on Independence Day",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/escwa-reaffirms-commitment-to-somalias-development-on-independence-day/",
+      "date": "2026-07-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;BEIRUT: The Executive Secretary of the United Nations Economic and Social Commission for Western Asia (ESCWA), Rania Al-Mashat, has reaffirmed the organization&#8217;s commitment to supporting Somalia&#8217;s sustainable development and&#8230;"
+    },
+    {
+      "id": "n_314c1e297d",
+      "type": "news",
+      "title": "July 1: The Day That Forged a Nation – Remembering Somalia’s Journey to Independence and Unity",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/july-1-the-day-that-forged-a-nation-remembering-somalias-journey-to-independence-and-unity/",
+      "date": "2026-07-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Every year on July 1, Somalis around the world pause to commemorate a defining moment in their nation&#8217;s history. The date marks not only the independence of southern&#8230;"
+    },
+    {
+      "id": "n_eb841a5d71",
+      "type": "news",
+      "title": "President Mohamud Urges Unity as Somalia Marks Independence Day",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/president-mohamud-urges-unity-as-somalia-marks-independence-day/",
+      "date": "2026-07-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: President Hassan Sheikh Mohamud has called on citizens to embrace unity and national solidarity as the country prepares to celebrate Independence and Unity Day, saying collective&#8230;"
+    },
+    {
+      "id": "n_c1abb4139f",
+      "type": "news",
+      "title": "Somalia Seeks To Boost Trade with China at Beijing Investment Forum",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somalia-seeks-to-boost-trade-with-china-at-beijing-investment-forum/",
+      "date": "2026-07-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "GOOBJOOG NEWS &#124; BEIJING: Somalia has stepped up efforts to attract Chinese investment and expand its exports, hosting a high-level business forum in Beijing aimed at strengthening trade and supporting&#8230;"
+    },
+    {
+      "id": "n_cd49575a4e",
+      "type": "news",
+      "title": "Somalia Says Joint Airstrike With Türkiye Kills 35 Al-Shabaab Fighters in Lower Shabelle",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/somalia-says-joint-airstrike-with-turkiye-kills-35-al-shabaab-fighters-in-lower-shabelle/",
+      "date": "2026-06-30",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Airstrikes"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124; LOWER SHABELLE: The Ministry of Defence said Tuesday the Somali National Army, working alongside the Turkish Armed Forces, carried out a coordinated airstrike early Monday targeting Al-Shabaab positions&#8230;"
+    },
+    {
+      "id": "n_4bdbdd47f8",
+      "type": "news",
+      "title": "President Mohamud Inaugurates New Interior Ministry Headquarters, Launches Environment Ministry Project",
+      "source": "Goobjoog News",
+      "url": "https://en.goobjoog.com/president-mohamud-inaugurates-new-interior-ministry-headquarters-launches-environment-ministry-project/",
+      "date": "2026-06-30",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: President Hassan Sheikh Mohamud on Monday inaugurated the new headquarters of the Ministry of Interior, Federal Affairs and Reconciliation, describing the facility as part of the Federal Government&#8217;s&#8230;"
+    },
+    {
+      "id": "n_c64227b60b",
+      "type": "news",
+      "title": "Ethiopia’s debt restructuring test: Can Addis Ababa’s reserves hold?",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/423537/ethiopias-debt-restructuring-test-can-addis-ababas-reserves-hold/",
+      "date": "2026-06-30",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "A mid-July payment is the first real signal of whether Ethiopia’s debt overhaul translates into market trust or merely buys time."
+    },
     {
       "id": "n_cfa571f508",
       "type": "news",
