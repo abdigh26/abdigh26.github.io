@@ -439,6 +439,58 @@ h1 em { color: var(--accent); font-style: italic; }
 .pub-name { color: var(--text-dim); }
 .pub-n { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--text-muted); }
 
+/* ─── ANALYST WATCH ──────────────────────────────────────── */
+.aw-section {
+  max-width: 1120px; margin: 8px auto 56px;
+  padding: 0 20px;
+}
+.aw-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 12px; margin-bottom: 16px; flex-wrap: wrap;
+}
+.aw-title-wrap { display: flex; flex-direction: column; gap: 4px; }
+.aw-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; align-items: center; gap: 8px;
+}
+.aw-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900; font-size: 24px; color: var(--text);
+}
+.aw-cta {
+  padding: 8px 18px; border-radius: 4px;
+  border: 1px solid var(--accent); background: none;
+  color: var(--accent); text-decoration: none;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px; letter-spacing: 0.8px; text-transform: uppercase;
+  transition: all 0.15s; white-space: nowrap;
+}
+.aw-cta:hover { background: var(--accent-dim); }
+.aw-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+.aw-embed {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 4px;
+  min-height: 180px;
+  display: flex; align-items: center; justify-content: center;
+}
+.aw-empty {
+  grid-column: 1 / -1;
+  text-align: center; padding: 32px 20px;
+  color: var(--text-muted); font-size: 13px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+}
+@media (max-width: 780px) {
+  .aw-grid { grid-template-columns: 1fr; }
+}
+
 /* ─── RESPONSIVE ─────────────────────────────────────────── */
 @media (max-width: 780px) {
   .layout { grid-template-columns: 1fr; }
@@ -499,6 +551,7 @@ h1 em { color: var(--accent); font-style: italic; }
   <a href="/reports.html" onclick="closeLibDrawer()">Reports</a>
   <a href="/articles.html" onclick="closeLibDrawer()">Articles</a>
   <a href="/dashboard.html" onclick="closeLibDrawer()">Dashboard</a>
+  <a href="/analysts" onclick="closeLibDrawer()">Analyst Watch</a>
   <a href="/brief/" onclick="closeLibDrawer()">⚡ Request Access</a>
 </div>
 
@@ -568,10 +621,29 @@ h1 em { color: var(--accent); font-style: italic; }
   </aside>
 </div>
 
+<!-- ANALYST WATCH -->
+<section class="aw-section">
+  <div class="aw-head">
+    <div class="aw-title-wrap">
+      <div class="aw-eyebrow"><div class="live-dot"></div> From X</div>
+      <div class="aw-title">Analyst Watch</div>
+    </div>
+    <a class="aw-cta" href="/analysts">View Analyst Watch →</a>
+  </div>
+  <div class="aw-grid" id="awGrid">
+    <div class="aw-embed"><span style="color:var(--text-muted);font-size:12px;font-family:'IBM Plex Mono',monospace;">Loading…</span></div>
+    <div class="aw-embed"><span style="color:var(--text-muted);font-size:12px;font-family:'IBM Plex Mono',monospace;">Loading…</span></div>
+  </div>
+</section>
+
+<script src="https://platform.twitter.com/widgets.js" async></script>
+
 <script>
 // ── CONFIG ─────────────────────────────────────────────────────────────────
 const BLUF_URL    = 'https://hoa-gemini-proxy.vercel.app/api/bluf';
 const ANALYZE_URL = 'https://hoa-gemini-proxy.vercel.app/api/analyze';
+const ANALYSTS_URL = '/analysts/data.json';
+const ANALYST_PREVIEW_COUNT = 2;
 
 // ── STATE ──────────────────────────────────────────────────────────────────
 const S = { tab:'all', region:'all', query:'', page:1, perPage:9 };
@@ -593,6 +665,36 @@ async function loadData() {
   }
   render();
   renderSidebar();
+}
+
+// ── ANALYST WATCH (full X embeds) ────────────────────────────────────────
+async function loadAnalystWatch() {
+  const grid = document.getElementById('awGrid');
+  try {
+    const res = await fetch(ANALYSTS_URL + '?_=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('no data');
+    const entries = await res.json();
+
+    if (!entries || !entries.length) {
+      grid.innerHTML = `<div class="aw-empty">No posts logged yet. Check back soon.</div>`;
+      return;
+    }
+
+    const latest = entries.slice(0, ANALYST_PREVIEW_COUNT);
+    grid.innerHTML = latest.map(e => `
+      <div class="aw-embed">
+        <blockquote class="twitter-tweet" data-theme="dark" data-conversation="none">
+          <a href="${e.url}"></a>
+        </blockquote>
+      </div>
+    `).join('');
+
+    if (window.twttr && window.twttr.widgets) {
+      window.twttr.widgets.load(grid);
+    }
+  } catch (e) {
+    grid.innerHTML = `<div class="aw-empty">Could not load Analyst Watch.</div>`;
+  }
 }
 
 // ── BLUF ENGINE ────────────────────────────────────────────────────────────
@@ -754,7 +856,7 @@ function showSkeletons() {
 
 // ── SIDEBAR ────────────────────────────────────────────────────────────────
 function renderSidebar() {
-  const news = [...(DB.news||[])].sort((a,b)=>(b.date||'').localeCompare(a.date||'')).slice(0,6);
+  const news = [...(DB.news||[])].sort((a,b)=>(b.date||'').localeCompare(a.date||'')).slice(0,5);
   document.getElementById('sbNews').innerHTML = news.length
     ? news.map(n=>`
       <a class="sb-news-item" href="${n.url||'#'}" target="_blank" rel="noopener">
@@ -842,6 +944,7 @@ document.getElementById('searchInput').addEventListener('keydown', e => {
 
 // ── INIT ───────────────────────────────────────────────────────────────────
 loadData();
+loadAnalystWatch();
 
 // ── LIBRARY DRAWER ─────────────────────────────────────────────────────────
 function toggleLibDrawer() {
