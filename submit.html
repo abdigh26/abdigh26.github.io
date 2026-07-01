@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Log Post">
+<title>SOB — Log Analyst Post</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0b0b0c;
+    --panel:#141416;
+    --border:#232326;
+    --gold:#c8a84b;
+    --text:#e9e7e1;
+    --muted:#8c8a86;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    min-height:100vh;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'IBM Plex Mono', monospace;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:24px 16px;
+  }
+  .card{
+    width:100%;
+    max-width:420px;
+  }
+  .eyebrow{
+    font-size:11px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin-bottom:8px;
+  }
+  h1{
+    font-family:'Playfair Display', serif;
+    font-weight:700;
+    font-size:28px;
+    margin:0 0 24px 0;
+    line-height:1.15;
+  }
+  label{
+    display:block;
+    font-size:12px;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    color:var(--muted);
+    margin:18px 0 6px 0;
+  }
+  input[type="url"], textarea{
+    width:100%;
+    background:var(--panel);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:14px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:15px;
+    border-radius:2px;
+  }
+  input[type="url"]:focus, textarea:focus{
+    outline:none;
+    border-color:var(--gold);
+  }
+  textarea{
+    resize:vertical;
+    min-height:70px;
+  }
+  button{
+    width:100%;
+    margin-top:24px;
+    padding:15px;
+    background:var(--gold);
+    color:#0b0b0c;
+    border:none;
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:500;
+    font-size:14px;
+    letter-spacing:0.05em;
+    text-transform:uppercase;
+    border-radius:2px;
+    cursor:pointer;
+  }
+  button:disabled{
+    opacity:0.5;
+  }
+  #status{
+    margin-top:16px;
+    font-size:13px;
+    line-height:1.5;
+    min-height:20px;
+  }
+  #status.ok{ color:#7fae6c; }
+  #status.err{ color:#c26a5e; }
+  #status.pending{ color:var(--muted); }
+  .result{
+    margin-top:16px;
+    padding:14px;
+    background:var(--panel);
+    border:1px solid var(--border);
+    border-left:2px solid var(--gold);
+    font-size:13px;
+    display:none;
+  }
+  .result .bluf{ color:var(--text); margin-bottom:8px; }
+  .result .tags{ color:var(--gold); font-size:11px; letter-spacing:0.05em; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="eyebrow">Somali OSINT Brief</div>
+    <h1>Log an analyst post</h1>
+
+    <form id="postForm">
+      <label for="url">X / Twitter post URL</label>
+      <input type="url" id="url" name="url" placeholder="https://x.com/handle/status/..." required autocomplete="off" inputmode="url">
+
+      <label for="note">Note (optional)</label>
+      <textarea id="note" name="note" placeholder="Why this matters, context, cross-refs..."></textarea>
+
+      <button type="submit" id="submitBtn">Publish to site</button>
+    </form>
+
+    <div id="status"></div>
+    <div class="result" id="result">
+      <div class="bluf" id="resultBluf"></div>
+      <div class="tags" id="resultTags"></div>
+    </div>
+  </div>
+
+<script>
+  // Point this at your Vercel proxy
+  const ENDPOINT = 'https://hoa-gemini-proxy.vercel.app/api/submit-post';
+
+  const form = document.getElementById('postForm');
+  const status = document.getElementById('status');
+  const btn = document.getElementById('submitBtn');
+  const result = document.getElementById('result');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const url = document.getElementById('url').value.trim();
+    const note = document.getElementById('note').value.trim();
+
+    btn.disabled = true;
+    result.style.display = 'none';
+    status.className = 'pending';
+    status.textContent = 'Resolving post, scoring, publishing...';
+
+    try {
+      const res = await fetch(ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url, note }),
+      });
+      const data = await res.json();
+
+      if (!res.ok) {
+        status.className = 'err';
+        status.textContent = data.error || 'Something went wrong.';
+      } else {
+        status.className = 'ok';
+        status.textContent = `Published — ${data.entry.author}`;
+        document.getElementById('resultBluf').textContent = data.entry.bluf || '(no BLUF generated)';
+        document.getElementById('resultTags').textContent = (data.entry.tags || []).join(' · ');
+        result.style.display = 'block';
+        form.reset();
+      }
+    } catch (err) {
+      status.className = 'err';
+      status.textContent = 'Network error — check your connection and try again.';
+    } finally {
+      btn.disabled = false;
+    }
+  });
+</script>
+</body>
+</html>
