@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Analyst Watch — Somali OSINT Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0b0b0c;
+    --panel:#141416;
+    --border:#232326;
+    --gold:#c8a84b;
+    --text:#e9e7e1;
+    --muted:#8c8a86;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'IBM Plex Mono', monospace;
+    padding:32px 16px 80px;
+  }
+  header{
+    max-width:640px;
+    margin:0 auto 40px;
+  }
+  .eyebrow{
+    font-size:11px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin-bottom:8px;
+  }
+  h1{
+    font-family:'Playfair Display', serif;
+    font-weight:700;
+    font-size:32px;
+    margin:0 0 10px 0;
+  }
+  .sub{
+    color:var(--muted);
+    font-size:13px;
+    line-height:1.5;
+  }
+  #feed{
+    max-width:640px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:28px;
+  }
+  .entry{
+    border:1px solid var(--border);
+    background:var(--panel);
+    padding:20px;
+  }
+  .entry-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    margin-bottom:14px;
+    gap:12px;
+  }
+  .author{
+    font-size:13px;
+    color:var(--text);
+    font-weight:500;
+  }
+  .date{
+    font-size:11px;
+    color:var(--muted);
+    white-space:nowrap;
+  }
+  .bluf{
+    font-family:'Playfair Display', serif;
+    font-size:17px;
+    line-height:1.4;
+    color:var(--text);
+    margin-bottom:12px;
+    padding-left:12px;
+    border-left:2px solid var(--gold);
+  }
+  .tags{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:14px;
+  }
+  .tag{
+    font-size:10px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--gold);
+    border:1px solid var(--gold);
+    padding:3px 8px;
+  }
+  .note{
+    font-size:12.5px;
+    color:var(--muted);
+    margin-bottom:14px;
+    line-height:1.5;
+  }
+  .tweet-embed{
+    max-width:100%;
+  }
+  .empty, .loading{
+    max-width:640px;
+    margin:0 auto;
+    color:var(--muted);
+    font-size:13px;
+    text-align:center;
+    padding:40px 0;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="eyebrow">Somali OSINT Brief</div>
+    <h1>Analyst Watch</h1>
+    <div class="sub">Curated posts from Horn of Africa geopolitics and security analysts on X, scored and summarized as they're logged.</div>
+  </header>
+
+  <div id="feed">
+    <div class="loading">Loading feed...</div>
+  </div>
+
+<script src="https://platform.twitter.com/widgets.js" async></script>
+<script>
+  // Same-origin on GitHub Pages: /analysts/data.json
+  const DATA_URL = '/analysts/data.json';
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str || '';
+    return div.innerHTML;
+  }
+
+  function formatDate(iso) {
+    try {
+      return new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    } catch { return ''; }
+  }
+
+  async function loadFeed() {
+    const feed = document.getElementById('feed');
+    try {
+      const res = await fetch(DATA_URL, { cache: 'no-store' });
+      if (!res.ok) throw new Error('fetch failed');
+      const entries = await res.json();
+
+      if (!entries.length) {
+        feed.innerHTML = '<div class="empty">No posts logged yet.</div>';
+        return;
+      }
+
+      feed.innerHTML = entries.map(e => `
+        <div class="entry">
+          <div class="entry-header">
+            <span class="author">${escapeHtml(e.author)}</span>
+            <span class="date">${formatDate(e.addedAt)}</span>
+          </div>
+          ${e.bluf ? `<div class="bluf">${escapeHtml(e.bluf)}</div>` : ''}
+          ${e.tags && e.tags.length ? `<div class="tags">${e.tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
+          ${e.note ? `<div class="note">${escapeHtml(e.note)}</div>` : ''}
+          <div class="tweet-embed">
+            <blockquote class="twitter-tweet" data-theme="dark">
+              <a href="${e.url}"></a>
+            </blockquote>
+          </div>
+        </div>
+      `).join('');
+
+      if (window.twttr && window.twttr.widgets) {
+        window.twttr.widgets.load();
+      }
+    } catch (err) {
+      feed.innerHTML = '<div class="empty">Could not load the feed. Try refreshing.</div>';
+    }
+  }
+
+  loadFeed();
+</script>
+</body>
+</html>
