@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Shadow State: Al-Shabaab's Three Roads Ahead | Somali OSINT Brief</title>
+<meta name="description" content="Al-Shabaab doesn't need Mogadishu. It needs the checkpoints, the courts, and the night. A structural read on where the insurgency goes from here.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,900;1,500;1,600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0c0c0d;
+    --bg-raised:#131315;
+    --ink:#e9e5da;
+    --ink-dim:#a9a49a;
+    --ink-faint:#6f6a62;
+    --gold:#c8a84b;
+    --gold-dim:#8c743a;
+    --rule:#26241f;
+    --danger:#7a3b34;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'IBM Plex Serif', Georgia, serif;
+    line-height:1.75;
+    -webkit-font-smoothing:antialiased;
+  }
+  ::selection{background:var(--gold-dim);color:#0c0c0d;}
+
+  a{color:var(--gold);}
+
+  /* ---------- Header ---------- */
+  header.site{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:22px 24px;
+    border-bottom:1px solid var(--rule);
+    position:sticky;
+    top:0;
+    background:rgba(12,12,13,0.92);
+    backdrop-filter:blur(6px);
+    z-index:20;
+  }
+  .logo-lockup{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:600;
+    letter-spacing:0.14em;
+    font-size:14px;
+    color:var(--ink);
+    text-decoration:none;
+    display:flex;
+    align-items:baseline;
+    gap:8px;
+  }
+  .logo-lockup .mark{color:var(--gold);}
+  .logo-lockup .full{
+    color:var(--ink-faint);
+    font-weight:400;
+    letter-spacing:0.08em;
+    font-size:10px;
+    text-transform:uppercase;
+  }
+  nav.site-nav{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--ink-dim);
+  }
+  nav.site-nav a{color:var(--ink-dim);text-decoration:none;}
+  nav.site-nav a:hover{color:var(--gold);}
+
+  /* ---------- Hero ---------- */
+  .hero{
+    max-width:760px;
+    margin:0 auto;
+    padding:64px 24px 40px;
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.22em;
+    text-transform:uppercase;
+    color:var(--gold);
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:22px;
+  }
+  .eyebrow::before{
+    content:'';
+    width:22px;
+    height:1px;
+    background:var(--gold);
+  }
+  h1{
+    font-family:'Playfair Display', serif;
+    font-weight:700;
+    font-size:clamp(34px, 5.4vw, 54px);
+    line-height:1.12;
+    letter-spacing:-0.01em;
+    margin:0 0 22px;
+    color:var(--ink);
+  }
+  .dek{
+    font-family:'IBM Plex Serif', serif;
+    font-style:italic;
+    font-weight:400;
+    font-size:19px;
+    line-height:1.55;
+    color:var(--ink-dim);
+    margin:0 0 30px;
+    max-width:62ch;
+  }
+  .byline{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px 14px;
+    padding-top:18px;
+    border-top:1px solid var(--rule);
+  }
+  .byline strong{color:var(--ink-dim);font-weight:500;}
+
+  /* ---------- Day/Night signature bar ---------- */
+  .cycle{
+    max-width:760px;
+    margin:8px auto 56px;
+    padding:0 24px;
+  }
+  .cycle-label{
+    display:flex;
+    justify-content:space-between;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    letter-spacing:0.12em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+    margin-bottom:8px;
+  }
+  .cycle-bar{
+    height:34px;
+    border-radius:2px;
+    background:linear-gradient(90deg,
+      #c8a84b 0%, #c8a84b 40%,
+      #46411f 46%,
+      #17161a 55%,
+      #0c0c0d 65%,
+      #17161a 78%,
+      #46411f 88%,
+      #c8a84b 96%, #c8a84b 100%);
+    position:relative;
+    border:1px solid var(--rule);
+  }
+  .cycle-tags{
+    display:flex;
+    justify-content:space-between;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+    margin-top:8px;
+  }
+  .cycle-tags .state{color:#d8cba0;}
+  .cycle-tags .shabaab{color:#8c8578;}
+
+  /* ---------- Article body ---------- */
+  article{
+    max-width:680px;
+    margin:0 auto;
+    padding:0 24px 80px;
+    font-size:18px;
+  }
+  article p{margin:0 0 26px;color:var(--ink);}
+  article p:first-of-type::first-letter{
+    font-family:'Playfair Display', serif;
+    font-weight:700;
+    font-size:64px;
+    float:left;
+    line-height:0.8;
+    padding:8px 10px 0 0;
+    color:var(--gold);
+  }
+  article em{color:var(--ink);font-style:italic;}
+  article strong{color:var(--ink);font-weight:600;}
+
+  h2{
+    font-family:'Playfair Display', serif;
+    font-weight:600;
+    font-size:28px;
+    line-height:1.28;
+    color:var(--ink);
+    margin:48px 0 20px;
+    padding-top:36px;
+    border-top:1px solid var(--rule);
+  }
+
+  .pull{
+    font-family:'Playfair Display', serif;
+    font-style:italic;
+    font-weight:500;
+    font-size:25px;
+    line-height:1.42;
+    color:var(--gold);
+    margin:40px 0;
+    padding-left:22px;
+    border-left:2px solid var(--gold-dim);
+  }
+
+  /* ---------- Scenario cards (the real sequence) ---------- */
+  .scenarios{
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+    margin:20px 0 44px;
+  }
+  .scenario{
+    background:var(--bg-raised);
+    border:1px solid var(--rule);
+    border-left:3px solid var(--gold-dim);
+    padding:22px 24px;
+    border-radius:2px;
+  }
+  .scenario.worst{border-left-color:var(--danger);}
+  .scenario.likely{border-left-color:var(--gold);}
+  .scenario-head{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:12px;
+    margin-bottom:10px;
+    flex-wrap:wrap;
+  }
+  .scenario-tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    letter-spacing:0.12em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+  }
+  .scenario-name{
+    font-family:'Playfair Display', serif;
+    font-weight:600;
+    font-size:21px;
+    color:var(--ink);
+  }
+  .scenario.likely .scenario-name{color:var(--gold);}
+  .scenario p{margin:0;font-size:16px;color:var(--ink-dim);}
+
+  footer.site{
+    max-width:680px;
+    margin:0 auto;
+    padding:40px 24px 90px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.06em;
+    color:var(--ink-faint);
+    border-top:1px solid var(--rule);
+    text-transform:uppercase;
+  }
+  footer.site a{color:var(--ink-dim);text-decoration:none;}
+  footer.site a:hover{color:var(--gold);}
+
+  @media (max-width:520px){
+    h1{font-size:30px;}
+    .dek{font-size:17px;}
+    article{font-size:16.5px;}
+    .pull{font-size:21px;}
+    article p:first-of-type::first-letter{font-size:50px;}
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    html{scroll-behavior:auto;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <a class="logo-lockup" href="index.html">
+    <span class="mark">S·O·B</span>
+    <span class="full">Somali OSINT Brief</span>
+  </a>
+  <nav class="site-nav">
+    <a href="hoa-library.html">HOA Library</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <div class="eyebrow">Analysis — Al-Shabaab</div>
+  <h1>The Shadow State: Al-Shabaab's Three Roads Ahead</h1>
+  <p class="dek">The group lost the map years ago and stopped caring. It doesn't hold Mogadishu — it holds the dirt roads, the courts, and the mobile money networks. Three paths lie ahead, and only one of them ends with the insurgency losing.</p>
+  <div class="byline">
+    <span><strong>Somali OSINT Brief</strong></span>
+    <span>·</span>
+    <span>July 2026</span>
+    <span>·</span>
+    <span>8 min read</span>
+  </div>
+</div>
+
+<div class="cycle">
+  <div class="cycle-label"><span>06:00 — State control</span><span>18:00 — Shadow control</span></div>
+  <div class="cycle-bar"></div>
+  <div class="cycle-tags">
+    <span class="state">FGS / SNA holds the towns by day</span>
+    <span class="shabaab">Al-Shabaab collects taxes and rules by night</span>
+  </div>
+</div>
+
+<article>
+
+<p>Al-Shabaab lost the cities years ago. Anyone looking at a map of government-controlled towns might think the war is winding down. That is a dangerous illusion. The group does not need to hold Mogadishu to control the country. They hold the dirt roads, the river valleys, and the checkpoints. They are no longer just a militant faction fighting a conventional war; they are a shadow administration running a parallel state.</p>
+
+<p>To figure out where Al-Shabaab goes from here, we have to stop looking at body counts and start looking at the actual mechanics of power in Somalia.</p>
+
+<p>With ATMIS gone and the AUSSOM mission operating in a strictly advisory capacity since early 2025, the Somali National Army is on its own. They are better equipped than they were a decade ago, but they still suffer from the same old problem: they can clear a town, but they cannot hold it.</p>
+
+<p>That is where the <em>Macawisley</em> came in. The clan militias pushed Al-Shabaab out of massive chunks of Hirshabelle and Galmudug. The tactical wins were undeniable. But the euphoria faded fast. Now, the Federal Government of Somalia (FGS) is struggling to integrate them, pay them, or stop them from fighting each other over reclaimed land and water rights. Al-Shabaab knows this. They are just sitting back in the deep rural areas, waiting for the clans to turn on each other so they can walk back in and restore "order."</p>
+
+<h2>The Governance War</h2>
+
+<p>Let's be honest about why rural Somalis tolerate Al-Shabaab. It is not because they love the ideology. It is because the Al-Shabaab mobile courts actually work. They are brutal, yes, but they are fast, free, and do not require you to bribe a judge or worry about which clan the magistrate belongs to. The federal government offers nothing comparable in the hinterlands. Until a rural farmer can get a fair, swift ruling from a state judge, Al-Shabaab will win the governance war by default.</p>
+
+<p class="pull">Al-Shabaab will win the governance war by default — not because its courts are just, but because they are the only thing that shows up.</p>
+
+<p>Meanwhile, the group is stuck playing defense against ISIS-Somalia in the Cal Miskaad mountains. This forces Al-Shabaab to constantly prove its religious purity to its own base, trapping them in a radical feedback loop. They cannot moderate their stance to win over the public without losing their hardcore fighters to ISIS.</p>
+
+<p>Climate shocks are Al-Shabaab's best recruiter. When the rains fail and livestock die, young men have no choice but to take the militant's money to feed their families. When the rivers burst and IDP camps swell around Baidoa and Mogadishu, Al-Shabaab recruits from the desperate.</p>
+
+<p>Financially, the charcoal bans worked, but Al-Shabaab just adapted. They do not need to smuggle bags of cash across the border anymore. They tax the mobile money networks. Every time a business pays a supplier via EVC Plus, Al-Shabaab takes a cut. They have successfully monetized the country's digital economy, making their financial trails nearly impossible to freeze.</p>
+
+<h2>A Foreign Footprint That Plays Into Their Hands</h2>
+
+<p>The foreign footprint in Somalia is a mess, and it plays right into Al-Shabaab's hands. Turkey is all-in on Mogadishu. Albayrak runs the Mogadishu port, Favori runs the airport, and Turkish Bayraktar drones are the only reason SNA convoys survive ambushes. But Turkey's deep ties make it incredibly easy for Al-Shabaab to paint the FGS as Ankara's proxy.</p>
+
+<p>The UAE is doing the exact opposite, backing the periphery. They want the coast secure for their logistics hubs in Berbera and Bosaso, so they empower Puntland, Jubaland, and Somaliland directly. This keeps the FGS weak and fractured, which suits Abu Dhabi fine. Al-Shabaab thrives in this disunity, easily slipping across regional borders when the pressure gets too high.</p>
+
+<p>Then there is the Ethiopia disaster. The January 2024 MoU with Somaliland blew up the relationship between Mogadishu and Addis Ababa. Al-Shabaab did not have to lift a finger; they just used the outrage to fuel nationalist recruitment and paint the FGS as weak. As for Israel, they are not fighting Al-Shabaab on the ground. Tel Aviv cares about the Red Sea. They are quietly sharing intel with the US and UAE to track Iranian weapons smuggling and keep the maritime routes clear. It is an invisible, highly sophisticated containment strategy, but it severely restricts Al-Shabaab's ability to import heavy weaponry.</p>
+
+<h2>Three Roads Ahead</h2>
+
+<p>So, what happens next? Three trajectories are plausible, and they are not equally likely.</p>
+
+<div class="scenarios">
+  <div class="scenario">
+    <div class="scenario-head">
+      <span class="scenario-name">Degraded and Urban</span>
+      <span class="scenario-tag">If military momentum holds</span>
+    </div>
+    <p>Al-Shabaab gets pushed out of the central agricultural heartlands. Stripped of their rural revenue streams, their shadow state collapses. They fragment into smaller, highly mobile cells and pivot entirely to urban terrorism. Mogadishu becomes the primary battleground, relying heavily on VBIEDs and assassinations. They survive, but as a degraded, urban-focused shadow of their former selves.</p>
+  </div>
+  <div class="scenario likely">
+    <div class="scenario-head">
+      <span class="scenario-name">The Forever War</span>
+      <span class="scenario-tag">Most likely</span>
+    </div>
+    <p>The tactical victories of the SNA fail to translate into strategic gains. The government clears towns but cannot hold them. Al-Shabaab perfects the "day and night" strategy: the state controls the towns by day, but Al-Shabaab returns at night to collect taxes. The Somali state survives in the cities but cannot develop economically, while Al-Shabaab remains an entrenched, deeply embedded insurgency.</p>
+  </div>
+  <div class="scenario worst">
+    <div class="scenario-head">
+      <span class="scenario-name">Political Collapse</span>
+      <span class="scenario-tag">Worst case</span>
+    </div>
+    <p>The greatest threat to the Somali state comes from Mogadishu's own political fractures. If a major political shock shatters the fragile federal system — a disputed election, a constitutional crisis, or a total breakdown between the FGS and the member states — the national security apparatus fractures. Sensing a power vacuum, Al-Shabaab launches a coordinated counter-offensive. They rarely defeat the state militarily; the state usually defeats itself politically, allowing the insurgency to walk through the open door.</p>
+  </div>
+</div>
+
+<p>Al-Shabaab is not a military problem to be solved with drones and elite commandos. It is a deeply entrenched political and social phenomenon. If the FGS can forge an inclusive federal system that delivers justice and economic hope to the rural populations, Al-Shabaab will wither. If the political elite fail to unite and the climate shocks go unaddressed, Al-Shabaab will endure. The state that cannot govern itself will inevitably be challenged by those who promise to.</p>
+
+</article>
+
+<footer class="site">
+  <span>Somali OSINT Brief</span> — Conflict analysis for the Horn of Africa
+</footer>
+
+</body>
+</html>
