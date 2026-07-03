@@ -63,25 +63,11 @@ title: Home
 <section class="section">
   <div class="section-label">Latest Analysis</div>
   <div class="article-list">
-    <a class="article-row" href="/articles/al-shabaab_shadow_state.html">
-      <span class="article-date">03 Jul 2026</span>
-      <span class="article-title">The Shadow State: Al-Shabaab's Three Roads Ahead</span>
-      <span class="article-arrow">→</span>
-    </a>
-    <a class="article-row" href="/articles/berbera-axis.html">
-      <span class="article-date">21 Jun 2026</span>
-      <span class="article-title">The Berbera Axis: How Israel's Recognition of Somaliland Is Redrawing the Red Sea</span>
-      <span class="article-arrow">→</span>
-    </a>
-    <a class="article-row" href="/articles/somali-army-building.html">
-      <span class="article-date">13 Jun 2026</span>
-      <span class="article-title">Building an Army in Wartime — A Full-Spectrum Review of Somalia's Military Project</span>
-      <span class="article-arrow">→</span>
-    </a>
-    {% for post in site.posts limit:3 %}
-    <a class="article-row" href="{{ post.url }}">
-      <span class="article-date">{{ post.date | date: "%d %b %Y" }}</span>
-      <span class="article-title">{{ post.title }}</span>
+    {% assign articles = site.data.articles | sort: 'date' | reverse %}
+    {% for article in articles limit:3 %}
+    <a class="article-row" href="{{ article.url }}">
+      <span class="article-date">{{ article.date | date: "%d %b %Y" }}</span>
+      <span class="article-title">{{ article.title }}</span>
       <span class="article-arrow">→</span>
     </a>
     {% endfor %}
