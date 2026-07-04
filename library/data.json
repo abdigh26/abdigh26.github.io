@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-07-03T12:30:47.701262+00:00",
+  "last_updated": "2026-07-04T11:12:50.611810+00:00",
   "news": [
+    {
+      "id": "n_5e3d8a13d5",
+      "type": "news",
+      "title": "AU peacekeeping mission in Somalia at risk of collapse as US ends key UN support",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/au-peacekeeping-mission-somalia-us-ends-un-support/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "MOAGDISHU (Somaliguardian) &#8211; The United States has informed the African Union that it will end its support for United Nations logistical assistance to the African Union peacekeeping mission in Somalia from next year, a decision that officials and diplomats warn could threaten the future of the"
+    },
+    {
+      "id": "n_c782011074",
+      "type": "news",
+      "title": "Somalilandsun:OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandsunogeysiiska-digniinta-astaanta-ganacsiga/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay shirkadda KHONG GUAN VEGETABLE OIL REFINERY SDN. BERHAD, oo xarunteedu tahay 4825, Jalan Permatang Pauh, 13400 Butterworth, Penang, Malaysia, isla mark"
+    },
+    {
+      "id": "n_958bcf36bd",
+      "type": "news",
+      "title": "Somalia, Italy sign an agreement to strengthen police training.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-italy-sign-an-agreement-to-strengthen-police-training/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "On Saturday, the governments of Italy and Somalia signed a Memorandum of Understanding (MOU) regarding police force training cooperation, a move that both sides described as strengthening security cooperation and the development of law enforcement agencies. The agreement has been officially ratified"
+    },
+    {
+      "id": "n_647539f73f",
+      "type": "news",
+      "title": "Bishoftu Airport and Ethiopian Airlines’ reach for the skies to become Africa’s largest hub",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/423934/bishoftu-airport-and-ethiopian-airlines-reach-for-the-skies-to-become-africas-largest-hub/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Once it is complete, Ethiopia’s $12.7bn giant airport hub will overtake Atlanta in passenger numbers – a goal linked to the expansion of the continent’s leading airline."
+    },
+    {
+      "id": "n_5a42137c90",
+      "type": "news",
+      "title": "Will Abiy Ahmed be Ethiopia’s Bismarck or its Mandela?",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/07/will-abiy-ahmed-be-ethiopias-bismarck-or-its-mandela/?utm_source=rss&utm_medium=rss&utm_campaign=will-abiy-ahmed-be-ethiopias-bismarck-or-its-mandela",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Africa has long served as fertile ground for distinctive forms of leadership to emerge. Figures such as Nelson Mandela, Kwame Nkrumah, Haile Selassie, and Julius Nyerere, among others, represent the “Mount Rushmore” of African leadership, having left an enduring imprint on the continent’s history an"
+    },
+    {
+      "id": "n_54cae21f0a",
+      "type": "news",
+      "title": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss",
+      "date": "2026-07-04",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade."
+    },
     {
       "id": "n_2966b3d0f4",
       "type": "news",
