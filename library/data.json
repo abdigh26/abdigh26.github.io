@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-07-04T11:12:50.611810+00:00",
+  "last_updated": "2026-07-05T11:48:56.171700+00:00",
   "news": [
+    {
+      "id": "n_5bf4e18624",
+      "type": "news",
+      "title": "Al-Shabaab patrols Mogadishu outskirts at night as Somalia’s government touts improved security",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-mogadishu-outskirts-night-patrols-somalia-security/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Residents on the western outskirts of Mogadishu say heavily armed Al-Shabaab militants have been openly patrolling populated neighborhoods after sunset in recent nights, raising fresh security concerns despite repeated claims by Somalia&#8217;s federal government t"
+    },
+    {
+      "id": "n_99e78f61a3",
+      "type": "news",
+      "title": "Eight members, including Al-Shabaab commanders, were killed in an operation on the outskirts of Basra.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/eight-members-including-al-shabaab-commanders-were-killed-in-an-operation-on-the-outskirts-of-basra/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security"
+      ],
+      "excerpt": "The National Intelligence and Security Agency (NISA) said that it successfully eliminated at least eight Al-Shabab members including senior commanders after conducting a planned operation that took place on the outskirts of Basra area in Lower Shabelle region. According to a statement released by th"
+    },
     {
       "id": "n_5e3d8a13d5",
       "type": "news",
