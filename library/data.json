@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-07-06T17:18:31.909927+00:00",
+  "last_updated": "2026-07-07T13:56:23.340564+00:00",
   "news": [
+    {
+      "id": "n_5cefed06f4",
+      "type": "news",
+      "title": "Somali Defense Minister Says Only Two Parties Compete for Somalia: Al-Shabaab and JSP",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-defense-minister-al-shabaab-jsp-parties/",
+      "date": "2026-07-07",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s Defense Minister Ahmed Moalim Fiqi has drawn criticism after saying that only two parties are competing for control of the country &#8211; Al-Shabaab and the ruling Justice and Solidarity Party (JSP) &#8211; in remarks that a prominent regional poli"
+    },
+    {
+      "id": "n_507bf4001e",
+      "type": "news",
+      "title": "Forex Inflow Tops USD 38bln, Says PM",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51721/",
+      "date": "2026-07-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Over USD 38 billion flowed into Ethiopia over the past 12 months, according to the Prime Minister, who praised his administration’s economic reforms before Parliament today. Exports generated USD 11 billion in revenue, with gold and coffee together accounting for USD 8.7 billion, according to the PM"
+    },
+    {
+      "id": "n_8981a52e9f",
+      "type": "news",
+      "title": "Ethiopia Set for USD 295mln New Development Bank Buy-In",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51700/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Parliament set to approve membership following Council of Ministers endorsement Ethiopia will purchase 2,945 shares in the BRICS New Development Bank (NDB) at a par value 100,000 USD per share pending parliamentary approval of a proclamation that would make the country an official member of the NDB."
+    },
+    {
+      "id": "n_f72711997e",
+      "type": "news",
+      "title": "Education Ministry Lays out Requirements for University Autonomy",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51697/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Institutions with unqualified audit reports ineligible Education Minister Berhanu Nega (PhD) has rolled out a new directive outlining stringent requirements for public universities seeking a transition into autonomy. The ‘Directive to Determine the Requirements and Criteria Expected of Public Univer"
+    },
+    {
+      "id": "n_e3e9fe965c",
+      "type": "news",
+      "title": "Washington Pushes to End UN Support in Somalia",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51694/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "EU tightens visa rules for Somali nationals The United States Mission to the African Union (USAU) says Washington intends to withhold support from the continuation of United Nations logistical and operational support for the African Union Support and Stabilization Mission in Somalia (AUSSOM) beyond "
+    },
+    {
+      "id": "n_82cddb7acc",
+      "type": "news",
+      "title": "Biodiversity Institute Says Long-idle Benefit Fund to Reach Communities after Audit Exposed Delays",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51691/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The Ethiopian Biodiversity Institute (EBI) says a fund generated from companies accessing Ethiopia’s genetic resources, which has remained largely unused for about 15 years, will finally be directed toward community development and biodiversity conservation after a federal audit exposed delays in it"
+    },
+    {
+      "id": "n_b5fbc71abd",
+      "type": "news",
+      "title": "Fighting Inflation Requires More Than Tight Monetary Policy",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51688/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The International Monetary Fund (IMF) Executive Board recently completed its fifth review of Ethiopia’s 48-month, USD 3.4 billion Extended Credit Facility (ECF) program, greenlighting an immediate disbursement of approximately $464 million while providing an additional USD 200 million to help the co"
+    },
+    {
+      "id": "n_8d1ce68a70",
+      "type": "news",
+      "title": "EU Assessment Spotlights Missed Opportunity, Overdependence in Ethiopian Coffee Trade",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51685/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Europe generated more than half a trillion euro in economic output and 251.5 billion euro in Gross Value Added (GVA) from its coffee sector in 2025 despite producing virtually no coffee itself and while Ethiopia continues to export predominantly unprocessed green beans, a new assessment reveals. The"
+    },
+    {
+      "id": "n_43c031fc33",
+      "type": "news",
+      "title": "Ethiopia Omitted from Global Food Crisis Report as Lack of Data Clouds Hunger Assessment",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51682/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopia has been omitted from the latest Global Report on Food Crises (GRFC) after failing to provide acute food insecurity data that met the report’s technical requirements, raising questions about the country’s ability to accurately assess the scale of hunger and inform humanitarian responses. Th"
+    },
+    {
+      "id": "n_95811b6f31",
+      "type": "news",
+      "title": "CBE Dominates Digital Transactions, Deposit Mobilization: Bank Report",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51679/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Awash posts 40.7bln Birr in revenue The dominance of the Commercial Bank of Ethiopia (CBE) extends into the country’s evolving digital finance landscape, with the state-owned bank controlling 70 percent of market share, according to a report presented by bank President Abe Sano this week. CBE facili"
+    },
+    {
+      "id": "n_2d79e70f83",
+      "type": "news",
+      "title": "EHRCO Accuses Gov’t Forces of Abuses in South Ethiopia, Demands Accountability",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51676/",
+      "date": "2026-07-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Ethiopian Human Rights Council (EHRCO) released a statement on July 2, 2026, accusing government armed forces of committing human rights violations against residents in the Zayse Woreda of the South Ethiopia Regional State. The rights organization stated that armed forces conducted attacks betwe"
+    },
     {
       "id": "n_7d3fff9a27",
       "type": "news",
