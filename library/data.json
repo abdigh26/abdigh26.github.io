@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-07-07T13:56:23.340564+00:00",
+  "last_updated": "2026-07-08T11:59:52.785065+00:00",
   "news": [
+    {
+      "id": "n_1b63e4eac3",
+      "type": "news",
+      "title": "Somalia opposition made ‘serious mistake’ by accepting Turkey’s deputy intelligence chief as mediator, Senator Samatar says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-turkey-deputy-intelligence-chief-mediator-samatar/",
+      "date": "2026-07-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Prominent Somali senator and scholar Abdi Ismail Samatar on Tuesday criticized Somalia&#8217;s political opposition for allowing Turkey&#8217;s deputy intelligence chief to mediate talks with the federal government in Mogadishu, calling the decision a &#8220;seriou"
+    },
+    {
+      "id": "n_d199ab7806",
+      "type": "news",
+      "title": "Iran strikes US bases in Bahrain, Kuwait as Hormuz ceasefire collapses",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/world/iran-strikes-us-bases-bahrain-kuwait-hormuz-ceasefire-collapses/",
+      "date": "2026-07-08",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Military",
+        "Airstrikes"
+      ],
+      "excerpt": "TEHRAN (Somaliguardian) &#8211; Iran&#8217;s Revolutionary Guard announced on Wednesday that it had struck United States military installations in Bahrain and Kuwait, hours after Washington launched a fresh round of airstrikes against Iranian territory — a rapid escalation that has pushed the fragil"
+    },
+    {
+      "id": "n_a7f35b4b6c",
+      "type": "news",
+      "title": "Turkey holds Somalia government-opposition pre-talks as Puntland, Jubaland boycott ahead of key negotiations",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-somalia-opposition-talks-puntland-jubaland-boycott/",
+      "date": "2026-07-07",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Jubaland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkish intelligence officials held preliminary talks on Tuesday with representatives of Somalia&#8217;s federal government and opposition leaders ahead of internationally mediated negotiations scheduled for Thursday, but delegates from Puntland and Jubaland boycot"
+    },
+    {
+      "id": "n_42b24df50a",
+      "type": "news",
+      "title": "Outgoing Opposition MP Decries Unresolved Conflicts, Unbearable Cost of Living",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51731/",
+      "date": "2026-07-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray"
+      ],
+      "excerpt": "Protracted conflict in Tigray, Amhara, Oromia, Gambella, and other parts of the country is inflicting a heavy toll on public safety and national stability, Desalegn Chane (PhD), opposition leader and outgoing MP, said today as the Prime Minister appeared before Parliament to answer questions from la"
+    },
+    {
+      "id": "n_7d9f6341c3",
+      "type": "news",
+      "title": "AU and Russia Deepen Ties Ahead of Moscow Summit",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51728/",
+      "date": "2026-07-07",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Security",
+        "Governance"
+      ],
+      "excerpt": "The African Union (AU) and Russia have agreed to institutionalize annual high-level political consultations, pledging closer cooperation on security, trade, and global governance ahead of the third Russia–Africa Summit this October in Moscow. The commitment follows high-level talks at the AU Commiss"
+    },
+    {
+      "id": "n_43cdc66901",
+      "type": "news",
+      "title": "“ENDF Ready to Defend Ethiopia”: Prime Minister",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51725/",
+      "date": "2026-07-07",
+      "region": "Ethiopia",
+      "tags": [
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "Prime Minister Abiy Ahmed (PhD) told lawmakers today the Ethiopian National Defense Force (ENDF) is capable of defending Ethiopia’s sovereignty from internal and external threats. “We know our foreign enemies,” said Abiy, also accusing the TPLF of conspiring with external actors. The PM said TPLF is"
+    },
+    {
+      "id": "n_e5b2576a7d",
+      "type": "news",
+      "title": "PM Says Ruling Party Prioritized Inclusive Governance Despite Landslide Election Victory",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51723/",
+      "date": "2026-07-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Elections",
+        "Governance"
+      ],
+      "excerpt": "The incumbent Prosperity Party intentionally did not field candidates in 15 percent of Ethiopia’s electoral constituencies for last month’s elections in a bid to encourage wider opposition participation in governance, according to Prime Minister Abiy Ahmed (PhD). He told lawmakers the ruling party o"
+    },
     {
       "id": "n_5cefed06f4",
       "type": "news",
