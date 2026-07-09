@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-07-08T11:59:52.785065+00:00",
+  "last_updated": "2026-07-09T16:13:18.315396+00:00",
   "news": [
+    {
+      "id": "n_3ab84079b7",
+      "type": "news",
+      "title": "Puntland blocks federal commander Gen. Jima’le Takar as Somalia military standoff deepens",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-blocks-federal-commander-jimale-takar-somalia-military-standoff/",
+      "date": "2026-07-09",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Tensions are escalating in Somalia&#8217;s northeastern Puntland state after regional authorities blocked Gen. Jima&#8217;le Takar, recently appointed by Somalia&#8217;s federal government as commander of the country&#8217;s 54th Division in the region, from enteri"
+    },
+    {
+      "id": "n_6b6ef46b8f",
+      "type": "news",
+      "title": "Danab forces and Jubbaland Dervish troops conducted an operation in Lower Juba, killing Al-Shabaab officers and fighters.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/danab-forces-and-jubbaland-dervish-troops-conducted-an-operation-in-lower-juba-killing-al-shabaab-officers-and-fighters/",
+      "date": "2026-07-09",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Danab",
+        "Security",
+        "Jubaland"
+      ],
+      "excerpt": "Somalia’s Ministry of Defense Wednesday announced that Danab Commandos of the Somali National Army, in collaboration with Jubaland security forces, carried out a planned security operation in Baghdad area, which lies close to Badhadhe district in Lower Jubba region. According to the statement from t"
+    },
+    {
+      "id": "n_245030a29d",
+      "type": "news",
+      "title": "Former Somali President Denies allegations that he maintains political and financial ties with the UAE.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/former-somali-president-denies-allegations-that-he-maintains-political-and-financial-ties-with-the-uae/",
+      "date": "2026-07-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Somali Federal Government together with representatives from the opposition agreed to the continuation of political talks between the two sides, according to an official statement released by the Ministry of Information, Culture, and Tourism on Wednesday. According to the statement, the meeting "
+    },
+    {
+      "id": "n_6f510a9679",
+      "type": "news",
+      "title": "Somaliland Launches First Seawater Desalination Plant in Zeila to Tackle Water Scarcity",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-launches-first-seawater-desalination-plant-in-zeila-to-tackle-water-scarcity/",
+      "date": "2026-07-08",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "Republic of Somaliland has announced plans to establish its first-ever seawater desalination plant in the coastal city of Zeila, marking a major step toward improving access to clean and reliable water in the country. The announcement was made by the Minister of Water Development, Mohamed Abdimalik "
+    },
+    {
+      "id": "n_f27da9a910",
+      "type": "news",
+      "title": "A delegation from Turkey is scheduled to meet with the government and the opposition today, ahead of the planned talks.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/a-delegation-from-turkey-is-scheduled-to-meet-with-the-government-and-the-opposition-today-ahead-of-the-planned-talks/",
+      "date": "2026-07-07",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Turkish mediation team is expected to hold separate meetings with technical committees representing the Somali Federal Government and the opposition before officially resuming face-to-face dialogue spearheaded by Western representatives. These meetings came after diplomatic efforts were made in orde"
+    },
+    {
+      "id": "n_4dff1d6b7b",
+      "type": "news",
+      "title": "43 Somali Nationals accused of piracy pleaded guilty to the charges against them in a Mumbai court.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/43-somali-nationals-accused-of-piracy-pleaded-guilty-to-the-charges-against-them-in-a-mumbai-court/",
+      "date": "2026-07-07",
+      "region": "Somalia",
+      "tags": [
+        "Piracy"
+      ],
+      "excerpt": "43 Somali Nationals, who are allegedly accused of their involvement in piracy activities have admitted the crimes before they appeared a court in Mumbai, India, further requesting leniency regarding the sentences that will be imposed upon them. The defendants are among 44 people that India’s coastgu"
+    },
+    {
+      "id": "n_3cab10d63f",
+      "type": "news",
+      "title": "Ethiopia: 10 things to know about TPLF’s Fetlework Gebregziabher",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/424043/ethiopia-10-things-to-know-about-tplfs-fetlework-gebregziabher/",
+      "date": "2026-07-09",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "She built her name in the bush. Ethiopian Prime Minister Abiy Ahmed appointed her a minister, then took the post away from her, and now Fetlework Gebregziabher, aka Monjorino, stands as the loudest voice accusing Addis Ababa of moving troops toward eastern Tigray."
+    },
     {
       "id": "n_1b63e4eac3",
       "type": "news",
