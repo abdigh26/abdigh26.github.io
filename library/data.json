@@ -1,6 +1,140 @@
 {
-  "last_updated": "2026-07-12T10:59:31.245176+00:00",
+  "last_updated": "2026-07-13T09:21:27.467771+00:00",
   "news": [
+    {
+      "id": "n_6494d8ee33",
+      "type": "news",
+      "title": "ESS Survey Offers Glean into Ethiopia’s Fast-Changing Demographics",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51804/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The results of a comprehensive demographic and health survey published this week by the Ethiopian Statistical Service (ESS) highlight the quiet but fundamental changes taking place in health, fertility, education, employment, and socio-economic status as the country shifts gradually toward urbanizat"
+    },
+    {
+      "id": "n_451eb1b9c5",
+      "type": "news",
+      "title": "Dialogue Commission Looks to Clamp Down on Media Sensationalization Ahead of Conference",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51801/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The National Dialogue Commission has warned the media not to sensationalize agendas and to refrain from publicizing content that could damage the image of its commissioners. A directive issued in tandem with the Ethiopian Media Authority threatens media outlets and journalists who breach its provisi"
+    },
+    {
+      "id": "n_35b0368c9a",
+      "type": "news",
+      "title": "Rights Commission Closes Chapter, Embarks on New Five-Year Strategy",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51798/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Ethiopian Human Rights Commission (EHRC) has introduced a new strategic plan to guide its operations through to the end of the decade, at the same time wrapping up work under a previous five-year plan that came to an end this year. In its review of the just-ended plan, the Commission highlighted"
+    },
+    {
+      "id": "n_2736138bea",
+      "type": "news",
+      "title": "Addis Ababa Green Lights Construction Mineral Production within City Limits",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51796/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "The Addis Ababa City Environmental Protection Authority has issued a directive establishing a legal framework for the licensing and administration of construction mineral production within the capital’s limits. The new framework covers the extraction of construction materials including black stone, "
+    },
+    {
+      "id": "n_9496c8e729",
+      "type": "news",
+      "title": "A Parliament That Serves the Nation, Not the Executive",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51793/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "This week, the five-year term of the Ethiopian parliament officially expired, drawing a quiet curtain on a legislative body elected in 2021. Dominated completely by the ruling Prosperity Party (PP), the outgoing House of Peoples’ Representatives functioned less as a vibrant arena for democratic deba"
+    },
+    {
+      "id": "n_280b98c218",
+      "type": "news",
+      "title": "Federal Auditor Flags 8.46bln Birr in Uncollectible Tax Arrears",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51790/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Auditor seeks clarity on transfer pricing transactions involving multinational companies The Office of the Federal Auditor has identified more than 8.4 billion Birr in tax arrears deemed uncollectible while issuing two contradictory recommendations in the same audit report—first calling for the amou"
+    },
+    {
+      "id": "n_9f16c052e2",
+      "type": "news",
+      "title": "Customs Commission Closes Year with 738bln in Revenue",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51787/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Nearly 400bln Birr granted in duty-free incentives The Customs Commission granted customs duty exemptions valued at nearly 400 billion Birr during the just ended fiscal year, in which it registered a record 738 billion Birr in revenue from duties and contraband seizures. At a press briefing this wee"
+    },
+    {
+      "id": "n_a6d5bdd1a8",
+      "type": "news",
+      "title": "Audit Finds Lack of Management Manuals Hindering Sports Facilities",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51784/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopia&#8217;s sports facilities lack standardized management systems because the Ministry of Culture and Sport failed to develop national contract administration manuals, a federal audit has found. The performance audit, conducted by the Office of the Federal Auditor General (OFAG), reviewed the "
+    },
+    {
+      "id": "n_36f6569be2",
+      "type": "news",
+      "title": "The Past Five Years in the Eyes of Outgoing MPs, Administration’s Vision for the Coming Five",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51779/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Elections"
+      ],
+      "excerpt": "On Tuesday July 7, 2026, the House of Peoples Representatives (HPR) was unusually full. Lawmakers gathered for what was to be one of the year’s final parliamentary sessions, and the end of a chapter for MPs who will vacate their seats in favor of the winning candidates of last month’s elections at t"
+    },
+    {
+      "id": "n_99ac2c6199",
+      "type": "news",
+      "title": "“The Hurdles Ahead Remain Immense”: Independent MP and Veteran Politician Dima Negewo",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51776/",
+      "date": "2026-07-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Dima Negewo is an Ethiopian politician, diplomat, and academic who serves as an independent Member of Parliament. Within the legislature, he holds the position of Chairperson of the Foreign Relations and Peace Affairs Standing Committee, a role that entails parliamentary oversight of Ethiopia&#8217;"
+    },
     {
       "id": "n_723222e4d7",
       "type": "news",
