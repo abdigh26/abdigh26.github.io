@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-07-14T07:59:26.250278+00:00",
+  "last_updated": "2026-07-15T08:04:32.535030+00:00",
   "news": [
+    {
+      "id": "n_3f2084bd9e",
+      "type": "news",
+      "title": "US AFRICOM conducts airstrike against Al-Shabaab in Somalia near Sablaale",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/us-africom-airstrike-al-shabaab-somalia-sablaale/",
+      "date": "2026-07-14",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Military",
+        "Airstrikes",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United States Africa Command (AFRICOM) said Tuesday it carried out a new airstrike against Al-Shabaab in southern Somalia, underscoring Washington&#8217;s escalating military campaign against the Islamist militant group in the Horn of Africa. According to AFRIC"
+    },
+    {
+      "id": "n_099bda115e",
+      "type": "news",
+      "title": "Somalia signs tax-free fish export agreement with China, opening Chinese market to Somali seafood",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-china-tax-free-fish-export-agreement/",
+      "date": "2026-07-14",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has signed a tax-free fish export agreement with China that will allow Somali businesspeople to export the country&#8217;s fish and marine resources to the Chinese market without paying taxes, opening a major new export opportunity that the federal governme"
+    },
+    {
+      "id": "n_e5f7cee34c",
+      "type": "news",
+      "title": "Airstrike in Hiiran region reportedly kills 42 Al-Shabaab fighters.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/airstrike-in-hiiran-region-reportedly-kills-42-al-shabaab-fighters/",
+      "date": "2026-07-14",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Airstrikes",
+        "Maritime"
+      ],
+      "excerpt": "The Somali National Army in collaboration with international partners carried out an airstrike that took place in Goobo area, which lies 10 km north of Mahaas District in Hiiraan province, where Al-Shabab was reportedly mobilizing for war. In a statement, the Ministry of Defense of Somalia said that"
+    },
+    {
+      "id": "n_bb87f50079",
+      "type": "news",
+      "title": "Somaliland, UK discuss security cooperation and the fight against terrorism",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-uk-discuss-security-cooperation-and-the-fight-against-terrorism/",
+      "date": "2026-07-14",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "Yesterday, Somaliland’s Minister of Internal Security, Mr. Abdalle Mohamed Arab, held a meeting in Hargeisa with a high-level UK delegation including officials from the UK office in Somaliland, UK embassy officials in Somalia, and a representative from UK’s defense ministry. The meeting centered on "
+    },
+    {
+      "id": "n_ed241362e6",
+      "type": "news",
+      "title": "NISA Confirms that 19 Al-Shabaab members were killed in operations in Middle Shabelle and Hiran.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-confirms-that-19-al-shabaab-members-were-killed-in-operations-in-middle-shabelle-and-hiran/",
+      "date": "2026-07-14",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security"
+      ],
+      "excerpt": "The Somali National Intelligence and Security Agency (NISA) said in a statement that it successfully eliminated 19 Al-Shabab members including senior commanders following the successful execution of two planned operations conducted in Middle Shabelle and Hiiraan regions. In the statement, the Nation"
+    },
     {
       "id": "n_66c6d1450c",
       "type": "news",
