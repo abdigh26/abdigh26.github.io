@@ -1,6 +1,161 @@
 {
-  "last_updated": "2026-07-15T08:04:32.535030+00:00",
+  "last_updated": "2026-07-16T08:09:02.618372+00:00",
   "news": [
+    {
+      "id": "n_8c1811fde8",
+      "type": "news",
+      "title": "Somalia’s FM says political talks are progressing, sees breakthrough ahead",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-fm-political-talks-progress-breakthrough/",
+      "date": "2026-07-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s Foreign Minister Abdisalan Abdi Ali Dhay said Wednesday that the country&#8217;s internationally mediated political negotiations are gaining momentum despite a difficult political standoff, expressing optimism that a significant breakthrough could s"
+    },
+    {
+      "id": "n_b17b0a697b",
+      "type": "news",
+      "title": "Ethiopians Gather for Historic National Dialogue",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51856/",
+      "date": "2026-07-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Over 4,000 participants have gathered in Addis Ababa for the final conference of Ethiopia’s National Dialogue. The conference kicked off today at the Addis International Convention Center and is scheduled to continue for the next several weeks. The conference will revolve around eight main agendas d"
+    },
+    {
+      "id": "n_f17a28d5f8",
+      "type": "news",
+      "title": "Implications of Saudi, Somalia security cooperation",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51853/",
+      "date": "2026-07-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "By Natnael Getachew A Saudi military delegation recently visited two training camps in the town of Gorisil, located in the Galgaduud region, where forces belonging to the Somali Federal Government are undergoing training. According to reports, the visit is part of a Saudi-funded initiative designed "
+    },
+    {
+      "id": "n_8f9dac8f7c",
+      "type": "news",
+      "title": "US Ambassador Visits Tigray in Bid to Revive “Dead” Peace Deal",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51848/",
+      "date": "2026-07-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "National Dialogue conference kicks off in Addis Ababa  US Ambassador to Ethiopia Ervin Massinga arrived in Mekelle today for talks with regional leaders and aid agencies amid growing political friction between the Tigray People&#8217;s Liberation Front (TPLF) and the federal government. Earlier this"
+    },
+    {
+      "id": "n_c54d86a8e7",
+      "type": "news",
+      "title": "NBE to Phase out Premium Payments for Gold Suppliers End 2026",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51837/",
+      "date": "2026-07-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The National Bank of Ethiopia (NBE) is slated to end premium payments for gold suppliers starting at the end of the year, according to an IMF document published this week. “A plan to phase out the premium paid to miners above international prices will be adopted by end-September 2026, in conjunction"
+    },
+    {
+      "id": "n_8d7cd1587d",
+      "type": "news",
+      "title": "Oil Climbs to Four-Week High as US-Iran Conflict Threatens Hormuz Shipping, Again",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51834/",
+      "date": "2026-07-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Oil prices climbed nearly three percent on Tuesday, extending a sharp rally after renewed military confrontation between the United States and Iran raised fears of disruptions to global energy supplies through the Strait of Hormuz. Brent crude rose 2.3 percent to USD 85.20 a barrel. On Monday, Brent"
+    },
+    {
+      "id": "n_b64f24807f",
+      "type": "news",
+      "title": "EU Targets Sudan’s Gold Trade With New Sanctions Aimed at War Economy",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51831/",
+      "date": "2026-07-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "The Council of the European Union on Tuesday expanded its sanctions against Sudan, banning imports of Sudanese gold and restricting exports of key mining chemicals in an effort to cut off revenue streams that finance the country’s civil war. The new measures prohibit the purchase, import or transfer"
+    },
+    {
+      "id": "n_bde30e30b5",
+      "type": "news",
+      "title": "Tewolde Gebremariam Takes Helm at Pakistan International Airlines",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51828/",
+      "date": "2026-07-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Former Ethiopian Airlines CEO Tewolde Gebremariam has been appointed chief executive of Pakistan International Airlines, taking the helm as the carrier embarks on a new chapter in the hands of a local business conglomerate following its recent privatization. Tewolde’s career at Ethiopian Airlines sp"
+    },
+    {
+      "id": "n_946256c134",
+      "type": "news",
+      "title": "Ethiopia Facilitates Repatriation for 1,971 Citizens Granted Saudi Amnesty",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51825/",
+      "date": "2026-07-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Ethiopia has begun facilitating the repatriation of 1,971 of its citizens from Saudi Arabia after they were granted royal amnesty by the Kingdom, the Ministry of Foreign Affairs said on Monday. In a press statement, the Ministry said it remains engaged with Saudi authorities on matters affecting Eth"
+    },
+    {
+      "id": "n_4e3b5f6a40",
+      "type": "news",
+      "title": "Central Bank Lifts Credit Cap, Eases Forex Surrender Rules",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51821/",
+      "date": "2026-07-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The National Bank of Ethiopia (NBE) has removed restrictions on how much commercial banks can lend nearly three years after it first introduced the credit growth cap in August 2023. The move was announced in a statement issued following a Monetary Policy Committee meeting, in which regulators hailed"
+    },
+    {
+      "id": "n_28219d4199",
+      "type": "news",
+      "title": "EHRCO Demands Halt to Forced Conscription in Tigray",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51819/",
+      "date": "2026-07-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Military"
+      ],
+      "excerpt": "The Ethiopian Human Rights Council (EHRCO) issued an urgent appeal on July 12, 2026, demanding an immediate end to systemic rights violations as a mandatory military recruitment drive sweeps across the northern Tigray region.&#160; The Tigray regional council, an entity dissolved under the 2022 Pret"
+    },
     {
       "id": "n_3f2084bd9e",
       "type": "news",
