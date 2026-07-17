@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-07-16T08:09:02.618372+00:00",
+  "last_updated": "2026-07-17T08:06:00.377382+00:00",
   "news": [
+    {
+      "id": "n_6ec3bbc55d",
+      "type": "news",
+      "title": "Alleged ringleader of $250 million Minnesota Feeding Our Future fraud extradited from Somalia to face U.S. charges",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/minnesota-feeding-our-future-fraud-ringleader-extradited-somalia-us/",
+      "date": "2026-07-17",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "WASHINGTON (Somaliguardian) &#8211; A man accused of helping orchestrate one of the largest pandemic relief fraud schemes in Minnesota history has been extradited from Somalia to the United States to face federal criminal charges, marking a major development in the long-running investigation into th"
+    },
+    {
+      "id": "n_eb9bb61b21",
+      "type": "news",
+      "title": "Heavy fighting erupts in Baidoa after forces loyal to Laftagaren attack Somali army positions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/heavy-fighting-baidoa-laftagaren-forces-attack-somali-army-positions/",
+      "date": "2026-07-16",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Heavy fighting erupted late Wednesday night in Baidoa, the capital of Somalia&#8217;s Southwest state, after forces loyal to ousted former Southwest President Abdiazis Laftagaren attacked positions held by the Somali National Army, igniting hours of intense combat "
+    },
+    {
+      "id": "n_1f5b9d4021",
+      "type": "news",
+      "title": "Tigray’s Youth are Breaking the TPLF’s Narrative Monopoly",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/07/17/tigrays-youth-are-breaking-the-tplfs-narrative-monopoly/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-youth-are-breaking-the-tplfs-narrative-monopoly&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-youth-are-breaking-the-tplfs-narrative-monopoly",
+      "date": "2026-07-17",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "After decades of control, digital dissent is reshaping Tigray’s politics.\nThe post Tigray&#8217;s Youth are Breaking the TPLF&#8217;s Narrative Monopoly appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_d3a665479e",
+      "type": "news",
+      "title": "US Ambassador Touches Down in Gondar to Champion Trade, Regional Stability",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51861/",
+      "date": "2026-07-16",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray"
+      ],
+      "excerpt": "Just a day after executing a high-stakes diplomatic mission to Mekelle in the Tigray region, US Ambassador Ervin Massinga arrived in Gondar today to advance commercial ties, prioritize regional peace, and review critical healthcare initiatives. Massinga transitioned from his discussions over Tigray&"
+    },
     {
       "id": "n_8c1811fde8",
       "type": "news",
