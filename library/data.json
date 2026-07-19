@@ -1,6 +1,80 @@
 {
-  "last_updated": "2026-07-18T07:44:53.478253+00:00",
+  "last_updated": "2026-07-19T08:12:40.670206+00:00",
   "news": [
+    {
+      "id": "n_79f7dae141",
+      "type": "news",
+      "title": "Somalia’s security at breaking point as key UN support nears year-end cutoff",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-crisis-un-support-deadline-2026/",
+      "date": "2026-07-18",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia is standing at a precipice. With just five months remaining before a major international security platform expires, the nation faces an impending &#8220;operational paralysis&#8221; that threatens to undo two decades of peacebuilding and leave the country v"
+    },
+    {
+      "id": "n_889864ceb6",
+      "type": "news",
+      "title": "The Somali government Announces that 25 Al-Shabaab members were killed in an airstrike in Hiiraan.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-government-announces-that-25-al-shabaab-members-were-killed-in-an-airstrike-in-hiiraan/",
+      "date": "2026-07-18",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Airstrikes"
+      ],
+      "excerpt": "The Somali National Army in collaboration with international partners carried out an airstrike targeting locations occupied by Al-Shabab in Suullaay area that lies 17 km south of Teedaan settlement in Hiiraan region. 25 Al-Shabab members were successfully eliminated while 18 others suffered catastro"
+    },
+    {
+      "id": "n_89d97ab289",
+      "type": "news",
+      "title": "Erdogan Appeals to the Turkish parliament to extend the Presence of Turkish troops in Somalia by two years.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/erdogan-appeals-to-the-turkish-parliament-to-extend-the-presence-of-turkish-troops-in-somalia-by-two-years/",
+      "date": "2026-07-18",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Turkish President, Mr. Recep Tayyip Erdogan, has submitted a formal request to the Turkish parliament on Saturday, which is aimed at extending the presence of Turkish troops that are operational in Somalia for two more years, which is contingent upon the defense cooperation agreements signed between"
+    },
+    {
+      "id": "n_5abad186de",
+      "type": "news",
+      "title": "Federal Government and Jubaland forces destroy seven Al-Shabaab bases on the outskirts of Jilib.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/federal-government-and-jubaland-forces-destroy-seven-al-shabaab-bases-on-the-outskirts-of-jilib/",
+      "date": "2026-07-18",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Danab",
+        "Military",
+        "Security",
+        "Jubaland"
+      ],
+      "excerpt": "Danab Commandos of the Somali National Army in collaboration with Jubaland security forces reportedly carried out a planned security operation in several areas on the outskirts of Jilib District in Middle Jubba region. A report provided by the military officers to state-media stated that at least se"
+    },
+    {
+      "id": "n_6844ce7f69",
+      "type": "news",
+      "title": "Somalia races to save Radio Mogadishu’s fading archive",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+      "date": "2026-07-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "A small team is working to digitise decades of Somali history in the country&#039;s main public radio station."
+    },
     {
       "id": "n_5fd40cbd5d",
       "type": "news",
