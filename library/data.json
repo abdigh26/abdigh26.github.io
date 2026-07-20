@@ -1,6 +1,186 @@
 {
-  "last_updated": "2026-07-19T08:12:40.670206+00:00",
+  "last_updated": "2026-07-20T08:53:48.266499+00:00",
   "news": [
+    {
+      "id": "n_6b0989775a",
+      "type": "news",
+      "title": "Somalia foreign ministry shuts down after electricity cut over unpaid bills",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-foreign-ministry-shuts-down-after-electricity-cut-over-unpaid-bills/",
+      "date": "2026-07-20",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s Ministry of Foreign Affairs suspended operations on Sunday after electricity to its headquarters was disconnected over months of unpaid utility bills, according to Shabelle TV, bringing the ministry&#8217;s day-to-day activities to a standstill. Quo"
+    },
+    {
+      "id": "n_a3be83c8d8",
+      "type": "news",
+      "title": "US applauds Somalia after extradition of Abdikerm Eidle in alleged $250 million Feeding Our Future fraud case",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/us-applauds-somalia-extradition-abdikerm-eidle-feeding-our-future-250-million-fraud-case/",
+      "date": "2026-07-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United States on Sunday praised Somalia&#8217;s federal government for its continued law enforcement cooperation after Mogadishu extradited Somali American Abdikerm Eidle, 42, who is wanted by U.S. authorities over an alleged $250 million pandemic-era fraud sch"
+    },
+    {
+      "id": "n_fa16146e12",
+      "type": "news",
+      "title": "AUSSOM, Somali National Army are strengthening security cooperation in Middle Shabelle region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/aussom-somali-national-army-are-strengthening-security-cooperation-in-middle-shabelle-region/",
+      "date": "2026-07-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Troops from the African Union Support and Stabilization Mission in Somalia (AUSSOM), along with the Somali National Army concurred in bolstering the security cooperation in Middle Shabelle province, after senior officers from the two sides held a high-level security meeting. The meeting took place i"
+    },
+    {
+      "id": "n_e830d59215",
+      "type": "news",
+      "title": "Thousands Gather in Addis Ababa for Long-Awaited National Dialogue",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51938/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Starting Wednesday, over 4,000 participants have gathered in Addis Ababa for the final conference of Ethiopia’s National Dialogue. The forum kicked off at the Addis International Convention Center and is scheduled to continue for the next several weeks. Its launch follows years of input collection b"
+    },
+    {
+      "id": "n_ecfe1fd8a1",
+      "type": "news",
+      "title": "Outstanding National Dialogue Agendas",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51935/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Agenda Item 1: Nation-Building  Issues of Identity and National Ownership/Belonging History and Identity Shared National Identity and Values (including value-related matters) Nation-Building and Diversity Management Language Matters Preservation of Culture, History, and Heritage, among other related"
+    },
+    {
+      "id": "n_7e6feb4d83",
+      "type": "news",
+      "title": "Petroleum Enterprise Set for 286bln Birr Recapitalization",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51932/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Gov’t eyes 76bln Birr in fuel tax revenue, 90bln from motor vehicles import taxes The Ethiopian Petroleum Supply Enterprise (EPSE) is due for a massive capital injection, according to the fifth review of the IMF program published this week. On June 12, the Ministry of Finance issued a decision to al"
+    },
+    {
+      "id": "n_e28d361d8b",
+      "type": "news",
+      "title": "TPLF Slams Planned Addis Protest, Accuses Organizers of Serving Federal Agenda",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51929/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF"
+      ],
+      "excerpt": "Council says rally seeks to halt renewed war, end alleged forced conscription, and enforce the Pretoria Agreement The Tigray People&#8217;s Liberation Front (TPLF) has rejected a public rally planned in Addis Ababa by the Tigray Peace and Change Council, accusing its organizers of ‘serving the feder"
+    },
+    {
+      "id": "n_a498c9ab47",
+      "type": "news",
+      "title": "Ministry Orders Competitive National Search for University Presidents",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51926/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Ministry of Education has replaced the appointment system for leaders of Ethiopia&#8217;s public universities with a nationwide competitive recruitment process. The Ministry now requires all presidential and vice presidential vacancies to be publicly advertised, evaluated through standardized me"
+    },
+    {
+      "id": "n_140367b599",
+      "type": "news",
+      "title": "Building Fiscal Strength Without Breaking Society",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51923/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "On July 1, 2026, the Executive Board of the International Monetary Fund (IMF) officially completed its fifth review of Ethiopia’s USD 3.4 billion Extended Credit Facility (ECF) arrangement, triggering an immediate disbursement of approximately USD 464 million. For macroeconomic planners in Addis Aba"
+    },
+    {
+      "id": "n_60be404980",
+      "type": "news",
+      "title": "IMF Predicts Wait for Foreign Bank Entry, Forward FX Market, NBE Gold Exit",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51920/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Chartered flights transport gold to Dubai Ethiopian authorities and the IMF underline the need to reinforce the National Bank of Ethiopia’s role in gold purchase and forex sales in light of slow progress in market maturity. The policy shift is highlighted in the fifth review of the IMF program discl"
+    },
+    {
+      "id": "n_3c2be142c2",
+      "type": "news",
+      "title": "Issues Unresolved by National Dialogue will Head to Referendum: Commission",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51916/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Issues that fail to find resolution through the national dialogue conference will head to referendum, according to the National Dialogue Commission. The Commission has introduced a document that details procedural issues on how decisions will be handled following the conclusions of the conference th"
+    },
+    {
+      "id": "n_13bd6d18ec",
+      "type": "news",
+      "title": "East African Community Postpones Currency Launch to 2031",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51913/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "The East African Community (EAC) has set 2031 as the new target for launching its long-planned single regional currency, after delays caused by the COVID-19 pandemic and wider economic challenges. EAC officials said preparations are continuing, with a phased rollout expected once member states, incl"
+    },
+    {
+      "id": "n_110d42dab5",
+      "type": "news",
+      "title": "City Cracks Down on Property Fraud",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51911/",
+      "date": "2026-07-18",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "The Addis Ababa City Administration has begun digitizing land certificates and adopted a new rule for automatically dismissing employees implicated in land fraud, officials told the City Council this week. &#8220;We have digitized all the titles created up to now, and we hold the information as scan"
+    },
     {
       "id": "n_79f7dae141",
       "type": "news",
