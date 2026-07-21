@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-07-20T08:53:48.266499+00:00",
+  "last_updated": "2026-07-21T08:24:23.664012+00:00",
   "news": [
+    {
+      "id": "n_dde4ef4076",
+      "type": "news",
+      "title": "Somalia: Fierce fighting erupts in Bosaso as Puntland forces clash with PSF troops",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-bosaso-fighting-puntland-forces-clash-psf-troops/",
+      "date": "2026-07-20",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Fierce fighting erupted in Bosaso on Monday between Puntland Darwish forces and Puntland Security Force (PSF) troops loyal to Somalia&#8217;s federal government, marking the sharpest escalation yet in weeks of mounting tensions that observers have feared could spir"
+    },
+    {
+      "id": "n_aa95656e35",
+      "type": "news",
+      "title": "The Somali government announces that it  killed a senior leader of Al-Shabaab’s Shura Council.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-government-announces-that-it-killed-a-senior-leader-of-al-shabaabs-shura-council/",
+      "date": "2026-07-20",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security",
+        "Airstrikes"
+      ],
+      "excerpt": "The Somali Federal Government has announced a planned airstrike jointly carried out by the National Intelligence and Security Agency (NISA), and the Somali National Army in close collaboration with international Partners. The airstrike successfully eliminated a senior member of Al-Shabab’s Shura Cou"
+    },
+    {
+      "id": "n_c088935f8e",
+      "type": "news",
+      "title": "Everyday Authoritarianism Threatens Ethiopia’s Democratic Ambitions",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/07/20/everyday-authoritarianism-threatens-ethiopias-democratic-ambitions/?utm_source=rss&utm_medium=rss&utm_campaign=everyday-authoritarianism-threatens-ethiopias-democratic-ambitions&utm_source=rss&utm_medium=rss&utm_campaign=everyday-authoritarianism-threatens-ethiopias-democratic-ambitions",
+      "date": "2026-07-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The country’s democratic crisis begins in everyday relationships with power.\nThe post Everyday Authoritarianism Threatens Ethiopia&#8217;s Democratic Ambitions appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_29583e54d5",
+      "type": "news",
+      "title": "US Official Visits Cairo, Asmara for Security Talks",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51950/",
+      "date": "2026-07-20",
+      "region": "Somalia",
+      "tags": [
+        "Eritrea",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "US Senior Advisor for Arab and African Affairs, MassadBoulos, made a diplomatic visit to Egypt, Somalia, and Eritrea as Washington seeks to step up engagement in the region. During his visit, Boulos held talks with Somali Foreign Minister Abdisalam Abdi Ali, where the two sides discussed security an"
+    },
+    {
+      "id": "n_56213884eb",
+      "type": "news",
+      "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss",
+      "date": "2026-07-21",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea",
+        "Diplomacy",
+        "Maritime"
+      ],
+      "excerpt": "A series of diplomatic consultations in Cairo underscores the Horn of Africa&#039;s growing strategic importance."
+    },
     {
       "id": "n_6b0989775a",
       "type": "news",
