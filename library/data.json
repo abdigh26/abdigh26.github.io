@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-07-21T08:24:23.664012+00:00",
+  "last_updated": "2026-07-22T08:24:22.379423+00:00",
   "news": [
+    {
+      "id": "n_e0758b23d4",
+      "type": "news",
+      "title": "Somalia: Puntland captures PSF fighters, seizes military vehicles after clashes with federal forces",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-captures-psf-fighters-seizes-military-vehicles-federal-forces/",
+      "date": "2026-07-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Northeastern Somalia&#8217;s Puntland Darwish forces said they captured eight members of the Puntland Security Force (PSF) and seized multiple armed technical vehicles after clashes near the commercial port city of Bosaso on Monday, marking the latest escalation in"
+    },
+    {
+      "id": "n_f58454567b",
+      "type": "news",
+      "title": "Puntland officers display weapons reportedly seized from PSF forces.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-officers-display-weapons-reportedly-seized-from-psf-forces/",
+      "date": "2026-07-21",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Maritime",
+        "Puntland"
+      ],
+      "excerpt": "Officers of Puntland’s Dervish Forces and Those of Puntland’s Maritime Police Force (PMPF) showcased weapons they reportedly seized from Puntland Security Forces in Laag area on the outskirts of Bosaso. In a statement, the Dervish Forces Command announced that its troops had concluded in an operatio"
+    },
+    {
+      "id": "n_08d39dfd02",
+      "type": "news",
+      "title": "Regional Networks, Local Wars",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51959/",
+      "date": "2026-07-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "How Cross-Border Recruitment is Dragging the Horn into Sudan’s Conflict Recent media reports have drawn renewed attention to the regional dimensions of the war in Sudan, linking military training camps in Somalia to the deployment of new fighters to the conflict. The reports also implicate Saudi Ara"
+    },
+    {
+      "id": "n_5139579a0e",
+      "type": "news",
+      "title": "Another Hormuz? Saudi Arabia Rejects Houthi Blockade Claims, Vows to Protect Shipping",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51954/",
+      "date": "2026-07-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Saudi Arabia on Monday rejected accusations by Yemen’s Iran-aligned Houthi movement that it was imposing a blockade on Yemen, after the group announced it would begin a maritime blockade of the kingdom, escalating tensions that could threaten regional shipping and global energy supplies. The Houthis"
+    },
+    {
+      "id": "n_9f96cabee9",
+      "type": "news",
+      "title": "What Happens After Dandora? Kenya’s Green Transition Faces Its Hardest Test",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/07/what-happens-after-dandora-kenyas-green-transition-faces-its-hardest-test/?utm_source=rss&utm_medium=rss&utm_campaign=what-happens-after-dandora-kenyas-green-transition-faces-its-hardest-test",
+      "date": "2026-07-21",
+      "region": "Kenya",
+      "tags": [
+        "Kenya",
+        "Maritime"
+      ],
+      "excerpt": "For decades, thousands of Nairobi&#8217;s poorest residents have quietly carried out one of the city&#8217;s most important environmental services. Every day, informal waste pickers at Dandora sort, salvage and recover plastic, metal, paper, glass and electronic waste that would otherwise remain bur"
+    },
     {
       "id": "n_dde4ef4076",
       "type": "news",
