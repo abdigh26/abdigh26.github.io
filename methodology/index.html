@@ -1,0 +1,167 @@
+---
+layout: default
+title: Methodology
+permalink: /methodology/
+description: "How Somali OSINT Brief sources, verifies, and rates confidence in its Horn of Africa security analysis."
+---
+
+<style>
+  .methodology-page {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 6rem;
+    font-family: 'IBM Plex Mono', monospace;
+    color: #e8e4da;
+  }
+
+  .methodology-page h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 2.6rem;
+    letter-spacing: -0.01em;
+    margin: 0 0 0.5rem;
+    color: #f4f1ea;
+  }
+
+  .methodology-page .kicker {
+    font-size: 0.8rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #c8a84b;
+    margin-bottom: 1.5rem;
+  }
+
+  .methodology-page .intro {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: #cfcabf;
+    margin-bottom: 3rem;
+    border-left: 2px solid #c8a84b;
+    padding-left: 1.25rem;
+  }
+
+  .methodology-page section {
+    margin-bottom: 3rem;
+    border-top: 1px solid rgba(200, 168, 74, 0.25);
+    padding-top: 2rem;
+  }
+
+  .methodology-page h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #f4f1ea;
+    margin: 0 0 1rem;
+  }
+
+  .methodology-page p {
+    line-height: 1.75;
+    color: #cfcabf;
+    margin: 0 0 1rem;
+  }
+
+  .methodology-page ol {
+    margin: 0;
+    padding-left: 1.2rem;
+  }
+
+  .methodology-page ol li {
+    line-height: 1.75;
+    color: #cfcabf;
+    margin-bottom: 1rem;
+  }
+
+  .methodology-page ol li strong {
+    color: #f4f1ea;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 600;
+  }
+
+  .confidence-grid {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .confidence-item {
+    border: 1px solid rgba(200, 168, 74, 0.3);
+    border-radius: 4px;
+    padding: 1.25rem 1.5rem;
+    background: rgba(200, 168, 74, 0.04);
+  }
+
+  .confidence-item .label {
+    display: inline-block;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #c8a84b;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .confidence-item p {
+    margin: 0;
+    color: #cfcabf;
+  }
+
+  .methodology-page .limitations p {
+    color: #b8b2a4;
+    font-style: italic;
+  }
+</style>
+
+<div class="methodology-page">
+  <div class="kicker">Somali OSINT Brief</div>
+  <h1>Methodology</h1>
+
+  <p class="intro">
+    How we source, verify, and rate confidence in our Horn of Africa security analysis —
+    so you know exactly what you're reading before you act on it.
+  </p>
+
+  <section>
+    <h2>Sources</h2>
+    <p>
+      Somali OSINT Brief monitors 20 sources across Somali-language outlets (Garowe Online,
+      Hiiraan Online, Goobjoog News, Radio Dalsan), regional Ethiopian and Red Sea coverage,
+      and international wire and conflict-monitoring services. Incident data is cross-referenced
+      against UCDP's conflict event database and GDELT's global event dataset.
+    </p>
+  </section>
+
+  <section>
+    <h2>Process</h2>
+    <ol>
+      <li><strong>Collection</strong> — RSS ingestion pulls new reporting continuously across all monitored sources.</li>
+      <li><strong>Extraction</strong> — AI-assisted analysis identifies relevant incidents, actors, and locations, and generates initial summaries (BLUF).</li>
+      <li><strong>Cross-referencing</strong> — Incidents are checked against UCDP and GDELT records where available to corroborate reporting and reduce single-source reliance.</li>
+      <li><strong>Human review</strong> — All AI-generated analysis is reviewed before publication.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Confidence levels</h2>
+    <div class="confidence-grid">
+      <div class="confidence-item">
+        <span class="label">Verified</span>
+        <p>Corroborated by two or more independent sources, or confirmed in structured conflict datasets (UCDP/GDELT).</p>
+      </div>
+      <div class="confidence-item">
+        <span class="label">Reported</span>
+        <p>Sourced from a single credible outlet, not yet independently corroborated.</p>
+      </div>
+      <div class="confidence-item">
+        <span class="label">Assessed</span>
+        <p>Analytical judgment based on patterns, context, or incomplete reporting, clearly flagged as interpretation rather than fact.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="limitations">
+    <h2>Limitations</h2>
+    <p>
+      Open-source reporting on Somalia is uneven — some regions and incident types are
+      underreported relative to others, particularly in areas with limited press access.
+      We flag this where it materially affects confidence in a given assessment.
+    </p>
+  </section>
+</div>
