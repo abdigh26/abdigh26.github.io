@@ -1,6 +1,167 @@
 {
-  "last_updated": "2026-07-22T08:24:22.379423+00:00",
+  "last_updated": "2026-07-23T08:25:38.333731+00:00",
   "news": [
+    {
+      "id": "n_4cf2234420",
+      "type": "news",
+      "title": "African Union questions future of Somalia peace mission as AUSSOM funding crisis deepens",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/african-union-questions-future-of-somalia-peace-mission-aussom-funding-crisis/",
+      "date": "2026-07-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The future of the African Union&#8217;s peace mission in Somalia has entered an increasingly uncertain phase after several member states openly questioned how much longer the continent can sustain the costly deployment, as shrinking international financial support "
+    },
+    {
+      "id": "n_b0eca6970e",
+      "type": "news",
+      "title": "Somaliland Strengthens Global Health Partnerships at International Summit in Taiwan",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-strengthens-global-health-partnerships-at-international-summit-in-taiwan/",
+      "date": "2026-07-22",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The Director General of the Ministry of Health Development of the Republic of Somaliland, Dr. Ahmed Mahmoud Jama, led a high-level delegation to the Africa–Asia Pacific Health Innovation and Global Partnership Summit in Taipei, reaffirming Somaliland’s commitment to advancing healthcare through inno"
+    },
+    {
+      "id": "n_ab3ed61952",
+      "type": "news",
+      "title": "Somaliland, TaiwanICDF Deepen Strategic Development Partnership Following High-Level Talks in Taipei",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-taiwanicdf-deepen-strategic-development-partnership-following-high-level-talks-in-taipei/",
+      "date": "2026-07-22",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The Representative Office of the Republic of Somaliland in Taiwan has hosted a high-level delegation from the Taiwan International Cooperation and Development Fund (TaiwanICDF), reaffirming the growing partnership between Somaliland and Taiwan and paving the way for expanded development cooperation."
+    },
+    {
+      "id": "n_e54c39fb79",
+      "type": "news",
+      "title": "Madagascar: How Crime Is Exposing the Fault Lines of Military Rule",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51965/",
+      "date": "2026-07-22",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Military",
+        "Piracy"
+      ],
+      "excerpt": "By Muchira Gachenge For weeks, Madagascar’s capital has been gripped by shock. Children have disappeared, bodies have been discovered, and public anger has reached a breaking point. In response, Colonel Randrianirina’s junta has deployed the rhetoric of war and alleged a political conspiracy—without"
+    },
+    {
+      "id": "n_eb305de8e5",
+      "type": "news",
+      "title": "AI’s Growth Potential in Africa Hinges on Electricity, Connectivity and Skills, IMF Says",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51961/",
+      "date": "2026-07-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "Artificial intelligence could increase Sub-Saharan Africa’s economic output by about four percent over the next decade, but only if governments make substantial investments in electricity, internet connectivity and digital skills, the International Monetary Fund said in a report released Tuesday. Wi"
+    },
+    {
+      "id": "n_656ffc9f4d",
+      "type": "news",
+      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
+      "date": "2026-07-23",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger."
+    },
+    {
+      "id": "n_083c0b3633",
+      "type": "news",
+      "title": "Iran war live: US strike kills 2 people; Houthis attack 2 Saudi oil tankers",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
+      "date": "2026-07-23",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr."
+    },
+    {
+      "id": "n_20d7ab15a6",
+      "type": "news",
+      "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
+      "date": "2026-07-22",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Claimed attacks come days after Houthis announced naval embargo on Saudi vessels"
+    },
+    {
+      "id": "n_27461248fa",
+      "type": "news",
+      "title": "Watch: Houthi spokesperson says group targeted Saudi oil tankers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-houthi-spokesperson-says-group-targeted-saudi-oil-tankers",
+      "date": "2026-07-23",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Watch: Houthi spokesperson says group targeted Saudi oil tankers\n\n    \n    \n\n        \n    \n                Houthi military spokesman Yahya Saree said that they targeted two Saudi oil tankers in the Red Sea, claiming the vessels had violated a ban imposed by the group.\n\nSaudi Arabia's state media lat"
+    },
+    {
+      "id": "n_c3b9d68d60",
+      "type": "news",
+      "title": "Fire onboard Saudi vessel hit in Red Sea",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-onboard-saudi-vessel-hit-red-sea",
+      "date": "2026-07-23",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Fire onboard Saudi vessel hit in Red Sea  \n\n    \n    \n\n        \n    \n                &nbsp;A Saudi-owned vessel was hit while sailing in the Red Sea, causing&nbsp;the front of the ship to be set on ifire, Saudi state news agency SPA reported citing an official source at the General Transport Authori"
+    },
+    {
+      "id": "n_50b75c5711",
+      "type": "news",
+      "title": "Houthis claim strikes on Saudi oil tankers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-strikes-saudi-oil-tankers",
+      "date": "2026-07-23",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Houthis claim strikes on Saudi oil tankers\n\n    \n    \n\n        \n    \n                Yemen's Houthis claimed&nbsp;missile and drone attacks on two Saudi oil tankers in the Red Sea after declaring a maritime embargo on the kingdom, amid the US war with Iran."
+    },
     {
       "id": "n_e0758b23d4",
       "type": "news",
