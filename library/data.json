@@ -1,6 +1,153 @@
 {
-  "last_updated": "2026-07-23T08:25:38.333731+00:00",
+  "last_updated": "2026-07-24T08:23:46.858707+00:00",
   "news": [
+    {
+      "id": "n_ce247354de",
+      "type": "news",
+      "title": "Somalia’s Puntland orders federal forces in Bosaso to surrender after seizing positions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-orders-federal-forces-bosaso-surrender/",
+      "date": "2026-07-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Authorities in Somalia&#8217;s semi-autonomous Puntland region have ordered federal government-aligned security forces in the commercial port city of Bosaso to surrender immediately, days after regional forces seized their positions in fighting that has further esc"
+    },
+    {
+      "id": "n_4f7aefb55c",
+      "type": "news",
+      "title": "Somalia presses Meta for safeguards before WhatsApp username rollout",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-whatsapp-username/",
+      "date": "2026-07-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has raised concerns over WhatsApp&#8217;s planned introduction of usernames, warning that the privacy-focused feature could complicate efforts to investigate terrorism, financial fraud and cybercrime unless adequate safeguards are put in place. The Somali g"
+    },
+    {
+      "id": "n_b109d2192d",
+      "type": "news",
+      "title": "The former District Commissioner  of Awdiinle, along with 150 militiamen surrender to government forces",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-former-district-commissioner-of-awdiinle-along-with-150-militiamen-surrender-to-government-forces/",
+      "date": "2026-07-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Militia"
+      ],
+      "excerpt": "Somalia’s Ministry of Defense announced that Mr. Ibrahim Kalaay, who is described as the former District Commissioner of Awdinle area in Bay region, along with 150 militiamen have surrendered to the Somali National Army that is operating in Southwest State. In a statement the Ministry of Defense of "
+    },
+    {
+      "id": "n_fc821a2977",
+      "type": "news",
+      "title": "The Somali Ministry of Defence Announces that 18 Al-Shabaab members were killed in an airstrike in Hiiraan region.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-ministry-of-defence-announces-that-18-al-shabaab-members-were-killed-in-an-airstrike-in-hiiraan-region/",
+      "date": "2026-07-23",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Airstrikes"
+      ],
+      "excerpt": "The Somali National Army in close collaboration with international partners carried out a planned airstrike, targeting Suullaay area, which lies 17 km south from Teedaan area in Hiiraan province, where Al-Shabab members were hiding. 18 Al-Shabab members were successfully eliminated while 21 others s"
+    },
+    {
+      "id": "n_70c8e6ba76",
+      "type": "news",
+      "title": "NBE Reaffirms Ban on Virtual Assets, Warns Public Against Crypto Transactions",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51969/",
+      "date": "2026-07-23",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The central bank today reaffirmed that the use, trading and transfer of virtual assets, including cryptocurrencies, remain prohibited unless expressly authorized by the National Bank of Ethiopia (NBE), warning the public against engaging in such transactions because of legal and financial risks. In "
+    },
+    {
+      "id": "n_875d5b46ce",
+      "type": "news",
+      "title": "AU Condemns Houthi Attacks on Red Sea Shipping, Backs Saudi Arabia",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/51967/",
+      "date": "2026-07-23",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "The African Union has condemned attacks claimed by Yemen’s Iran-aligned Houthi movement on commercial oil tankers in the Red Sea, warning that the assaults threaten regional security, global trade and one of the world’s busiest maritime corridors. In a statement, African Union Commission Chairperson"
+    },
+    {
+      "id": "n_84878c86fe",
+      "type": "news",
+      "title": "Ethiopia: Armed attacks in East Arsi and the need for immediate attention",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/425693/ethiopia-armed-attacks-in-east-arsi-and-the-need-for-immediate-attention/",
+      "date": "2026-07-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia is one of the oldest nations in the world with a rich history of resilience and cultural diversity, which has led to complex ethnic dynamics among numerous groups, including misconceptions about the Amhara people."
+    },
+    {
+      "id": "n_e723bb53d7",
+      "type": "news",
+      "title": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss",
+      "date": "2026-07-24",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union"
+      ],
+      "excerpt": "Houthi attacks for now are shaping who moves Saudi crude, not whether it moves, analysts say, even as oil prices soar."
+    },
+    {
+      "id": "n_2b108e041b",
+      "type": "news",
+      "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
+      "date": "2026-07-24",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "Hans Grundberg warns that further confrontation risks &#039;deepening the suffering of the Yemeni people&#039;."
+    },
+    {
+      "id": "n_42d9008243",
+      "type": "news",
+      "title": "How the Houthi Red Sea blockade will impact the world",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
+      "date": "2026-07-23",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "The Houthis&#039; blockade of Bab al-Mandeb threatens a vital global trade route."
+    },
     {
       "id": "n_4cf2234420",
       "type": "news",
