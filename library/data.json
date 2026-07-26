@@ -1,6 +1,190 @@
 {
-  "last_updated": "2026-07-25T08:02:49.272186+00:00",
+  "last_updated": "2026-07-26T08:22:48.954917+00:00",
   "news": [
+    {
+      "id": "n_8241685a57",
+      "type": "news",
+      "title": "Turkey cannot commercially drill Somalia’s offshore oil: ex-Puntland minister",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-cannot-commercially-drill-somalia-offshore-oil-ex-puntland-minister/",
+      "date": "2026-07-25",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former Puntland minister and Somali political commentator Ali Haji Warsame has questioned Turkey&#8217;s ability to commercially develop Somalia&#8217;s offshore oil resources, arguing that Ankara&#8217;s current operations in Somali waters are limited to explorati"
+    },
+    {
+      "id": "n_bdd8c1fe74",
+      "type": "news",
+      "title": "Somaliland’s Buurmadow says he would support reunification with Somalia if Hargeisa became Capital",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-buurmadow-supports-somalia-reunification-hargeisa-capital/",
+      "date": "2026-07-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Veteran Somaliland traditional leader Osman Aw Mohamud, widely known as Buurmadow, has proposed that Somaliland should consider reunification with Somalia if a political settlement designates Hargeisa as the national capital, marking one of the clearest public endo"
+    },
+    {
+      "id": "n_9eaac88527",
+      "type": "news",
+      "title": "Kenya claims to have thwarted a suspected Al-Shabaab fighters’ attack at the Somali border.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/kenya-claims-to-have-thwarted-a-suspected-al-shabaab-fighters-attack-at-the-somali-border/",
+      "date": "2026-07-25",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Kenya",
+        "Somalia",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "Kenya’s police said that they thwarted an attack carried out by suspected Al-Shabab fighters in which they launched a coordinated attack on a base located in Fiino area in Mandera region which lies on the border with Somalia. According to security officers, a group whose number has not been disclose"
+    },
+    {
+      "id": "n_9e9eb0ffd3",
+      "type": "news",
+      "title": "The Mayor of Berbera, Deputy Mayor tender their official resignations",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-mayor-of-berbera-deputy-mayor-tender-their-official-resignations/",
+      "date": "2026-07-25",
+      "region": "Somalia",
+      "tags": [
+        "Berbera",
+        "Maritime"
+      ],
+      "excerpt": "The Mayor of the port city of Berbera, Mr. Abdishakur Mohamud Hassan widely known as Idin, has officially tendered his resignation from the position on Saturday after he led Berbera Council for 14 years. Meanwhile, Berbera Deputy Mayor, Mr. Nuur Adde has also officially tendered his resignation. The"
+    },
+    {
+      "id": "n_7738b83559",
+      "type": "news",
+      "title": "Somaliland issues a statement regarding the release of prisoners captured during the Las Anod conflict.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-issues-a-statement-regarding-the-release-of-prisoners-captured-during-the-las-anod-conflict/",
+      "date": "2026-07-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "On Saturday, the Deputy Minister of Education, Mr. Mohamed Muuse Abdi known as Galayr, confirmed that prisoners held in Lasanod and those held in Somaliland will be exchanged or released on the same day after a final agreement is reached over the issue. The education Minister has announced that peac"
+    },
+    {
+      "id": "n_365d74b17e",
+      "type": "news",
+      "title": "Somaliland Cabinet Approves Landmark Livestock Quarantine Law to Strengthen Exports and Animal Welfare",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-cabinet-approves-landmark-livestock-quarantine-law-to-strengthen-exports-and-animal-welfare/",
+      "date": "2026-07-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Maritime"
+      ],
+      "excerpt": "Republic of Somaliland’s Minister of Livestock Development, Omar Shu’aib Mohamed, has welcomed the Cabinet’s approval of the country’s first-ever Livestock Quarantine Law, describing it as a milestone that will modernize the livestock export industry, improve animal welfare, and boost access to inte"
+    },
+    {
+      "id": "n_da3bb78f51",
+      "type": "news",
+      "title": "Somaliland Foreign Minister Begins High-Level Washington Visit to Deepen U.S. Ties",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-foreign-minister-begins-high-level-washington-visit-to-deepen-u-s-ties/",
+      "date": "2026-07-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Republic of Somaliland’s Minister of Foreign Affairs and International Cooperation, Hon. Abdirahman Dahir Adan, has arrived in Washington, D.C., for a series of high-level meetings with U.S. government officials and leading American institutions aimed at strengthening bilateral relations and expandi"
+    },
+    {
+      "id": "n_21a0f522a8",
+      "type": "news",
+      "title": "Buurmadow: “If the flag and the capital are granted to Somaliland, let us unite with Somalia.”",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/buurmadow-if-the-flag-and-the-capital-are-granted-to-somaliland-let-us-unite-with-somalia/",
+      "date": "2026-07-24",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia"
+      ],
+      "excerpt": "King Osman Aw Mohamud known as Buurmadow, who is among Somaliland’s traditional elders has publicly announced that he strongly believes that the only way forward for resolving the political conflict between Somalia and Somaliland is that the two sides to hold talks. In an interview with Dirane Telev"
+    },
+    {
+      "id": "n_fd6946b5b4",
+      "type": "news",
+      "title": "Economic Execution: How Regulatory Blindness, Tax Aggression Killing Ethiopia’s Emerging Fintechs",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52044/",
+      "date": "2026-07-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "In late 2025, the executive boardrooms of Ethiopia’s most promising digital financial startups transitioned overnight from celebrating record growth to managing an existential crisis. Armed federal officers, alongside teams from the Ministry of Revenues (MoR), the Ministry of Justice (MoJ), and the "
+    },
+    {
+      "id": "n_66960fc6f1",
+      "type": "news",
+      "title": "US Tightens Sudan Sanctions Over Alleged Chemical Weapons Use",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52048/",
+      "date": "2026-07-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Military"
+      ],
+      "excerpt": "The United States has imposed a second round of sanctions on Sudan over allegations that the Sudanese Armed Forces (SAF) used prohibited chemical weapons during the country&#8217;s civil war, escalating pressure on the military leadership despite Khartoum&#8217;s continued denial of the accusations."
+    },
+    {
+      "id": "n_7f9dfb7519",
+      "type": "news",
+      "title": "Tigray’s Lost Classrooms: Why Education Must Be at the Centre of Recovery",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/07/tigrays-lost-classrooms-why-education-must-be-at-the-centre-of-recovery/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-lost-classrooms-why-education-must-be-at-the-centre-of-recovery",
+      "date": "2026-07-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray"
+      ],
+      "excerpt": "The war in Tigray did not only destroy lives, homes, hospitals and livelihoods. It also attacked the foundations of the region’s future by depriving an entire generation of children of education. In January 2025, the European Commission’s Directorate-General for European Civil Protection and Humanit"
+    },
+    {
+      "id": "n_8d8df7ae46",
+      "type": "news",
+      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+      "date": "2026-07-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel."
+    },
+    {
+      "id": "n_79bd541e66",
+      "type": "news",
+      "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+      "date": "2026-07-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union"
+      ],
+      "excerpt": "Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco."
+    },
     {
       "id": "n_711332ff7a",
       "type": "news",
@@ -4109,76 +4293,6 @@
         "Kenya"
       ],
       "excerpt": "A few months ago, I was scrolling through TikTok when I came across a video. In a brightly lit room with brown décor, a doctor in a checkered shirt was discussing PCOS, a common condition that affects many women globally. As he shared medical insights and opinions, he repeatedly recommended herbal s"
-    },
-    {
-      "id": "n001",
-      "type": "news",
-      "title": "Somaliland-Israel Diplomatic Talks Continue in Tel Aviv",
-      "source": "Reuters",
-      "url": "https://www.reuters.com",
-      "date": "2026-06-16",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Israel",
-        "Diplomacy"
-      ]
-    },
-    {
-      "id": "n002",
-      "type": "news",
-      "title": "ATMIS Final Withdrawal Sparks Security Concerns in Lower Shabelle",
-      "source": "Garowe Online",
-      "url": "https://www.garoweonline.com",
-      "date": "2026-06-15",
-      "region": "Somalia",
-      "tags": [
-        "ATMIS",
-        "SNA",
-        "Security"
-      ]
-    },
-    {
-      "id": "n003",
-      "type": "news",
-      "title": "Ethiopia-Eritrea Border Talks Stall Over Badme",
-      "source": "AFP",
-      "url": "https://www.afp.com",
-      "date": "2026-06-14",
-      "region": "Eritrea",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Border"
-      ]
-    },
-    {
-      "id": "n004",
-      "type": "news",
-      "title": "Houthi Strike Hits Fuel Tanker in Gulf of Aden",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com",
-      "date": "2026-06-17",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Maritime",
-        "Red Sea"
-      ]
-    },
-    {
-      "id": "n005",
-      "type": "news",
-      "title": "Kenya Deploys Additional Forces to Mandera Following Al-Shabaab Attack",
-      "source": "The Star Kenya",
-      "url": "https://www.the-star.co.ke",
-      "date": "2026-06-13",
-      "region": "Kenya",
-      "tags": [
-        "Kenya",
-        "Al-Shabaab",
-        "NFD"
-      ]
     }
   ],
   "articles": [
