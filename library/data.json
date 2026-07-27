@@ -1,6 +1,84 @@
 {
-  "last_updated": "2026-07-26T08:22:48.954917+00:00",
+  "last_updated": "2026-07-27T09:46:25.330751+00:00",
   "news": [
+    {
+      "id": "n_b47d47977a",
+      "type": "news",
+      "title": "Somalia summons Kenya’s ambassador after state minister Abshir Bukhaari reportedly deported from Nairobi",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-summons-kenya-ambassador-abshir-bukhaari-deported-nairobi/",
+      "date": "2026-07-27",
+      "region": "Somalia",
+      "tags": [
+        "Kenya",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has summoned Kenya&#8217;s ambassador for talks after State Minister at the Presidency Abshir Bukhaari was reportedly denied entry into Kenya upon arrival at Nairobi&#8217;s Jomo Kenyatta International Airport (JKIA) and deported back to Mogadishu on Sunday"
+    },
+    {
+      "id": "n_79d80e71c2",
+      "type": "news",
+      "title": "Puntland warns over Somalia federal military moves in Galkayo after Bosaso clashes",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-warns-somalia-federal-military-moves-galkayo-bosaso-clashes/",
+      "date": "2026-07-26",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Authorities in northeastern Somalia’s Puntland state on Saturday said they were closely monitoring what they described as military maneuvers by Somalia’s federal government in the central town of Galkayo, warning that the developments could threaten regional stabil"
+    },
+    {
+      "id": "n_555f4f65a2",
+      "type": "news",
+      "title": "NISA successfully eliminates Al-Shabaab Chiefs, 14 Fighters",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-successfully-eliminates-al-shabaab-chiefs-14-fighters/",
+      "date": "2026-07-26",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "Somalia’s National Intelligence and Security Agency (NISA) said Sunday that its forces in collaboration with international partners, successfully eliminated two senior Al-Shabab propaganda officials and 14 other militants in coordinated raids across Hirshabelle state as this dealt a major blow to th"
+    },
+    {
+      "id": "n_d8c606b279",
+      "type": "news",
+      "title": "Amhara Nationalism Faces Historic Choice in National Dialogue",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/07/27/amhara-nationalism-faces-historic-choice-in-national-dialogue/?utm_source=rss&utm_medium=rss&utm_campaign=amhara-nationalism-faces-historic-choice-in-national-dialogue&utm_source=rss&utm_medium=rss&utm_campaign=amhara-nationalism-faces-historic-choice-in-national-dialogue",
+      "date": "2026-07-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Constitutional reform could challenge decades-old assumptions about Ethiopia’s political order For generations, Amhara political thought rested on an implicit premise: Whatever ideological language successive governments adopted, the Ethiopian state remained familiar political territory. Regimes cha"
+    },
+    {
+      "id": "n_a2208ccde7",
+      "type": "news",
+      "title": "Massad Boulos courts Egypt’s anti-Ethiopian alliance in the Horn of Africa",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/426104/massad-boulos-courts-egypts-anti-ethiopian-alliance-in-the-horn-of-africa/",
+      "date": "2026-07-27",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Ethiopia",
+        "Eritrea",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "The US Trump administration risks getting caught between an Egypt-Somalia-Eritrea axis on one side and an Ethiopia-Somaliland-Israel partnership on the other."
+    },
     {
       "id": "n_8241685a57",
       "type": "news",
@@ -4221,78 +4299,6 @@
         "African Union"
       ],
       "excerpt": "As alliances among anti-government forces emerge and the federal government intensifies its militarised policies, Ethiopia risks becoming entangled in a broader and potentially devastating war that could draw in multiple actors and cause instability beyond its borders."
-    },
-    {
-      "id": "n_4d8b01e8e2",
-      "type": "news",
-      "title": "Somalia warns Israel against meddling in Somaliland",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss",
-      "date": "2026-06-18",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Israel"
-      ],
-      "excerpt": "The message came after Somaliland opened its first overseas embassy this week, in Jerusalem."
-    },
-    {
-      "id": "n_97c8144d91",
-      "type": "news",
-      "title": "What Al-Shabaab Understands About Somali Authority",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/06/what-al-shabaab-understands-about-somali-authority/?utm_source=rss&utm_medium=rss&utm_campaign=what-al-shabaab-understands-about-somali-authority",
-      "date": "2026-06-18",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "In south-central Somalia, a trader knows what to expect at an al-Shabaab checkpoint. The rate is fixed, set out in a published schedule. The receipt allows passage through the next checkpoint without paying again. If the assessment seems unfair, there is a court the trader can appeal to. This is how"
-    },
-    {
-      "id": "n_0a18946a8a",
-      "type": "news",
-      "title": "In gaining Israel’s recognition, Somaliland may also have inherited its enemies",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/422110/in-gaining-israels-recognition-somaliland-may-also-have-inherited-its-enemies/",
-      "date": "2026-06-16",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Houthis",
-        "Israel"
-      ],
-      "excerpt": "As Hargeisa deepens ties with Tel Aviv and celebrates its biggest diplomatic breakthrough in 35 years, threats from the Houthis, condemnation from Hamas and growing opposition across the Muslim world raise questions about the price of recognition."
-    },
-    {
-      "id": "n_ea719fe39b",
-      "type": "news",
-      "title": "Beyond the headlines, does Kenya have the political will to end femicides?",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/06/beyond-the-headlines-does-kenya-have-the-political-will-to-end-femicides/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-headlines-does-kenya-have-the-political-will-to-end-femicides",
-      "date": "2026-06-16",
-      "region": "Kenya",
-      "tags": [
-        "Kenya",
-        "Governance"
-      ],
-      "excerpt": "On June 1st, as Kenya marked Madaraka (self-governance) Day, a different kind of freedom match took place on the streets of Nairobi. Women&#8217;s rights organizations, civil society groups, survivors, and concerned citizens gather to demand action against the rising cases of femicide and gender-bas"
-    },
-    {
-      "id": "n_cc8f3c69ab",
-      "type": "news",
-      "title": "The Algorithm Will See You Now: Deepfake Doctors and the Commodification of Care in Kenya",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/06/the-algorithm-will-see-you-now-deepfake-doctors-and-the-commodification-of-care-in-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=the-algorithm-will-see-you-now-deepfake-doctors-and-the-commodification-of-care-in-kenya",
-      "date": "2026-06-16",
-      "region": "Kenya",
-      "tags": [
-        "Kenya"
-      ],
-      "excerpt": "A few months ago, I was scrolling through TikTok when I came across a video. In a brightly lit room with brown décor, a doctor in a checkered shirt was discussing PCOS, a common condition that affects many women globally. As he shared medical insights and opinions, he repeatedly recommended herbal s"
     }
   ],
   "articles": [
