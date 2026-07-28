@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-07-27T09:46:25.330751+00:00",
+  "last_updated": "2026-07-28T08:29:50.778668+00:00",
   "news": [
+    {
+      "id": "n_bb25fde3fe",
+      "type": "news",
+      "title": "Somalia opposition urges AUSSOM TCC leaders to back transitional council at Uganda Summit",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-aussom-uganda-summit-transition/",
+      "date": "2026-07-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s opposition National Future Council on Monday called on the heads of state of countries contributing troops and police to the African Union Support and Stabilization Mission in Somalia (AUSSOM) to use their upcoming summit in Uganda to press for an i"
+    },
+    {
+      "id": "n_014ec875bf",
+      "type": "news",
+      "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
+      "date": "2026-07-28",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "Speaking in Riyadh, Yemen&#039;s internationally recognised government warns global complacency has emboldened the Houthis."
+    },
     {
       "id": "n_b47d47977a",
       "type": "news",
@@ -4270,35 +4300,6 @@
         "Kenya"
       ],
       "excerpt": "Kenya Airways is seeking $1.5bn and partnering with Ghana Airways to establish a multi-hub network, aiming to rival Ethiopian Airlines and secure its long-term revival."
-    },
-    {
-      "id": "n_22b4de45de",
-      "type": "news",
-      "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
-      "date": "2026-06-20",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Red Sea",
-        "Israel"
-      ],
-      "excerpt": "Six months after recognition, Israel and Somaliland say they are moving from symbolism to strategic cooperation."
-    },
-    {
-      "id": "n_a9233c1b42",
-      "type": "news",
-      "title": "Ethiopia on the edge of its widest and most catastrophic war",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/422413/ethiopia-on-the-edge-of-its-widest-and-most-catastrophic-war/",
-      "date": "2026-06-19",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "As alliances among anti-government forces emerge and the federal government intensifies its militarised policies, Ethiopia risks becoming entangled in a broader and potentially devastating war that could draw in multiple actors and cause instability beyond its borders."
     }
   ],
   "articles": [
