@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-07-28T08:29:50.778668+00:00",
+  "last_updated": "2026-07-29T08:36:27.448906+00:00",
   "news": [
+    {
+      "id": "n_6f557a3d93",
+      "type": "news",
+      "title": "Galkayo on edge as Somalia govt, Puntland inch toward armed conflict",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-federal-government-puntland-galkayo-tensions-potential-conflict/",
+      "date": "2026-07-28",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former Somali Prime Minister Omar Abdirashid Ali Sharmarke on Tuesday warned that Somalia risks sliding into another internal conflict as military tensions between the federal government and Puntland escalate around the strategic central town of Galkayo, cautioning"
+    },
+    {
+      "id": "n_5734e8a1c5",
+      "type": "news",
+      "title": "Somali Army Land Forces Commander Arrives in Dhuusamareb to boost Anti-Al-Shabab operations",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-army-land-forces-commander-arrives-in-dhuusamareb-to-boost-anti-al-shabab-operations/",
+      "date": "2026-07-28",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Galmudug",
+        "Maritime"
+      ],
+      "excerpt": "Ground Forces Commander of the Somali National Army, General Sahal Abdullahi Omar, arrived in Dhuusamareb, the administrative seat of Galmudug state, where he held a high-level security meeting with army officers in a bid to accelerate anti-Al-Shabab operations. Upon arrival at Ugaas Noor Airport, t"
+    },
+    {
+      "id": "n_577961ff65",
+      "type": "news",
+      "title": "Somaliland Launches Nationwide Livestock Tracking System to Strengthen Animal Health and Exports",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-launches-nationwide-livestock-tracking-system-to-strengthen-animal-health-and-exports/",
+      "date": "2026-07-28",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Republic of Somaliland’s Ministry of Livestock and Rural Development Hon. Omar Shucayb has unveiled a comprehensive livestock tracking system designed to monitor the movement and status of animals across the country, marking a significant step toward improving livestock management, disease control, "
+    },
+    {
+      "id": "n_386e4cd6fa",
+      "type": "news",
+      "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+      "date": "2026-07-28",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union"
+      ],
+      "excerpt": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers."
+    },
+    {
+      "id": "n_f718ed3df2",
+      "type": "news",
+      "title": "Houthi army spokesperson says Saudi drone downed in Yemen's Saada",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-army-spokesperson-says-saudi-drone-downed-yemens-sanaa",
+      "date": "2026-07-29",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Houthi army spokesperson says Saudi drone downed in Yemen's Saada\n\n    \n    \n\n        \n    \n                Houthi military spokesperson&nbsp;Yahya Saree said that they shot down&nbsp;a Saudi reconnaissance drone \"carrying out hostile operations\" in&nbsp;the airspace of Yemen's&nbsp;Saada.&nbsp;\n\nHe"
+    },
     {
       "id": "n_bb25fde3fe",
       "type": "news",
@@ -4231,75 +4308,6 @@
         "African Union"
       ],
       "excerpt": "US prosecutors reach into Somalia for a suspect in US fraud case."
-    },
-    {
-      "id": "n_0c1bd5e0ae",
-      "type": "news",
-      "title": "Ethiopian Airlines prepares for a dogfight to replace Mesfin Tasew",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/423059/ethiopian-airlines-prepares-for-a-dogfight-to-replace-mesfin-tasew/",
-      "date": "2026-06-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "With a $7.6bn turnover and a mega-airport project on the horizon, the corporate succession race at state-owned Ethiopian Airlines rests firmly in the hands of the prime minister’s inner circle."
-    },
-    {
-      "id": "n_cdc6fcd3fc",
-      "type": "news",
-      "title": "Somalia: A State without Settlement",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/06/somalia-a-state-without-settlement/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-a-state-without-settlement",
-      "date": "2026-06-24",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia"
-      ],
-      "excerpt": "In early June, a warm evening in Mogadishu was punctuated once again by the staccato of gunfire and mortar shells. Not the result of an ambush by Al-Shabaab or a quarrel over a checkpoint, but rather deadly clashes emanating from a federal government seeking to secure its political grip on the capit"
-    },
-    {
-      "id": "n_c8f1a889c4",
-      "type": "news",
-      "title": "Somalia in the Crosshairs: the Consequences of the Iran War on Somalia",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/06/somalia-in-the-crosshairs-the-consequences-of-the-iran-war-on-somalia/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-in-the-crosshairs-the-consequences-of-the-iran-war-on-somalia",
-      "date": "2026-06-24",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Israel"
-      ],
-      "excerpt": "The US-Israel war on Iran has had global ramifications in the cost of daily life and geopolitical calculations. Because of geographical proximity, political instability, and relative poverty of countries in the Horn of Africa, the spillover and the impact of this war on this region is particularly c"
-    },
-    {
-      "id": "n_9df74999a3",
-      "type": "news",
-      "title": "Somalia: The Disappeared",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/06/somalia-the-disappeared/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-the-disappeared",
-      "date": "2026-06-24",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "On the evening of 26 June 2021, a woman named Ikran Tahlil Farah left her home in Mogadishu after receiving a call from a number she did not recognize. She got into a car. Her family watched her go. They have not seen her since. Ikran Tahlil Farah was not a dissident or a journalist. She was not an "
-    },
-    {
-      "id": "n_86bd2c3b0b",
-      "type": "news",
-      "title": "KQ pursues Ghana Airways deal, larger fleet as it awaits strategic investor",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/422572/kq-pursues-ghana-airways-deal-larger-fleet-as-it-awaits-strategic-investor/",
-      "date": "2026-06-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Kenya"
-      ],
-      "excerpt": "Kenya Airways is seeking $1.5bn and partnering with Ghana Airways to establish a multi-hub network, aiming to rival Ethiopian Airlines and secure its long-term revival."
     }
   ],
   "articles": [
