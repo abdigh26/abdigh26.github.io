@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-07-29T08:36:27.448906+00:00",
+  "last_updated": "2026-07-30T08:21:59.070101+00:00",
   "news": [
+    {
+      "id": "n_1ec8f89d07",
+      "type": "news",
+      "title": "Five Kenyan officers killed in Al-Shabaab ambush near Somalia border as Mandera’s deadly corridor claims more lives",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/kenya-mandera-al-shabaab-attack-five-officers-killed/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Kenya",
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab fighters ambushed a Kenyan police patrol near the Somali border on Tuesday, killing five officers from an elite counter-terrorism unit. As reinforcements rushed to the scene, a roadside bomb tore through one of their armoured vehicles. Kenyan police conf"
+    },
+    {
+      "id": "n_9deb530464",
+      "type": "news",
+      "title": "Emergency Uganda AUSSOM summit opens as U.S. funding threat puts Somalia mission at risk",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-aussom-summit-us-funding-threat-somalia-mission/",
+      "date": "2026-07-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Countries contributing troops and police to the African Union Support and Stabilization Mission in Somalia (AUSSOM) convened an extraordinary summit in Uganda&#8217;s capital, Kampala, on Wednesday to discuss urgent measures aimed at preventing the mission from sli"
+    },
+    {
+      "id": "n_7847815555",
+      "type": "news",
+      "title": "Somalia: Puntland forces surround PSF camp in Galkayo as conflict fears rise",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-surround-psf-camp-galkayo-conflict-fears/",
+      "date": "2026-07-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland regional forces have surrounded a camp in Galkayo used by Puntland Security Force (PSF) personnel aligned with Somalia&#8217;s federal government, intensifying a rapidly escalating standoff that has heightened fears of a broader conflict in the strategic c"
+    },
+    {
+      "id": "n_91c40feb85",
+      "type": "news",
+      "title": "Gorgor commandos establish new positions in the Sumadaale area in Middle Shabelle region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/gorgor-commandos-establish-new-positions-in-the-sumadaale-area-in-middle-shabelle-region/",
+      "date": "2026-07-29",
+      "region": "Somalia",
+      "tags": [
+        "Military"
+      ],
+      "excerpt": "The Somali Special Forces known as Gorgor Commandos of the Somali National Army established new military positions in Sumadaale area in Middle Shabelle province after they successfully dislodged Al-Shabab militants from the area last Tuesday. The Ministry of Defense said Tuesday that the Somali troo"
+    },
+    {
+      "id": "n_ce5fadbd4a",
+      "type": "news",
+      "title": "TPLF’s rhetoric and Ethiopia’s reality on the ground: When politics forgets people",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/425731/tplfs-rhetoric-and-ethiopias-reality-on-the-ground-when-politics-forgets-people/",
+      "date": "2026-07-30",
+      "region": "Ethiopia",
+      "tags": [
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "Nearly four years after the Pretoria Peace Agreement (PPA), which ended the devastating conflict in northern Ethiopia, hopes for a durable peace remain under strain."
+    },
     {
       "id": "n_6f557a3d93",
       "type": "news",
@@ -4240,74 +4315,6 @@
         "African Union"
       ],
       "excerpt": "How Africa’s leading institution turned a peace agreement into a tool of war\nThe post The AU Turned Pretoria Into Abiy’s Shield appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_345972c027",
-      "type": "news",
-      "title": "Teddy Afro’s Mourning Tent and Ethiopia’s Fractured National Imagination",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/05/16/teddy-afros-mourning-tent-and-ethiopias-fractured-national-imagination/?utm_source=rss&utm_medium=rss&utm_campaign=teddy-afros-mourning-tent-and-ethiopias-fractured-national-imagination&utm_source=rss&utm_medium=rss&utm_campaign=teddy-afros-mourning-tent-and-ethiopias-fractured-national-imagination",
-      "date": "2026-05-16",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "How one song exposed Ethiopia’s deepening political and social divides\nThe post Teddy Afro’s Mourning Tent and Ethiopia’s Fractured National Imagination appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_f5fe96f813",
-      "type": "news",
-      "title": "Abiy Ahmed Has Turned War Into a Governing Strategy",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/05/14/abiy-ahmed-has-turned-war-into-a-governing-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=abiy-ahmed-has-turned-war-into-a-governing-strategy&utm_source=rss&utm_medium=rss&utm_campaign=abiy-ahmed-has-turned-war-into-a-governing-strategy",
-      "date": "2026-05-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia is sliding toward another rupture amid widening and unresolved conflicts\nThe post Abiy Ahmed Has Turned War Into a Governing Strategy appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_673f5646db",
-      "type": "news",
-      "title": "Conflict Became Currency in Ethiopia’s Diaspora Media",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/05/03/conflict-became-currency-in-ethiopias-diaspora-media/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-became-currency-in-ethiopias-diaspora-media&utm_source=rss&utm_medium=rss&utm_campaign=conflict-became-currency-in-ethiopias-diaspora-media",
-      "date": "2026-05-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "SNA"
-      ],
-      "excerpt": "Outrage, identity politics, and money now shape transnational discourse\nThe post Conflict Became Currency in Ethiopia’s Diaspora Media appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_01c650c9b9",
-      "type": "news",
-      "title": "Abiy Is Quietly Dismantling Tigray",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/04/27/abiy-is-quietly-dismantling-tigray/?utm_source=rss&utm_medium=rss&utm_campaign=abiy-is-quietly-dismantling-tigray&utm_source=rss&utm_medium=rss&utm_campaign=abiy-is-quietly-dismantling-tigray",
-      "date": "2026-04-27",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Post-Pretoria calm conceals a slow strategy of fragmentation and control\nThe post Abiy Is Quietly Dismantling Tigray appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_f6b11e658d",
-      "type": "news",
-      "title": "Somali intelligence helps US arrest alleged leader of Minnesota fraud",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/6/27/somali-intelligence-helps-us-arrest-alleged-ringleader-of-minnesota-fraud?traffic_source=rss",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "US prosecutors reach into Somalia for a suspect in US fraud case."
     }
   ],
   "articles": [
