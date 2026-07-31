@@ -1,6 +1,148 @@
 {
-  "last_updated": "2026-07-30T08:21:59.070101+00:00",
+  "last_updated": "2026-07-31T08:45:45.490384+00:00",
   "news": [
+    {
+      "id": "n_7fe598cee3",
+      "type": "news",
+      "title": "Somalia joins Saudi coalition to counter Houthis in Red Sea",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-joins-saudi-coalition-counter-houthis-red-sea/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has formally thrown its weight behind a Saudi-engineered coalition designed to shield the Red Sea&#8217;s arteries of global trade from Houthi attacks, aligning itself with a bloc of nations racing to contain an escalation between Yemen&#8217;s Iran-backed "
+    },
+    {
+      "id": "n_eb58bba4a2",
+      "type": "news",
+      "title": "Somaliland:President Visits Hargeisa Group Hospital’s Kidney Department  Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit high",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandpresident-visits-hargeisa-group-hospitals-kidney-department-hargeisa-somaliland-the-president-of-somaliland-paid-a-visit-this-morning-to-the-kidney-department-at-hargei/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "President Visits Hargeisa Group Hospital’s Kidney Department Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit highlighted the "
+    },
+    {
+      "id": "n_4aa4a85f3d",
+      "type": "news",
+      "title": "Somaliland:TRADE MARK CAUTIONARY NOTICE",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandtrade-mark-cautionary-notice-4/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "TRADE MARK CAUTIONARY NOTICE NOTICE IS HEREBY GIVEN that the above trade mark is the property of The Peninsular and Oriental Steam Navigation Company of 16 Palace Street, London, SW1E 5JQ, United Kingdom and the same trade mark are used in connection with the following: Class 35: Advertising; Busine"
+    },
+    {
+      "id": "n_26685958da",
+      "type": "news",
+      "title": "Somaliland:OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/2948417-2/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA OGEYSIISKAN WAXA LAGU WARGELINAYAA in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay The Peninsular and Oriental Steam Navigation Company, oo xarunteedu tahay 16 Palace Street, London, SW1E 5JQ, Boqortooyada Midowday (U"
+    },
+    {
+      "id": "n_3fccc7ee80",
+      "type": "news",
+      "title": "Somali President Hassan Sheikh, AFRICOM Commander discuss ways to  accelerate the war against Al-Shabaab and strengthen security cooperation",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-president-hassan-sheikh-africom-commander-discuss-ways-to-accelerate-the-war-against-al-shabaab-and-strengthen-security-cooperation/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "On Thursday, the President of Somalia Mr. Hassan Sheikh Mohamud, held a high-level meeting in Mogadishu with the Commander of the United States Africa Command (AFRICOM), General Dagvin R.M. Anderseon. The two sides discussed the security situation in Somalia and the region, and ways to further exped"
+    },
+    {
+      "id": "n_7aeddea6ca",
+      "type": "news",
+      "title": "Airstrike targets Al-Shabab’s leaders holding a meeting in Adan Yabaal District in Middle Shabelle province",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/airstrike-targets-al-shababs-leaders-holding-a-meeting-in-adan-yabaal-district-in-middle-shabelle-province/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Airstrikes",
+        "Mogadishu"
+      ],
+      "excerpt": "Somalia’s Defense Minister, Mr. Ahmed Ma’alin Fiqi, provided further details on a planned airstrike that took place in Adan Yabaal district, targeting senior Al-Shabab leaders who were holding a meeting. In a press conference held in Mogadishu on Wednesday, the defense minister further disclosed tha"
+    },
+    {
+      "id": "n_fd2b1d51cb",
+      "type": "news",
+      "title": "AAU among Five Institutions recognized for Transforming African Education Landscape",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52066/",
+      "date": "2026-07-30",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "Addis Ababa University (AAU) has been named one of five inaugural winners of the Africa Higher Education for Transformation (AHEFT) Prize, a new award backed by a USD500 million, decade-long commitment from the Mastercard Foundation. Each of the five winning institutions will receive USD3 million to"
+    },
+    {
+      "id": "n_8a0ed0600e",
+      "type": "news",
+      "title": "Saudi Arabia Executes 17 Ethiopian Migrants in 2026, Over 70 face Imminent Execution: HRW",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52063/",
+      "date": "2026-07-30",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Saudi authorities executed five Ethiopian migrants for non-lethal drug-related offenses on Monday, bringing the total number of Ethiopian nationals executed on drug charges to at least 17 since the start of 2026, Human Rights Watch (HRW) said this week. At least 79 more Ethiopian nationals remain at"
+    },
+    {
+      "id": "n_8edf270ebb",
+      "type": "news",
+      "title": "ET Posts USD 9.1bln Revenue",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52057/",
+      "date": "2026-07-29",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "CEO Mesfin Tasew awaits green light for retirement The Ethiopian Airlines Group announced an impressive 20 percent jump in earnings to wrap up what will likely be CEO Mesfin Tasew’s final year in charge with USD 9.1 billion in total revenue. The performance included a 16 percent rise in cargo volume"
+    },
+    {
+      "id": "n_9a8b669f47",
+      "type": "news",
+      "title": "Ethiopian Airlines hits $9.1bn revenue, but risks threaten growth",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/426506/ethiopian-airlines-posts-record-9-1bn-revenue-but-analysts-question-how-long-growth-can-outrun-its-risks/",
+      "date": "2026-07-30",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "The carrier’s best year yet collides with aircraft shortages, a Middle East war and a $60m-passenger airport bet that has yet to prove itself."
+    },
     {
       "id": "n_1ec8f89d07",
       "type": "news",
@@ -4174,147 +4316,6 @@
         "Security"
       ],
       "excerpt": "On Monday, Somaliland government has ordered all undocumented foreign nationals to immediately leave its territory within 10 days, describing this move as strengthening the security and the stability in Somaliland. The State Minister of Interior, Mr. Abdirashid Mohamed Ahmed known as Magalo has inst"
-    },
-    {
-      "id": "n_4d6ee6c065",
-      "type": "news",
-      "title": "The United States carries out a series of airstrikes in Somalia",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-united-states-carries-out-a-series-of-airstrikes-in-somalia/",
-      "date": "2026-06-22",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Airstrikes",
-        "Maritime"
-      ],
-      "excerpt": "U.S. Africa Command (AFRICOM) reportedly said that U.S. troops conducted the last four airstrikes in southern Somalia for the past week, targeting Al-Shabab militants. According to a statement released by AFRICOM, the airstrikes took place on 14, 16, 18 and 19th June, 2026. AFRICOM did not provide f"
-    },
-    {
-      "id": "n_d4cfdbe8aa",
-      "type": "news",
-      "title": "Somali Minister Denies reports that he visited Israel",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-minister-denies-reports-that-he-visited-israel/",
-      "date": "2026-06-21",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Israel",
-        "Maritime"
-      ],
-      "excerpt": "The State Minister of Somalia’s Foreign Affairs, Mr. Ali Bal’ad, has strongly repudiated reports that have been widely circulated in the social media for the past hours, stating that he visited Israel secretly. A statement he posted on his official X account, Mr. Bal’ad has pointed out this informat"
-    },
-    {
-      "id": "n_72719b0b6c",
-      "type": "news",
-      "title": "Somaliland expresses confidence in getting recognition from the United States and Ethiopia",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-expresses-confidence-in-getting-recognition-from-the-united-states-and-ethiopia/",
-      "date": "2026-06-21",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Ethiopia"
-      ],
-      "excerpt": "Somaliland announced that it is in diplomatic talks with the U.S. administration and Ethiopia, while it wants to get an international recognition, according to President, Abdirahman Mohamed Abdilahi Irro. In an interview with i24NEWS, while the President was on a five-day historic visit to Jerusalem"
-    },
-    {
-      "id": "n_5bf8281013",
-      "type": "news",
-      "title": "Al-Shabab’s reinforcements from Jilib join the ongoing battle in Lower Jubba region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/al-shababs-reinforcements-from-jilib-join-the-ongoing-battle-in-lower-jubba-region/",
-      "date": "2026-06-20",
-      "region": "Somalia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "Reports from the Lower Jubba region say that Al-Shabab deployed reinforcements to battle zones in the region, specifically in areas between Afmadow and Janay Abdalle settlements. Al-Shabab’s reinforcements originated from Jilib District in Middle Jubba region, and have already reached Harboole and M"
-    },
-    {
-      "id": "n_a859b6f49b",
-      "type": "news",
-      "title": "Jubbaland has deployed new troops to the front line of Lower Jubba Region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/jubbaland-has-deployed-new-troops-to-the-front-line-of-lower-jubba-region/",
-      "date": "2026-06-20",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Jubaland"
-      ],
-      "excerpt": "Jubaland authorities in Somalia have deployed additional troops to war zones in the Lower Jubba region in order to reinforce the ongoing military operations, where troops are battling Al-Shabab militants. For the last few days, the military operation has been taking place in some areas between Afmad"
-    },
-    {
-      "id": "n_8d4c22ec9d",
-      "type": "news",
-      "title": "TPLF’s New Proclamation Codifies a Police State",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/06/23/tplfs-new-proclamation-codifies-a-police-state/?utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state&utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state",
-      "date": "2026-06-23",
-      "region": "Ethiopia",
-      "tags": [
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "This sweeping wartime law threatens rights, dissent, and due process.\nThe post TPLF&#8217;s New Proclamation Codifies a Police State appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_d58098fa06",
-      "type": "news",
-      "title": "Ethiopia Cannot Afford Another Disaster",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/06/13/ethiopia-cannot-afford-another-disaster/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster&utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster",
-      "date": "2026-06-13",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Urgent action is needed before political miscalculations lead to national ruin\nThe post Ethiopia Cannot Afford Another Disaster appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_e377b52c48",
-      "type": "news",
-      "title": "Washington’s Ethiopia Reset Risks Rewarding Impunity",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/06/01/washingtons-ethiopia-reset-risks-rewarding-impunity/?utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity&utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity",
-      "date": "2026-06-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Geopolitical priorities are eclipsing justice in postwar Ethiopia.\nThe post Washington’s Ethiopia Reset Risks Rewarding Impunity appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_f2742f2d2b",
-      "type": "news",
-      "title": "Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/05/26/pretorias-unfinished-peace-is-fueling-tigrays-new-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis&utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis",
-      "date": "2026-05-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Avoiding another war requires resolving the conditions Pretoria left unimplemented.\nThe post Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_82b20d752c",
-      "type": "news",
-      "title": "The AU Turned Pretoria Into Abiy’s Shield",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/05/20/the-au-turned-pretoria-into-abiys-shield/?utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield&utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield",
-      "date": "2026-05-20",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "How Africa’s leading institution turned a peace agreement into a tool of war\nThe post The AU Turned Pretoria Into Abiy’s Shield appeared first on Ethiopia Insight."
     }
   ],
   "articles": [
