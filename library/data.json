@@ -1,6 +1,105 @@
 {
-  "last_updated": "2026-07-31T08:45:45.490384+00:00",
+  "last_updated": "2026-08-01T08:15:55.275701+00:00",
   "news": [
+    {
+      "id": "n_8d4c22ec9d",
+      "type": "news",
+      "title": "TPLF’s New Proclamation Codifies a Police State",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/06/23/tplfs-new-proclamation-codifies-a-police-state/?utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state&utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state",
+      "date": "2026-06-23",
+      "region": "Ethiopia",
+      "tags": [
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "This sweeping wartime law threatens rights, dissent, and due process.\nThe post TPLF&#8217;s New Proclamation Codifies a Police State appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_d58098fa06",
+      "type": "news",
+      "title": "Ethiopia Cannot Afford Another Disaster",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/06/13/ethiopia-cannot-afford-another-disaster/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster&utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster",
+      "date": "2026-06-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Urgent action is needed before political miscalculations lead to national ruin\nThe post Ethiopia Cannot Afford Another Disaster appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_e377b52c48",
+      "type": "news",
+      "title": "Washington’s Ethiopia Reset Risks Rewarding Impunity",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/06/01/washingtons-ethiopia-reset-risks-rewarding-impunity/?utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity&utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity",
+      "date": "2026-06-01",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Geopolitical priorities are eclipsing justice in postwar Ethiopia.\nThe post Washington’s Ethiopia Reset Risks Rewarding Impunity appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_f2742f2d2b",
+      "type": "news",
+      "title": "Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/05/26/pretorias-unfinished-peace-is-fueling-tigrays-new-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis&utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis",
+      "date": "2026-05-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Avoiding another war requires resolving the conditions Pretoria left unimplemented.\nThe post Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_82b20d752c",
+      "type": "news",
+      "title": "The AU Turned Pretoria Into Abiy’s Shield",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/05/20/the-au-turned-pretoria-into-abiys-shield/?utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield&utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield",
+      "date": "2026-05-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "How Africa’s leading institution turned a peace agreement into a tool of war\nThe post The AU Turned Pretoria Into Abiy’s Shield appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_200576376b",
+      "type": "news",
+      "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
+      "date": "2026-08-01",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Maritime"
+      ],
+      "excerpt": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees."
+    },
+    {
+      "id": "n_8647b32451",
+      "type": "news",
+      "title": "Houthis say transit through Bab el-Mandeb free of charge",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-transit-through-bab-el-mandeb-free-charge",
+      "date": "2026-08-01",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Bab el-Mandeb",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Houthis say transit through Bab el-Mandeb free of charge\n\n    \n    \n\n        \n    \n                Yemen's Houthi group said on Saturday that transit through the Bab el-Mandeb&nbsp;strait remains free of charge, denying reports that the authorities plan to impose tolls on vessels transiting the wate"
+    },
     {
       "id": "n_7fe598cee3",
       "type": "news",
@@ -4216,106 +4315,6 @@
         "Maritime"
       ],
       "excerpt": "Somalilandsun:As reported by the Israeli Prime Minister’s Office, Israeli Prime Minister Benjamin Netanyahu paid a discreet visit to the United Arab Emirates, where he held talks with the country’s president, Mohamed bin Zayed Al Nahyan. The two sides discussed ways to further strengthen bilateral r"
-    },
-    {
-      "id": "n_29ff6a26e3",
-      "type": "news",
-      "title": "Somaliland:The Mayor of the Capital City of Hargeisa Has Been Elected.",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandmaayarka-magaalada-hargeysa-oo-la-doortsy/",
-      "date": "2026-05-12",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Somalilandsun: Cabdirisaaq Maxamed Faarax has been elected as the new Mayor of Hargeisa and will lead the capital city for the next two years. Meanwhile, Aadan Jaamac Xaddi was elected as Deputy Mayor. The two officials were elected today, Tuesday, and will officially assume responsibility for the l"
-    },
-    {
-      "id": "n_bb68e5cfd6",
-      "type": "news",
-      "title": "Somaliland:the Minister of Interior and Security of the Republic of Somaliland, today received at his office the newly elected Mayor and Deputy Mayor of Hargeisa,",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandthe-minister-of-interior-and-security-of-the-republic-of-somaliland-today-received-at-his-office-the-newly-elected-mayor-and-deputy-mayor-of-hargeisa/",
-      "date": "2026-05-12",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security"
-      ],
-      "excerpt": "Somaliland: Cabdale Maxamed Carab, the Minister of Interior and Security of the Republic of Somaliland, today received at his office the newly elected Mayor and Deputy Mayor of Hargeisa, along with several members of the Hargeisa Local Council. The Minister extended his congratulations to the newly "
-    },
-    {
-      "id": "n_a65224b95d",
-      "type": "news",
-      "title": "More than 30 members of Al-Shabaab Successfully eliminated in airstrikes in the Middle Shabelle",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/more-than-30-members-of-al-shabaab-successfully-eliminated-in-airstrikes-in-the-middle-shabelle/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Airstrikes"
-      ],
-      "excerpt": "On Saturday, the Somali Federal Government revealed that the Somali National Army, in close collaboration with international partners, carried out airstrikes for the past couple of days, targeting bases where Al-Shabab fighters were based in the Middle Shabelle region. In a statement, the Somali def"
-    },
-    {
-      "id": "n_f8c709456e",
-      "type": "news",
-      "title": "Somalia Appeals to Arab nations to avoid relations and investment with Somaliland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-appeals-to-arab-nations-to-avoid-relations-and-investment-with-somaliland/",
-      "date": "2026-06-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "The Somali Federal Government has called on all member countries of the Arab League not to allow their lands, ports, companies and their financial systems to be used for anything that facilitates relations or investment with Somaliland. The State Minister of foreign affairs, Mr. Ali Mohamed Omar kno"
-    },
-    {
-      "id": "n_eb47e26b3a",
-      "type": "news",
-      "title": "NEC Unveils New Voter Registration Roadmap in Landmark Meeting with Political Parties Taskforce",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nec-unveils-new-voter-registration-roadmap-in-landmark-meeting-with-political-parties-taskforce/",
-      "date": "2026-06-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The National Electoral Commission (NEC) of the Republic of Somaliland on 22nd June 2026, held a high-level consultative meeting at its headquarters with the National Political Parties Taskforce, marking a significant step toward the country’s upcoming voter registration exercise and future electoral"
-    },
-    {
-      "id": "n_1a0366a506",
-      "type": "news",
-      "title": "A Preliminary Agreement reached in talks over Galmudug election process",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/a-preliminary-agreement-reached-in-talks-over-galmudug-election-process/",
-      "date": "2026-06-23",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security",
-        "Elections",
-        "Galmudug",
-        "Maritime"
-      ],
-      "excerpt": "Reports from Dhuusamareeb indicate that a preliminary understanding was reached in negotiations that lasted for several days between President of Galmudug regional state in Somalia, Mr. Ahmed Abdi Kaariye known as Qor Qor, and the Director of the National Security and Intelligence Agency (NISA), Mr."
-    },
-    {
-      "id": "n_cd5ef2d142",
-      "type": "news",
-      "title": "Somaliland orders illegal foreigners to leave the country within 10 days",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-orders-illegal-foreigners-to-leave-the-country-within-10-days/",
-      "date": "2026-06-22",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security"
-      ],
-      "excerpt": "On Monday, Somaliland government has ordered all undocumented foreign nationals to immediately leave its territory within 10 days, describing this move as strengthening the security and the stability in Somaliland. The State Minister of Interior, Mr. Abdirashid Mohamed Ahmed known as Magalo has inst"
     }
   ],
   "articles": [
