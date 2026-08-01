@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kampala Asked for Time. Washington's Position Suggests It May Not Get It. — Somali OSINT Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0d0f0c;
+    --bg-raised: #14170f;
+    --hairline: #2a2d24;
+    --ink: #e9e6da;
+    --ink-dim: #a8a692;
+    --ink-faint: #6f6d5c;
+    --gold: #c8a84b;
+    --gold-dim: #8f7635;
+    --verified: #6fae7d;
+    --reported: #c8a84b;
+    --assessed: #b06a4f;
+  }
+
+  *{box-sizing:border-box;}
+
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    line-height:1.7;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  .wrap{
+    max-width:720px;
+    margin:0 auto;
+    padding:0 24px;
+  }
+
+  header.site{
+    border-bottom:1px solid var(--hairline);
+    padding:20px 0;
+  }
+  header.site .wrap{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    max-width:920px;
+  }
+  .brand{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    letter-spacing:0.12em;
+    color:var(--gold);
+    text-transform:uppercase;
+  }
+  .brand span{color:var(--ink-faint);}
+  .site-nav{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.08em;
+    color:var(--ink-faint);
+    text-transform:uppercase;
+  }
+
+  main{padding-top:56px;padding-bottom:100px;}
+
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--gold);
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:22px;
+  }
+  .eyebrow::before{
+    content:"";
+    width:18px;
+    height:1px;
+    background:var(--gold-dim);
+  }
+
+  h1{
+    font-family:'Playfair Display', serif;
+    font-weight:600;
+    font-size:2.5rem;
+    line-height:1.2;
+    margin:0 0 22px 0;
+    color:var(--ink);
+  }
+
+  .meta-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:18px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--ink-faint);
+    border-top:1px solid var(--hairline);
+    border-bottom:1px solid var(--hairline);
+    padding:14px 0;
+    margin-bottom:40px;
+  }
+  .meta-row strong{color:var(--ink-dim); font-weight:500;}
+
+  .confidence-tag{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    padding:2px 8px;
+    border:1px solid currentColor;
+    border-radius:2px;
+  }
+  .tag-reported{color:var(--reported);}
+  .tag-assessed{color:var(--assessed);}
+
+  .exec-summary{
+    background:var(--bg-raised);
+    border-left:2px solid var(--gold);
+    padding:22px 26px;
+    margin-bottom:44px;
+    font-size:1.02rem;
+  }
+  .exec-summary p{margin:0 0 14px 0;}
+  .exec-summary p:last-child{margin-bottom:0;}
+  .exec-summary .label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--gold);
+    display:block;
+    margin-bottom:12px;
+  }
+
+  article h2{
+    font-family:'Playfair Display', serif;
+    font-style:italic;
+    font-weight:500;
+    font-size:1.35rem;
+    color:var(--ink);
+    margin:48px 0 18px 0;
+    padding-bottom:10px;
+    border-bottom:1px solid var(--hairline);
+  }
+
+  article p{
+    color:var(--ink-dim);
+    font-size:1rem;
+    margin:0 0 20px 0;
+  }
+  article p strong{color:var(--ink); font-weight:500;}
+
+  .assessment-block{
+    background:rgba(176,106,79,0.08);
+    border:1px solid rgba(176,106,79,0.35);
+    border-radius:3px;
+    padding:16px 20px;
+    margin:0 0 20px 0;
+  }
+  .assessment-block .tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--assessed);
+    display:block;
+    margin-bottom:8px;
+  }
+  .assessment-block p{margin:0; color:var(--ink);}
+
+  .indicators{
+    list-style:none;
+    margin:0 0 20px 0;
+    padding:0;
+  }
+  .indicators li{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.92rem;
+    color:var(--ink-dim);
+    padding:12px 0 12px 26px;
+    border-bottom:1px solid var(--hairline);
+    position:relative;
+  }
+  .indicators li:first-child{border-top:1px solid var(--hairline);}
+  .indicators li::before{
+    content:"→";
+    position:absolute;
+    left:0;
+    color:var(--gold-dim);
+  }
+
+  .tracker-note{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--ink-faint);
+    margin-top:36px;
+    padding-top:20px;
+    border-top:1px solid var(--hairline);
+  }
+  .tracker-note::before{
+    content:"● TRACKING";
+    color:var(--gold);
+    letter-spacing:0.08em;
+    display:block;
+    margin-bottom:8px;
+    font-size:10px;
+  }
+
+  footer.site{
+    border-top:1px solid var(--hairline);
+    padding:28px 0 40px 0;
+  }
+  footer.site .wrap{max-width:920px;}
+  footer.site p{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    color:var(--ink-faint);
+    margin:0;
+  }
+
+  @media (max-width:600px){
+    h1{font-size:1.9rem;}
+    .exec-summary{padding:18px 18px;}
+    main{padding-top:36px;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <div class="brand">Somali OSINT Brief <span>/ SOB</span></div>
+    <div class="site-nav">Horn of Africa Security &amp; Conflict Analysis</div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+
+    <div class="eyebrow">Regional Security — AUSSOM / UNSOS</div>
+
+    <h1>Kampala Asked for Time. Washington's Position Suggests It May Not Get It.</h1>
+
+    <div class="meta-row">
+      <span><strong>Published</strong> 01 Aug 2026</span>
+      <span><strong>Region</strong> Somalia / Horn of Africa</span>
+      <span><strong>Confidence</strong> <span class="confidence-tag tag-reported">Reported + Assessed</span></span>
+    </div>
+
+    <div class="exec-summary">
+      <span class="label">Executive Summary</span>
+      <p>On July 1, 2026, the US told the AU it won't back AUSSOM's mandate renewal in December if it still runs through the UN Support Office in Somalia (UNSOS). That's the trigger. It puts a $481.7 million logistics budget on a fixed clock — the fuel, rations, and medevac infrastructure keeping roughly 11,800 AU troops running across five sectors of south-central Somalia.</p>
+      <p>Regional leaders had three months to find an alternative. At the Kampala summit, July 29–31, they picked one path: ask the UN Security Council for an 18-24 month extension, and lean harder on Somali National Army capacity-building. That request now sits against a US position that hasn't moved since July 1.</p>
+    </div>
+
+    <article>
+
+      <h2>The Funding Mechanism at Risk</h2>
+      <p>UNSOS keeps AUSSOM running — roughly 11,800 troops, 680 police, 85 civilian staff, spread across 400,000 square kilometers. Its FY2026/27 budget, $481.7 million, was already down 7.5% from the year before. The US covers close to a quarter of UN assessed contributions worldwide. Pull that support and AUSSOM loses its biggest funding line.</p>
+      <p>The strain showed before the summit even opened. Commanders told Kampala that UN support had already dropped 25%, and units were adjusting on the fly.</p>
+
+      <h2>The Communiqué's Content</h2>
+      <p>The July 31 communiqué does two things: asks the Security Council for 18-24 more months, and commits to building up Somali security institutions — army, intelligence, air assets, logistics — so Somalia can eventually run this itself.</p>
+      <p>What it doesn't do is build a fallback. That option existed. Through July, AU consultations floated a framework where individual troop-contributing countries sign bilateral agreements with the Somali government, hold ground near their own borders, and fund it through national budgets plus a slimmed-down AU trust. It's the same model Lake Chad Basin states used against Boko Haram. Kampala had it on the table. They didn't take it.</p>
+      <p>Washington's stated reason for pulling UNSOS support is that Somalia hasn't taken full ownership of its own security. Read against that, the extension request is really just a request for more time to close that gap, not a different way of closing it. And it depends on the Security Council granting an extension the US has already said no to.</p>
+
+      <div class="assessment-block">
+        <span class="tag">Assessed</span>
+        <p>The gap between what Kampala asked for and what Washington said on July 1 hasn't closed. Nothing public suggests the US position has shifted.</p>
+      </div>
+
+      <p>Somalia's own political timeline complicates this further, independent of the money. Parliament's four-year mandate ran out in April 2026. The president's term expired the following month with no transition plan in place. The amendments extending both terms to 2027 are contested — Puntland and Jubaland have pulled back cooperation with Mogadishu, and South West State's leadership dispute with the federal government is still unresolved. None of that gets fixed by security-sector reform. An AUSSOM extension buys time on the security track. The political track — FGS-FMS relations, the election calendar, how much buy-in Mogadishu actually has from its own states — runs on its own clock, and Kampala didn't touch it.</p>
+
+      <h2>Unresolved Regional Dynamics</h2>
+      <p>The bilateral/sector model Kampala passed on would have forced Egypt and Ethiopia to divide ground explicitly, and their rivalry in Somalia already tracks the GERD dispute. Egypt has over 1,000 mechanized troops in Mogadishu now, with plans to reach 10,000. Ethiopia has held Bay, Bakool, and Gedo since it seized airfields there in September 2024, and separately struck a port-and-recognition deal with Somaliland for a naval base on the Red Sea. Neither move depends on AUSSOM's command structure, and both predate this summit. The communiqué says nothing about deconflicting them. That's a gap in scope, not a forecast of what happens next.</p>
+
+      <h2>Indicators to Monitor Before December 31</h2>
+      <ul class="indicators">
+        <li>Whether the Security Council takes up an extension request before the current AUSSOM authorization expires.</li>
+        <li>Whether the US position communicated July 1 changes in response to the Kampala request.</li>
+        <li>Measurable changes in SNA capacity — force generation, logistics self-sufficiency, air asset acquisition — during any extension period, as distinct from continued dependency on AUSSOM cover.</li>
+        <li>Whether the bilateral/sector framework resurfaces as a fallback if the extension request is not granted.</li>
+      </ul>
+
+      <p class="tracker-note">SOB will track UNSC scheduling and any further AU or US statements on this file as they become available.</p>
+
+    </article>
+
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <p>Somali OSINT Brief — Sourcing per SOB methodology (VERIFIED / REPORTED / ASSESSED). See methodology page for confidence-level definitions.</p>
+  </div>
+</footer>
+
+</body>
+</html>
