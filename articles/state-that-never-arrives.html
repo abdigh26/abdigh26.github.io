@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The State That Never Arrives | Somali OSINT Brief</title>
+<meta name="description" content="Somalia's decisive battlefield is no longer only the countryside. It is Mogadishu, where political paralysis is undoing what military operations win.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0e14;
+    --bg-raised:#10151f;
+    --ink:#e8e6df;
+    --ink-dim:#9aa1ad;
+    --ink-faint:#5b6270;
+    --gold:#c8a84b;
+    --rule:#232a37;
+    --assessed:#c8a84b;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;
+    line-height:1.7;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:720px;margin:0 auto;padding:0 24px;}
+
+  header.masthead{
+    border-bottom:1px solid var(--rule);
+    padding:18px 0;
+  }
+  .masthead .wrap{display:flex;align-items:center;justify-content:space-between;}
+  .brand{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--gold);
+    text-decoration:none;
+  }
+  .kicker-top{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:0.12em;
+    color:var(--ink-faint);
+    text-transform:uppercase;
+  }
+
+  .hero{padding:64px 0 40px;border-bottom:1px solid var(--rule);}
+  .eyebrow{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--assessed);
+    border:1px solid rgba(200,168,75,0.35);
+    padding:5px 10px;
+    margin-bottom:28px;
+  }
+  .eyebrow::before{content:"";width:6px;height:6px;background:var(--gold);border-radius:50%;}
+
+  h1.title{
+    font-family:'Playfair Display',serif;
+    font-weight:600;
+    font-size:clamp(34px,5.4vw,52px);
+    line-height:1.14;
+    margin:0 0 18px;
+    letter-spacing:-0.01em;
+  }
+  .subtitle{
+    font-family:'Playfair Display',serif;
+    font-style:italic;
+    font-weight:500;
+    font-size:19px;
+    color:var(--ink-dim);
+    margin:0 0 32px;
+    line-height:1.5;
+  }
+  .byline-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px 18px;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    color:var(--ink-faint);
+    border-top:1px solid var(--rule);
+    padding-top:18px;
+  }
+  .byline-row strong{color:var(--ink-dim);font-weight:500;}
+
+  article{padding:44px 0 30px;}
+  article h2{
+    font-family:'Playfair Display',serif;
+    font-weight:600;
+    font-size:24px;
+    color:var(--ink);
+    margin:48px 0 18px;
+    padding-bottom:12px;
+    border-bottom:1px solid var(--rule);
+  }
+  article h2 .num{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:13px;
+    color:var(--gold);
+    margin-right:10px;
+    font-weight:500;
+  }
+  article p{
+    font-size:16.5px;
+    color:#cfcdc6;
+    margin:0 0 20px;
+  }
+  article p:first-of-type::first-letter{
+    font-family:'Playfair Display',serif;
+    font-size:52px;
+    font-weight:600;
+    float:left;
+    line-height:0.85;
+    padding:6px 10px 0 0;
+    color:var(--gold);
+  }
+  .pull{
+    font-family:'Playfair Display',serif;
+    font-style:italic;
+    font-size:21px;
+    line-height:1.5;
+    color:var(--ink);
+    border-left:2px solid var(--gold);
+    padding:2px 0 2px 22px;
+    margin:36px 0;
+  }
+
+  .close{
+    margin-top:56px;
+    padding-top:28px;
+    border-top:1px solid var(--rule);
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .close span.tag{color:var(--gold);}
+
+  footer{
+    border-top:1px solid var(--rule);
+    padding:28px 0 48px;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    color:var(--ink-faint);
+    letter-spacing:0.04em;
+  }
+
+  @media (max-width:600px){
+    .hero{padding:44px 0 30px;}
+    article{padding:32px 0 20px;}
+    article h2{font-size:20px;margin:38px 0 14px;}
+    .pull{font-size:18px;padding-left:16px;}
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <a href="/" class="brand">Somali OSINT Brief</a>
+    <span class="kicker-top">Analysis</span>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow">Assessed · Strategic Security</span>
+    <h1 class="title">The State That Never Arrives</h1>
+    <p class="subtitle">Why Somalia's real battlefield is in Mogadishu, not the countryside.</p>
+    <div class="byline-row">
+      <span><strong>Author</strong> Abdi Haji</span>
+      <span><strong>Desk</strong> Strategic Security &amp; OSINT Analysis</span>
+      <span><strong>Region</strong> Somalia · Horn of Africa</span>
+    </div>
+  </div>
+</div>
+
+<article>
+  <div class="wrap">
+
+    <h2><span class="num">01</span>The Interview That Asked a Bigger Question</h2>
+    <p>General Michael Langley's recent interview will probably be remembered for what it said about military operations against Al-Shabaab. The more important message was about what comes after the fighting.</p>
+    <p>Langley didn't argue military pressure has become irrelevant &mdash; the opposite, in fact. Operations against Al-Shabaab remain essential, he made clear. But he kept returning to a point that's become hard to ignore: military victories create opportunities, they don't build states.</p>
+    <p>That distinction matters because Somalia keeps repeating the same cycle. Towns get liberated, Al-Shabaab withdraws, optimism returns &mdash; then momentum fades, local administration fails to take root, security weakens, and the insurgency slowly rebuilds. The battlefield changes. The outcome usually doesn't.</p>
+    <p>Somalia's decisive battlefield isn't defined only by villages in Galmudug or forests in Lower Shabelle anymore. It's increasingly found in Mogadishu, where political decisions determine whether military victories become lasting gains or temporary ones.</p>
+
+    <h2><span class="num">02</span>The Battle After the Battle</h2>
+    <p>Most of the debate about Somalia focuses on military operations &mdash; maps of liberated towns, commanders announcing successful offensives, airstrikes taking out senior militants. These developments matter. They disrupt Al-Shabaab and create space for the government. But they're only the opening move.</p>
+    <p>The harder part starts after the shooting stops.</p>
+    <p>Somali forces, backed by Danab commandos, Macawisley fighters, and international partners, have repeatedly pushed Al-Shabaab out of strategically important areas. Holding those gains has been the real challenge &mdash; and it's rarely that soldiers fail to capture territory. It's that the state struggles to show up after them.</p>
+    <p>In many newly liberated communities, residents wait for functioning police, administrators, courts, schools, basic services. Those institutions arrive slowly, if at all, and the vacuum they leave behind is one Al-Shabaab has repeatedly shown it knows how to fill.</p>
+    <div class="pull">Counterinsurgency was never only about controlling land. It's about convincing people the state is a more reliable bet than the insurgency.</div>
+
+    <h2><span class="num">03</span>Why Al-Shabaab Keeps Coming Back</h2>
+    <p>The Battle of Cowsweyne in August 2023 is one of the clearest examples. The offensive looked at first like a sign of government momentum. Then inadequate logistics, overstretched forces, and thin defensive preparation let Al-Shabaab launch a devastating counterattack. Clearing territory is one challenge. Defending and governing it is another, and Cowsweyne exposed the gap between them.</p>
+    <p>The same pattern shows up in parts of Lower and Middle Shabelle. Government forces have repeatedly operated around places like Bariire, Sabiid, and Awdheegle, but extending actual governance has proved far harder than running the operations themselves. Residents in these areas have continued relying on Al-Shabaab's parallel justice system for commercial and land disputes for years &mdash; not out of ideological support, but because its rulings are predictable and enforced.</p>
+    <p>People don't judge authority only by who controls the checkpoints. They judge it by who resolves disputes, protects property, and makes decisions stick.</p>
+
+    <h2><span class="num">04</span>Politics Has Become the Main Front</h2>
+    <p>Somalia's biggest security problem today is political before it's military. Al-Shabaab is still a dangerous insurgency, but many of the obstacles blocking a lasting victory sit inside state institutions, not on the battlefield.</p>
+    <p>The relationship between the Federal Government and several Federal Member States remains strained. Constitutional disputes sit unresolved. Questions over resource sharing, elections, and security responsibilities keep consuming political attention that could otherwise go toward defeating a common enemy &mdash; and these aren't abstract constitutional debates. They shape intelligence sharing, force generation, logistics, funding, command relationships. Every delay in political cooperation shows up as an operational consequence on the ground.</p>
+    <p>Al-Shabaab, meanwhile, has something the government still struggles to build: unity of command. That doesn't make the insurgency stronger than the Somali state. It means the state often fights with self-imposed disadvantages.</p>
+
+    <h2><span class="num">05</span>What Langley's Warning Really Means</h2>
+    <p>If Washington increasingly believes Somalia's biggest obstacles are political rather than military, what comes next?</p>
+    <p>This doesn't read as a signal that the US is preparing to abandon Somalia, or that Washington is dropping its objective of keeping Al-Shabaab from threatening regional and international security. It reads as something more subtle. For years, the US and other partners have poured resources into Somalia's security sector &mdash; air support, intelligence, training, financing &mdash; and that support has helped prevent far worse outcomes. But there's growing recognition that foreign militaries can't fix problems rooted in political division, weak institutions, and ineffective governance.</p>
+    <p>If that's the right read, the burden of responsibility is shifting. International partners may increasingly ask whether Somali political leaders are willing, or able, to deliver the reforms they themselves say are necessary. The current political landscape doesn't offer much reason for confidence: federal-regional disputes persist, corruption keeps undermining public trust, security-sector reform moves unevenly. None of it is new.</p>
+    <div class="pull">What may be changing is the patience of Somalia's partners.</div>
+
+    <h2><span class="num">06</span>A Different Kind of Risk</h2>
+    <p>Most discussions about Somalia focus on the risk of losing territory to Al-Shabaab. There's another risk that deserves equal attention: if international partners conclude Somalia's principal obstacles are political rather than military, they may gradually redesign their engagement. That wouldn't necessarily mean a dramatic withdrawal or the end of counterterrorism cooperation &mdash; more likely, it would mean becoming far more selective about where political and financial capital goes. Military support could continue while expectations of Somali political leadership climb sharply.</p>
+    <p>For Mogadishu, that's a real shift. The question stops being whether international partners remain committed to Somalia. It becomes whether they still believe Somalia's political leadership can turn military opportunities into lasting state-building.</p>
+
+    <h2><span class="num">07</span>Conclusion</h2>
+    <p>Langley's interview isn't just another military briefing &mdash; it's a signal that Somalia's conflict has entered a different phase. Operations will keep disrupting Al-Shabaab, protecting civilians, and creating openings for the state. But openings aren't outcomes.</p>
+    <p>What decides the next chapter won't be the success rate of airstrikes or special operations. It'll be whether Somalia's political leaders can build institutions more trusted, more effective, and more unified than the insurgency they're fighting. Right now, that's an open question &mdash; and it's being answered in Mogadishu, not in the field.</p>
+
+    <div class="close">
+      <span>Somali OSINT Brief &mdash; Strategic Security Desk</span>
+      <span class="tag">Assessed</span>
+    </div>
+
+  </div>
+</article>
+
+<footer>
+  <div class="wrap">
+    Somali OSINT Brief &middot; Conflict analysis on Somalia &amp; the Horn of Africa
+  </div>
+</footer>
+
+</body>
+</html>
