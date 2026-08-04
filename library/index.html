@@ -723,12 +723,13 @@ async function getBluf(btn, articleId, url, title, excerpt) {
       body: JSON.stringify({ url, title, content: excerpt })
     });
 
+    if (!res.ok) throw new Error(`Proxy error (${res.status})`);
     const data = await res.json();
     textEl.textContent   = data.bluf || 'BLUF unavailable.';
     cachedEl.textContent = data.cached ? '✓ cached' : 'live';
 
   } catch(e) {
-    textEl.innerHTML = `<span class="bluf-thinking">Error: ${e.message}</span>`;
+    textEl.innerHTML = `<span class="bluf-thinking">Service unavailable. Please try again or check your connection. (Detail: ${e.message})</span>`;
   }
 
   btn.classList.remove('loading');
@@ -929,11 +930,12 @@ async function runSearch() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ query: q })
     });
+    if (!res.ok) throw new Error(`Proxy error (${res.status})`);
     const data = await res.json();
     const text = data.analysis || 'Analysis unavailable.';
     aiBody.textContent = text;
   } catch(e) {
-    aiBody.innerHTML = `<span class="ai-thinking">Error: ${e.message}</span>`;
+    aiBody.innerHTML = `<span class="ai-thinking">AI Analysis currently unavailable. Please try again later. (Detail: ${e.message})</span>`;
   }
   document.getElementById('searchBtn').disabled = false;
 }
