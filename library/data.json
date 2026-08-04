@@ -1,6 +1,50 @@
 {
-  "last_updated": "2026-08-03T09:38:49.176915+00:00",
+  "last_updated": "2026-08-04T08:32:26.184761+00:00",
   "news": [
+    {
+      "id": "n_28902bc6d8",
+      "type": "news",
+      "title": "US visa sanctions expose the limits of diplomatic pragmatism",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/04/us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism/?utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism&utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism",
+      "date": "2026-08-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Washington risks prioritizing political expediency over justice after mass atrocity.\nThe post US visa sanctions expose the limits of diplomatic pragmatism appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_bf96a6e263",
+      "type": "news",
+      "title": "Whilst the World Debates Somaliland’s Recognition, Its Girls Remain Invisible",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/08/whilst-the-world-debates-somalilands-recognition-its-girls-remain-invisible/?utm_source=rss&utm_medium=rss&utm_campaign=whilst-the-world-debates-somalilands-recognition-its-girls-remain-invisible",
+      "date": "2026-08-03",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Diplomacy",
+        "Maritime"
+      ],
+      "excerpt": "As international debate surrounding Somaliland&#8217;s recognition has returned to global headlines in recent months, questions of sovereignty and diplomacy have dominated the conversation. Reports of Israel&#8217;s recognition of Somaliland in December and Somaliland&#8217;s opening of an embassy i"
+    },
+    {
+      "id": "n_7233b95db1",
+      "type": "news",
+      "title": "Two Presidents, No Government: Why Tigray’s War Is Coming Back",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/08/two-presidents-no-government-why-tigrays-war-is-coming-back/?utm_source=rss&utm_medium=rss&utm_campaign=two-presidents-no-government-why-tigrays-war-is-coming-back",
+      "date": "2026-08-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Elections"
+      ],
+      "excerpt": "In Mekelle, the capital of Ethiopia&#8217;s northern Tigray region, two men call themselves president. One is Lieutenant General Tadesse Worede, appointed with Addis Ababa&#8217;s approval to run the region until elections could be held. The other is Debretsion Gebremichael, chairman of the party th"
+    },
     {
       "id": "n_edff6ef8fb",
       "type": "news",
@@ -4268,54 +4312,6 @@
         "Israel"
       ],
       "excerpt": "HARGEISA (Somaliguardian) &#8211; Somaliland President Abdirahman Mohamed Abdullahi Irro returned to Hargeisa on Thursday to a jubilant public reception following a week-long working visit to Israel, where he opened Somaliland&#8217;s first embassy abroad in Jerusalem, a move that has intensified de"
-    },
-    {
-      "id": "n_09b9454457",
-      "type": "news",
-      "title": "Sa’diyo Bajaaj: Somalia court sentences activist to 3 years in prison",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/sadiyo-bajaaj-sentenced-somalia-activist/",
-      "date": "2026-06-25",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Banadir regional court in Somalia&#8217;s capital, Mogadishu, on Thursday sentenced young female activist and Tuktuk driver Sa&#8217;diyo Moalim Ali, widely known as Sa&#8217;diyo Bajaaj, to three years in prison in a ruling that critics have described as political"
-    },
-    {
-      "id": "n_c36c1e5bcb",
-      "type": "news",
-      "title": "Puntland bans Somalia government officials from entering region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-bans-somalia-government-officials-region/",
-      "date": "2026-06-24",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Security",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s Puntland authorities on Wednesday announced sweeping security measures targeting federal government activities inside the region, barring federal officials from entry, restricting the movement of militias allied with politicians aligned with Mogadis"
-    },
-    {
-      "id": "n_71bcf02487",
-      "type": "news",
-      "title": "Houthis threaten strikes on Somaliland over Israeli military foothold",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/houthis-threaten-israel-somaliland/",
-      "date": "2026-06-24",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Houthis",
-        "Somalia",
-        "Israel",
-        "Military"
-      ],
-      "excerpt": "HARGEISA (Somaliguardian) &#8211; Yemen&#8217;s Houthi movement has issued a strong warning against any Israeli military presence in Somaliland, days after reports emerged alleging that Tel Aviv deployed 50 special unit troops to the breakaway region in northern Somalia. Mohammed Al-Farah, a member "
     }
   ],
   "articles": [
