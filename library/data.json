@@ -1,6 +1,82 @@
 {
-  "last_updated": "2026-08-04T08:32:26.184761+00:00",
+  "last_updated": "2026-08-05T08:31:20.916462+00:00",
   "news": [
+    {
+      "id": "n_46395992e7",
+      "type": "news",
+      "title": "Somalia’s president, international partners hold fresh talks to break electoral deadlock",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-international-partners-electoral-deadlock-talks/",
+      "date": "2026-08-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; President Hassan Sheikh Mohamud met international partners on Tuesday as diplomatic efforts gathered pace to ease growing political tensions over Somalia&#8217;s electoral process and encourage dialogue between the federal government and the opposition. The discuss"
+    },
+    {
+      "id": "n_dc57c5ff3f",
+      "type": "news",
+      "title": "Somalia, Pakistan sign defence cooperation pact in Islamabad",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pakistan-sign-defence-cooperation-pact-islamabad/",
+      "date": "2026-08-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia and Pakistan have signed a memorandum of understanding to deepen cooperation in defence, security and military capacity building, Somalia&#8217;s Ministry of Defence said on Tuesday. The agreement was signed in Islamabad by Somalia&#8217;s Defence Minister,"
+    },
+    {
+      "id": "n_4a0768cca9",
+      "type": "news",
+      "title": "Al-Shabaab retakes Teedaan in Somalia’s Hiran region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-retakes-teedaan-hiran-region/",
+      "date": "2026-08-03",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab fighters recaptured the town of Teedaan in central Somalia&#8217;s Hiran region on Sunday, seizing a position that has long served as a key line of defence for the regional capital, after clashes that left dozens of people dead. The assault began when in"
+    },
+    {
+      "id": "n_b7c1ed358f",
+      "type": "news",
+      "title": "Somalia: US signs Bosaso base deal with Puntland, bypassing Mogadishu",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-puntland-bosaso-military-base-deal-somaliland/",
+      "date": "2026-08-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United States military has signed a new security agreement with Puntland, Somalia&#8217;s northeastern federal member state, bypassing the federal government in Mogadishu altogether &#8211; a move analysts describe as the clearest evidence yet of a hardening Am"
+    },
+    {
+      "id": "n_d4b978671f",
+      "type": "news",
+      "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+      "date": "2026-08-05",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea"
+      ],
+      "excerpt": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon."
+    },
     {
       "id": "n_28902bc6d8",
       "type": "news",
@@ -4243,75 +4319,6 @@
         "Maritime"
       ],
       "excerpt": "GOOBJOOG NEWS&#124;DHUSAMAREB: President of Galmudug, Ahmed Abdi Kariye (Qoorqoor), has officially announced that he will not seek another term in office, saying he will support whoever is elected to lead&#8230;"
-    },
-    {
-      "id": "n_147cea2528",
-      "type": "news",
-      "title": "Somali Envoy Presents Credentials to Burkina Faso’s President",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somali-envoy-presents-credentials-to-burkina-fasos-president/",
-      "date": "2026-06-26",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; OUAGADOUGOU: Somalia&#8217;s non-resident ambassador to Burkina Faso, Jama Hassan Khalif, has presented his credentials to Burkina Faso&#8217;s interim President, Captain Ibrahim Traoré, formally assuming his diplomatic role&#8230;"
-    },
-    {
-      "id": "n_7897a3ea51",
-      "type": "news",
-      "title": "President Mohamud Honours Independence Heroes at Dhagaxtuur Monument",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/president-mohamud-honours-independence-heroes-at-dhagaxtuur-monument/",
-      "date": "2026-06-26",
-      "region": "Somalia",
-      "tags": [
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: President Hassan Sheikh Mohamud has laid a wreath at the Dhagaxtuur Monument in Mogadishu, paying tribute to the men and women who fought for the country&#8217;s&#8230;"
-    },
-    {
-      "id": "n_25e2b6b288",
-      "type": "news",
-      "title": "Somalia hit with EU visa restrictions as bloc pressures Mogadishu over migrant readmissions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/eu-visa-restrictions-somalia/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The European Union has imposed new visa restrictions on Somali citizens, intensifying a growing dispute with Mogadishu over the return of Somalis living irregularly in Europe. EU member states approved the measures on Thursday after reviewing a European Commission "
-    },
-    {
-      "id": "n_1694334e03",
-      "type": "news",
-      "title": "FBI arrests fugitive Abdikerm Eidleh in Somalia over massive Minnesota fraud scheme",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/abdikerm-eidleh-arrested-somalia/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Abdikerm Eidleh, an alleged senior figure in the sprawling $250 million Feeding Our Future fraud scheme in Minnesota, was arrested Thursday in Somalia&#8217;s capital Mogadishu during a joint operation conducted by the FBI and Somali intelligence agencies, accordin"
-    },
-    {
-      "id": "n_e59443d107",
-      "type": "news",
-      "title": "Somaliland president receives hero’s welcome in Hargeisa after Israel visit",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-president-irro-returns-hargeisa-israel-visit/",
-      "date": "2026-06-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Israel"
-      ],
-      "excerpt": "HARGEISA (Somaliguardian) &#8211; Somaliland President Abdirahman Mohamed Abdullahi Irro returned to Hargeisa on Thursday to a jubilant public reception following a week-long working visit to Israel, where he opened Somaliland&#8217;s first embassy abroad in Jerusalem, a move that has intensified de"
     }
   ],
   "articles": [
