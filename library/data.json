@@ -1,6 +1,79 @@
 {
-  "last_updated": "2026-08-05T08:31:20.916462+00:00",
+  "last_updated": "2026-08-06T08:31:28.274407+00:00",
   "news": [
+    {
+      "id": "n_9a9a511ef1",
+      "type": "news",
+      "title": "Somalia: Puntland seizes federal-aligned base in Galkayo",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-federal-aligned-base-galkayo/",
+      "date": "2026-08-05",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland security forces on Wednesday seized a military base in the northern part of Galkayo that had been held by forces aligned with Somalia&#8217;s federal government, marking the latest and most significant escalation in the long-running political and military "
+    },
+    {
+      "id": "n_fd9f4826be",
+      "type": "news",
+      "title": "Air India Names Former Ethiopian Airlines Head as CEO, Managing Director",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52155/",
+      "date": "2026-08-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Air India’s Board of Directors on Wednesday announced the appointment of aviation veteran Tewolde Gebremariam as CEO and Managing Director, succeeding Campbell Wilson. The executive transition comes as the Tata Group-owned carrier transitions from its initial stabilization and integration phase into"
+    },
+    {
+      "id": "n_10659c1dd9",
+      "type": "news",
+      "title": "Why Ethiopia’s Conflicts Keep Returning: The Question Ethiopia’s National Dialogue Cannot Avoid",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/08/why-ethiopias-conflicts-keep-returning-the-question-ethiopias-national-dialogue-cannot-avoid/?utm_source=rss&utm_medium=rss&utm_campaign=why-ethiopias-conflicts-keep-returning-the-question-ethiopias-national-dialogue-cannot-avoid",
+      "date": "2026-08-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "As Ethiopia’s National Dialogue seeks to chart a path toward peace, it faces an immense task. The Dialogue aims to address some of the country’s most difficult political, historical, institutional, social, and peacebuilding questions. Yet its success may ultimately depend on confronting a more basic"
+    },
+    {
+      "id": "n_4fb6495a62",
+      "type": "news",
+      "title": "Renegotiating Military Immunity: Kenya’s New Terms for Foreign Troops",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/08/renegotiating-military-immunity-kenyas-new-terms-for-foreign-troops/?utm_source=rss&utm_medium=rss&utm_campaign=renegotiating-military-immunity-kenyas-new-terms-for-foreign-troops",
+      "date": "2026-08-06",
+      "region": "Kenya",
+      "tags": [
+        "Kenya",
+        "Military"
+      ],
+      "excerpt": "In July 2026, Britain suspended one of its flagship military exercises in Kenya after Nairobi withheld the licences required for troops to train in Laikipia. Five days later, the two governments reached an agreement allowing Exercise Haraka Storm to proceed. The immediate diplomatic crisis ended, bu"
+    },
+    {
+      "id": "n_fc7a9920fb",
+      "type": "news",
+      "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+      "date": "2026-08-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon."
+    },
     {
       "id": "n_46395992e7",
       "type": "news",
@@ -4249,76 +4322,6 @@
         "Security"
       ],
       "excerpt": "GOOBJOOG NEWS&#124;JOWHAR: At least two people were injured in a landmine explosion that occurred on Saturday at the Southern Checkpoint in Jowhar, the administrative capital of HirShabelle State. According to&#8230;"
-    },
-    {
-      "id": "n_049124d880",
-      "type": "news",
-      "title": "Somalia Rejects EU Claims It Refuses to Accept Deported Nationals",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-rejects-eu-claims-it-refuses-to-accept-deported-nationals/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Somali President Hassan Sheikh Mohamud has dismissed claims by the European Union that Somalia is refusing to accept its nationals deported from Europe, insisting that no Somali citizen&#8230;"
-    },
-    {
-      "id": "n_bd3af163b0",
-      "type": "news",
-      "title": "Alleged $250 Million U.S. COVID Fraud Suspect Arrested in Mogadishu After Four Years on the Run",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/alleged-250-million-u-s-covid-fraud-suspect-arrested-in-mogadishu-after-four-years-on-the-run/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Somali authorities, working alongside the U.S. Federal Bureau of Investigation (FBI), have arrested Abdikerm Eidleh, an alleged central figure in the massive $250 million Feeding Our Future fraud&#8230;"
-    },
-    {
-      "id": "n_b73146f11c",
-      "type": "news",
-      "title": "President Hassan Sheikh Attends Djibouti’s 49th Independence Anniversary Celebrations",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/president-hassan-sheikh-attends-djiboutis-49th-independence-anniversary-celebrations/",
-      "date": "2026-06-27",
-      "region": "Djibouti",
-      "tags": [
-        "Djibouti"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;DJIBOUTI: President Hassan Sheikh Mohamud is taking part in a major ceremony marking the 49th anniversary of Djibouti&#8217;s independence from France on June 27, 1977.The celebrations, being held at&#8230;"
-    },
-    {
-      "id": "n_556632d7e7",
-      "type": "news",
-      "title": "Somali National Appointed to Senior UN Humanitarian Leadership Role",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/101366-2/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;NEW YORK: United Nations Secretary-General António Guterres has appointed Mohamed Yahya of Somalia as the new Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator at the UN&#8230;"
-    },
-    {
-      "id": "n_e36fc9b612",
-      "type": "news",
-      "title": "Qoorqoor Withdraws From Re-Election Race in Galmudug State",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/qoorqoor-withdraws-from-re-election-race-in-galmudug-state/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Elections",
-        "Galmudug",
-        "Maritime"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;DHUSAMAREB: President of Galmudug, Ahmed Abdi Kariye (Qoorqoor), has officially announced that he will not seek another term in office, saying he will support whoever is elected to lead&#8230;"
     }
   ],
   "articles": [
