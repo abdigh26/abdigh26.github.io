@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-08-06T08:31:28.274407+00:00",
+  "last_updated": "2026-08-07T07:11:06.914526+00:00",
   "news": [
+    {
+      "id": "n_b8f67aec4b",
+      "type": "news",
+      "title": "Somalia: Puntland seizes second federal camp, alleges China-donated arms diverted",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-second-federal-camp-china-arms-diverted/",
+      "date": "2026-08-06",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Northeastern Somalia&#8217;s Puntland security forces seized a second military camp belonging to federal government-aligned troops within 24 hours on Thursday, capturing a command centre in the commercial port city of Bosaso a day after a fierce gun battle handed r"
+    },
+    {
+      "id": "n_2fb10f07bc",
+      "type": "news",
+      "title": "Somaliland, AFRICOM hold talks in Germany regarding defense and maritime security cooperation.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-africom-hold-talks-in-germany-regarding-defense-and-maritime-security-cooperation/",
+      "date": "2026-08-06",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Somaliland’s Defense Minister, Mr. Mohamed Yusuf Ali, leading a high-powered delegation recently paid an official working visit to the United States Africa Command (AFRICOM) center in the city of Stuttgart, Germany, where he held a high-level meeting with AFRICOM top officials. The two sides held di"
+    },
+    {
+      "id": "n_78dcb87da5",
+      "type": "news",
+      "title": "Federal forces have withdrawn from North Galkayo and moved towards Galgaduud.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/federal-forces-have-withdrawn-from-north-galkayo-and-moved-towards-galgaduud/",
+      "date": "2026-08-06",
+      "region": "Somalia",
+      "tags": [
+        "Military",
+        "Security",
+        "Puntland",
+        "Maritime"
+      ],
+      "excerpt": "Former Puntland Security Force but later affiliated with the Somali Federal Government forces last night abandoned its military headquarters that lies north of Galkayo, according to reliable sources. Reports further indicate that these forces left for Galguduud province after they received informati"
+    },
+    {
+      "id": "n_882acc8f6f",
+      "type": "news",
+      "title": "Deputy Customs Commission among 91 economic crime suspects",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52161/",
+      "date": "2026-08-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopian Customs Commission deputy commissioner Azezew Chane is among 91 detainees suspected of organized economic crimes. Investigations uncovered alleged networks within the revenues and customs administration that manipulated tax assessments, processed forged payment receipts and deleted electro"
+    },
+    {
+      "id": "n_3ec2760549",
+      "type": "news",
+      "title": "Addis Standard Editor Secures Release, Publisher’s Office Raided by Security Forces",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52158/",
+      "date": "2026-08-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Security"
+      ],
+      "excerpt": "Yonas Kedir, the editor-in-chief of the widely read Addis Standard, has secured his release from custody of security forces. Jakenn Publishing PLC, publisher of Addis Standard, announced the editor’s release in a statement issued today. The publisher also stated that its office space in Addis Ababa "
+    },
+    {
+      "id": "n_62a18eafa5",
+      "type": "news",
+      "title": "Somalia: The Journalists Who Disappeared",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/08/somalia-the-journalists-who-disappeared/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-the-journalists-who-disappeared",
+      "date": "2026-08-06",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "In October 2022, Abdalle Ahmed Mumin — Secretary-General of the Somali Journalists Syndicate (SJS), the organisation that documents what happens to journalists in Somalia — arrived at Aden Adde International Airport in Mogadishu carrying a ticket to Nairobi. He was travelling to seek medical care fo"
+    },
     {
       "id": "n_9a9a511ef1",
       "type": "news",
@@ -4237,91 +4326,6 @@
         "Somalia"
       ],
       "excerpt": "MUQDISHO &#8211; Madaxweynihii hore ee Soomaaliya, Maxamed Cabdullaahi Farmaajo, ayaa hambalyo u diray shacabka, Dowladda iyo hoggaanka Jamhuuriyadda Jabuuti munaasabadda 27-ka Juun oo ah maalinta xorriyadda iyo madaxbannaanida dalkaas. &#160; Farmaajo ayaa sheegay in munaasabaddani ay xasuusinayso "
-    },
-    {
-      "id": "n_75f250cd15",
-      "type": "news",
-      "title": "SoDMA oo sagootisay 25 sarkaal oo tababar uga ambabaxaya Shiinaha",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/sodma-oo-sagootisay-25-sarkaal-oo-tababar-uga-ambabaxaya-shiinaha/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Muqdisho – Guddoomiyaha Hay’adda Maareynta Musiibooyinka Qaranka Soomaaliyeed (SoDMA), Mudane Maxamuud Macallin Cabdulle, oo ay wehliyaan qaar ka mid ah Wasiirrada Gargaarka ee Dowlad-goboleedyada, ayaa maanta magaalada Muqdisho kulan sagootin ah ugu sameeyay 25 sarkaal. &#160; Saraakiishan oo ka ka"
-    },
-    {
-      "id": "n_b95f9fd6ea",
-      "type": "news",
-      "title": "Somalia, WHO Discuss Stronger Health Cooperation at Dubrovnik Forum",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/somalia-who-discuss-stronger-health-cooperation-at-dubrovnik-forum/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "DUBROVNIK, Croatia — Somalia&#8217;s Minister of Foreign Affairs and International Cooperation, Abdisalam Ali (Dhaay), held bilateral talks with the World Health Organization&#8217;s Regional Director for Europe, Dr. Hans Henri P. Kluge, on the sidelines of the Dubrovnik Forum, focusing on strengthe"
-    },
-    {
-      "id": "n_b28a404942",
-      "type": "news",
-      "title": "Clan Militia Mobilizes in Beledweyne Over Defense Minister’s Threatening Remarks",
-      "source": "Shabelle Media",
-      "url": "https://shabellemedia.com/clan-militia-mobilizes-in-beledweyne-over-defense-ministers-threatening-remarks/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Clan Conflict",
-        "Militia"
-      ],
-      "excerpt": "BELEDWEYNE, Somalia &#8211; Heavily armed fighters from the local Macawisley clan militia loyal to the Xawaadle sub-clan have launched intensive military movements across the strategic city of Beledweyne, where federal Defense Minister Ahmed Moalim Fiqi is currently visiting, local sources reported "
-    },
-    {
-      "id": "n_39fdfad9eb",
-      "type": "news",
-      "title": "Libaan Ahmed Hassan Unveils Vision for Galmudug After Securing JSP Endorsement",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/libaan-ahmed-hassan-unveils-vision-for-galmudug-after-securing-jsp-endorsement/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Elections",
-        "Galmudug"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;DHUSAMAREB: Following his endorsement as the Justice and Solidarity Party (JSP)&#8217;s presidential candidate for the 2026 Galmudug presidential election, Libaan Ahmed Hassan outlined his vision for the future of&#8230;"
-    },
-    {
-      "id": "n_b9a62a2847",
-      "type": "news",
-      "title": "Justice and Solidarity Party Endorses Libaan Ahmed Hassan for Galmudug Presidency",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/justice-and-solidarity-party-endorses-libaan-ahmed-hassan-for-galmudug-presidency/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Galmudug"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: The Executive Committee of Somalia&#8217;s Justice and Solidarity Party (JSP) on Saturday officially endorsed Libaan Ahmed Hassan as the party&#8217;s presidential candidate for the 2026–2031 leadership of Galmudug&#8230;"
-    },
-    {
-      "id": "n_1b8d6a5377",
-      "type": "news",
-      "title": "At Least Two Injured in Landmine Blast at Jowhar Security Checkpoint",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/at-least-two-injured-in-landmine-blast-at-jowhar-security-checkpoint/",
-      "date": "2026-06-27",
-      "region": "Somalia",
-      "tags": [
-        "Security"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;JOWHAR: At least two people were injured in a landmine explosion that occurred on Saturday at the Southern Checkpoint in Jowhar, the administrative capital of HirShabelle State. According to&#8230;"
     }
   ],
   "articles": [
