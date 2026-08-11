@@ -45,10 +45,24 @@ header {
   height: 56px;
   display: flex; align-items: center; justify-content: space-between;
 }
-.logo {
+.logo-lockup {
+  display: flex; gap: 0;
+  text-decoration: none; flex-shrink: 0;
+}
+.logo-col {
+  display: flex; flex-direction: column;
+  align-items: flex-start; width: 56px; flex-shrink: 0;
+}
+.logo-col-letter {
   font-family: 'Playfair Display', serif;
-  font-size: 16px; font-weight: 900;
-  color: var(--accent);
+  font-weight: 900; font-size: 23px;
+  color: var(--accent); line-height: 1; letter-spacing: -0.5px;
+}
+.logo-col-word {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 7px; letter-spacing: 1.5px;
+  text-transform: uppercase; color: var(--text-muted);
+  margin-top: 3px; white-space: nowrap;
 }
 .header-tag {
   font-family: 'IBM Plex Mono', monospace;
@@ -341,7 +355,20 @@ footer {
 
 <!-- HEADER -->
 <header>
-  <span class="logo">HOA Intelligence</span>
+  <a href="/" class="logo-lockup">
+    <span class="logo-col">
+      <span class="logo-col-letter">S</span>
+      <span class="logo-col-word">Somali</span>
+    </span>
+    <span class="logo-col">
+      <span class="logo-col-letter">O</span>
+      <span class="logo-col-word">OSINT</span>
+    </span>
+    <span class="logo-col">
+      <span class="logo-col-letter">B</span>
+      <span class="logo-col-word">Brief</span>
+    </span>
+  </a>
   <span class="header-tag">Capability Brief</span>
   <a class="request-btn" href="mailto:abdihaji@warsawuni.edu.pl?subject=HOA Intelligence Platform — Access Request">Request Access</a>
 </header>
