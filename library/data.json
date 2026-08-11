@@ -1,6 +1,157 @@
 {
-  "last_updated": "2026-08-10T07:27:05.820561+00:00",
+  "last_updated": "2026-08-11T07:02:18.897796+00:00",
   "news": [
+    {
+      "id": "n_cf24b02817",
+      "type": "news",
+      "title": "Ethiopia withdraws troops from militant-encircled Burhakaba in Somalia as AUSSOM faces mounting crisis",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-troops-withdraw-burhakaba-somalia-aussom/",
+      "date": "2026-08-10",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Ethiopia",
+        "Somalia",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Ethiopian troops serving under the African Union Support and Stabilization Mission in Somalia (AUSSOM) have withdrawn from Burhakaba, a strategic Bay region town ringed on every side by Al-Shabaab, handing security responsibility to the Somali National Army after n"
+    },
+    {
+      "id": "n_ad23d9e8b0",
+      "type": "news",
+      "title": "UN puts Somalia mission assets up for sale as Washington pulls plug on AUSSOM lifeline",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/un-sell-somalia-peacekeeping-assets/",
+      "date": "2026-08-09",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United Nations Support Office in Somalia (UNSOS) has opened a public tender for licensed auctioneers to liquidate a sprawling inventory of mission property, from vehicles and heavy construction machinery to modular housing units and medical laboratories, in the"
+    },
+    {
+      "id": "n_b8ef60acb8",
+      "type": "news",
+      "title": "Kampala summit fails to secure Somalia’s AUSSOM future",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/aussom-somalia-kampala-summit-fails/",
+      "date": "2026-08-09",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A summit convened specifically to keep Somalia&#8217;s African Union peacekeeping mission functioning has instead confirmed how unresolved its future remains, according to Amani Africa&#8216;s analysis of the gathering, published this week under the title &#8220;Wi"
+    },
+    {
+      "id": "n_90a6ef032b",
+      "type": "news",
+      "title": "Turkish Defense Minister meets with the Somali Army Chief Ankara.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/turkish-defense-minister-meets-with-the-somali-army-chief-ankara/",
+      "date": "2026-08-10",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Turkish Defense Minister, Mr. Yasar Guler met and held a high-level discussion with Somalia’s Army Chief, General Ibrahim Mohamed Mohamud while Turkish Army Chief, General Selcuk Bayraktaroglu was in attendance at the meeting. The meeting took place on Monday and is part of the high-level engagement"
+    },
+    {
+      "id": "n_15c5c05a3e",
+      "type": "news",
+      "title": "Ethiopia withdraws its AUSSOM troops from the district of Buurhakaba.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/ethiopia-withdraws-its-aussom-troops-from-the-district-of-buurhakaba/",
+      "date": "2026-08-10",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "African Union",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopian Defense Forces, specifically those that are serving under the African Union Support and Stabilization Mission in Somalia (AUSSOM) have officially withdrawn from Buurhakaba District in Bay region, while the security responsibility of Buurhakaba Forward Operating Base (FOB) has been official"
+    },
+    {
+      "id": "n_821e682dac",
+      "type": "news",
+      "title": "Army Chief of Somalia’s National Army may Recall Ali Jeyte Osman in order to lead Ma’awisley Forces",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/army-chief-of-somalias-national-army-may-recall-ali-jeyte-osman-in-order-to-lead-maawisley-forces/",
+      "date": "2026-08-10",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "Reports from Mogadishu indicate that the Army Chief of Somalia, General Ibrahim Mohamed Mohamud is considering the possibility of recalling Mr. Ali Jeyte Osman into active military service in order to lead the local defense forces known as “Ma’awisley” in the Hiiraan region. The Army Chief is spearh"
+    },
+    {
+      "id": "n_9e534a1c9b",
+      "type": "news",
+      "title": "The Eritrean Script Exposes Ethiopia’s Unity Farce",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/10/the-eritrean-script-exposes-ethiopias-unity-farce/?utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce&utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce",
+      "date": "2026-08-10",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "Addis’ Tigray policies echo the mistakes that drove Eritrea away. Karl Marx famously observed that history repeats itself, first as tragedy, then as farce. Ethiopia is now living the second half of that maxim. The three-decade war that ended with Eritrea&#8217;s independence was the tragedy. What is"
+    },
+    {
+      "id": "n_782679e1ca",
+      "type": "news",
+      "title": "Who is Aman?",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52249/",
+      "date": "2026-08-10",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Greetings everyone. Is everything Aman? Allow us to introduce ourselves. We are Aman Properties. As a sister company of Amanet Group, a name recognized for its contribution to construction, riverside developments in Addis Ababa, and diverse business ventures, we are entering the real estate sector w"
+    },
+    {
+      "id": "n_91162e9cf5",
+      "type": "news",
+      "title": "Israel’s recognition of Somaliland creates a diplomatic quandary",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/427117/israels-recognition-of-somaliland-creates-a-diplomatic-quandary/",
+      "date": "2026-08-11",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel"
+      ],
+      "excerpt": "While Somaliland celebrated being officially recognised by Israel, that acceptance has come with a price."
+    },
+    {
+      "id": "n_d4e83ec7d9",
+      "type": "news",
+      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+      "date": "2026-08-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people."
+    },
     {
       "id": "n_2286d21e42",
       "type": "news",
@@ -4190,151 +4341,6 @@
         "Mogadishu"
       ],
       "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: The federal government of Somalia and opposition politicians are expected to begin talks in the coming days aimed at breaking a political impasse over the country&#8217;s&#8230;"
-    },
-    {
-      "id": "n_022f21c53c",
-      "type": "news",
-      "title": "Joint SNA, South West Forces’ Operation Targets Armed Group near Baidoa",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/sna-south-west-forces-launch-operation-near-baidoa-amid-security-tensions/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "SNA",
-        "African Union",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Somali federal forces and troops from South West State have launched security operations on the outskirts of Baidoa targeting armed fighters loyal to the region&#8217;s former&#8230;"
-    },
-    {
-      "id": "n_dad6bb1981",
-      "type": "news",
-      "title": "Senior Somali Military Officer Graduates from Egypt’s War College",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/senior-somali-military-officer-graduates-from-egypts-war-college/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Military",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Senior Somali military officer Brig. Gen. Masud Mohamed Warsame has graduated from Egypt&#8217;s Military Academy for Higher Studies and Strategy after completing advanced studies at the&#8230;"
-    },
-    {
-      "id": "n_788e978902",
-      "type": "news",
-      "title": "Auditor General Urges Airport Operator to Implement Audit Recommendations",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/auditor-general-urges-airport-operator-to-implement-audit-recommendations/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Auditor General Ahmed Issa Gutale, has called on airport operator Favori LLC to implement outstanding audit recommendations aimed at improving financial transparency and accountability in the&#8230;"
-    },
-    {
-      "id": "n_3818b3b1fd",
-      "type": "news",
-      "title": "WFP Warns Funding Shortfall Fueling Somalia’s Nutrition Crisis",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/wfp-warns-funding-shortfall-fueling-somalias-nutrition-crisis/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU, (Xinhua) &#8212; Somalia&#8217;s food and nutrition crisis is deteriorating faster than anticipated due to failed rains, funding cuts, and spillover effects from the conflict in the Middle East, the&#8230;"
-    },
-    {
-      "id": "n_6aaec568e5",
-      "type": "news",
-      "title": "Somali, Ethiopian Leaders Set for Talks as Ties Continue to Improve",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somali-ethiopian-leaders-set-for-talks-as-ties-continue-to-improve/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; ADDIS ABABA: Federal Republic of Somalia President Hassan Sheikh Mohamud arrived in Addis Ababa on Sunday for a one-day working visit, where he is expected to hold&#8230;"
-    },
-    {
-      "id": "n_9f45a4d4b9",
-      "type": "news",
-      "title": "Somalia Prioritising Healthcare Reform, Deputy PM Says",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-prioritising-healthcare-reform-deputy-pm-says/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Deputy Prime Minister Salah Ahmed Jama has said that the federal government was prioritising investment in healthcare to ensure citizens have access to quality, modern and&#8230;"
-    },
-    {
-      "id": "n_85ac943e4f",
-      "type": "news",
-      "title": "Somaliland rejects Somalia president Hassan Sheikh Mohamud’s dialogue offer, says it seeks to undermine recognition efforts",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-rejects-hassan-sheikh-mohamud-dialogue-offer-recognition/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia"
-      ],
-      "excerpt": "HARGEISA (Somaliguardian) &#8211; Somaliland&#8217;s Minister of Justice, Yonis Ahmed Yonis, on Sunday firmly rejected a renewed offer of dialogue from Somalia&#8217;s President Hassan Sheikh Mohamud, accusing the Somali leader of inconsistency and arguing that the latest overture is designed to slo"
-    },
-    {
-      "id": "n_beb26982e7",
-      "type": "news",
-      "title": "Somalia crisis: Defence minister Fiqi threatens opposition as ex-spy chief Sanbalolshe alleges Hassan Sheikh Mohamud ordered June 3 ‘killing plot’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-crisis-fiqi-threatens-opposition-sanbalolshe-alleges-hassan-sheikh-mohamud-june-3-killing-plot/",
-      "date": "2026-06-28",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Clan Conflict",
-        "Militia"
-      ],
-      "excerpt": "By the time Defence Minister Ahmed Moalim Fiqi boarded his plane out of Beledweyne on Saturday, militia fighters from a rival clan had already moved to encircle the airstrip. He escaped. The political fallout did not. Fiqi&#8217;s remarks &#8211; that Somalia&#8217;s opposition leaders were alive so"
-    },
-    {
-      "id": "n_9540e97e47",
-      "type": "news",
-      "title": "Al-Shabaab is carrying out military movements in Jilib District, Middle Juba Region.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/al-shabaab-is-carrying-out-military-movements-in-jilib-district-middle-juba-region/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Military",
-        "Militia",
-        "Maritime"
-      ],
-      "excerpt": "The al-Qaeda-linked terrorist group of Al-Shabab is conducting activities in Jilib District of the Middle Jubba region, and is mobilizing its armed militias in a bid to prevent the Somali troops who are advancing towards in the area and  are expanding its presence in Lower Juba region. Reports confi"
-    },
-    {
-      "id": "n_279c48f5fa",
-      "type": "news",
-      "title": "Ethiopia Nears Restructuring Deal with Bondholders",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51583/",
-      "date": "2026-06-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Ministry of Finance announced today it has reached an agreement in principle with an Ad Hoc Committee representing investors behind its one-billion-dollar Eurobond. The agreement, which features terms for subscription rights for a new international bond to be issued in the future, is the second "
     }
   ],
   "articles": [
