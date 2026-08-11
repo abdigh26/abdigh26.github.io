@@ -1,135 +1,142 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Analyst Watch — Somali OSINT Brief</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+---
+layout: default
+title: Analyst Watch
+permalink: /analysts/
+---
+
 <style>
-  :root{
-    --bg:#0b0b0c;
-    --panel:#141416;
-    --border:#232326;
-    --gold:#c8a84b;
-    --text:#e9e7e1;
-    --muted:#8c8a86;
+  .analyst-watch-page {
+    padding: 4rem 0 6rem;
+    font-family: 'IBM Plex Mono', monospace;
   }
-  *{box-sizing:border-box;}
-  body{
-    margin:0;
-    background:var(--bg);
-    color:var(--text);
-    font-family:'IBM Plex Mono', monospace;
-    padding:32px 16px 80px;
+  
+  .aw-header {
+    max-width: 640px;
+    margin: 0 auto 48px;
   }
-  header{
-    max-width:640px;
-    margin:0 auto 40px;
+  
+  .aw-eyebrow {
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 8px;
   }
-  .eyebrow{
-    font-size:11px;
-    letter-spacing:0.18em;
-    text-transform:uppercase;
-    color:var(--gold);
-    margin-bottom:8px;
+  
+  .aw-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 32px;
+    margin: 0 0 12px 0;
+    color: var(--text);
   }
-  h1{
-    font-family:'Playfair Display', serif;
-    font-weight:700;
-    font-size:32px;
-    margin:0 0 10px 0;
+  
+  .aw-sub {
+    color: var(--text-dim);
+    font-size: 14px;
+    line-height: 1.6;
   }
-  .sub{
-    color:var(--muted);
-    font-size:13px;
-    line-height:1.5;
+  
+  #feed {
+    max-width: 640px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
   }
-  #feed{
-    max-width:640px;
-    margin:0 auto;
-    display:flex;
-    flex-direction:column;
-    gap:28px;
+  
+  .entry {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    padding: 24px;
+    border-radius: 4px;
   }
-  .entry{
-    border:1px solid var(--border);
-    background:var(--panel);
-    padding:20px;
+  
+  .entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 16px;
+    gap: 12px;
   }
-  .entry-header{
-    display:flex;
-    justify-content:space-between;
-    align-items:baseline;
-    margin-bottom:14px;
-    gap:12px;
+  
+  .author {
+    font-size: 14px;
+    color: var(--text);
+    font-weight: 600;
   }
-  .author{
-    font-size:13px;
-    color:var(--text);
-    font-weight:500;
+  
+  .date {
+    font-size: 11px;
+    color: var(--text-muted);
+    white-space: nowrap;
   }
-  .date{
-    font-size:11px;
-    color:var(--muted);
-    white-space:nowrap;
+  
+  .bluf {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    line-height: 1.45;
+    color: var(--text);
+    margin-bottom: 16px;
+    padding-left: 16px;
+    border-left: 2px solid var(--accent);
   }
-  .bluf{
-    font-family:'Playfair Display', serif;
-    font-size:17px;
-    line-height:1.4;
-    color:var(--text);
-    margin-bottom:12px;
-    padding-left:12px;
-    border-left:2px solid var(--gold);
+  
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
   }
-  .tags{
-    display:flex;
-    flex-wrap:wrap;
-    gap:8px;
-    margin-bottom:14px;
+  
+  .tag {
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid var(--accent-mid);
+    padding: 3px 10px;
+    border-radius: 3px;
   }
-  .tag{
-    font-size:10px;
-    letter-spacing:0.06em;
-    text-transform:uppercase;
-    color:var(--gold);
-    border:1px solid var(--gold);
-    padding:3px 8px;
+  
+  .note {
+    font-size: 13px;
+    color: var(--text-dim);
+    margin-bottom: 16px;
+    line-height: 1.6;
   }
-  .note{
-    font-size:12.5px;
-    color:var(--muted);
-    margin-bottom:14px;
-    line-height:1.5;
+  
+  .tweet-embed {
+    max-width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
   }
-  .tweet-embed{
-    max-width:100%;
-  }
-  .empty, .loading{
-    max-width:640px;
-    margin:0 auto;
-    color:var(--muted);
-    font-size:13px;
-    text-align:center;
-    padding:40px 0;
+  
+  .empty, .loading {
+    max-width: 640px;
+    margin: 0 auto;
+    color: var(--text-muted);
+    font-size: 14px;
+    text-align: center;
+    padding: 60px 0;
   }
 </style>
-</head>
-<body>
-  <header>
-    <div class="eyebrow">Somali OSINT Brief</div>
-    <h1>Analyst Watch</h1>
-    <div class="sub">Curated posts from Horn of Africa geopolitics and security analysts on X, scored and summarized as they're logged.</div>
+
+<div class="analyst-watch-page">
+  <header class="aw-header">
+    <div class="aw-eyebrow">Somali OSINT Brief</div>
+    <h1 class="aw-title">Analyst Watch</h1>
+    <div class="aw-sub">Curated posts from Horn of Africa geopolitics and security analysts on X, scored and summarized as they're logged.</div>
   </header>
 
   <div id="feed">
     <div class="loading">Loading feed...</div>
   </div>
+</div>
 
 <script src="https://platform.twitter.com/widgets.js" async></script>
 <script>
-  // Same-origin on GitHub Pages: /analysts/data.json
+  // Data sourced from: /analysts/data.json
   const DATA_URL = '/analysts/data.json';
 
   function escapeHtml(str) {
@@ -147,11 +154,11 @@
   async function loadFeed() {
     const feed = document.getElementById('feed');
     try {
-      const res = await fetch(DATA_URL, { cache: 'no-store' });
+      const res = await fetch(DATA_URL + '?_=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error('fetch failed');
       const entries = await res.json();
 
-      if (!entries.length) {
+      if (!entries || !entries.length) {
         feed.innerHTML = '<div class="empty">No posts logged yet.</div>';
         return;
       }
@@ -166,7 +173,7 @@
           ${e.tags && e.tags.length ? `<div class="tags">${e.tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
           ${e.note ? `<div class="note">${escapeHtml(e.note)}</div>` : ''}
           <div class="tweet-embed">
-            <blockquote class="twitter-tweet" data-theme="dark">
+            <blockquote class="twitter-tweet" data-theme="dark" data-conversation="none">
               <a href="${e.url}"></a>
             </blockquote>
           </div>
@@ -174,14 +181,12 @@
       `).join('');
 
       if (window.twttr && window.twttr.widgets) {
-        window.twttr.widgets.load();
+        window.twttr.widgets.load(feed);
       }
     } catch (err) {
-      feed.innerHTML = '<div class="empty">Could not load the feed. Try refreshing.</div>';
+      feed.innerHTML = '<div class="empty">Could not load the feed. Try refreshing. (Error: ' + err.message + ')</div>';
     }
   }
 
   loadFeed();
 </script>
-</body>
-</html>
