@@ -547,10 +547,11 @@ h1 em { color: var(--accent); font-style: italic; }
 
 <!-- MOBILE DRAWER -->
 <div class="lib-drawer" id="libDrawer">
-  <a href="/reports.html" onclick="closeLibDrawer()">Reports</a>
-  <a href="/articles.html" onclick="closeLibDrawer()">Articles</a>
-  <a href="/dashboard.html" onclick="closeLibDrawer()">Dashboard</a>
-  <a href="/analysts" onclick="closeLibDrawer()">Analyst Watch</a>
+  <a href="#" onclick="event.preventDefault();setTabMobile('all')">All Sources</a>
+  <a href="#" onclick="event.preventDefault();setTabMobile('news')">News</a>
+  <a href="#" onclick="event.preventDefault();setTabMobile('article')">Articles</a>
+  <a href="#" onclick="event.preventDefault();setTabMobile('report')">Reports</a>
+  <a href="#" onclick="event.preventDefault();setTabMobile('book')">Books</a>
   <a href="/brief/" onclick="closeLibDrawer()">⚡ Request Access</a>
 </div>
 
@@ -892,6 +893,12 @@ function setTab(btn) {
   document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
   render();
+}
+
+function setTabMobile(tab) {
+  const btn = document.querySelector(`.nav-btn[data-tab="${tab}"]`);
+  if (btn) setTab(btn);
+  closeLibDrawer();
 }
 
 function setRegion(btn, region) {
