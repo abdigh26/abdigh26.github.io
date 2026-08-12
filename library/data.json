@@ -1,6 +1,105 @@
 {
-  "last_updated": "2026-08-11T07:02:18.897796+00:00",
+  "last_updated": "2026-08-12T07:20:17.820357+00:00",
   "news": [
+    {
+      "id": "n_80c7bf4af6",
+      "type": "news",
+      "title": "Somalia: A Government With One Foot Out the Door",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/08/somalia-a-government-with-one-foot-out-the-door/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-a-government-with-one-foot-out-the-door",
+      "date": "2026-08-11",
+      "region": "Somalia",
+      "tags": [
+        "Kenya",
+        "Somalia",
+        "Governance",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "Somalia&#8217;s foreign passport crackdown reveals a governance crisis hiding in plain sight On the afternoon of June 24, 2026, Somalia&#8217;s Second Deputy Prime Minister, Jibril Abdirashid Haji, arrived at Nairobi&#8217;s Jomo Kenyatta International Airport aboard a flight from Mogadishu. Kenyan "
+    },
+    {
+      "id": "n_1445fab1c7",
+      "type": "news",
+      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+      "date": "2026-08-12",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began."
+    },
+    {
+      "id": "n_272241e5f1",
+      "type": "news",
+      "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+      "date": "2026-08-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack."
+    },
+    {
+      "id": "n_a59b281083",
+      "type": "news",
+      "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+      "date": "2026-08-11",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea"
+      ],
+      "excerpt": "Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous."
+    },
+    {
+      "id": "n_4c3ac54fd2",
+      "type": "news",
+      "title": "Attack on ship in Red Sea kills three Pakistani nationals, wounds another",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-ship-red-sea-kills-three-pakistani-nationals-wounds-another",
+      "date": "2026-08-12",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea"
+      ],
+      "excerpt": "Attack on ship in Red Sea kills three Pakistani nationals, wounds another\n\n    \n    \n\n        \n    \n                An attack on a commercial vessel in the Red Sea killed at least three Pakistani nationals and left another wounded,&nbsp;Islamabad's&nbsp;foreign minister said on Wednesday.&nbsp;\n\n\"Pa"
+    },
+    {
+      "id": "n_7ad1952eb7",
+      "type": "news",
+      "title": "Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-yemens-marib-mocha-left-dozens-killed-and-injured",
+      "date": "2026-08-12",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Military"
+      ],
+      "excerpt": "Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says\n\n    \n    \n\n        \n    \n                Houthi military spokesperson Yahya Saree said&nbsp;that missile and drone strikes targeting military sites in Marib and Mocha killed and injured dozens of people"
+    },
+    {
+      "id": "n_bdf3ec874c",
+      "type": "news",
+      "title": "Pentagon admits to killing 153 civilians last year in Yemen: Report",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-admits-killing-153-civilians-last-year-yemen-report",
+      "date": "2026-08-12",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Pentagon admits to killing 153 civilians last year in Yemen: Report\n\n    \n    \n\n        \n    \n                The Pentagon confirmed to Congress that US attacks against Houthis in Yemen last year killed 153 civilians and injured 243 others, The Hill reported.\n\nIn a 12-page report sent to&nbsp;&nbsp;"
+    },
     {
       "id": "n_cf24b02817",
       "type": "news",
@@ -4240,107 +4339,6 @@
         "Maritime"
       ],
       "excerpt": "GOOBJOOG NEWS &#124; BEIJING: Somalia has unveiled a slate of major infrastructure and industrial investment opportunities to Chinese investors, as the country seeks to accelerate economic growth and position itself&#8230;"
-    },
-    {
-      "id": "n_534214eb3e",
-      "type": "news",
-      "title": "Military Court Hands Life Sentence to Senior Al-Shabaab Member",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/military-court-hands-life-sentence-to-senior-al-shabaab-member/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Military",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Somalia&#8217;s Military High Court has sentenced a senior Al-Shabaab member to life imprisonment after overturning an earlier 15-year prison term, in a ruling that underscores the&#8230;"
-    },
-    {
-      "id": "n_f01e3ce7c5",
-      "type": "news",
-      "title": "NISA Chief Urges Lasting Peace after Galgaduud Clan Reconciliation",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/nisa-chief-urges-lasting-peace-after-galgaduud-clan-reconciliation/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Mogadishu",
-        "Clan Conflict"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: National Intelligence and Security Agency (NISA) Director General Mahad Mohamed Salad has called on communities in Galgaduud to uphold a newly brokered peace agreement after concluding&#8230;"
-    },
-    {
-      "id": "n_ed82799ec5",
-      "type": "news",
-      "title": "Assassination of Al-Arabiya journalist highlights tensions in southern Yemen",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/assassination-al-arabiya-journalist-tensions-southern-yemen",
-      "date": "2026-06-30",
-      "region": "Ethiopia",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Assassination of Al-Arabiya journalist highlights tensions in southern Yemen\n\n    \n    \n\n          \n      \n      \n        Submitted by \nCarolina Pedrazzi\n on \nTue, 06/30/2026 - 10:08\n\n        \n      \n    \n      \n    \n                Analysts point to both the Houthis and UAE-backed STC as possible c"
-    },
-    {
-      "id": "n_c9d81f9dda",
-      "type": "news",
-      "title": "NIEBC Launches Voter Registration in Galgaduud",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-expands-voter-registration-drive-to-galgaduud-as-electoral-preparations-continue/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; ELDHER: The National Independent Electoral and Boundaries Commission (NIEBC) has launched voter registration in Eldher district of Galgaduud region, marking the latest phase of preparations for the&#8230;"
-    },
-    {
-      "id": "n_40382977bc",
-      "type": "news",
-      "title": "PM Barre Inaugurates New Road in Mogadishu, Pledges Continued Infrastructure Investment",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/pm-barre-inaugurates-new-road-in-mogadishu-pledges-continued-infrastructure-investment/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Prime Minister Hamza Abdi Barre has inaugurated a newly constructed two-kilometre paved road in Mogadishu&#8217;s Daynile district, describing infrastructure development as key to the capital&#8217;s economic&#8230;"
-    },
-    {
-      "id": "n_1a64677eb6",
-      "type": "news",
-      "title": "South West State Launches Humanitarian Forum Focused On Drought Recovery and El Niño Preparedness",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/south-west-state-launches-humanitarian-forum-focused-on-drought-recovery-and-el-nino-preparedness/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Drought",
-        "African Union"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; BAIDOA: South West State President Abdiaziz Hassan Mohamed Laftagareen has opened Somalia&#8217;s Humanitarian Forum (CHF) in Baidoa, bringing together government officials, aid agencies and international partners to&#8230;"
-    },
-    {
-      "id": "n_23f518d9ff",
-      "type": "news",
-      "title": "Somalia Set For Government-Opposition Talks amid Election Deadlock",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-set-for-government-opposition-talks-amid-election-deadlock/",
-      "date": "2026-06-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Elections",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: The federal government of Somalia and opposition politicians are expected to begin talks in the coming days aimed at breaking a political impasse over the country&#8217;s&#8230;"
     }
   ],
   "articles": [
