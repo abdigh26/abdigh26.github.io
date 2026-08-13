@@ -1,6 +1,94 @@
 {
-  "last_updated": "2026-08-12T07:20:17.820357+00:00",
+  "last_updated": "2026-08-13T07:22:38.267601+00:00",
   "news": [
+    {
+      "id": "n_696c96ed10",
+      "type": "news",
+      "title": "Al-Shabaab claims deadly IED attack on Somali army truck near Mubarak",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-ied-attack-somali-army-truck-mubarak/",
+      "date": "2026-08-12",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Military",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; More than a dozen Somali army personnel were killed on Monday when a military truck carrying troops was struck by an improvised explosive device (IED) near the town of Mubarak in Somalia’s Lower Shabelle region, according to reports. The attack targeted a Somali mi"
+    },
+    {
+      "id": "n_e55ef10dbf",
+      "type": "news",
+      "title": "Somalia PM rebukes international partners over political pressure",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pm-hamza-abdi-barre-rebukes-international-partners/",
+      "date": "2026-08-11",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s Prime Minister Hamza Abdi Barre on Tuesday launched a blistering attack on the country’s international partners, accusing them of facing a “cultural problem” and of continuing to treat Somalia as though it were still in the transitional period, when the c"
+    },
+    {
+      "id": "n_a1f3ece5de",
+      "type": "news",
+      "title": "Turkey’s ally wins Somalia speaker vote, opposition objects",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-speaker-abdulkadir-mohamed-nur-turkey-opposition/",
+      "date": "2026-08-11",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Maritime",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s parliament handed its most powerful gavel to a man widely regarded as Ankara&#8217;s foremost asset in Mogadishu on Monday, electing Minister of Ports and Maritime Transport Abdulkadir Mohamed Nur as speaker of the House of the People in a vote the "
+    },
+    {
+      "id": "n_19352c8aaa",
+      "type": "news",
+      "title": "Fano’s Kingdom: Inside the insurrection in northern Ethiopia",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/427282/fanos-kingdom-inside-the-insurrection-in-northern-ethiopia/",
+      "date": "2026-08-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A behind-the-scenes look at the rebellion led by Amhara nationalists – from Ethiopia’s second-largest ethnic group – who have seized large swathes of the northern region bearing their name."
+    },
+    {
+      "id": "n_d543c519b5",
+      "type": "news",
+      "title": "Will the Houthis shut down Saudi Arabian shipping?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
+      "date": "2026-08-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia"
+    },
+    {
+      "id": "n_b5649b1615",
+      "type": "news",
+      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "date": "2026-08-12",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis."
+    },
     {
       "id": "n_80c7bf4af6",
       "type": "news",
@@ -4250,95 +4338,6 @@
         "Airstrikes"
       ],
       "excerpt": "GOOBJOOG NEWS&#124; LOWER SHABELLE: The Ministry of Defence said Tuesday the Somali National Army, working alongside the Turkish Armed Forces, carried out a coordinated airstrike early Monday targeting Al-Shabaab positions&#8230;"
-    },
-    {
-      "id": "n_4bdbdd47f8",
-      "type": "news",
-      "title": "President Mohamud Inaugurates New Interior Ministry Headquarters, Launches Environment Ministry Project",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/president-mohamud-inaugurates-new-interior-ministry-headquarters-launches-environment-ministry-project/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: President Hassan Sheikh Mohamud on Monday inaugurated the new headquarters of the Ministry of Interior, Federal Affairs and Reconciliation, describing the facility as part of the Federal Government&#8217;s&#8230;"
-    },
-    {
-      "id": "n_c64227b60b",
-      "type": "news",
-      "title": "Ethiopia’s debt restructuring test: Can Addis Ababa’s reserves hold?",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/423537/ethiopias-debt-restructuring-test-can-addis-ababas-reserves-hold/",
-      "date": "2026-06-30",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "A mid-July payment is the first real signal of whether Ethiopia’s debt overhaul translates into market trust or merely buys time."
-    },
-    {
-      "id": "n_cfa571f508",
-      "type": "news",
-      "title": "AU Backs Somalia’s Sovereignty, Security Efforts",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/au-backs-somalias-sovereignty-security-efforts/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: The African Union has reaffirmed its commitment to Somalia&#8217;s sovereignty, territorial integrity and stability following talks between President Hassan Sheikh Mohamud and the deputy chairperson of&#8230;"
-    },
-    {
-      "id": "n_30885ede67",
-      "type": "news",
-      "title": "NISA Opens New Security Base in Central Somalia",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/nisa-chief-launches-construction-of-intelligence-base-in-central-somalia/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: National Intelligence and Security Agency (NISA) Director General Mahad Mohamed Salad has launched the construction of a new intelligence base in the central town of Balanballe,&#8230;"
-    },
-    {
-      "id": "n_efe99b7bcf",
-      "type": "news",
-      "title": "Somalia Opens Diaspora Centre to Strengthen Ties With Overseas Communities",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-opens-diaspora-centre-to-strengthen-ties-with-overseas-communities/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: Prime Minister Hamza Abdi Barre has inaugurated the Somalia Diaspora Centre, a new facility aimed at strengthening engagement with millions of Somalis living abroad and improving&#8230;"
-    },
-    {
-      "id": "n_1e29af31c7",
-      "type": "news",
-      "title": "Somalia Highlights Strategic Projects at Beijing Investment Forum",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-pitches-flagship-projects-to-chinese-investors-in-drive-for-industrial-growth/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; BEIJING: Somalia has unveiled a slate of major infrastructure and industrial investment opportunities to Chinese investors, as the country seeks to accelerate economic growth and position itself&#8230;"
     }
   ],
   "articles": [
