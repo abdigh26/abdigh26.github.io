@@ -1,6 +1,105 @@
 {
-  "last_updated": "2026-08-13T07:22:38.267601+00:00",
+  "last_updated": "2026-08-14T07:20:33.871666+00:00",
   "news": [
+    {
+      "id": "n_eb28ce249a",
+      "type": "news",
+      "title": "Turkey will arrest and exile Somalia’s opposition leaders if defiance continues, warns veteran diplomat",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-arrest-exile-opposition-leaders-duale-warning/",
+      "date": "2026-08-13",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkey will move to arrest and exile Somalia&#8217;s opposition leaders, including former President Sharif Sheikh Ahmed, should they persist in their defiance of President Hassan Sheikh Mohamud&#8217;s disputed term extension, a veteran Somali diplomat has warned. "
+    },
+    {
+      "id": "n_3d47a9ed9a",
+      "type": "news",
+      "title": "Somalia’s Deputy Minister of Commerce and Industry has resigned from his position.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalias-deputy-minister-of-commerce-and-industry-has-resigned-from-his-position/",
+      "date": "2026-08-13",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Deputy Minister of Commerce and Industry of Somalia’s Federal Government, Mr. Mohamud Abdullahi Ahmed known as “Abuukaate” has tendered his official resignation on Thursday. He conveyed an open letter to the Prime Minister of Somalia’s Federal Government, announcing officially that he quit his m"
+    },
+    {
+      "id": "n_a24fa7afce",
+      "type": "news",
+      "title": "Troops deployed from Mogadishu have arrived in the Hiiraan region.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/troops-deployed-from-mogadishu-have-arrived-in-the-hiiraan-region/",
+      "date": "2026-08-13",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "Units of Somalia’s National Army set out from Mogadishu, Somalia’s capital by land and reached the frontlines in the eastern part of Hiiraan region. These troops were equipped with combat vehicles and were deployed there to reinforce other Somali military units and local defense forces tasked with f"
+    },
+    {
+      "id": "n_4d417679a6",
+      "type": "news",
+      "title": "Somaliland, Denmark Discuss Strengthening Cooperation, Security, and Development",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-denmark-discuss-strengthening-cooperation-security-and-development/",
+      "date": "2026-08-12",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "Somaliland’s Vice President&#8212;the acting President, Mr. Ali Aw-Abdi, received Danish Ambassador to Somalia, Steen Sonne Andersen, at the Presidential Palace on Wednesday. The two sides held discussions focusing on ways to bolster the bilateral cooperation between the two countries in the areas o"
+    },
+    {
+      "id": "n_8b1b0f3bcd",
+      "type": "news",
+      "title": "NISA Announces Al-Shabaab Members Killed in Lower Shabelle Operation",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-announces-al-shabaab-members-killed-in-lower-shabelle-operation/",
+      "date": "2026-08-12",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security"
+      ],
+      "excerpt": "The National Intelligence and Security Agency (NISA) forces in close collaboration with international partners said on Tuesday that they carried out a planned air strike that took place in Tawakal area in Lower Shabelle region. In a statement, NISA said that at least 7 Al-Shabab militants were succe"
+    },
+    {
+      "id": "n_dfe18d8450",
+      "type": "news",
+      "title": "Abdirashid Janan Announces that they are entering into peace talks with Jubbaland",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/abdirashid-janan-announces-that-they-are-entering-into-peace-talks-with-jubbaland/",
+      "date": "2026-08-11",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Jubaland"
+      ],
+      "excerpt": "Mr. Abdirashid Janan, who was recently appointed by Somalia’s Federal Government as the Head of NISA operations in Jubaland in July 2025, announced on Tuesday that he will engage peaceful dialogue with Jubaland regional administration, and the news is a clear indication that troops stationed in Gedo"
+    },
+    {
+      "id": "n_7b2ebcc6f1",
+      "type": "news",
+      "title": "‘You have to take fintechs head-on,’ says Paul Russo as KCB eyes digital expansion",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/427640/you-have-to-take-fintechs-head-on-says-paul-russo-as-kcb-eyes-digital-expansion-in-southern-and-west-africa/",
+      "date": "2026-08-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "KCB Group is going digital-first for its next expansion phase, targeting Zambia, Mozambique and Zimbabwe through tech rather than branches. CEO Paul Russo calls it “technology-driven” — except in Ethiopia, where a traditional bank acquisition is still on the table."
+    },
     {
       "id": "n_696c96ed10",
       "type": "news",
@@ -4236,108 +4335,6 @@
         "Ethiopia"
       ],
       "excerpt": "The US says it wants to be an honest broker in the Horn of Africa. Its actions tell a different story."
-    },
-    {
-      "id": "n_b9baab7c92",
-      "type": "news",
-      "title": "Somalia Makes National ID Card Mandatory for Passport Applications",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-makes-national-id-card-mandatory-for-passport-applications/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: The Federal Government of Somalia has announced that, effective July 1, 2026, all citizens applying for any type of Somali passport will be required to possess a National&#8230;"
-    },
-    {
-      "id": "n_91f04c87bc",
-      "type": "news",
-      "title": "Galmudug Presidential Candidate Libaan Ahmed Hassan Calls for Unity on Somalia’s Independence Day",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/galmudug-presidential-candidate-libaan-ahmed-hassan-calls-for-unity-on-somalias-independence-day/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Galmudug"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Galmudug presidential candidate Libaan Ahmed Hassan has extended his congratulations to the Somali people as the country marks July 1, the anniversary of Somalia&#8217;s independence and unification. In&#8230;"
-    },
-    {
-      "id": "n_90e248bdbf",
-      "type": "news",
-      "title": "ESCWA Reaffirms Commitment to Somalia’s Development on Independence Day",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/escwa-reaffirms-commitment-to-somalias-development-on-independence-day/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;BEIRUT: The Executive Secretary of the United Nations Economic and Social Commission for Western Asia (ESCWA), Rania Al-Mashat, has reaffirmed the organization&#8217;s commitment to supporting Somalia&#8217;s sustainable development and&#8230;"
-    },
-    {
-      "id": "n_314c1e297d",
-      "type": "news",
-      "title": "July 1: The Day That Forged a Nation – Remembering Somalia’s Journey to Independence and Unity",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/july-1-the-day-that-forged-a-nation-remembering-somalias-journey-to-independence-and-unity/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124;MOGADISHU: Every year on July 1, Somalis around the world pause to commemorate a defining moment in their nation&#8217;s history. The date marks not only the independence of southern&#8230;"
-    },
-    {
-      "id": "n_eb841a5d71",
-      "type": "news",
-      "title": "President Mohamud Urges Unity as Somalia Marks Independence Day",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/president-mohamud-urges-unity-as-somalia-marks-independence-day/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; MOGADISHU: President Hassan Sheikh Mohamud has called on citizens to embrace unity and national solidarity as the country prepares to celebrate Independence and Unity Day, saying collective&#8230;"
-    },
-    {
-      "id": "n_c1abb4139f",
-      "type": "news",
-      "title": "Somalia Seeks To Boost Trade with China at Beijing Investment Forum",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-seeks-to-boost-trade-with-china-at-beijing-investment-forum/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "GOOBJOOG NEWS &#124; BEIJING: Somalia has stepped up efforts to attract Chinese investment and expand its exports, hosting a high-level business forum in Beijing aimed at strengthening trade and supporting&#8230;"
-    },
-    {
-      "id": "n_cd49575a4e",
-      "type": "news",
-      "title": "Somalia Says Joint Airstrike With Türkiye Kills 35 Al-Shabaab Fighters in Lower Shabelle",
-      "source": "Goobjoog News",
-      "url": "https://en.goobjoog.com/somalia-says-joint-airstrike-with-turkiye-kills-35-al-shabaab-fighters-in-lower-shabelle/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Airstrikes"
-      ],
-      "excerpt": "GOOBJOOG NEWS&#124; LOWER SHABELLE: The Ministry of Defence said Tuesday the Somali National Army, working alongside the Turkish Armed Forces, carried out a coordinated airstrike early Monday targeting Al-Shabaab positions&#8230;"
     }
   ],
   "articles": [
