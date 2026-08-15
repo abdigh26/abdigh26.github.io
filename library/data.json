@@ -1,6 +1,193 @@
 {
-  "last_updated": "2026-08-14T07:20:33.871666+00:00",
+  "last_updated": "2026-08-15T06:32:55.512662+00:00",
   "news": [
+    {
+      "id": "n_4d6bf65278",
+      "type": "news",
+      "title": "Somalia: Gen. Jimale Takar rejoins Puntland forces in major blow to Mogadishu",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-gen-jimale-takar-rejoins-puntland-forces/",
+      "date": "2026-08-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Danab",
+        "Military",
+        "Security",
+        "Puntland"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Gen. Jimale Takar, commander of the Somali National Army’s 54th Division, has rejoined Puntland’s security forces and agreed that Danab units under his command at the Ligle military camp in Garowe will no longer report to Somalia’s federal government in Mogadishu, "
+    },
+    {
+      "id": "n_e277082dab",
+      "type": "news",
+      "title": "Museveni says Uganda’s Somalia mission was solidarity with Ethiopia, not Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/museveni-uganda-somalia-mission-solidarity-ethiopia-not-somalia/",
+      "date": "2026-08-14",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; President Yoweri Museveni has said Uganda&#8217;s nearly two-decade military deployment in Somalia was driven primarily by solidarity with Ethiopia &#8211; whose forces invaded Somalia in 2006 to remove the Islamic Courts Union from power in Mogadishu &#8211; rathe"
+    },
+    {
+      "id": "n_c08baf3902",
+      "type": "news",
+      "title": "You Can’t Build a Prosperous Ethiopia on Insecure Property Rights",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52284/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "A country can build roads without building trust. It can demolish old neighborhoods and construct shining boulevards. It can erect towers, parks, museums and commercial centers. It can report impressive economic growth. But there is one thing no government can build with bulldozers: the confidence o"
+    },
+    {
+      "id": "n_849f2c9b75",
+      "type": "news",
+      "title": "Egypt’s Aggressive Nile Policy No Longer Serves the Region",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52282/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Blue Nile water policy maintained by Cairo is a manifestation of an outdated, rigid, and aggressive posture that defies modern standards of international cooperation. While the river has sustained civilizations for millennia across the Horn and Northeast Africa, modern geopolitics have transform"
+    },
+    {
+      "id": "n_28942ef559",
+      "type": "news",
+      "title": "Governing the Invisible Grid: Ethiopia’s Missing Biomass Account",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52279/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Walk through Addis Ababa or any major regional city, and Ethiopia’s energy ambitions are easy to see. The Grand Ethiopian Renaissance Dam stands as a symbol of national industrial aspiration. High-voltage transmission lines cross the landscape, electricity exports attract regional attention, and off"
+    },
+    {
+      "id": "n_c2c1fbcbcb",
+      "type": "news",
+      "title": "Addis Ababa: The Governance Disconnect and Ethiopia’s Mounting Challenges",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52277/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security",
+        "Governance"
+      ],
+      "excerpt": "Addis Ababa today increasingly reflects a political power center detached from the complex realities of the nation it governs. Under Prime Minister Abiy Ahmed and the Prosperity Party, Ethiopia faces a period defined less by the optimistic promises of the 2018 reforms and more by persistent security"
+    },
+    {
+      "id": "n_68b830fff9",
+      "type": "news",
+      "title": "The Silent Wounds of War: Why Ethiopia’s Future Depends on Healing Invisible Trauma",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52275/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "When history records armed conflict, it tends to measure devastation in concrete terms: casualties on the battlefield, territory gained or lost, homes and infrastructure destroyed, and agreements signed at negotiating tables. Yet war’s deepest agony is rarely confined to the battlefield. It echoes t"
+    },
+    {
+      "id": "n_6a5d6e9b58",
+      "type": "news",
+      "title": "Pitfalls in Ethiopia’s Export Governance Framework",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52272/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya",
+        "Governance",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopia stands at a transformative economic junction. Historically, the nation approached export planning differently than many of its African peers. Rather than relying on a standalone document titled a &#8220;National Export Strategy&#8221;—such as Kenya’s INEDPS, Uganda’s NEDS, Rwanda’s NES, or "
+    },
+    {
+      "id": "n_bcfe88b7fb",
+      "type": "news",
+      "title": "Why Early Childhood Education and Development matters!",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52270/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Early childhood is a one life time opportunity. It’s a window that shapes the child development in a profound lasting ways. The first years of a child’s life matter because they provide the foundation for everything that follows. During early childhood, children develop rapidly not only physically, "
+    },
+    {
+      "id": "n_fd57f8952d",
+      "type": "news",
+      "title": "The Makkah Joint Defence Agreement, Gulf Dynamics, and the Horn of Africa",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52268/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "A Pivotal Shift in Geopolitical Alignment The signing of the Makkah Joint Defence Agreement (the Mecca Agreement) by Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdoğan, and Pakistani Prime Minister Shehbaz Sharif marks a major strategic realignment across the Middle East "
+    },
+    {
+      "id": "n_746e6a8050",
+      "type": "news",
+      "title": "Ethiopia Counts Coffee at the Wrong End",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/08/ethiopia-counts-coffee-at-the-wrong-end/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-counts-coffee-at-the-wrong-end",
+      "date": "2026-08-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "On July 7, Prime Minister Abiy Ahmed told Parliament that Ethiopia had earned a record $3.1 billion from coffee exports. Six days later, the National Bank of Ethiopia reported that coffee export volume was down from the same period a year earlier. Both statements can be true. That is the problem. Fo"
+    },
+    {
+      "id": "n_34656c2f9c",
+      "type": "news",
+      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+      "date": "2026-08-14",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four."
+    },
+    {
+      "id": "n_1ea315db15",
+      "type": "news",
+      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+      "date": "2026-08-14",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government."
+    },
     {
       "id": "n_eb28ce249a",
       "type": "news",
@@ -4142,199 +4329,6 @@
         "African Union"
       ],
       "excerpt": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade."
-    },
-    {
-      "id": "n_2966b3d0f4",
-      "type": "news",
-      "title": "Former Somaliland President raise questions about Somaliland President’s Secret Embassy in Jerusalem",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/former-somaliland-president-raise-questions-aboutsomaliland-presidents-secret-embassy-in-jerusalem/",
-      "date": "2026-07-02",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Former Somaliland President, Mr. Muse Bihi Abdi, has responded Thursday a speech delivered by the incumbent Somaliland President, Mr. Abdirahman Mohamed Abdillahi Irro, stating that ex-President Bihi had previously claimed to have secured a recognition from countries, yet failed to produce any such "
-    },
-    {
-      "id": "n_eb7ca24389",
-      "type": "news",
-      "title": "27 Al-Shabaab members killed in airstrikes in Lower Shabelle.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/27-al-shabaab-members-killed-in-airstrikes-in-lower-shabelle/",
-      "date": "2026-07-02",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Airstrikes"
-      ],
-      "excerpt": "The Somali government on Thursday announced that at least 27 Al-Shabab members have been successfully eliminated in airstrikes that took place in settlements in Lower Shabelle region. The airstrikes were conducted on July 1st and 2nd according to the statement. In a statement released by the Ministr"
-    },
-    {
-      "id": "n_72f600e363",
-      "type": "news",
-      "title": "Somalia’s 2026 security impasse: The geography of an unwinnable war",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-impasse-2026/",
-      "date": "2026-07-02",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The war between Somalia&#8217;s government and the militant group Al-Shabaab has settled once again into a prolonged and fragile stalemate, after years of advances and reversals that have repeatedly reshaped &#8211; but not resolved &#8211; the conflict. According "
-    },
-    {
-      "id": "n_49a7f86103",
-      "type": "news",
-      "title": "Somaliland foreign ministry website hacked hours after cabinet approves Israel cooperation deal",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-foreign-ministry-website-hacked-israel-deal/",
-      "date": "2026-07-02",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Israel"
-      ],
-      "excerpt": "HARGEISA (Somaliguardian) &#8211; The website of Somaliland&#8217;s Ministry of Foreign Affairs was hacked on Wednesday by a group identifying itself as Cyber Islamic Resistance, hours after the breakaway region&#8217;s cabinet unanimously approved a package of cooperation agreements with Israel. Th"
-    },
-    {
-      "id": "n_2799155591",
-      "type": "news",
-      "title": "Somalia marks 66th Independence Day amid tight security and political divisions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-66th-independence-day-tight-security-political-divisions/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia marked its 66th Independence Day on Wednesday with military parades, heightened security and celebrations across the country, as President Hassan Sheikh Mohamud joined hundreds of residents in Mogadishu while opposition leaders used the occasion to raise co"
-    },
-    {
-      "id": "n_a5c37d748c",
-      "type": "news",
-      "title": "Turkey’s f-16 jets kill Al-Shabaab militants in Somalia air strikes, defense ministry says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-f16-jets-kill-al-shabaab-militants-somalia/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkish F-16 fighter jets carried out a series of air strikes against Al-Shabaab targets in southern Somalia on Tuesday, killing about 35 militants and wounding more than 20 others, Somali Defense Ministry said. The strikes, conducted in coordination with the Somal"
-    },
-    {
-      "id": "n_95ab5af9b0",
-      "type": "news",
-      "title": "Somalia election crisis: International partners launch final bid for government-opposition talks",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-election-crisis-international-partners-talks/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Elections",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s international partners have issued a final notification to the federal government and the opposition ahead of fresh talks aimed at breaking a prolonged political deadlock over upcoming elections and controversial constitutional changes, with negotiations "
-    },
-    {
-      "id": "n_f676029566",
-      "type": "news",
-      "title": "Jubaland Delegation visits liberated areas from Al-Shabab in Lower Jubba region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/jubaland-delegation-visits-liberated-areas-from-al-shabab-in-lower-jubba-region/",
-      "date": "2026-07-02",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Jubaland"
-      ],
-      "excerpt": "Members of Jubaland ministers paid an inspection visit to settlements in Lower Jubba region in which the Somali troops liberated these areas from the militant group of Al-Shabab. The delegation was led by Jubaland Minister of Security, General Yusuf Hussein Osman, and paid a visit to Biibi, Harboole"
-    },
-    {
-      "id": "n_2c09cf70d5",
-      "type": "news",
-      "title": "Puntland detains officers accused of recruiting troops in Garowe for the Federal Government.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-detains-officers-accused-of-recruiting-troops-in-garowe-for-the-federal-government/",
-      "date": "2026-07-02",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Danab",
-        "African Union",
-        "Puntland"
-      ],
-      "excerpt": "Puntland authorities in Somalia detained Thursday two Danab elite forces officers who are under the command of General Jimale, and are accused of being involved in the recruitment process of soldiers within Puntland territory, who will be trained for the Somali Federal Government. The two officers w"
-    },
-    {
-      "id": "n_a1274571c4",
-      "type": "news",
-      "title": "The Somali Future Council accuses the federal government of organizing militias in Puntland",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-somali-future-council-accuses-the-federal-government-of-organizing-militias-in-puntland/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "Military",
-        "Security",
-        "Puntland",
-        "Militia"
-      ],
-      "excerpt": "The Somali Future Council expressed deep concern in what it described that the military and security agencies are being used as a political tool against the Federal Member States, and opposition politicians, calling for an end to the measures, saying that they pose a threat to the stability in the c"
-    },
-    {
-      "id": "n_b55d60ba41",
-      "type": "news",
-      "title": "ISIS group destroyed the Telecommunication antenna in the Shebaab area of ​​Al-Miskaad with mortars",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/isis-group-destroyed-the-telecommunication-antenna-in-the-shebaab-area-of-al-miskaad-with-mortars/",
-      "date": "2026-07-01",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Puntland",
-        "Maritime"
-      ],
-      "excerpt": "Reports from Sheebaab area in Puntland’s Bari region say that the ISIS group launched mortar shells in the area, resulting the demolition of the telecommunication antenna belonging to Golis Telecom Company. Local sources from the area confirmed that the antenna was the most crucial telecommunication"
-    },
-    {
-      "id": "n_6d860f55e5",
-      "type": "news",
-      "title": "Somali Forces kill 35 members of Al-Shabaab in the Lower Shabelle region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-forces-kill-35-members-of-al-shabaab-in-the-lower-shabelle-region/",
-      "date": "2026-06-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Airstrikes"
-      ],
-      "excerpt": "The Somali National Army in close collaboration with the Turkish army, announced Tuesday that it carried out an airstrike in the Godey area in Lower Shabelle region, targeting an area where Al-Shabab members were based. According to a statement released by the Ministry of Defense of Somalia, at leas"
-    },
-    {
-      "id": "n_089c6209f8",
-      "type": "news",
-      "title": "From Libya to Ethiopia, Trump sides with Sudan’s genocidal RSF",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/423581/from-libya-to-ethiopia-trump-sides-with-sudans-genocidal-rsf/",
-      "date": "2026-07-02",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The US says it wants to be an honest broker in the Horn of Africa. Its actions tell a different story."
     }
   ],
   "articles": [
