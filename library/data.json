@@ -1,6 +1,229 @@
 {
-  "last_updated": "2026-08-15T06:32:55.512662+00:00",
+  "last_updated": "2026-08-16T06:34:53.555004+00:00",
   "news": [
+    {
+      "id": "n_a59ff738a4",
+      "type": "news",
+      "title": "Ruth Anne Stevens-Klitz appointed Deputy Chief of Mission at the U.S. Embassy in Mogadishu.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/ruth-anne-stevens-klitz-appointed-deputy-chief-of-mission-at-the-u-s-embassy-in-mogadishu/",
+      "date": "2026-08-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "The U.S. Government has officially appointed Ruth Anne Stevens-Klitz as the Deputy Chief of Mission of U.S. Embassy in Somalia, noting that she will commence operations directly in Mogadishu this August 2026. Stevens-Klitz, a long-serving U.S. diplomat, has over 25 years of experience, having held v"
+    },
+    {
+      "id": "n_549beaa585",
+      "type": "news",
+      "title": "Fighting between government forces and Al-Shabab enters second day in Lower Shabelle region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/fighting-between-government-forces-and-al-shabab-enters-second-day-in-lower-shabelle-region/",
+      "date": "2026-08-15",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Reports from the Lower Shabelle region indicate that the Somali National Army clashed with Al-Shabab militants yesterday and today on the outskirts of Mubaraak area in that region. On Friday, government forces launched a major attack on Al-Shabab militants that were regrouping in the village of Abli"
+    },
+    {
+      "id": "n_01509fd0b2",
+      "type": "news",
+      "title": "Somali President is currently visiting Galmudug regional state",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-president-is-currently-visiting-galmudug-regional-state/",
+      "date": "2026-08-15",
+      "region": "Somalia",
+      "tags": [
+        "Galmudug"
+      ],
+      "excerpt": "The incumbent President of the Somali Federal Government, Mr. Hassan Sheikh Mohamud is currently visiting Galmudug regional state. The Somali President began his visit yesterday afternoon in the city of Dhuusamareeb, the administrative seat of Galmudug state. He was warmly received by Galmudug regio"
+    },
+    {
+      "id": "n_c1147dc098",
+      "type": "news",
+      "title": "NISA Announces to have Eliminated nine Al-Shabaab members in a planned airstrike in Middle Shabelle region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-announces-to-have-eliminated-nine-al-shabaab-members-in-a-planned-airstrike-in-middle-shabelle-region/",
+      "date": "2026-08-15",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security",
+        "Airstrikes"
+      ],
+      "excerpt": "The Somali National Intelligence and Security Agency (NISA) in close collaboration with international partners carried out a planned airstrike that took place in the Warisse area, which lies 25 km from Jawhar city in Middle Shabelle province. The airstrike successfully eliminated 9 Al-Shabab militan"
+    },
+    {
+      "id": "n_194fe68795",
+      "type": "news",
+      "title": "National Dialogue Announces Consensus on Addis Ababa Question, Participants Await Refined Proposal",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52337/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "This week, the National Dialogue Commission disclosed that the forum in the capital is nearing its conclusion, as 4,000 participants drawn from all walks of life across the country come to a consensus on all eight major agendas tabled to the conference. Chief among them is the Addis Ababa question, "
+    },
+    {
+      "id": "n_8e8eaa1bcb",
+      "type": "news",
+      "title": "Less than 1 in Five Health Institutions Meet National Standards: Survey",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52322/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Over 82 percent of health institutions assessed in a new government survey failed to meet standards, with surveyors noting that compliance has dropped significantly over the past four years. The survey assessed adherence to the Ethiopian Health Institutions Standard, which is jointly enforced by the"
+    },
+    {
+      "id": "n_68990adbe0",
+      "type": "news",
+      "title": "Ethiopia’s Nominal GDP Dropped by USD 50bln after Floating: EU Chamber Report",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52319/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Forecasts single-digit inflation ambitions out of reach this year A new report from the European Union Delegation to Ethiopia paints a detailed picture of the nation&#8217;s post-floating economy, revealing a dramatic USD 50 billion drop in nominal Gross Domestic Product alongside high underlying gr"
+    },
+    {
+      "id": "n_855c41b421",
+      "type": "news",
+      "title": "Ethiopia to Seek USD 13bln in World Bank Financing in Coming Decade",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52316/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Current World Bank portfolio sits at USD 16 billion Ethiopia is set to seek an indicative USD 13.4 billion in World Bank IDA financing over the next decade under a new Country Partnership Framework, with access to the financing tied to the country’s reform progress, performance, implementation capac"
+    },
+    {
+      "id": "n_776d3288af",
+      "type": "news",
+      "title": "Saudi Deportations Double as Migrant Protection Concerns Mount",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52313/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The Kingdom of Saudi Arabia deported 26,400 Ethiopians over the first three months of 2026, more than doubling the number recorded during the same period last year as concerns continue to mount over the safety and treatment of Ethiopian migrants along the route to the Gulf country. A report from the"
+    },
+    {
+      "id": "n_2ff3d8e017",
+      "type": "news",
+      "title": "A War Ethiopia Cannot Afford to Lose",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52309/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "On August 6, the Government Communication Service (GCS) laid out, in granular detail, the scale of Ethiopia&#8217;s latest offensive against corruption and organized economic crime. Briefing the press, its head described operations spanning trade, finance, mining, fuel, agriculture, energy, labor mi"
+    },
+    {
+      "id": "n_fc11b3fdf4",
+      "type": "news",
+      "title": "Over 80 Percent of Health Facilities in Conflict-Affected African Regions Crippled, New Report Reveals",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52306/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "A newly released joint report by the Institute for Peace and Security Studies (IPSS) and the United Nations Population Fund (UNFPA) reveals that up to 80 percent of health facilities in conflict-affected areas across Africa have been rendered non-operational due to widespread infrastructural destruc"
+    },
+    {
+      "id": "n_f883fea612",
+      "type": "news",
+      "title": "EU Rights Report Calls Out Stalled Transitional Justice Process",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52303/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Maritime"
+      ],
+      "excerpt": "The European Union highlights conflict-related abuses and humanitarian restrictions linked to the continued presence of Eritrean forces in northern Ethiopia as major concerns, while reporting that Ethiopia’s transitional justice process has stalled despite the government’s approval of a national pol"
+    },
+    {
+      "id": "n_5b582958af",
+      "type": "news",
+      "title": "Women Receive Less than 18pct of Ethiopia’s Traditional Bank Credit Value Despite Nearing Borrower Target",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52300/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Women in Ethiopia account for nearly three in every 10 traditional bank loans, but receive only 17.3 percent of the total value of such credit, highlighting a persistent gap in the depth of financing available to female borrowers, according to a recent report by the National Bank of Ethiopia (NBE). "
+    },
+    {
+      "id": "n_63e8ff9384",
+      "type": "news",
+      "title": "When the fever wouldn’t break: Inside Gambella’s resurgent malaria crisis",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52296/",
+      "date": "2026-08-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "In Kule Refugee Camp, one mother’s illness exposes the gaps threatening Ethiopia’s fight against a resurgent disease. For nearly two days, Hiwot Debebe waited for the fever to disappear. The mother of two, who lives in Kule Refugee Camp about 70 kilometres west of Gambella City, had rarely needed ho"
+    },
+    {
+      "id": "n_ed2896c9bd",
+      "type": "news",
+      "title": "Yemeni government forces hit back after new Houthi offensive",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+      "date": "2026-08-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls."
+    },
+    {
+      "id": "n_4fe6f76b77",
+      "type": "news",
+      "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+      "date": "2026-08-15",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Yemen&#039;s Ministry of Information denounces attacks on Marib as &#039;escalation&#039; that threatens lives and increases suffering."
+    },
     {
       "id": "n_4d6bf65278",
       "type": "news",
@@ -4096,239 +4319,6 @@
         "Ethiopia"
       ],
       "excerpt": "The Ethiopian Human Rights Council (EHRCO) released a statement on July 2, 2026, accusing government armed forces of committing human rights violations against residents in the Zayse Woreda of the South Ethiopia Regional State. The rights organization stated that armed forces conducted attacks betwe"
-    },
-    {
-      "id": "n_7d3fff9a27",
-      "type": "news",
-      "title": "Somalia’s president slams Israel as an ‘evil’, war-mongering state",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-slams-israel-evil-war-mongering-state/",
-      "date": "2026-07-06",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Israel",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud has strongly condemned Israel and urged Somalis to reject any normalization of relations with the country, using a July 1 Independence Day address to criticize Somaliland&#8217;s efforts to deepen ties with Israel and"
-    },
-    {
-      "id": "n_d842ca219c",
-      "type": "news",
-      "title": "Somalia: Puntland bans Turkish fishing firm SOMTURK",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-bans-turkish-fishing-firm-somturk/",
-      "date": "2026-07-05",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland has banned Turkish commercial fishing company SOMTURK from operating in waters under its jurisdiction, the latest flashpoint in an escalating dispute with Somalia&#8217;s federal government that has increasingly extended beyond politics and security into t"
-    },
-    {
-      "id": "n_bcf6f8de52",
-      "type": "news",
-      "title": "Somaliland Police to Enforce New Media Restrictions, Warn Unlicensed Journalists Against Recordings",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-police-to-enforce-new-media-restrictions-warn-unlicensed-journalists-against-recordings/",
-      "date": "2026-07-06",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The Somaliland Police Force has announced that it will begin enforcing newly issued directives from the Somaliland Ministry of Information aimed at regulating media activity and restricting unauthorized recording in public places, including markets. Police spokesperson  Lieutenant Colonel Abdiasiis "
-    },
-    {
-      "id": "n_4b9a5761f2",
-      "type": "news",
-      "title": "Troops remove Al-Shabaab from a key area in Galmudug.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/troops-remove-al-shabaab-from-a-key-area-in-galmudug/",
-      "date": "2026-07-06",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Galmudug"
-      ],
-      "excerpt": "Civilian Protection Forces in Galgudud province in collaboration with Ahlu Sunna troops in Central provinces, particularly those stationed in Bahdo District, who are organized in combating against Al-Shabab militants successfully took control of Xinlabi settlement in Mudug province on Sunday afterno"
-    },
-    {
-      "id": "n_61f9684f67",
-      "type": "news",
-      "title": "Two members of Al-Shabaab surrender to the Somali National Army.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/two-members-of-al-shabaab-surrender-to-the-somali-national-army/",
-      "date": "2026-07-06",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Maritime"
-      ],
-      "excerpt": "Two members belonging to the al-Qaeda-affiliated terrorist group, Al-Shabab surrendered to the Somali National Army, specifically the 54th Unit, 5th Brigade and the 27th Division, that is based in Waabweyn area in Hiiraan region, as reported by the Radio of the Somali National Army. The two members "
-    },
-    {
-      "id": "n_00e5fd17a1",
-      "type": "news",
-      "title": "Puntland bans the activities of the Turkish company “SOMTURK” from its coasts",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-bans-the-activities-of-the-turkish-company-somturk-from-its-coasts/",
-      "date": "2026-07-05",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Security",
-        "Puntland"
-      ],
-      "excerpt": "Puntland authority in Somalia has officially banned Turkish Company SOMTURK from conducting any fishing activities, coastal security operations or any related tasks within its territorial waters. Puntland Presidency released a statement, asserting that its decision falls within the scope of its full"
-    },
-    {
-      "id": "n_f3146ef7f0",
-      "type": "news",
-      "title": "Somali troops Kill 15 Al-Shabaab members in an operation in Lower Shabelle region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-troops-kill-15-al-shabaab-members-in-an-operation-in-lower-shabelle-region/",
-      "date": "2026-07-05",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Danab",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "The Somali National Army, specifically-the elite special force trained for counterterrorism operations-Danab Commandos reportedly carried out a planned security operation in Farsooley area in Lower Shabelle region, targeting members of the militant group of Al-Shabab. According to the statement, 15 "
-    },
-    {
-      "id": "n_422f05ab70",
-      "type": "news",
-      "title": "Ethiopia’s $464m IMF lifeline lands as inflation rebound tests central bank’s resolve",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/424078/ethiopias-464m-imf-lifeline-lands-as-inflation-rebound-tests-central-banks-resolve/",
-      "date": "2026-07-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The disbursement confirms Addis Ababa cleared the International Monetary Fund’s fifth review. The test facing the National Bank of Ethiopia is whether a war-driven price spike can be contained before it unravels three years of disinflation gains."
-    },
-    {
-      "id": "n_5bf4e18624",
-      "type": "news",
-      "title": "Al-Shabaab patrols Mogadishu outskirts at night as Somalia’s government touts improved security",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-mogadishu-outskirts-night-patrols-somalia-security/",
-      "date": "2026-07-04",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Residents on the western outskirts of Mogadishu say heavily armed Al-Shabaab militants have been openly patrolling populated neighborhoods after sunset in recent nights, raising fresh security concerns despite repeated claims by Somalia&#8217;s federal government t"
-    },
-    {
-      "id": "n_99e78f61a3",
-      "type": "news",
-      "title": "Eight members, including Al-Shabaab commanders, were killed in an operation on the outskirts of Basra.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/eight-members-including-al-shabaab-commanders-were-killed-in-an-operation-on-the-outskirts-of-basra/",
-      "date": "2026-07-04",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security"
-      ],
-      "excerpt": "The National Intelligence and Security Agency (NISA) said that it successfully eliminated at least eight Al-Shabab members including senior commanders after conducting a planned operation that took place on the outskirts of Basra area in Lower Shabelle region. According to a statement released by th"
-    },
-    {
-      "id": "n_5e3d8a13d5",
-      "type": "news",
-      "title": "AU peacekeeping mission in Somalia at risk of collapse as US ends key UN support",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/au-peacekeeping-mission-somalia-us-ends-un-support/",
-      "date": "2026-07-04",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "MOAGDISHU (Somaliguardian) &#8211; The United States has informed the African Union that it will end its support for United Nations logistical assistance to the African Union peacekeeping mission in Somalia from next year, a decision that officials and diplomats warn could threaten the future of the"
-    },
-    {
-      "id": "n_c782011074",
-      "type": "news",
-      "title": "Somalilandsun:OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandsunogeysiiska-digniinta-astaanta-ganacsiga/",
-      "date": "2026-07-04",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay shirkadda KHONG GUAN VEGETABLE OIL REFINERY SDN. BERHAD, oo xarunteedu tahay 4825, Jalan Permatang Pauh, 13400 Butterworth, Penang, Malaysia, isla mark"
-    },
-    {
-      "id": "n_958bcf36bd",
-      "type": "news",
-      "title": "Somalia, Italy sign an agreement to strengthen police training.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-italy-sign-an-agreement-to-strengthen-police-training/",
-      "date": "2026-07-04",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "On Saturday, the governments of Italy and Somalia signed a Memorandum of Understanding (MOU) regarding police force training cooperation, a move that both sides described as strengthening security cooperation and the development of law enforcement agencies. The agreement has been officially ratified"
-    },
-    {
-      "id": "n_647539f73f",
-      "type": "news",
-      "title": "Bishoftu Airport and Ethiopian Airlines’ reach for the skies to become Africa’s largest hub",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/423934/bishoftu-airport-and-ethiopian-airlines-reach-for-the-skies-to-become-africas-largest-hub/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Once it is complete, Ethiopia’s $12.7bn giant airport hub will overtake Atlanta in passenger numbers – a goal linked to the expansion of the continent’s leading airline."
-    },
-    {
-      "id": "n_5a42137c90",
-      "type": "news",
-      "title": "Will Abiy Ahmed be Ethiopia’s Bismarck or its Mandela?",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/07/will-abiy-ahmed-be-ethiopias-bismarck-or-its-mandela/?utm_source=rss&utm_medium=rss&utm_campaign=will-abiy-ahmed-be-ethiopias-bismarck-or-its-mandela",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Africa has long served as fertile ground for distinctive forms of leadership to emerge. Figures such as Nelson Mandela, Kwame Nkrumah, Haile Selassie, and Julius Nyerere, among others, represent the “Mount Rushmore” of African leadership, having left an enduring imprint on the continent’s history an"
-    },
-    {
-      "id": "n_54cae21f0a",
-      "type": "news",
-      "title": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss",
-      "date": "2026-07-04",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade."
     }
   ],
   "articles": [
