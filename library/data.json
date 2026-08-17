@@ -1,6 +1,95 @@
 {
-  "last_updated": "2026-08-16T06:34:53.555004+00:00",
+  "last_updated": "2026-08-17T06:49:21.875320+00:00",
   "news": [
+    {
+      "id": "n_58a9ea2b59",
+      "type": "news",
+      "title": "Somalia’s army graduates 3,000 troops in largest class since 1991 collapse",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-army-graduates-3000-troops-largest-class-since-1991/",
+      "date": "2026-08-16",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s national army marked its largest single graduation of security forces since the collapse of the central government in 1991, as roughly 3,000 newly trained soldiers passed out on Sunday in the central region of Galgadud under a Saudi-funded training "
+    },
+    {
+      "id": "n_72f8314b27",
+      "type": "news",
+      "title": "Somalis burn Turkish flag as resentment grows over Ankara airstrikes",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalis-burn-turkish-flag-ankara-airstrikes-resentment/",
+      "date": "2026-08-16",
+      "region": "Somalia",
+      "tags": [
+        "Airstrikes",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A video circulating on social media this week shows Somalis in the country&#8217;s Southwest state setting fire to the Turkish flag while holding aloft the state&#8217;s own banner, a striking act of defiance that captures a rapid souring of public sentiment toward"
+    },
+    {
+      "id": "n_c782011074",
+      "type": "news",
+      "title": "Somalilandsun:OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandsunogeysiiska-digniinta-astaanta-ganacsiga/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay shirkadda KHONG GUAN VEGETABLE OIL REFINERY SDN. BERHAD, oo xarunteedu tahay 4825, Jalan Permatang Pauh, 13400 Butterworth, Penang, Malaysia, isla mark"
+    },
+    {
+      "id": "n_66be98983c",
+      "type": "news",
+      "title": "NISA kills three senior Al-Shabab commanders in airstrike in Hiiraan region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-kills-three-senior-al-shabab-commanders-in-airstrike-in-hiiraan-region/",
+      "date": "2026-08-16",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Airstrikes"
+      ],
+      "excerpt": "Forces of Somalia’s National Intelligence and Security Agency (NISA) in close collaboration with international partners carried out a planned security airstrike that took place in the Tardo area in the Hiiraan region. The airstrike successfully eliminated three senior Al-Shabab commanders and five o"
+    },
+    {
+      "id": "n_285b9afe44",
+      "type": "news",
+      "title": "NISA Eliminates three senior Al-Shabaab commanders in an operation.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-eliminates-three-senior-al-shabaab-commanders-in-an-operation/",
+      "date": "2026-08-16",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "African Union",
+        "Security",
+        "Airstrikes"
+      ],
+      "excerpt": "Somali National Intelligence and Security Agency (NISA) in collaboration with international partners carried out an airstrike that took place in Mahaas District in Hiiraan region on August 12, 2026. The airstrike specifically targeted a house where senior Al-Shabab commanders were present. It succes"
+    },
+    {
+      "id": "n_8d77ccde8e",
+      "type": "news",
+      "title": "Yemeni government claims attacks on Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-claims-attacks-houthis",
+      "date": "2026-08-17",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Yemeni government claims attacks on Houthis\n\n    \n    \n\n        \n    \n                Yemen's&nbsp;internationally recognised government said it launched artillery attacks against the Houthis in the northern al-Jawf Governorate.\n\nIn a post on X, the Yemeni Saudi-backed forces said they&nbsp;targeted"
+    },
     {
       "id": "n_a59ff738a4",
       "type": "news",
@@ -4236,89 +4325,6 @@
         "Maritime"
       ],
       "excerpt": "EU tightens visa rules for Somali nationals The United States Mission to the African Union (USAU) says Washington intends to withhold support from the continuation of United Nations logistical and operational support for the African Union Support and Stabilization Mission in Somalia (AUSSOM) beyond "
-    },
-    {
-      "id": "n_82cddb7acc",
-      "type": "news",
-      "title": "Biodiversity Institute Says Long-idle Benefit Fund to Reach Communities after Audit Exposed Delays",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51691/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The Ethiopian Biodiversity Institute (EBI) says a fund generated from companies accessing Ethiopia’s genetic resources, which has remained largely unused for about 15 years, will finally be directed toward community development and biodiversity conservation after a federal audit exposed delays in it"
-    },
-    {
-      "id": "n_b5fbc71abd",
-      "type": "news",
-      "title": "Fighting Inflation Requires More Than Tight Monetary Policy",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51688/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The International Monetary Fund (IMF) Executive Board recently completed its fifth review of Ethiopia’s 48-month, USD 3.4 billion Extended Credit Facility (ECF) program, greenlighting an immediate disbursement of approximately $464 million while providing an additional USD 200 million to help the co"
-    },
-    {
-      "id": "n_8d1ce68a70",
-      "type": "news",
-      "title": "EU Assessment Spotlights Missed Opportunity, Overdependence in Ethiopian Coffee Trade",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51685/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Europe generated more than half a trillion euro in economic output and 251.5 billion euro in Gross Value Added (GVA) from its coffee sector in 2025 despite producing virtually no coffee itself and while Ethiopia continues to export predominantly unprocessed green beans, a new assessment reveals. The"
-    },
-    {
-      "id": "n_43c031fc33",
-      "type": "news",
-      "title": "Ethiopia Omitted from Global Food Crisis Report as Lack of Data Clouds Hunger Assessment",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51682/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Ethiopia has been omitted from the latest Global Report on Food Crises (GRFC) after failing to provide acute food insecurity data that met the report’s technical requirements, raising questions about the country’s ability to accurately assess the scale of hunger and inform humanitarian responses. Th"
-    },
-    {
-      "id": "n_95811b6f31",
-      "type": "news",
-      "title": "CBE Dominates Digital Transactions, Deposit Mobilization: Bank Report",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51679/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Awash posts 40.7bln Birr in revenue The dominance of the Commercial Bank of Ethiopia (CBE) extends into the country’s evolving digital finance landscape, with the state-owned bank controlling 70 percent of market share, according to a report presented by bank President Abe Sano this week. CBE facili"
-    },
-    {
-      "id": "n_2d79e70f83",
-      "type": "news",
-      "title": "EHRCO Accuses Gov’t Forces of Abuses in South Ethiopia, Demands Accountability",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51676/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Ethiopian Human Rights Council (EHRCO) released a statement on July 2, 2026, accusing government armed forces of committing human rights violations against residents in the Zayse Woreda of the South Ethiopia Regional State. The rights organization stated that armed forces conducted attacks betwe"
     }
   ],
   "articles": [
