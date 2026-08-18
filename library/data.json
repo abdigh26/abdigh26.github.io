@@ -1,6 +1,119 @@
 {
-  "last_updated": "2026-08-17T06:49:21.875320+00:00",
+  "last_updated": "2026-08-18T06:37:56.787984+00:00",
   "news": [
+    {
+      "id": "n_1fdb9ccd51",
+      "type": "news",
+      "title": "Somalia president calls for AU peacekeepers to leave",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-calls-au-peacekeepers-leave/",
+      "date": "2026-08-17",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; President Hassan Sheikh Mohamud declared on Sunday that Somalia no longer needs foreign peacekeepers to guarantee its own security, telling African Union troops it was time to go home even as the continental mission they serve in faces the most serious funding cris"
+    },
+    {
+      "id": "n_464510368c",
+      "type": "news",
+      "title": "Deadly clashes rock Baidoa as Somalia army battles forces loyal to ousted Southwest leader",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-clashes-army-laftagaren-forces/",
+      "date": "2026-08-17",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Fierce clashes erupted Monday in Baidoa, the interim capital of Somalia&#8217;s Southwest state, between federal government troops and forces loyal to ousted regional leader Abdiaziz Laftagaren, whose spokesman claimed his fighters had entered parts of the city in "
+    },
+    {
+      "id": "n_a45d36258c",
+      "type": "news",
+      "title": "Somali Government Announces that its forces kill nearly 30 Al-Shabaab members in the city of Baidoa.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-government-announces-that-its-forces-kill-nearly-30-al-shabaab-members-in-the-city-of-baidoa/",
+      "date": "2026-08-17",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab"
+      ],
+      "excerpt": "Intense clashes ensued between Somali government forces and forces loyal to the former ousted Southwest State President, Mr. Abdiasis Hassan Mohamed known as Laftagaren. The heavy fighting erupted early on Monday morning on the outskirts of Baidoa and parts of villages in Bay’s provincial capital. R"
+    },
+    {
+      "id": "n_e5118ccdce",
+      "type": "news",
+      "title": "Somaliland criticizes the visit of UN delegation to Las Anod",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-criticizes-the-visit-of-un-delegation-to-las-anod/",
+      "date": "2026-08-17",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia"
+      ],
+      "excerpt": "Somaliland’s Ministry of Foreign Affairs and International Cooperation has said that it received the news that a senior delegation led by the UN Deputy Special Representative to Somalia, Mr. George Conway, visited Las Anod, with the Somaliland government noting that visits of this nature follow mutu"
+    },
+    {
+      "id": "n_ee8638e216",
+      "type": "news",
+      "title": "Viksit Bharat 2047: A Roadmap To Become A Developed Nation",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52367/",
+      "date": "2026-08-17",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "By Mohan Kumar (PhD) It is creditable that the Government of India has set for itself and the nation a crucial goal: That India should become Viksit Bharat by 2047, which would be the one hundredth year anniversary of India’s independence. While there is general agreement that the term Viksit Bharat"
+    },
+    {
+      "id": "n_c8cef000a8",
+      "type": "news",
+      "title": "Yemen’s armed forces say 133 operations carried out against Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-armed-forces-say-133-operations-carried-out-against-houthis",
+      "date": "2026-08-18",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Military"
+      ],
+      "excerpt": "Yemen’s armed forces say 133 operations carried out against Houthis\n\n    \n    \n\n        \n    \n                Yemen’s armed forces announced that they carried out&nbsp;133 military operations against Houthis over the past day.\n\nIn a post on X,&nbsp;spokesperson Majed al-Nuzaili said that troops used"
+    },
+    {
+      "id": "n_5d24e4076e",
+      "type": "news",
+      "title": "Woman, child injured in Houthi shelling Yemen’s al-Dhale",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/woman-child-injured-houthi-shelling-yemens-al-dhale",
+      "date": "2026-08-17",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Woman, child injured in Houthi shelling Yemen’s al-Dhale\n\n    \n    \n\n        \n    \n                A woman and a child have been injured after the Houthis shelled southwestern Yemen’s Al-Dhale governorate, according to Yemen’s state-run Saba News Agency.\n\nThe report quoted local sources as saying th"
+    },
+    {
+      "id": "n_735e857254",
+      "type": "news",
+      "title": "US envoy backs Yemen government’s fight against Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-envoy-backs-yemen-governments-fight-against-houthis",
+      "date": "2026-08-17",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "US envoy backs Yemen government’s fight against Houthis\n\n    \n    \n\n        \n    \n                Neil Hope, the Chargé d’Affaires of the US embassy in Yemen, signalled his support for the Saudi-backed Yemeni government’s fight against the Houthis in a meeting with the vice president of the Presiden"
+    },
     {
       "id": "n_58a9ea2b59",
       "type": "news",
@@ -4210,121 +4323,6 @@
         "Tigray"
       ],
       "excerpt": "Protracted conflict in Tigray, Amhara, Oromia, Gambella, and other parts of the country is inflicting a heavy toll on public safety and national stability, Desalegn Chane (PhD), opposition leader and outgoing MP, said today as the Prime Minister appeared before Parliament to answer questions from la"
-    },
-    {
-      "id": "n_7d9f6341c3",
-      "type": "news",
-      "title": "AU and Russia Deepen Ties Ahead of Moscow Summit",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51728/",
-      "date": "2026-07-07",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Security",
-        "Governance"
-      ],
-      "excerpt": "The African Union (AU) and Russia have agreed to institutionalize annual high-level political consultations, pledging closer cooperation on security, trade, and global governance ahead of the third Russia–Africa Summit this October in Moscow. The commitment follows high-level talks at the AU Commiss"
-    },
-    {
-      "id": "n_43cdc66901",
-      "type": "news",
-      "title": "“ENDF Ready to Defend Ethiopia”: Prime Minister",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51725/",
-      "date": "2026-07-07",
-      "region": "Ethiopia",
-      "tags": [
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "Prime Minister Abiy Ahmed (PhD) told lawmakers today the Ethiopian National Defense Force (ENDF) is capable of defending Ethiopia’s sovereignty from internal and external threats. “We know our foreign enemies,” said Abiy, also accusing the TPLF of conspiring with external actors. The PM said TPLF is"
-    },
-    {
-      "id": "n_e5b2576a7d",
-      "type": "news",
-      "title": "PM Says Ruling Party Prioritized Inclusive Governance Despite Landslide Election Victory",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51723/",
-      "date": "2026-07-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Elections",
-        "Governance"
-      ],
-      "excerpt": "The incumbent Prosperity Party intentionally did not field candidates in 15 percent of Ethiopia’s electoral constituencies for last month’s elections in a bid to encourage wider opposition participation in governance, according to Prime Minister Abiy Ahmed (PhD). He told lawmakers the ruling party o"
-    },
-    {
-      "id": "n_5cefed06f4",
-      "type": "news",
-      "title": "Somali Defense Minister Says Only Two Parties Compete for Somalia: Al-Shabaab and JSP",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-defense-minister-al-shabaab-jsp-parties/",
-      "date": "2026-07-07",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s Defense Minister Ahmed Moalim Fiqi has drawn criticism after saying that only two parties are competing for control of the country &#8211; Al-Shabaab and the ruling Justice and Solidarity Party (JSP) &#8211; in remarks that a prominent regional poli"
-    },
-    {
-      "id": "n_507bf4001e",
-      "type": "news",
-      "title": "Forex Inflow Tops USD 38bln, Says PM",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51721/",
-      "date": "2026-07-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Over USD 38 billion flowed into Ethiopia over the past 12 months, according to the Prime Minister, who praised his administration’s economic reforms before Parliament today. Exports generated USD 11 billion in revenue, with gold and coffee together accounting for USD 8.7 billion, according to the PM"
-    },
-    {
-      "id": "n_8981a52e9f",
-      "type": "news",
-      "title": "Ethiopia Set for USD 295mln New Development Bank Buy-In",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51700/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Parliament set to approve membership following Council of Ministers endorsement Ethiopia will purchase 2,945 shares in the BRICS New Development Bank (NDB) at a par value 100,000 USD per share pending parliamentary approval of a proclamation that would make the country an official member of the NDB."
-    },
-    {
-      "id": "n_f72711997e",
-      "type": "news",
-      "title": "Education Ministry Lays out Requirements for University Autonomy",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51697/",
-      "date": "2026-07-04",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Institutions with unqualified audit reports ineligible Education Minister Berhanu Nega (PhD) has rolled out a new directive outlining stringent requirements for public universities seeking a transition into autonomy. The ‘Directive to Determine the Requirements and Criteria Expected of Public Univer"
-    },
-    {
-      "id": "n_e3e9fe965c",
-      "type": "news",
-      "title": "Washington Pushes to End UN Support in Somalia",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51694/",
-      "date": "2026-07-04",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "EU tightens visa rules for Somali nationals The United States Mission to the African Union (USAU) says Washington intends to withhold support from the continuation of United Nations logistical and operational support for the African Union Support and Stabilization Mission in Somalia (AUSSOM) beyond "
     }
   ],
   "articles": [
