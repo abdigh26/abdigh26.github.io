@@ -1,6 +1,80 @@
 {
-  "last_updated": "2026-08-18T06:37:56.787984+00:00",
+  "last_updated": "2026-08-19T06:38:30.161002+00:00",
   "news": [
+    {
+      "id": "n_07b99dae47",
+      "type": "news",
+      "title": "Somalia ex-president blames govt for Baidoa bloodshed that left 30 dead",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-president-blames-govt-baidoa-bloodshed-30-dead/",
+      "date": "2026-08-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former President Sharif Sheikh Ahmed on Tuesday placed sole responsibility for the deadly fighting in Baidoa on the federal government of President Hassan Sheikh Mohamud, arguing that the violence was the direct consequence of a change of power impo"
+    },
+    {
+      "id": "n_4cad65c550",
+      "type": "news",
+      "title": "Somalia: Drone strike kills four pirates day after ship hijacking",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-drone-strike-mv-lutuf-hijacking/",
+      "date": "2026-08-18",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A drone strike killed four suspected Somali pirates near Garmaal on Puntland&#8217;s Nugaal coast on Tuesday, a day after gunmen hijacked the Cameroon-flagged cargo vessel MV Lutuf off Somalia&#8217;s northeastern coast, Daily Somalia reported on Tuesday. The gener"
+    },
+    {
+      "id": "n_eee052e8d9",
+      "type": "news",
+      "title": "Defying Puntland warning, Somalia’s president visits Galkayo",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-defies-puntland-warning-visits-galkayo/",
+      "date": "2026-08-18",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Mogadishu",
+        "Galmudug"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud arrived Monday in the southern, Galmudug-administered half of Galkayo, a city still bearing the tension of recent fighting, as Puntland President Saeed Abdullahi Deni remained stationed in the northern half under his "
+    },
+    {
+      "id": "n_30e7b85a81",
+      "type": "news",
+      "title": "NASA-Funded Study Reveals Sharp Black Carbon Levels in Addis Ababa",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52371/",
+      "date": "2026-08-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "A newly published study supported by NASA has provided one of the most comprehensive perispectives into air quality in Ethiopia’s capital, revealing that average levels of black carbon(fine soot) are four to nine times higher in Addis Ababa than in monitored US metropolitan areas like Los Angeles, A"
+    },
+    {
+      "id": "n_48c7128db9",
+      "type": "news",
+      "title": "Ethiopia accused of drone strike near Tigray capital",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/427967/ethiopia-accused-of-drone-strike-near-tigray-capital/",
+      "date": "2026-08-18",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Mid-morning attack near Mekelle marks escalation after months of clashes and air strikes around the region’s borders."
+    },
     {
       "id": "n_1fdb9ccd51",
       "type": "news",
@@ -4250,79 +4324,6 @@
         "Piracy"
       ],
       "excerpt": "43 Somali Nationals, who are allegedly accused of their involvement in piracy activities have admitted the crimes before they appeared a court in Mumbai, India, further requesting leniency regarding the sentences that will be imposed upon them. The defendants are among 44 people that India’s coastgu"
-    },
-    {
-      "id": "n_3cab10d63f",
-      "type": "news",
-      "title": "Ethiopia: 10 things to know about TPLF’s Fetlework Gebregziabher",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/424043/ethiopia-10-things-to-know-about-tplfs-fetlework-gebregziabher/",
-      "date": "2026-07-09",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "She built her name in the bush. Ethiopian Prime Minister Abiy Ahmed appointed her a minister, then took the post away from her, and now Fetlework Gebregziabher, aka Monjorino, stands as the loudest voice accusing Addis Ababa of moving troops toward eastern Tigray."
-    },
-    {
-      "id": "n_1b63e4eac3",
-      "type": "news",
-      "title": "Somalia opposition made ‘serious mistake’ by accepting Turkey’s deputy intelligence chief as mediator, Senator Samatar says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-turkey-deputy-intelligence-chief-mediator-samatar/",
-      "date": "2026-07-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Prominent Somali senator and scholar Abdi Ismail Samatar on Tuesday criticized Somalia&#8217;s political opposition for allowing Turkey&#8217;s deputy intelligence chief to mediate talks with the federal government in Mogadishu, calling the decision a &#8220;seriou"
-    },
-    {
-      "id": "n_d199ab7806",
-      "type": "news",
-      "title": "Iran strikes US bases in Bahrain, Kuwait as Hormuz ceasefire collapses",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/world/iran-strikes-us-bases-bahrain-kuwait-hormuz-ceasefire-collapses/",
-      "date": "2026-07-08",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Military",
-        "Airstrikes"
-      ],
-      "excerpt": "TEHRAN (Somaliguardian) &#8211; Iran&#8217;s Revolutionary Guard announced on Wednesday that it had struck United States military installations in Bahrain and Kuwait, hours after Washington launched a fresh round of airstrikes against Iranian territory — a rapid escalation that has pushed the fragil"
-    },
-    {
-      "id": "n_a7f35b4b6c",
-      "type": "news",
-      "title": "Turkey holds Somalia government-opposition pre-talks as Puntland, Jubaland boycott ahead of key negotiations",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-somalia-opposition-talks-puntland-jubaland-boycott/",
-      "date": "2026-07-07",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Puntland",
-        "Jubaland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkish intelligence officials held preliminary talks on Tuesday with representatives of Somalia&#8217;s federal government and opposition leaders ahead of internationally mediated negotiations scheduled for Thursday, but delegates from Puntland and Jubaland boycot"
-    },
-    {
-      "id": "n_42b24df50a",
-      "type": "news",
-      "title": "Outgoing Opposition MP Decries Unresolved Conflicts, Unbearable Cost of Living",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51731/",
-      "date": "2026-07-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray"
-      ],
-      "excerpt": "Protracted conflict in Tigray, Amhara, Oromia, Gambella, and other parts of the country is inflicting a heavy toll on public safety and national stability, Desalegn Chane (PhD), opposition leader and outgoing MP, said today as the Prime Minister appeared before Parliament to answer questions from la"
     }
   ],
   "articles": [
