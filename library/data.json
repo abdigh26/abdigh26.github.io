@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-19T06:38:30.161002+00:00",
+  "last_updated": "2026-08-20T06:40:36.336013+00:00",
   "news": [
+    {
+      "id": "n_bfe1ba8fa7",
+      "type": "news",
+      "title": "Fano’s fight for survival has gridlocked Abiy Ahmed’s government in Ethiopia",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/428024/fanos-fight-for-survival-has-gridlocked-abiy-ahmeds-government-in-ethiopia/",
+      "date": "2026-08-19",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A member of the Amhara central command argues that only political change in Addis Ababa can restore peace and stability in the country and the wider region."
+    },
     {
       "id": "n_07b99dae47",
       "type": "news",
@@ -4311,19 +4324,6 @@
         "Somalia"
       ],
       "excerpt": "Turkish mediation team is expected to hold separate meetings with technical committees representing the Somali Federal Government and the opposition before officially resuming face-to-face dialogue spearheaded by Western representatives. These meetings came after diplomatic efforts were made in orde"
-    },
-    {
-      "id": "n_4dff1d6b7b",
-      "type": "news",
-      "title": "43 Somali Nationals accused of piracy pleaded guilty to the charges against them in a Mumbai court.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/43-somali-nationals-accused-of-piracy-pleaded-guilty-to-the-charges-against-them-in-a-mumbai-court/",
-      "date": "2026-07-07",
-      "region": "Somalia",
-      "tags": [
-        "Piracy"
-      ],
-      "excerpt": "43 Somali Nationals, who are allegedly accused of their involvement in piracy activities have admitted the crimes before they appeared a court in Mumbai, India, further requesting leniency regarding the sentences that will be imposed upon them. The defendants are among 44 people that India’s coastgu"
     }
   ],
   "articles": [
