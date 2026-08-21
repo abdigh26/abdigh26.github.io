@@ -1,6 +1,105 @@
 {
-  "last_updated": "2026-08-20T06:40:36.336013+00:00",
+  "last_updated": "2026-08-21T06:40:35.143739+00:00",
   "news": [
+    {
+      "id": "n_58597e219e",
+      "type": "news",
+      "title": "Somalia ex-FM accuses Turkey of Puntland ‘massacre’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-fm-accuses-turkey-puntland-massacre/",
+      "date": "2026-08-20",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former Foreign Affairs Minister, Abdisaed Muse Ali, accused Turkey on Thursday of carrying out a &#8220;massacre&#8221; of Somali nationals on Puntland&#8217;s coast, escalating a row over a drone strike that killed four suspected pirates near Garma"
+    },
+    {
+      "id": "n_45e544af06",
+      "type": "news",
+      "title": "Al-Shabab militants set ablaze 10 vehicles transporting charcoal in Lower Shabelle region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shabab-militants-set-ablaze-10-vehicles-transporting-charcoal-in-lower-shabelle-region/",
+      "date": "2026-08-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "On Wednesday, Al-Shabab militants intercepted and burned 10 commercial vehicles transporting charcoal along the critical supply corridor between Wanlaweyn and Afgoye districts in Somalia’s Lower Shabelle Province. Reports indicate that the vehicles were on their way to Somalia’s capital, Mogadishu. "
+    },
+    {
+      "id": "n_9040202153",
+      "type": "news",
+      "title": "An Ethiopian fighter who had been with Al-Shabaab for over four years has surrendered to Somali forces.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/an-ethiopian-fighter-who-had-been-with-al-shabaab-for-over-four-years-has-surrendered-to-somali-forces/",
+      "date": "2026-08-19",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Ethiopia",
+        "Somalia"
+      ],
+      "excerpt": "An Ethiopian national who spent more than four years with the militant group of Al-Shabab has subsequently surrendered to the Somali National Army that is operating in Bakool region, a statement from the Ministry of Defense of Somalia said. The Defense Ministry said that the Al-Shabab fighter was id"
+    },
+    {
+      "id": "n_876239db5e",
+      "type": "news",
+      "title": "Somali Ground Forces Commander Visits Frontline Troops to boost their morale",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-ground-forces-commander-visits-frontline-troops-to-boost-their-morale/",
+      "date": "2026-08-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Ground Forces Commander of Somalia’s National Army, Brigadier General, Sahal Abdullahi Omar, arrived in Teedaan settlement in the Hiiraan region, where he conducted an inspection visit to the government troops on the frontlines and to boost their morale. He was accompanied by the Commander of Tr"
+    },
+    {
+      "id": "n_6b49765dd8",
+      "type": "news",
+      "title": "Ethiopia’s Tigray rebels say drone hits Mekelle residential area",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/428186/ethiopias-tigray-rebels-say-drone-hits-mekelle-residential-area/",
+      "date": "2026-08-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Details of possible civilian casualties are unknown after another air raid on the regional capital in Tigray."
+    },
+    {
+      "id": "n_e3a779cc15",
+      "type": "news",
+      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+      "date": "2026-08-21",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam."
+    },
+    {
+      "id": "n_4746c89211",
+      "type": "news",
+      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "date": "2026-08-20",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia."
+    },
     {
       "id": "n_bfe1ba8fa7",
       "type": "news",
@@ -4223,107 +4322,6 @@
         "Maritime"
       ],
       "excerpt": "On Friday, the Commander of Turkish Ground Forces, General Metin Tokel arrived in Mogadishu, Somalia’s capital, on a 2-day official working visit. Somalia’s Land Forces Commander, General Sahal Abdullahi Omar, has received his Turkish counterpart upon arrival at Adden Adde International Airport. Rep"
-    },
-    {
-      "id": "n_689c4004a5",
-      "type": "news",
-      "title": "Peace and Life Party has presented 10 points outlining the type of election it proposes for Somalia to transition through the current election impasse",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/peace-and-life-party-has-presented-10-points-outlining-the-type-of-election-it-proposes-for-somalia-to-transition-through-the-current-election-impasse/",
-      "date": "2026-07-09",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Elections"
-      ],
-      "excerpt": "The Peace and Life Political Party led by former Somali President, Mr. Mohamed Abdillahi Farmajo, has presented the type of elections which the party views as a way for Somalia to move past the current political standoff, after the party representatives attended the second round of election talks he"
-    },
-    {
-      "id": "n_57e921d1ae",
-      "type": "news",
-      "title": "Ethiopia: Could Abiy’s term-limit plan reset the clock, keep him in power longer?",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/424636/ethiopia-could-abiys-term-limit-plan-reset-the-clock-keep-him-in-power-longer/",
-      "date": "2026-07-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Prime Minister Abiy Ahmed says a two-term limit would strengthen Ethiopia’s democracy. But attention has quickly shifted to whether the National Dialogue is preparing the country for a presidential republic that could give him a fresh political mandate."
-    },
-    {
-      "id": "n_3ab84079b7",
-      "type": "news",
-      "title": "Puntland blocks federal commander Gen. Jima’le Takar as Somalia military standoff deepens",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-blocks-federal-commander-jimale-takar-somalia-military-standoff/",
-      "date": "2026-07-09",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Tensions are escalating in Somalia&#8217;s northeastern Puntland state after regional authorities blocked Gen. Jima&#8217;le Takar, recently appointed by Somalia&#8217;s federal government as commander of the country&#8217;s 54th Division in the region, from enteri"
-    },
-    {
-      "id": "n_6b6ef46b8f",
-      "type": "news",
-      "title": "Danab forces and Jubbaland Dervish troops conducted an operation in Lower Juba, killing Al-Shabaab officers and fighters.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/danab-forces-and-jubbaland-dervish-troops-conducted-an-operation-in-lower-juba-killing-al-shabaab-officers-and-fighters/",
-      "date": "2026-07-09",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Danab",
-        "Security",
-        "Jubaland"
-      ],
-      "excerpt": "Somalia’s Ministry of Defense Wednesday announced that Danab Commandos of the Somali National Army, in collaboration with Jubaland security forces, carried out a planned security operation in Baghdad area, which lies close to Badhadhe district in Lower Jubba region. According to the statement from t"
-    },
-    {
-      "id": "n_245030a29d",
-      "type": "news",
-      "title": "Former Somali President Denies allegations that he maintains political and financial ties with the UAE.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/former-somali-president-denies-allegations-that-he-maintains-political-and-financial-ties-with-the-uae/",
-      "date": "2026-07-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Somali Federal Government together with representatives from the opposition agreed to the continuation of political talks between the two sides, according to an official statement released by the Ministry of Information, Culture, and Tourism on Wednesday. According to the statement, the meeting "
-    },
-    {
-      "id": "n_6f510a9679",
-      "type": "news",
-      "title": "Somaliland Launches First Seawater Desalination Plant in Zeila to Tackle Water Scarcity",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-launches-first-seawater-desalination-plant-in-zeila-to-tackle-water-scarcity/",
-      "date": "2026-07-08",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "Republic of Somaliland has announced plans to establish its first-ever seawater desalination plant in the coastal city of Zeila, marking a major step toward improving access to clean and reliable water in the country. The announcement was made by the Minister of Water Development, Mohamed Abdimalik "
-    },
-    {
-      "id": "n_f27da9a910",
-      "type": "news",
-      "title": "A delegation from Turkey is scheduled to meet with the government and the opposition today, ahead of the planned talks.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/a-delegation-from-turkey-is-scheduled-to-meet-with-the-government-and-the-opposition-today-ahead-of-the-planned-talks/",
-      "date": "2026-07-07",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Turkish mediation team is expected to hold separate meetings with technical committees representing the Somali Federal Government and the opposition before officially resuming face-to-face dialogue spearheaded by Western representatives. These meetings came after diplomatic efforts were made in orde"
     }
   ],
   "articles": [
