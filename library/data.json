@@ -1,6 +1,120 @@
 {
-  "last_updated": "2026-08-21T06:40:35.143739+00:00",
+  "last_updated": "2026-08-22T06:34:58.901460+00:00",
   "news": [
+    {
+      "id": "n_f9ba35c502",
+      "type": "news",
+      "title": "Ethiopia’s Cheapest Oil Reserve Is the Fuel It Wastes",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52396/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Consider two figures on Ethiopia’s energy ledger: $150–200 million and $250 million. The first is the estimated foreign-exchange value of roughly 15,000 electric vehicles Ethiopia imported from China in 2025 alone under the country’s ambitious transition away from petroleum. The second is the hard-c"
+    },
+    {
+      "id": "n_0ac4b0b79d",
+      "type": "news",
+      "title": "Sink Together or Float Together: The Inescapable Reality of the Horn of Africa",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52394/",
+      "date": "2026-08-22",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Kenya",
+        "Djibouti",
+        "Somalia"
+      ],
+      "excerpt": "Few regions in the world possess a geopolitical and cultural landscape as deeply intertwined as the Horn of Africa. Encompassing nations such as Ethiopia, Somalia, Eritrea, Djibouti, and by extension Kenya, Sudan and South Sudan, this strategic peninsula sits at the crossroads of Africa, the Middle "
+    },
+    {
+      "id": "n_48ed1e8766",
+      "type": "news",
+      "title": "Shades of Resistance: Ashenda in Black and the Struggle for Tigray’s Polychromatic Future",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52391/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray"
+      ],
+      "excerpt": "The stark tragedy currently unfolding over Tigray is not merely a debate over cultural preservation; it is a profound collision between two fundamentally incompatible political systems—one rigidly monochromatic, and one striving for polychromatic justice. As the people of Tigray mourn the flagrant m"
+    },
+    {
+      "id": "n_2aba5d40e1",
+      "type": "news",
+      "title": "India’s Space Sector: A Launchpad for Global Partnerships",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52389/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Growing competition in outer space provides India with a unique opportunity to shape a narrative in which collaboration, rather than confrontation, drives space exploration. Recognised as a trustworthy and cost-effective spacefaring nation, India is now well placed to transform its technological adv"
+    },
+    {
+      "id": "n_da8f1c9eb9",
+      "type": "news",
+      "title": "Regulating Unhealthy Diets: An Essential Step in Ethiopia’s Fight Against NCDs",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52387/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Non-communicable diseases (NCDs) are becoming one of Ethiopia’s most significant public health challenges. Cardiovascular diseases, diabetes, cancer and chronic respiratory diseases are already responsible for a substantial share of deaths in the country, while the economic consequences of NCDs are "
+    },
+    {
+      "id": "n_9730573a0e",
+      "type": "news",
+      "title": "Beyond Lawmaking: Why Ethiopia’s Parliament Must Learn to Look Back.",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52385/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Passing a law is only ever half the job. A largely overlooked parliamentary tool, Post-Legislative Scrutiny, asks whether the laws already on the papers are actually working. For Ethiopia&#8217;s House of Peoples Representatives, especially as a new batch of parliamentarians comes in following this "
+    },
+    {
+      "id": "n_1f255d95b6",
+      "type": "news",
+      "title": "Ethiopia: We’re fighting for ‘total removal’ of Abiy’s regime, says Fano militia leader Zemene Kassie",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/428410/ethiopia-were-fighting-for-total-removal-of-abiys-regime-says-fano-militia-leader-zemene-kassie/",
+      "date": "2026-08-21",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Militia"
+      ],
+      "excerpt": "Amid the multiple insurgencies in Ethiopia, Fano militia leader Zemene Kassie claims to have united the key opposition militants in his uncompromising campaign against Prime Minister Abiy Ahmed’s federal government in Addis Ababa."
+    },
+    {
+      "id": "n_eb2cd37cab",
+      "type": "news",
+      "title": "Tanker traffic at Saudi Arabia's Yanbu port falls by a third, report says",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-traffic-saudi-arabias-yanbu-port-falls-third-report-says",
+      "date": "2026-08-22",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Tanker traffic at Saudi Arabia's Yanbu port falls by a third, report says\n\n    \n    \n\n        \n    \n                Tanker traffic at Yanbu, Saudi Arabia's main Red Sea oil terminal, has fallen by more than a third since Yemen’s Houthis announced a blockade of Saudi vessels through the Bab al-Mandeb"
+    },
     {
       "id": "n_58597e219e",
       "type": "news",
@@ -4212,116 +4326,6 @@
         "African Union"
       ],
       "excerpt": "The Addis Ababa City Environmental Protection Authority has issued a directive establishing a legal framework for the licensing and administration of construction mineral production within the capital’s limits. The new framework covers the extraction of construction materials including black stone, "
-    },
-    {
-      "id": "n_9496c8e729",
-      "type": "news",
-      "title": "A Parliament That Serves the Nation, Not the Executive",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51793/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "This week, the five-year term of the Ethiopian parliament officially expired, drawing a quiet curtain on a legislative body elected in 2021. Dominated completely by the ruling Prosperity Party (PP), the outgoing House of Peoples’ Representatives functioned less as a vibrant arena for democratic deba"
-    },
-    {
-      "id": "n_280b98c218",
-      "type": "news",
-      "title": "Federal Auditor Flags 8.46bln Birr in Uncollectible Tax Arrears",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51790/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Auditor seeks clarity on transfer pricing transactions involving multinational companies The Office of the Federal Auditor has identified more than 8.4 billion Birr in tax arrears deemed uncollectible while issuing two contradictory recommendations in the same audit report—first calling for the amou"
-    },
-    {
-      "id": "n_9f16c052e2",
-      "type": "news",
-      "title": "Customs Commission Closes Year with 738bln in Revenue",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51787/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Nearly 400bln Birr granted in duty-free incentives The Customs Commission granted customs duty exemptions valued at nearly 400 billion Birr during the just ended fiscal year, in which it registered a record 738 billion Birr in revenue from duties and contraband seizures. At a press briefing this wee"
-    },
-    {
-      "id": "n_a6d5bdd1a8",
-      "type": "news",
-      "title": "Audit Finds Lack of Management Manuals Hindering Sports Facilities",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51784/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Ethiopia&#8217;s sports facilities lack standardized management systems because the Ministry of Culture and Sport failed to develop national contract administration manuals, a federal audit has found. The performance audit, conducted by the Office of the Federal Auditor General (OFAG), reviewed the "
-    },
-    {
-      "id": "n_36f6569be2",
-      "type": "news",
-      "title": "The Past Five Years in the Eyes of Outgoing MPs, Administration’s Vision for the Coming Five",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51779/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Elections"
-      ],
-      "excerpt": "On Tuesday July 7, 2026, the House of Peoples Representatives (HPR) was unusually full. Lawmakers gathered for what was to be one of the year’s final parliamentary sessions, and the end of a chapter for MPs who will vacate their seats in favor of the winning candidates of last month’s elections at t"
-    },
-    {
-      "id": "n_99ac2c6199",
-      "type": "news",
-      "title": "“The Hurdles Ahead Remain Immense”: Independent MP and Veteran Politician Dima Negewo",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51776/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Dima Negewo is an Ethiopian politician, diplomat, and academic who serves as an independent Member of Parliament. Within the legislature, he holds the position of Chairperson of the Foreign Relations and Peace Affairs Standing Committee, a role that entails parliamentary oversight of Ethiopia&#8217;"
-    },
-    {
-      "id": "n_723222e4d7",
-      "type": "news",
-      "title": "Somaliland Postpones GST Tax Launch After Government Reaches Agreement With Business Community",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-postpones-gst-tax-launch-after-government-reaches-agreement-with-business-community/",
-      "date": "2026-07-10",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The Republic of Somaliland’s Ministry of Finance has postponed the implementation of the Goods and Services Tax (GST) until August 1, 2026, following lengthy discussions with business leaders over concerns surrounding the tax rollout and technical preparations. The decision was announced after a mee"
-    },
-    {
-      "id": "n_90689e9bc9",
-      "type": "news",
-      "title": "Turkish Land Forces Commander Arrives in Mogadishu to deepen defense cooperation with Somalia",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/turkish-land-forces-commander-arrives-in-mogadishu-to-deepen-defense-cooperation-with-somalia/",
-      "date": "2026-07-10",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "On Friday, the Commander of Turkish Ground Forces, General Metin Tokel arrived in Mogadishu, Somalia’s capital, on a 2-day official working visit. Somalia’s Land Forces Commander, General Sahal Abdullahi Omar, has received his Turkish counterpart upon arrival at Adden Adde International Airport. Rep"
     }
   ],
   "articles": [
