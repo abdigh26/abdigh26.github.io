@@ -1,6 +1,202 @@
 {
-  "last_updated": "2026-08-22T06:34:58.901460+00:00",
+  "last_updated": "2026-08-23T06:35:51.084149+00:00",
   "news": [
+    {
+      "id": "n_f1fdc965cc",
+      "type": "news",
+      "title": "Somalia moves to block Somaliland precedent after speaker’s TRNC gesture, clarifies Cyprus stance",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-blocks-somaliland-precedent-trnc-cyprus/",
+      "date": "2026-08-22",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A single sentence of gratitude, posted by Somalia&#8217;s newly elected parliament speaker to an official of a government Somalia does not recognize, has forced Mogadishu into a four-day diplomatic scramble &#8211; and handed critics fresh ammunition against the fe"
+    },
+    {
+      "id": "n_3775712958",
+      "type": "news",
+      "title": "Puntland condemns reported Turkish airstrike that killed 4 civilian fishermen in Garmaal",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-condemns-reported-turkish-airstrike-killed-4-civilian-fishermen-garmaal/",
+      "date": "2026-08-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Airstrikes",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland authorities have strongly condemned an airstrike near Garmaal on Somalia’s northeastern coast that killed four people and wounded two others, saying the victims were civilian fishermen and warning that attacks against civilians could seriously damage coope"
+    },
+    {
+      "id": "n_13416df562",
+      "type": "news",
+      "title": "Somali military prevents Al-Shabaab from seizing an area in the Hiiran region.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-military-prevents-al-shabaab-from-seizing-an-area-in-the-hiiran-region/",
+      "date": "2026-08-22",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "The Somali National Army together with the local defense forces foiled Al-Shabab’s attempts to retake the Ali Ganey settlement in the eastern part of the Hiiraan region. Al-Shabab fighters reportedly part of the group that recently seized the Teedaan area on the 2nd of this month headed towards Ali "
+    },
+    {
+      "id": "n_2efa269139",
+      "type": "news",
+      "title": "Somali Local Forces Kill Two Al-Shabaab Leaders in Middle Shabelle – defense ministry",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-local-forces-kill-two-al-shabaab-leaders-in-middle-shabelle-defense-ministry/",
+      "date": "2026-08-22",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia"
+      ],
+      "excerpt": "Local forces in Somalia’s Middle Shabelle region have killed two leaders of the Al-Shabaab militant group, the defence ministry said. The ministry said the two commanders were killed during an operation in the region, in which local forces also targeted other members of the group. According to the m"
+    },
+    {
+      "id": "n_3c5c70ca75",
+      "type": "news",
+      "title": "Breakthrough’s Ambiguous Business Model: Another Pyramid Scheme?",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52446/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Company, led by an MP, claims 100,000 trained for “success” without accreditation For Wondesen Ayalew, the promise began with a 4,500 Birr cost payment. While studying at Addis Ababa University, an acquaintance invited him to attend a training session organized by Breakthrough Trading SC. Wondesen w"
+    },
+    {
+      "id": "n_f7fc5eb442",
+      "type": "news",
+      "title": "National Dialogue Faces Objections over Addis Ababa Question",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52443/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "SNA"
+      ],
+      "excerpt": "The Ethiopian National Dialogue hit a last-minute snag after representatives from the Oromia region objected to a consolidated proposal on Addis Ababa’s legal status, forcing the 4,000-participant assembly to send the issue back for review. The objection was raised after the 120-member agenda consol"
+    },
+    {
+      "id": "n_074b794800",
+      "type": "news",
+      "title": "Sugar Group’s Losses Ease but Estates Buckle under Pressure from Financial Constraints, Conflict, Climate",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52440/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Sugar Group’s Losses Ease but Estates Buckle under Pressure from Financial Constraints, Conflict, Climate The Ethiopian Sugar Industry Group (ESIG) continues to send mixed signals in the recoverability of a number of estates under it, while the government’s indecisiveness and financial woes over sus"
+    },
+    {
+      "id": "n_98c9b17460",
+      "type": "news",
+      "title": "NBE Rejects Global Bank’s Presidential Nominee Amid Liquidity Probe",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52437/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Regulators have rejected Global Bank SC’s nominee for acting president amid an investigation into financial irregularities at the bank. Last month, Global Bank’s board submitted its nomination of Sahlemichael Mekonen as acting president to the National Bank of Ethiopia (NBE) following the suspension"
+    },
+    {
+      "id": "n_440326c9d8",
+      "type": "news",
+      "title": "Ethiopia Must Stop Playing Defense on the Nile",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52434/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Egypt’s furious reaction to Ethiopia’s latest indication that it may develop additional dams on the Nile should come as no surprise. What must concern Ethiopians, however, is not merely the intensity of Cairo’s rhetoric, but the diplomatic space Ethiopia continues to surrender by allowing Egypt’s na"
+    },
+    {
+      "id": "n_2e97ccaf7f",
+      "type": "news",
+      "title": "Dangote Offers East African States Stake in Planned Refinery",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52431/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya"
+      ],
+      "excerpt": "Ethiopia, Kenya, Rwanda express interest Dangote Group has offered East African countries a 30 percent equity stake in the massive oil refinery it plans on constructing in the region, according to Kenyan President William Ruto’s top economic advisor. Kenya’s 10 percent stake would be worth about USD"
+    },
+    {
+      "id": "n_079fb0fd81",
+      "type": "news",
+      "title": "Stalled Eurobond Restructuring to Commence Following Nod from Creditors Committee",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52429/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The co-chairs of Ethiopia’s Official Creditor Committee (OCC) formally confirmed that a June 2026 agreement in principle with private bondholders complies with the G20 Common Framework&#8217;s ‘Comparability of Treatment’ principle, signaling the country’s drawn out negotiations over the debt it def"
+    },
+    {
+      "id": "n_8e37e1b67d",
+      "type": "news",
+      "title": "El Niño Forecast to Wreak Havoc on Ethiopian Agriculture in Coming Months",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52425/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security",
+        "Food Security",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopia faces a contrasting extreme climate threats as intensifying El Niño conditions deepen severe rainfall deficits in parts of the country while forecasts indicate above normal rains and flooding in southern  and eastern areas later this year, according to a new regional report on food security"
+    },
+    {
+      "id": "n_e22974eb0a",
+      "type": "news",
+      "title": "Health Ministry Tightens Rules for Overseas Medical Referrals",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52421/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "Patients seeking transplant procedures abroad will be required to show proof of 1.5mln Birr in deposits Minister of Health Mekdes Daba (MD) has authorized a new directive requiring patients to prove they hold at least 1.5 million Birr in bank deposits before traveling abroad for medical transplant p"
+    },
+    {
+      "id": "n_bf645dba4d",
+      "type": "news",
+      "title": "Insurers Decry Sluggish Growth, Renew Calls for Independent Regulator at Forum",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52418/",
+      "date": "2026-08-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia’s insurance penetration stands at just 0.27 percent, with the country’s insurance industry facing what sector experts describe as structural challenges requiring fundamental reform rather than short-term measures. During a presentation delivered at the sixth International Interest-Free Bank"
+    },
     {
       "id": "n_f9ba35c502",
       "type": "news",
@@ -4130,202 +4326,6 @@
         "Maritime"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s efforts to arrange an official visit by President Hassan Sheikh Mohamud to Uganda during his recent regional diplomatic tour have yet to succeed, with sources familiar with the matter attributing the setback to a reported decline in relations betwee"
-    },
-    {
-      "id": "n_8c64fbac0e",
-      "type": "news",
-      "title": "Somalia opposition refused Farmajo entry into main coalition, former foreign minister says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-refused-farmajo-entry-main-coalition/",
-      "date": "2026-07-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former Foreign Minister Mohamed Abdirizak Mohamud has revealed that former President Mohamed Abdullahi Farmajo was denied entry into the country&#8217;s main opposition coalition after some members threatened to withdraw if he was admitted, highligh"
-    },
-    {
-      "id": "n_e17663be8a",
-      "type": "news",
-      "title": "U.S. embassy in Mogadishu says American flag desecration by Somali security forces harms U.S.-Somalia relations",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-embassy-american-flag-desecration/",
-      "date": "2026-07-12",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United States Embassy in Mogadishu on Sunday said the desecration of the American flag by members of Somalia&#8217;s security forces harms relations between the United States and Somalia, while praising the Somali federal government for its swift response and a"
-    },
-    {
-      "id": "n_c44bcc463b",
-      "type": "news",
-      "title": "Somalia detains soldiers after viral US flag desecration video",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-detains-soldiers-after-viral-us-flag-desecration-video/",
-      "date": "2026-07-11",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A viral video showing Somali federal government soldiers apparently stepping on and desecrating the United States national flag has ignited widespread debate on social media, with analysts warning the incident could place fresh strain on already delicate relations "
-    },
-    {
-      "id": "n_b2abeeb614",
-      "type": "news",
-      "title": "Kenyan forces kill 11 Al-Shabaab members in an operation along the Somali border.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/kenyan-forces-kill-11-al-shabaab-members-in-an-operation-along-the-somali-border/",
-      "date": "2026-07-13",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Kenya",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "11 Al-Shabab militants were successfully eliminated by Kenya’s Anti-Terrorism Police Unit (ATPU) following an operation based on intelligence conducted in a base where the militant group had an area located on the border between Kenya and Somalia. A statement issued by Kenya’s security officers said"
-    },
-    {
-      "id": "n_c5f069f270",
-      "type": "news",
-      "title": "26 Al-Shabaab members killed in airstrikes in Middle Shabelle.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/26-al-shabaab-members-killed-in-airstrikes-in-middle-shabelle/",
-      "date": "2026-07-13",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security",
-        "Airstrikes"
-      ],
-      "excerpt": "Somali security forces in collaboration with international partners carried out airstrikes targeting locations occupied by Al-Shabab militants in Adow Jilib, Gayfo and Qordheere areas in Middle Shabelle region. 26 Al-Shabab militants were successfully eliminated in the strikes, a statement from the "
-    },
-    {
-      "id": "n_a058c9a3a8",
-      "type": "news",
-      "title": "Security forces thwart an attack blamed on Al-Shabaab.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/security-forces-thwart-an-attack-blamed-on-al-shabaab/",
-      "date": "2026-07-12",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security"
-      ],
-      "excerpt": "Security forces that are based in Beledweyne city foiled a raid that two Al-Shabab operatives were planning to conduct in Haawo-taako village in the city last night. A Somali security forces officer announced that the security forces shot dead one of the operatives while capturing another one alive."
-    },
-    {
-      "id": "n_27453e32e5",
-      "type": "news",
-      "title": "Somaliland’s Speaker of the Upper House of Parliament is due to officially tender his resignation tomorrow",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalilands-speaker-of-the-upper-house-of-parliament-is-due-to-officially-tender-his-resignation-tomorrow/",
-      "date": "2026-07-11",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Speaker of the Somaliland’s Upper House of Parliament known as Guurti, Mr. Suleiman Mohamud Adan, is expected to officially announce his resignation from the speakership as well as his membership of the parliament after he led the House for 22 years. A spokesman who spoke on behalf of the Speake"
-    },
-    {
-      "id": "n_075089964c",
-      "type": "news",
-      "title": "Ethiopia: Axum’s ‘holy town’ declaration puts church and constitution on a collision course",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/424858/ethiopia-axums-holy-town-declaration-puts-church-and-constitution-on-a-collision-course/",
-      "date": "2026-07-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "A church ordinance banning alcohol and khat, while requiring “symbols of sanctity”, has reignited a decades-old dispute over mosque access in the northern Tigrayan town. Two months later, the church officials behind the declaration came under gunfire."
-    },
-    {
-      "id": "n_3f0e88c137",
-      "type": "news",
-      "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
-      "date": "2026-07-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Yemen&#039;s Houthis say they struck Saudi Arabia&#039;s Abha airport in retaliation for a strike on Sanaa’s international airport"
-    },
-    {
-      "id": "n_6c4e0fe89a",
-      "type": "news",
-      "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
-      "date": "2026-07-14",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan."
-    },
-    {
-      "id": "n_6494d8ee33",
-      "type": "news",
-      "title": "ESS Survey Offers Glean into Ethiopia’s Fast-Changing Demographics",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51804/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The results of a comprehensive demographic and health survey published this week by the Ethiopian Statistical Service (ESS) highlight the quiet but fundamental changes taking place in health, fertility, education, employment, and socio-economic status as the country shifts gradually toward urbanizat"
-    },
-    {
-      "id": "n_451eb1b9c5",
-      "type": "news",
-      "title": "Dialogue Commission Looks to Clamp Down on Media Sensationalization Ahead of Conference",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51801/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The National Dialogue Commission has warned the media not to sensationalize agendas and to refrain from publicizing content that could damage the image of its commissioners. A directive issued in tandem with the Ethiopian Media Authority threatens media outlets and journalists who breach its provisi"
-    },
-    {
-      "id": "n_35b0368c9a",
-      "type": "news",
-      "title": "Rights Commission Closes Chapter, Embarks on New Five-Year Strategy",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51798/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Ethiopian Human Rights Commission (EHRC) has introduced a new strategic plan to guide its operations through to the end of the decade, at the same time wrapping up work under a previous five-year plan that came to an end this year. In its review of the just-ended plan, the Commission highlighted"
-    },
-    {
-      "id": "n_2736138bea",
-      "type": "news",
-      "title": "Addis Ababa Green Lights Construction Mineral Production within City Limits",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51796/",
-      "date": "2026-07-11",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "The Addis Ababa City Environmental Protection Authority has issued a directive establishing a legal framework for the licensing and administration of construction mineral production within the capital’s limits. The new framework covers the extraction of construction materials including black stone, "
     }
   ],
   "articles": [
