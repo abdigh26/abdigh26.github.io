@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-08-23T06:35:51.084149+00:00",
+  "last_updated": "2026-08-24T06:52:35.473032+00:00",
   "news": [
+    {
+      "id": "n_cb0b462b3a",
+      "type": "news",
+      "title": "Somalia defends Turkish drone strike Puntland says killed civilians",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-defends-turkish-drone-strike-puntland-civilians/",
+      "date": "2026-08-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland"
+      ],
+      "excerpt": "MOADISHU (Somaliguardian) &#8211; Somalia&#8217;s State Minister of Defense, Omar Ali Abdi, on Saturday broke the federal government&#8217;s silence over alleged Turkish drone strike that killed at least four people off the coast of Garmaal, in Puntland&#8217;s Nugaal region, defending the operation"
+    },
+    {
+      "id": "n_983cfe0dd6",
+      "type": "news",
+      "title": "The Somali government has launched a new initiative to involve the media in the fight against terrorism and extremist ideology.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-government-has-launched-a-new-initiative-to-involve-the-media-in-the-fight-against-terrorism-and-extremist-ideology/",
+      "date": "2026-08-23",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "The Somali Federal Government along with The Islamic Military Counter Terrorism Coalition (IMCTC) have jointly unveiled in Mogadishu a new strategy in strengthening the significant role that the media play in the efforts against terrorism and extremist ideologies. The new program named as the “Peace"
+    },
+    {
+      "id": "n_0582629019",
+      "type": "news",
+      "title": "Minority Protection is Ethiopia’s Federal Test",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/24/minority-protection-is-ethiopias-federal-test/?utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test&utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test",
+      "date": "2026-08-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia needs stronger safeguards against the politics of demographic dominance.\nThe post Minority Protection is Ethiopia&#8217;s Federal Test appeared first on Ethiopia Insight."
+    },
     {
       "id": "n_f1fdc965cc",
       "type": "news",
@@ -4282,50 +4324,6 @@
         "Maritime"
       ],
       "excerpt": "The Somali National Army in collaboration with international partners carried out an airstrike that took place in Goobo area, which lies 10 km north of Mahaas District in Hiiraan province, where Al-Shabab was reportedly mobilizing for war. In a statement, the Ministry of Defense of Somalia said that"
-    },
-    {
-      "id": "n_bb87f50079",
-      "type": "news",
-      "title": "Somaliland, UK discuss security cooperation and the fight against terrorism",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-uk-discuss-security-cooperation-and-the-fight-against-terrorism/",
-      "date": "2026-07-14",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "Yesterday, Somaliland’s Minister of Internal Security, Mr. Abdalle Mohamed Arab, held a meeting in Hargeisa with a high-level UK delegation including officials from the UK office in Somaliland, UK embassy officials in Somalia, and a representative from UK’s defense ministry. The meeting centered on "
-    },
-    {
-      "id": "n_ed241362e6",
-      "type": "news",
-      "title": "NISA Confirms that 19 Al-Shabaab members were killed in operations in Middle Shabelle and Hiran.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nisa-confirms-that-19-al-shabaab-members-were-killed-in-operations-in-middle-shabelle-and-hiran/",
-      "date": "2026-07-14",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security"
-      ],
-      "excerpt": "The Somali National Intelligence and Security Agency (NISA) said in a statement that it successfully eliminated 19 Al-Shabab members including senior commanders following the successful execution of two planned operations conducted in Middle Shabelle and Hiiraan regions. In the statement, the Nation"
-    },
-    {
-      "id": "n_66c6d1450c",
-      "type": "news",
-      "title": "Somalia’s efforts to secure Uganda visit for president Hassan Sheikh Mohamud stall amid reported rift with Museveni",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-uganda-visit-museveni-rift/",
-      "date": "2026-07-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s efforts to arrange an official visit by President Hassan Sheikh Mohamud to Uganda during his recent regional diplomatic tour have yet to succeed, with sources familiar with the matter attributing the setback to a reported decline in relations betwee"
     }
   ],
   "articles": [
