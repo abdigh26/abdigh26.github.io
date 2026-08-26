@@ -1,6 +1,51 @@
 {
-  "last_updated": "2026-08-25T06:40:52.851394+00:00",
+  "last_updated": "2026-08-26T06:42:38.227812+00:00",
   "news": [
+    {
+      "id": "n_2ffcbc5028",
+      "type": "news",
+      "title": "Pakistan-Somalia defence pact: Is Islamabad preparing to send troops? What we know",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/pakistan-somalia-defence-pact-troops/",
+      "date": "2026-08-25",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Pakistan and Somalia have struck their broadest defence agreement in more than three decades, sending army, navy and air force commanders into direct talks in Rawalpindi and reopening a military relationship last defined by the bloodshed of the 1993 Battle of Mogad"
+    },
+    {
+      "id": "n_30562e6636",
+      "type": "news",
+      "title": "Somaliland forces have seized weapons and combat vehicles held by clans fighting in western Somaliland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-forces-have-seized-weapons-and-combat-vehicles-held-by-clans-fighting-in-western-somaliland/",
+      "date": "2026-08-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security",
+        "Clan Conflict"
+      ],
+      "excerpt": "Security Forces that are operating in Awdal and Salel regions in western of Somaliland successfully seized combat vehicles and weapons held by the warring clans involved in the recent inter-clan clashes that took place in those areas. They presented to the local media some of the combat vehicles aft"
+    },
+    {
+      "id": "n_65135c309a",
+      "type": "news",
+      "title": "Exam Reforms Aren’t Fixing Ethiopia’s Institutional Decay",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/25/exam-reforms-arent-fixing-ethiopias-institutional-decay/?utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay&utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay",
+      "date": "2026-08-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "Better exam security hasn&#8217;t made Ethiopian classrooms more honest or human. A few months ago, a clip from an Ethiopian game show went viral. A husband whispered the answer to his wife so she could win. When the host replayed the footage and caught him, the man didn&#8217;t apologize. He didn&#"
+    },
     {
       "id": "n_744f4608cb",
       "type": "news",
@@ -4280,46 +4325,6 @@
         "Maritime"
       ],
       "excerpt": "Oil prices climbed nearly three percent on Tuesday, extending a sharp rally after renewed military confrontation between the United States and Iran raised fears of disruptions to global energy supplies through the Strait of Hormuz. Brent crude rose 2.3 percent to USD 85.20 a barrel. On Monday, Brent"
-    },
-    {
-      "id": "n_b64f24807f",
-      "type": "news",
-      "title": "EU Targets Sudan’s Gold Trade With New Sanctions Aimed at War Economy",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51831/",
-      "date": "2026-07-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "The Council of the European Union on Tuesday expanded its sanctions against Sudan, banning imports of Sudanese gold and restricting exports of key mining chemicals in an effort to cut off revenue streams that finance the country’s civil war. The new measures prohibit the purchase, import or transfer"
-    },
-    {
-      "id": "n_bde30e30b5",
-      "type": "news",
-      "title": "Tewolde Gebremariam Takes Helm at Pakistan International Airlines",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51828/",
-      "date": "2026-07-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Former Ethiopian Airlines CEO Tewolde Gebremariam has been appointed chief executive of Pakistan International Airlines, taking the helm as the carrier embarks on a new chapter in the hands of a local business conglomerate following its recent privatization. Tewolde’s career at Ethiopian Airlines sp"
-    },
-    {
-      "id": "n_946256c134",
-      "type": "news",
-      "title": "Ethiopia Facilitates Repatriation for 1,971 Citizens Granted Saudi Amnesty",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51825/",
-      "date": "2026-07-13",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Ethiopia has begun facilitating the repatriation of 1,971 of its citizens from Saudi Arabia after they were granted royal amnesty by the Kingdom, the Ministry of Foreign Affairs said on Monday. In a press statement, the Ministry said it remains engaged with Saudi authorities on matters affecting Eth"
     }
   ],
   "articles": [
