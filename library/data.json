@@ -1,6 +1,173 @@
 {
-  "last_updated": "2026-09-01T11:04:31.863001+00:00",
+  "last_updated": "2026-09-02T10:36:23.383765+00:00",
   "news": [
+    {
+      "id": "n_2ae1e5a99a",
+      "type": "news",
+      "title": "Somalia NSA confirms troops crossed into Ethiopia region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-nsa-confirms-troops-crossed-ethiopia-somali-region/",
+      "date": "2026-09-02",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "SNA",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s National Security Adviser, Aways Haji Yusuf, on Tuesday confirmed for the first time that an undisclosed number of Somali National Army (SNA) troops who recently completed a Saudi Arabia-funded training program in Hanaanbure, Galmudug, have crossed "
+    },
+    {
+      "id": "n_02d832e8c3",
+      "type": "news",
+      "title": "Al-Shabaab-Houthi alliance poses a new threat to the U.S. and its allies",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-houthi-alliance-us-allies-threat/",
+      "date": "2026-09-01",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Houthis",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; On a balmy evening, Jibril “One-Armed” Yahya Ali and his new bride set out for a honeymoon drive along the beach outside al-Ghaydah, Yemen. Jibril, a Somali, and his Yemeni wife had met through a mutual acquaintance, an arms dealer who helped Jibril buy military-gr"
+    },
+    {
+      "id": "n_bd3ccb26fd",
+      "type": "news",
+      "title": "Somalia’s Hassan Sheikh Mohamud agrees to hold elections in 7 Months",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-mohamud-agrees-elections-7-months/",
+      "date": "2026-09-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud has agreed to hold elections within seven months and accepted some of the opposition&#8217;s demands, following mediation by the country&#8217;s international partners aimed at ending a long-running dispute over elect"
+    },
+    {
+      "id": "n_c401266ed6",
+      "type": "news",
+      "title": "Somali MPs file no-confidence motion against interior minister",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-no-confidence-motion-interior-minister-ali-yusuf-hosh/",
+      "date": "2026-08-31",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somali lawmakers on Monday tabled a motion of no-confidence against Interior Minister Ali Yusuf Hosh, the first such motion filed against a government official since parliament elected a new speaker several weeks ago. The motion, signed by 60 members of parliament,"
+    },
+    {
+      "id": "n_3f164c488c",
+      "type": "news",
+      "title": "Somalia’s govt, Al-Shabaab battle for Basra in second week",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-govt-al-shabaab-battle-basra-second-week/",
+      "date": "2026-08-30",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s federal government forces and Al-Shabaab militants remained locked in intense fighting for a second consecutive week over the town of Basra, roughly an hour&#8217;s drive northwest of the capital, with no significant change in ground control reporte"
+    },
+    {
+      "id": "n_d03380c41f",
+      "type": "news",
+      "title": "The Houthis and Al-Shabaab have forged a secret alliance-Wall Street Journal",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-houthis-and-al-shabaab-have-forged-a-secret-alliance-wall-street-journal/",
+      "date": "2026-09-02",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Houthis",
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "Houthis in Yemen and Al-Shabab militants in Somalia established strengthening covert partnership entailing the exchange of weapons, training, and coordinating operations, a report published by Wall Street Journal cited. Al-Shabab militants received modernized weapons, training on manned aerial vehic"
+    },
+    {
+      "id": "n_2cd569ba06",
+      "type": "news",
+      "title": "Somali Military Command has launched an investigation into a video showing abuse inflicted upon an Al-Shabaab prisoner",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-military-command-has-launched-an-investigation-into-a-video-showing-abuse-inflicted-upon-an-al-shabaab-prisoner/",
+      "date": "2026-09-01",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "The Military Command of Somalia’s National Army launched a preliminary investigation into members of Somali Forces, who were allegedly accused of disseminating a video on the social media showing abuse inflicted on a prisoner of war, while the Somali troops were conducting an operation against the m"
+    },
+    {
+      "id": "n_00e1ffd95e",
+      "type": "news",
+      "title": "Somaliland Defense Minister Announces January 2027 Military Salary Increase During Frontline Visit",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-defense-minister-announces-january-2027-military-salary-increase-during-frontline-visit/",
+      "date": "2026-09-01",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Somaliland’s Minister of Defense, Mohamed Yusuf Ali, accompanied by the Commander of the Somaliland National Armed Forces, Brigadier General Nim’an Yusuf Gaxnug, visited frontline military positions today, Monday 31 August, 2026, where they met with troops and assessed conditions on the ground. Duri"
+    },
+    {
+      "id": "n_640963ebe7",
+      "type": "news",
+      "title": "Somalia appeals to Arab nations in assisting to block the recognition of Somaliland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-appeals-to-arab-nations-in-assisting-to-block-the-recognition-of-somaliland/",
+      "date": "2026-08-31",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Israel"
+      ],
+      "excerpt": "Somalia made a call to the Arab countries, urging them to use their relations and diplomatic leverage in a bid to prevent the recognition that Israel granted to Somaliland to turn into a campaign where other countries in the world would follow suit and officially recognize Somaliland, Somalia’s Stat"
+    },
+    {
+      "id": "n_527abd6f3a",
+      "type": "news",
+      "title": "Two Al-Shabaab commanders were killed in an operation in Basra-Defense Ministry",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/two-al-shabaab-commanders-were-killed-in-an-operation-in-basra-defense-ministry/",
+      "date": "2026-08-31",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Military"
+      ],
+      "excerpt": "The Somali National Army conducted large-scale military operations against the militant group of Al-Shabab on the outskirts of Basra area, which is situated on the border between Lower and Middle Shabelle provinces, an official statement from the Defense Ministry of Somalia said on Monday. The Somal"
+    },
+    {
+      "id": "n_b737919a24",
+      "type": "news",
+      "title": "#ትሰማ Unmasks a Power Struggle Over Culture in Ethiopia",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/01/%e1%89%b5%e1%88%b0%e1%88%9b-unmasks-a-power-struggle-over-culture-in-ethiopia/?utm_source=rss&utm_medium=rss&utm_campaign=%25e1%2589%25b5%25e1%2588%25b0%25e1%2588%259b-unmasks-a-power-struggle-over-culture-in-ethiopia&utm_source=rss&utm_medium=rss&utm_campaign=%25e1%2589%25b5%25e1%2588%25b0%25e1%2588%259b-unmasks-a-power-struggle-over-culture-in-ethiopia",
+      "date": "2026-09-01",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A campaign against gender violence ignites a wider cultural debate.\nThe post #ትሰማ Unmasks a Power Struggle Over Culture in Ethiopia appeared first on Ethiopia Insight."
+    },
     {
       "id": "n_9531b51d17",
       "type": "news",
@@ -4157,173 +4324,6 @@
         "Somaliland"
       ],
       "excerpt": "The Representative Office of the Republic of Somaliland in Taiwan has hosted a high-level delegation from the Taiwan International Cooperation and Development Fund (TaiwanICDF), reaffirming the growing partnership between Somaliland and Taiwan and paving the way for expanded development cooperation."
-    },
-    {
-      "id": "n_e54c39fb79",
-      "type": "news",
-      "title": "Madagascar: How Crime Is Exposing the Fault Lines of Military Rule",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51965/",
-      "date": "2026-07-22",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Military",
-        "Piracy"
-      ],
-      "excerpt": "By Muchira Gachenge For weeks, Madagascar’s capital has been gripped by shock. Children have disappeared, bodies have been discovered, and public anger has reached a breaking point. In response, Colonel Randrianirina’s junta has deployed the rhetoric of war and alleged a political conspiracy—without"
-    },
-    {
-      "id": "n_eb305de8e5",
-      "type": "news",
-      "title": "AI’s Growth Potential in Africa Hinges on Electricity, Connectivity and Skills, IMF Says",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51961/",
-      "date": "2026-07-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "Artificial intelligence could increase Sub-Saharan Africa’s economic output by about four percent over the next decade, but only if governments make substantial investments in electricity, internet connectivity and digital skills, the International Monetary Fund said in a report released Tuesday. Wi"
-    },
-    {
-      "id": "n_656ffc9f4d",
-      "type": "news",
-      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
-      "date": "2026-07-23",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger."
-    },
-    {
-      "id": "n_083c0b3633",
-      "type": "news",
-      "title": "Iran war live: US strike kills 2 people; Houthis attack 2 Saudi oil tankers",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
-      "date": "2026-07-23",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr."
-    },
-    {
-      "id": "n_20d7ab15a6",
-      "type": "news",
-      "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
-      "date": "2026-07-22",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Claimed attacks come days after Houthis announced naval embargo on Saudi vessels"
-    },
-    {
-      "id": "n_27461248fa",
-      "type": "news",
-      "title": "Watch: Houthi spokesperson says group targeted Saudi oil tankers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-houthi-spokesperson-says-group-targeted-saudi-oil-tankers",
-      "date": "2026-07-23",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "Watch: Houthi spokesperson says group targeted Saudi oil tankers\n\n    \n    \n\n        \n    \n                Houthi military spokesman Yahya Saree said that they targeted two Saudi oil tankers in the Red Sea, claiming the vessels had violated a ban imposed by the group.\n\nSaudi Arabia's state media lat"
-    },
-    {
-      "id": "n_c3b9d68d60",
-      "type": "news",
-      "title": "Fire onboard Saudi vessel hit in Red Sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-onboard-saudi-vessel-hit-red-sea",
-      "date": "2026-07-23",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Fire onboard Saudi vessel hit in Red Sea  \n\n    \n    \n\n        \n    \n                &nbsp;A Saudi-owned vessel was hit while sailing in the Red Sea, causing&nbsp;the front of the ship to be set on ifire, Saudi state news agency SPA reported citing an official source at the General Transport Authori"
-    },
-    {
-      "id": "n_50b75c5711",
-      "type": "news",
-      "title": "Houthis claim strikes on Saudi oil tankers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-strikes-saudi-oil-tankers",
-      "date": "2026-07-23",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Houthis claim strikes on Saudi oil tankers\n\n    \n    \n\n        \n    \n                Yemen's Houthis claimed&nbsp;missile and drone attacks on two Saudi oil tankers in the Red Sea after declaring a maritime embargo on the kingdom, amid the US war with Iran."
-    },
-    {
-      "id": "n_e0758b23d4",
-      "type": "news",
-      "title": "Somalia: Puntland captures PSF fighters, seizes military vehicles after clashes with federal forces",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-captures-psf-fighters-seizes-military-vehicles-federal-forces/",
-      "date": "2026-07-21",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Northeastern Somalia&#8217;s Puntland Darwish forces said they captured eight members of the Puntland Security Force (PSF) and seized multiple armed technical vehicles after clashes near the commercial port city of Bosaso on Monday, marking the latest escalation in"
-    },
-    {
-      "id": "n_f58454567b",
-      "type": "news",
-      "title": "Puntland officers display weapons reportedly seized from PSF forces.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-officers-display-weapons-reportedly-seized-from-psf-forces/",
-      "date": "2026-07-21",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Maritime",
-        "Puntland"
-      ],
-      "excerpt": "Officers of Puntland’s Dervish Forces and Those of Puntland’s Maritime Police Force (PMPF) showcased weapons they reportedly seized from Puntland Security Forces in Laag area on the outskirts of Bosaso. In a statement, the Dervish Forces Command announced that its troops had concluded in an operatio"
-    },
-    {
-      "id": "n_08d39dfd02",
-      "type": "news",
-      "title": "Regional Networks, Local Wars",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51959/",
-      "date": "2026-07-21",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "How Cross-Border Recruitment is Dragging the Horn into Sudan’s Conflict Recent media reports have drawn renewed attention to the regional dimensions of the war in Sudan, linking military training camps in Somalia to the deployment of new fighters to the conflict. The reports also implicate Saudi Ara"
     }
   ],
   "articles": [
