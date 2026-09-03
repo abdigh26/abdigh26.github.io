@@ -1,6 +1,50 @@
 {
-  "last_updated": "2026-09-02T10:36:23.383765+00:00",
+  "last_updated": "2026-09-03T10:39:32.234437+00:00",
   "news": [
+    {
+      "id": "n_355b98e1bb",
+      "type": "news",
+      "title": "Somalia: Armed militias seize election centers in Beledweyne",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-armed-militias-seize-election-centers-beledweyne/",
+      "date": "2026-09-02",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu",
+        "Militia"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Armed militias seized centers designated for voter registration in Beledweyne on Tuesday, as Somalia’s electoral commission set September 30 for Hirshabelle municipal and parliamentary elections, intensifying opposition to the planned vote, Caasimada Online news we"
+    },
+    {
+      "id": "n_be66fd6766",
+      "type": "news",
+      "title": "Heavy fighting breaks out in Baidoa between Federal Forces and troops loyal to the former president of Southwest State.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/heavy-fighting-breaks-out-in-baidoa-between-federal-forces-and-troops-loyal-to-the-former-president-of-southwest-state/",
+      "date": "2026-09-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Fierce fighting erupted in Baidoa on Thursday morning, where armed clashes ensued between Somali Federal Forces and troops loyal to the former ousted President of Southwest State. The armed confrontation took place in the city and its surrounding areas, while heavy gunfire could be heard from severa"
+    },
+    {
+      "id": "n_9488fa39e8",
+      "type": "news",
+      "title": "The United States is supporting Puntland in the development and training of its Armed forces.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-united-states-is-supporting-puntland-in-the-development-and-training-of-its-armed-forces/",
+      "date": "2026-09-02",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Maritime"
+      ],
+      "excerpt": "Puntland’s Regional State President in Somalia, Mr. Saed Abdullahi Deni yesterday held a high-level meeting held in the port city of Bosaso with senior U.S. Africa Command (AFRICOM) officials, led by Colonel James Rose, commander of U.S. Special Operations in East Africa, an official statement from "
+    },
     {
       "id": "n_2ae1e5a99a",
       "type": "news",
@@ -4282,48 +4326,6 @@
         "Red Sea"
       ],
       "excerpt": "The Houthis&#039; blockade of Bab al-Mandeb threatens a vital global trade route."
-    },
-    {
-      "id": "n_4cf2234420",
-      "type": "news",
-      "title": "African Union questions future of Somalia peace mission as AUSSOM funding crisis deepens",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/african-union-questions-future-of-somalia-peace-mission-aussom-funding-crisis/",
-      "date": "2026-07-22",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The future of the African Union&#8217;s peace mission in Somalia has entered an increasingly uncertain phase after several member states openly questioned how much longer the continent can sustain the costly deployment, as shrinking international financial support "
-    },
-    {
-      "id": "n_b0eca6970e",
-      "type": "news",
-      "title": "Somaliland Strengthens Global Health Partnerships at International Summit in Taiwan",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-strengthens-global-health-partnerships-at-international-summit-in-taiwan/",
-      "date": "2026-07-22",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Director General of the Ministry of Health Development of the Republic of Somaliland, Dr. Ahmed Mahmoud Jama, led a high-level delegation to the Africa–Asia Pacific Health Innovation and Global Partnership Summit in Taipei, reaffirming Somaliland’s commitment to advancing healthcare through inno"
-    },
-    {
-      "id": "n_ab3ed61952",
-      "type": "news",
-      "title": "Somaliland, TaiwanICDF Deepen Strategic Development Partnership Following High-Level Talks in Taipei",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-taiwanicdf-deepen-strategic-development-partnership-following-high-level-talks-in-taipei/",
-      "date": "2026-07-22",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Representative Office of the Republic of Somaliland in Taiwan has hosted a high-level delegation from the Taiwan International Cooperation and Development Fund (TaiwanICDF), reaffirming the growing partnership between Somaliland and Taiwan and paving the way for expanded development cooperation."
     }
   ],
   "articles": [
