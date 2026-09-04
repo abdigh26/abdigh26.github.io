@@ -1,6 +1,118 @@
 {
-  "last_updated": "2026-09-03T10:39:32.234437+00:00",
+  "last_updated": "2026-09-04T10:34:09.774079+00:00",
   "news": [
+    {
+      "id": "n_694ea8cca0",
+      "type": "news",
+      "title": "Somaliland’s Irro departs for US to pitch region’s strategic value as Somalia sends rival team",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-irro-us-visit-strategic-value-somalia-rival-delegation/",
+      "date": "2026-09-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somaliland President Abdirahman Mohamed Abdullahi Irro departed Hargeisa on Thursday for a working visit to the United States, part of an effort to present the self-declared republic as an emerging power of geoeconomic and geosecurity value to Washington and other "
+    },
+    {
+      "id": "n_86df2bd3da",
+      "type": "news",
+      "title": "Laftagaren forces attack Somali army positions in Baidoa again",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/laftagaren-forces-attack-somali-army-positions-baidoa-again/",
+      "date": "2026-09-03",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Heavy fighting erupted in Baidoa on Thursday after forces loyal to ousted Southwest State President Abdiasis Laftagaren attacked the city from multiple directions, seizing two federal army bases on its outskirts before entering the town and engaging government troo"
+    },
+    {
+      "id": "n_37d81df43d",
+      "type": "news",
+      "title": "Somali Defense Ministry Confirms its forces inflicted a defeat on militias supporting Laftagareen and Al-Shabaab in Baidoa.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-defense-ministry-confirms-its-forces-inflicted-a-defeat-on-militias-supporting-laftagareen-and-al-shabaab-in-baidoa/",
+      "date": "2026-09-03",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union",
+        "Security",
+        "Militia"
+      ],
+      "excerpt": "On Thursday, the Defense Ministry of Somalia reaffirmed that its Federal Forces together with Southwest State Security forces utterly defeated armed militiamen loyal to the former Southwest State President, Abdiaisis Hassan Mohamed Laftagaren that launched an attack on Baidoa, supported by Al-Shabab"
+    },
+    {
+      "id": "n_e07b105a3e",
+      "type": "news",
+      "title": "Somaliland President Departs on Landmark trip to U.S.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-president-departs-on-landmark-trip-to-u-s/",
+      "date": "2026-09-03",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "On Thursday, Somaliland’s President, Mr. Abdirahman Mohamed Abdillahi Irro, has departed to the United States of America on a landmark trip, and he is expected to make a short stopover in the United Arab Emirates (UAE), an official statement from the President’s Spokesman, Mr. Hussein Adan Egge Deyr"
+    },
+    {
+      "id": "n_4b4efa3058",
+      "type": "news",
+      "title": "Aman Properties Makes Its Public Debut and Announces Aman Addis Expo 2026",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52605/",
+      "date": "2026-09-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "New Life, Lafto Life and Sky View Properties unite under one name — and open the New Year with 250 homes at up to 30% off at Laphto Mall, September 4–7 ADDIS ABABA, 2 September 2026 — Aman Properties made its public debut in Addis Ababa today, marking a new chapter for a company with [&#8230;]"
+    },
+    {
+      "id": "n_538328a0fb",
+      "type": "news",
+      "title": "Uber quits Nigeria, Uganda as Bolt and inDrive honk horns",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/429763/uber-quits-nigeria-and-uganda-as-bolt-and-indrive-eye-market-share/",
+      "date": "2026-09-03",
+      "region": "Kenya",
+      "tags": [
+        "Kenya"
+      ],
+      "excerpt": "The US ride-hailing group’s latest African exits deepen a regional retreat and open the door for rivals better adapted to local pricing and costs. Uber remains available in South Africa, Kenya, Ghana, Egypt and Morocco."
+    },
+    {
+      "id": "n_fa93e8e450",
+      "type": "news",
+      "title": "After the Ballot: What Democracy Must Mean for Somalia",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/09/after-the-ballot-what-democracy-must-mean-for-somalia/?utm_source=rss&utm_medium=rss&utm_campaign=after-the-ballot-what-democracy-must-mean-for-somalia",
+      "date": "2026-09-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Somali political life is intensely debated across towns, households, media platforms and diaspora communities. Yet this energy does not consistently produce the power to compel answers, reverse failed policies or remove officials whose conduct has become unacceptable. The distance between participat"
+    },
+    {
+      "id": "n_e7134cae33",
+      "type": "news",
+      "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
+      "date": "2026-09-04",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast."
+    },
     {
       "id": "n_355b98e1bb",
       "type": "news",
@@ -4211,121 +4323,6 @@
         "Mogadishu"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has raised concerns over WhatsApp&#8217;s planned introduction of usernames, warning that the privacy-focused feature could complicate efforts to investigate terrorism, financial fraud and cybercrime unless adequate safeguards are put in place. The Somali g"
-    },
-    {
-      "id": "n_b109d2192d",
-      "type": "news",
-      "title": "The former District Commissioner  of Awdiinle, along with 150 militiamen surrender to government forces",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-former-district-commissioner-of-awdiinle-along-with-150-militiamen-surrender-to-government-forces/",
-      "date": "2026-07-23",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Militia"
-      ],
-      "excerpt": "Somalia’s Ministry of Defense announced that Mr. Ibrahim Kalaay, who is described as the former District Commissioner of Awdinle area in Bay region, along with 150 militiamen have surrendered to the Somali National Army that is operating in Southwest State. In a statement the Ministry of Defense of "
-    },
-    {
-      "id": "n_fc821a2977",
-      "type": "news",
-      "title": "The Somali Ministry of Defence Announces that 18 Al-Shabaab members were killed in an airstrike in Hiiraan region.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-somali-ministry-of-defence-announces-that-18-al-shabaab-members-were-killed-in-an-airstrike-in-hiiraan-region/",
-      "date": "2026-07-23",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Airstrikes"
-      ],
-      "excerpt": "The Somali National Army in close collaboration with international partners carried out a planned airstrike, targeting Suullaay area, which lies 17 km south from Teedaan area in Hiiraan province, where Al-Shabab members were hiding. 18 Al-Shabab members were successfully eliminated while 21 others s"
-    },
-    {
-      "id": "n_70c8e6ba76",
-      "type": "news",
-      "title": "NBE Reaffirms Ban on Virtual Assets, Warns Public Against Crypto Transactions",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51969/",
-      "date": "2026-07-23",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The central bank today reaffirmed that the use, trading and transfer of virtual assets, including cryptocurrencies, remain prohibited unless expressly authorized by the National Bank of Ethiopia (NBE), warning the public against engaging in such transactions because of legal and financial risks. In "
-    },
-    {
-      "id": "n_875d5b46ce",
-      "type": "news",
-      "title": "AU Condemns Houthi Attacks on Red Sea Shipping, Backs Saudi Arabia",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/51967/",
-      "date": "2026-07-23",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "African Union",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "The African Union has condemned attacks claimed by Yemen’s Iran-aligned Houthi movement on commercial oil tankers in the Red Sea, warning that the assaults threaten regional security, global trade and one of the world’s busiest maritime corridors. In a statement, African Union Commission Chairperson"
-    },
-    {
-      "id": "n_84878c86fe",
-      "type": "news",
-      "title": "Ethiopia: Armed attacks in East Arsi and the need for immediate attention",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/425693/ethiopia-armed-attacks-in-east-arsi-and-the-need-for-immediate-attention/",
-      "date": "2026-07-24",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia is one of the oldest nations in the world with a rich history of resilience and cultural diversity, which has led to complex ethnic dynamics among numerous groups, including misconceptions about the Amhara people."
-    },
-    {
-      "id": "n_e723bb53d7",
-      "type": "news",
-      "title": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss",
-      "date": "2026-07-24",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "African Union"
-      ],
-      "excerpt": "Houthi attacks for now are shaping who moves Saudi crude, not whether it moves, analysts say, even as oil prices soar."
-    },
-    {
-      "id": "n_2b108e041b",
-      "type": "news",
-      "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
-      "date": "2026-07-24",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea"
-      ],
-      "excerpt": "Hans Grundberg warns that further confrontation risks &#039;deepening the suffering of the Yemeni people&#039;."
-    },
-    {
-      "id": "n_42d9008243",
-      "type": "news",
-      "title": "How the Houthi Red Sea blockade will impact the world",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
-      "date": "2026-07-23",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea"
-      ],
-      "excerpt": "The Houthis&#039; blockade of Bab al-Mandeb threatens a vital global trade route."
     }
   ],
   "articles": [
