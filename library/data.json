@@ -1,6 +1,203 @@
 {
-  "last_updated": "2026-09-04T10:34:09.774079+00:00",
+  "last_updated": "2026-09-05T09:56:20.945530+00:00",
   "news": [
+    {
+      "id": "n_40f7fc9730",
+      "type": "news",
+      "title": "Turkey accused of war crime after drone strike on former Somali commander",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-accused-war-crime-drone-strike-former-somali-commander/",
+      "date": "2026-09-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Jubaland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A drone strike tore through the residence of General Mahad Abdirahman, Somalia&#8217;s former custodial corps chief, in the border town of Dolow on Thursday, and he survived it &#8211; but the attack has ignited a political firestorm, with Jubaland authorities poin"
+    },
+    {
+      "id": "n_959a32d5a1",
+      "type": "news",
+      "title": "Jubaland accuses Turkey of conducting an airstrike in Dolow District.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/jubaland-accuses-turkey-of-conducting-an-airstrike-in-dolow-district/",
+      "date": "2026-09-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Airstrikes",
+        "Jubaland"
+      ],
+      "excerpt": "The Jubaland regional administration has condemned with the strongest possible terms an incident in which Turkish drones carried out an airstrike last night in Dolow District in Gedo region, accusing Ankara of being directly involved in the political conflict in Somalia. Jubaland authorities further"
+    },
+    {
+      "id": "n_e46e174cf1",
+      "type": "news",
+      "title": "Former Somali Custodial Corps Commander wounded in an Airstrike that took place in Dolow District.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/former-somali-custodial-corps-commander-wounded-in-an-airstrike-that-took-place-in-dolow-district/",
+      "date": "2026-09-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Airstrikes",
+        "Maritime"
+      ],
+      "excerpt": "Reports from Dolow District in Gedo region confirm that an airstrike was reportedly carried out using a drone which specifically targeted the house of former Commander of Custodial Corps of Somalia’s Federal Government, General Mahad Abdurahman Shub. The airstrike took place at 11:40 last night whil"
+    },
+    {
+      "id": "n_5fdee37dcf",
+      "type": "news",
+      "title": "Court Reaffirms Injunction Over 32 Noah Real Estate Homes as Homebuyer Revolts Expand",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52665/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "post-delay price escalations drive frustrated buyers to file parallel lawsuits against the prominent developer The Federal High Court has formally reaffirmed an injunction order freezing 32 residential units at Noah Real Estate’s Victory site near Women’s Square (Se&#8217;toch Adebabay) in Aware nei"
+    },
+    {
+      "id": "n_7a46b528af",
+      "type": "news",
+      "title": "UN Panel Says Ethiopia Silent on Alleged Links to Sudan Conflict",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52662/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "The United Nations Independent International Fact-Finding Mission for the Sudan has revealed that the Ethiopian government is yet to respond to official requests regarding alleged illicit military and logistical support originating from its territory in connection with Sudan’s ongoing civil war. Acc"
+    },
+    {
+      "id": "n_071d7606cd",
+      "type": "news",
+      "title": "AU eyes ‘Trigger Model’ for proactive diplomatic intervention before conflict erupts",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52659/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Diplomacy"
+      ],
+      "excerpt": "Member States Stall on USD1B Peace Fund African leaders have agreed to sharpen the African Union&#8217;s preventive diplomacy toolkit by advancing a new ‘Trigger Model’ and expanding early warning instruments, even as Member States remain divided over a proposed USD1 billion capitalization target fo"
+    },
+    {
+      "id": "n_2c5a210237",
+      "type": "news",
+      "title": "Liquidity Infusion Alone Cannot Solve Ethiopia’s Chronic Housing Crisis",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52656/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "This week marked what the government claims is a monumental financial milestone in Ethiopia’s ongoing effort to modernize its domestic banking landscape and addresses a deepening urban crisis. The signing of a landmark Framework for Cooperation between the National Bank of Ethiopia (NBE) and the Int"
+    },
+    {
+      "id": "n_e1adb7f83b",
+      "type": "news",
+      "title": "Ethiopia Launches National Health Surveillance Network to Address Critical Data Gaps",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52652/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Incomplete vital statistics leave roughly 84pct of deaths unrecorded nationwide Ethiopia has officially launched a national Health and Demographic Surveillance System (HDSS) Network, uniting 16 university-based surveillance centers into a single unified framework hosted and administered by the Ethio"
+    },
+    {
+      "id": "n_9d5a72198c",
+      "type": "news",
+      "title": "“We Imposed No Price Hikes”: Noah Real Estate’s Legal Counsel",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52649/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "In the past decade, Noah Real Estate built a strong reputation in Ethiopia&#8217;s property market—a sector long marred by delivery delays and buyer disputes- since the infamous Access Real Estate saga. Uniquely positioning itself by constructing before selling, Noah was widely viewed as an exceptio"
+    },
+    {
+      "id": "n_d87dfdd9c7",
+      "type": "news",
+      "title": "Stalled Wagons, Heavy Debts: The Unfulfilled Promise of Ethiopia’s Railway System",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52643/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Every morning at Autobus Tera, Surafel Tafesework faces a familiar dilemma. A 37-year-old officer at a private bank branch in Megenagna, Surafel prefers taking the train to work—it is cheaper than mid-buses or taxis. But lately, waiting for it has become exercise in patience. “The train fare is bett"
+    },
+    {
+      "id": "n_4ad76ff848",
+      "type": "news",
+      "title": "Unveiling Ethiopia’s Silent Epidemic:",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52640/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Prof. Waltaji Terfa on the Unseen Burden of Lead Toxicity, Regulatory Vacuum and the Strategic Imperative for Public Health Action Across the globe, modern public health paradigms increasingly grapple with invisible, long-term environmental hazards that are quietly undermining human potential and ec"
+    },
+    {
+      "id": "n_3ccaa2ab95",
+      "type": "news",
+      "title": "Ethiopia’s Gold, From Empire to the Illegal Rush",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52635/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "For centuries, gold was woven into Ethiopia’s political and economic history. Gathered from riverbeds and mining regions, it served as a medium of international trade and accumulated in royal treasuries. It also figured in land transactions, church endowments, inheritances and long-distance commerce"
+    },
+    {
+      "id": "n_6c27068073",
+      "type": "news",
+      "title": "A Solar Shift for Ethiopia’s Farmers",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52631/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Farming Under a Changing Climate For farmers in Ethiopia’s Central region, rising fuel prices have turned the simple task of pumping water onto their fields into an increasingly costly proposition. Some are responding by replacing diesel pumps with solar power, a shift that is changing not only how "
+    },
+    {
+      "id": "n_9c9812bae2",
+      "type": "news",
+      "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return."
+    },
     {
       "id": "n_694ea8cca0",
       "type": "news",
@@ -4120,209 +4317,6 @@
         "African Union"
       ],
       "excerpt": "Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco."
-    },
-    {
-      "id": "n_711332ff7a",
-      "type": "news",
-      "title": "Dual-Executive System on the Cards as National Dialogue Wraps First Week",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52041/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "A semi-presidential or dual-executive government structure is among the alternatives tabled at the National Dialogue forum ongoing in Addis Ababa since last week. The National Dialogue Commission has convened 4,000 participants from across the country at the Addis International Convention Center for"
-    },
-    {
-      "id": "n_e27fc2ca2c",
-      "type": "news",
-      "title": "AU Seeks to Deny Safe Havens, Supply Lines to Radical Actors in Renewed Counterterrorism Bid",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52038/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "The African Union is finalizing legal frameworks aimed at cutting off lifelines for terrorist actors and denying access to safe havens for radical groups and individuals. Following a ministerial meeting in Addis Ababa this week, the AU Peace and Security Council called on the AU Commission to finali"
-    },
-    {
-      "id": "n_c686c1f70d",
-      "type": "news",
-      "title": "Lake Tana Nears Ecological Tipping Point as Water Hyacinth Spreads",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52033/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Lake Tana is approaching a critical ecological tipping point as water hyacinth spreads into 36 additional kebeles, prompting environmental experts to warn that Ethiopia’s largest freshwater lake could become unnavigable, suffer declining water levels and lose much of its unique biodiversity unless u"
-    },
-    {
-      "id": "n_e7d5221e5f",
-      "type": "news",
-      "title": "When Two Chokepoints Close: Ethiopia’s Reckoning with a Red Sea in Turmoil",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52030/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Red Sea",
-        "Ethiopia"
-      ],
-      "excerpt": "There is a particular kind of vulnerability that comes from having no coastline of one’s own. Ethiopia, Africa&#8217;s second-most populous nation and one of its fastest-growing economies, has lived with that vulnerability for three decades, routing the overwhelming share of its trade through a sing"
-    },
-    {
-      "id": "n_fcaecebe8d",
-      "type": "news",
-      "title": "Ethiopia Among Top Six Countries for Children Orphaned by Maternal Cancer: WHO",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52028/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Ethiopia is among the six countries with the highest number of children orphaned by maternal cancer, according to the World Health Organization’s (WHO) Global Status Report on Cancer 2026, highlighting the far-reaching social consequences of the disease. The report estimates that cancer claimed the "
-    },
-    {
-      "id": "n_ec04886c64",
-      "type": "news",
-      "title": "Industrial Parks Corp Rakes in Nearly 6bln Birr Revenue",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52025/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "The Ethiopian Industrial Parks Development Corporation (IPDC) generated more than 5.8 billion Birr in revenue from services provided to companies operating in the industrial parks under its management over the past fiscal year. Speaking to The Reporter, IPDC communications head Paulos Belete said th"
-    },
-    {
-      "id": "n_56cefddd39",
-      "type": "news",
-      "title": "Tigray IDP Sites Face Critical Aid Deficit amid Surge in New Arrivals",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52022/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Displacement",
-        "Maritime"
-      ],
-      "excerpt": "Hundreds of thousands of displaced persons in Tigray are confronting severe shortages of basic necessities as new arrivals and secondary displacement add to existing humanitarian needs, according to a recent site profiling report by CCCM Cluster partners and Government counterparts. Published on Jul"
-    },
-    {
-      "id": "n_ce55a66fce",
-      "type": "news",
-      "title": "Global Hunger Falls for Third Year, Africa Remains Hardest Hit: UN Report",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52019/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Security",
-        "Food Security",
-        "Maritime"
-      ],
-      "excerpt": "Global hunger declined for the third consecutive year in 2025, but progress remains fragile and uneven, with Africa continuing to bear the heaviest burden, according to The State of Food Security and Nutrition in the World 2026 report released on Tuesday. The Food and Agriculture Organization (FAO),"
-    },
-    {
-      "id": "n_8d4423404a",
-      "type": "news",
-      "title": "Surging Input Costs, Insecurity, Migration Choking Ethiopian Agriculture: SAA",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52016/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "Security issues, reduced motivation among extension workers, severe soil erosion, overgrazing, climate change, high input costs, machinery breakdowns, fuel shortages, and youth migration are smothering Ethiopia’s agricultural productivity, cautions a non-profit working with smallholder farmers acros"
-    },
-    {
-      "id": "n_91b0d5b29a",
-      "type": "news",
-      "title": "The Leaky Bucket of Global Peace: How Multilateral Defunding Is Starving the Horn’s Humanitarian, Peacekeeping Operations",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52010/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Governance"
-      ],
-      "excerpt": "In late 2023, when the UN Human Rights Council in Geneva allowed the mandate of the International Commission of Human Rights Experts on Ethiopia (ICHREE) to quietly lapse without a vote, diplomatic observers in Addis Ababa noted a profound shift in global governance. Established in December 2021 in "
-    },
-    {
-      "id": "n_45a5d9b0a2",
-      "type": "news",
-      "title": "US industry lobbies for South Africa and Ethiopia to stay in crucial trade deal",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/425994/us-trade-groups-want-south-africa-ethiopia-in-agoa/",
-      "date": "2026-07-24",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Fearing supply chain disruption and lost export markets, US trade associations demand a truce on political sanctions ahead of Agoa’s 2027 reauthorisation deadline."
-    },
-    {
-      "id": "n_e1faeb3d42",
-      "type": "news",
-      "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
-      "date": "2026-07-25",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate."
-    },
-    {
-      "id": "n_ce247354de",
-      "type": "news",
-      "title": "Somalia’s Puntland orders federal forces in Bosaso to surrender after seizing positions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-orders-federal-forces-bosaso-surrender/",
-      "date": "2026-07-23",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Security",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Authorities in Somalia&#8217;s semi-autonomous Puntland region have ordered federal government-aligned security forces in the commercial port city of Bosaso to surrender immediately, days after regional forces seized their positions in fighting that has further esc"
-    },
-    {
-      "id": "n_4f7aefb55c",
-      "type": "news",
-      "title": "Somalia presses Meta for safeguards before WhatsApp username rollout",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-whatsapp-username/",
-      "date": "2026-07-23",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has raised concerns over WhatsApp&#8217;s planned introduction of usernames, warning that the privacy-focused feature could complicate efforts to investigate terrorism, financial fraud and cybercrime unless adequate safeguards are put in place. The Somali g"
     }
   ],
   "articles": [
