@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-09-05T09:56:20.945530+00:00",
+  "last_updated": "2026-09-06T10:14:35.096231+00:00",
   "news": [
+    {
+      "id": "n_d88a6863e2",
+      "type": "news",
+      "title": "Somalia: Fahad Yasin links Jama to Gen. Shub drone strike",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-fahad-yasin-links-speaker-jama-drone-strike-gen-shub/",
+      "date": "2026-09-05",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former intelligence chief Fahad Yasin has accused the Speaker of the House of the People, Abdulkadir Mohamed Nur &#8211; widely known by the nicknames &#8220;Jama&#8221; and &#8220;Minister TikTok&#8221; &#8211; of directing the drone strike that hi"
+    },
+    {
+      "id": "n_6b8d533b62",
+      "type": "news",
+      "title": "Ethiopia questions Somali soldiers who crossed border to visit families in Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-questions-somali-soldiers-border-crossing-families-somalia/",
+      "date": "2026-09-05",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "SNA",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Ethiopia&#8217;s security agencies have begun interrogating dozens of Somali National Army (SNA) soldiers who crossed into Ethiopian territory after completing training in Somalia&#8217;s Galmudug region, according to reports by regional media. Around 80 soldiers c"
+    },
+    {
+      "id": "n_b3264ac788",
+      "type": "news",
+      "title": "U.S. Plans to expand its Military Presence in Puntland",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/u-s-plans-to-expand-its-military-presence-in-puntland/",
+      "date": "2026-09-05",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Airstrikes",
+        "Puntland",
+        "Maritime"
+      ],
+      "excerpt": "The U.S. is reportedly stepping up airstrike operations and its military presence in Puntland state of Somalia, while U.S. drones conducted reconnaissance operations in the Al-Miskaad Mountains in Bari region on September, 3, 2026. The drones carried out the operations in Togga Miraale and Togga Baa"
+    },
+    {
+      "id": "n_2e74ddbc97",
+      "type": "news",
+      "title": "Danab forces kill 14 Al-Shabaab members in Bay region.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/danab-forces-kill-14-al-shabaab-members-in-bay-region/",
+      "date": "2026-09-05",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Danab"
+      ],
+      "excerpt": "Somalia’s elite, U.S.-trained special operations and counterterrorism force within the Somali National Army-Danab Commandos carried out a planned operation and successfully eliminated 14 Al-Shabab members. The counterterrorism operation specifically took place in the Buulo Fulaay area in the Bay reg"
+    },
+    {
+      "id": "n_db3899759e",
+      "type": "news",
+      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+      "date": "2026-09-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz."
+    },
+    {
+      "id": "n_30a6dfde94",
+      "type": "news",
+      "title": "Yemeni forces claim control regained over Hays district in Hodeidah province",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-claim-control-regained-over-hays-district-hodeidah",
+      "date": "2026-09-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Yemeni forces claim control regained over Hays district in Hodeidah province\n\n    \n    \n\n        \n    \n                Yemeni government forces claim they have regained \"complete control\" of the district of Hays in the province of Hodeidah from the Houthis, Al Jazeera reported.\n\nIt said government f"
+    },
     {
       "id": "n_40f7fc9730",
       "type": "news",
@@ -4235,88 +4325,6 @@
         "Somaliland"
       ],
       "excerpt": "Republic of Somaliland’s Minister of Foreign Affairs and International Cooperation, Hon. Abdirahman Dahir Adan, has arrived in Washington, D.C., for a series of high-level meetings with U.S. government officials and leading American institutions aimed at strengthening bilateral relations and expandi"
-    },
-    {
-      "id": "n_21a0f522a8",
-      "type": "news",
-      "title": "Buurmadow: “If the flag and the capital are granted to Somaliland, let us unite with Somalia.”",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/buurmadow-if-the-flag-and-the-capital-are-granted-to-somaliland-let-us-unite-with-somalia/",
-      "date": "2026-07-24",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia"
-      ],
-      "excerpt": "King Osman Aw Mohamud known as Buurmadow, who is among Somaliland’s traditional elders has publicly announced that he strongly believes that the only way forward for resolving the political conflict between Somalia and Somaliland is that the two sides to hold talks. In an interview with Dirane Telev"
-    },
-    {
-      "id": "n_fd6946b5b4",
-      "type": "news",
-      "title": "Economic Execution: How Regulatory Blindness, Tax Aggression Killing Ethiopia’s Emerging Fintechs",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52044/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "In late 2025, the executive boardrooms of Ethiopia’s most promising digital financial startups transitioned overnight from celebrating record growth to managing an existential crisis. Armed federal officers, alongside teams from the Ministry of Revenues (MoR), the Ministry of Justice (MoJ), and the "
-    },
-    {
-      "id": "n_66960fc6f1",
-      "type": "news",
-      "title": "US Tightens Sudan Sanctions Over Alleged Chemical Weapons Use",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52048/",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Military"
-      ],
-      "excerpt": "The United States has imposed a second round of sanctions on Sudan over allegations that the Sudanese Armed Forces (SAF) used prohibited chemical weapons during the country&#8217;s civil war, escalating pressure on the military leadership despite Khartoum&#8217;s continued denial of the accusations."
-    },
-    {
-      "id": "n_7f9dfb7519",
-      "type": "news",
-      "title": "Tigray’s Lost Classrooms: Why Education Must Be at the Centre of Recovery",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/07/tigrays-lost-classrooms-why-education-must-be-at-the-centre-of-recovery/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-lost-classrooms-why-education-must-be-at-the-centre-of-recovery",
-      "date": "2026-07-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray"
-      ],
-      "excerpt": "The war in Tigray did not only destroy lives, homes, hospitals and livelihoods. It also attacked the foundations of the region’s future by depriving an entire generation of children of education. In January 2025, the European Commission’s Directorate-General for European Civil Protection and Humanit"
-    },
-    {
-      "id": "n_8d8df7ae46",
-      "type": "news",
-      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-      "date": "2026-07-26",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel."
-    },
-    {
-      "id": "n_79bd541e66",
-      "type": "news",
-      "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
-      "date": "2026-07-26",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "African Union"
-      ],
-      "excerpt": "Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco."
     }
   ],
   "articles": [
