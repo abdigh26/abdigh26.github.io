@@ -1,6 +1,185 @@
 {
-  "last_updated": "2026-09-06T10:14:35.096231+00:00",
+  "last_updated": "2026-09-07T11:33:15.331036+00:00",
   "news": [
+    {
+      "id": "n_577140f42e",
+      "type": "news",
+      "title": "Somali cleric Ali Wajis endorses killing of government critics",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-cleric-ali-wajis-endorses-killing-government-critics/",
+      "date": "2026-09-06",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A prominent pro-government religious scholar told a gathering of senior Somali officials, including the defense minister, on Sunday that people who oppose the administration of President Hassan Sheikh Mohamud should be treated as terrorists and killed &#8211; a sta"
+    },
+    {
+      "id": "n_14448cec1a",
+      "type": "news",
+      "title": "Al-Shabaab launched a series of night-time attacks on military bases in northeastern Kenya.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shabaab-launched-a-series-of-night-time-attacks-on-military-bases-in-northeastern-kenya/",
+      "date": "2026-09-07",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Kenya",
+        "African Union",
+        "Military",
+        "Security"
+      ],
+      "excerpt": "Al-Shabaab is reported to have launched a series of attacks last night on positions and checkpoints by Kenyan security forces in Wajir, Garissa, and Mandera regions of the country&#8217;s northeast. Reports from the area indicate that Al-Shabab fighters attacked a military camp in Qorof Xaraar, Waji"
+    },
+    {
+      "id": "n_8f90bc856c",
+      "type": "news",
+      "title": "Kenya and Somalia agree to extend the Isiolo-Mandera road to reach Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/kenya-and-somalia-agree-to-extend-the-isiolo-mandera-road-to-reach-somalia/",
+      "date": "2026-09-07",
+      "region": "Somalia",
+      "tags": [
+        "Kenya",
+        "Somalia",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Kenya and Somalia have agreed upon to expedite the plan to expand the road connecting Isiolo and Mandera, which is being routed through Somalia to create a new trade, transport, and security corridor connecting the countries of the Horn of Africa. This matter came to light following a meeting held i"
+    },
+    {
+      "id": "n_5bd4630004",
+      "type": "news",
+      "title": "Land Forces Commander of Somalia’s National Army Travels to Bardhere, Gedo region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/land-forces-commander-of-somalias-national-army-travels-to-bardhere-gedo-region/",
+      "date": "2026-09-06",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "A delegation led by the Commander of the Land Forces of Somalia’s National Army, Brigadier General Sahal Abdullahi Omar, arrived in the town of Bardhere in Gedo region on Sunday. The delegation was greeted upon arrival at the airport by officials led by the commander of the 36th Brigade of the 43rd "
+    },
+    {
+      "id": "n_2fe903dc77",
+      "type": "news",
+      "title": "Jubaland Officials join the residents of Kismayo and Afmadow in protests against Turkey.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/jubaland-officials-join-the-residents-of-kismayo-and-afmadow-in-protests-against-turkey/",
+      "date": "2026-09-06",
+      "region": "Somalia",
+      "tags": [
+        "Military",
+        "Airstrikes",
+        "Jubaland",
+        "Kismayo"
+      ],
+      "excerpt": "Hundreds of people took to the streets of Kismayo, the interim capital of Jubaland, to express their anger against the Turkish government following an incident in Dolow district of the Gedo region. The protesters accused Turkey of involvement in an airstrike that allegedly targeted senior military c"
+    },
+    {
+      "id": "n_21d6570b50",
+      "type": "news",
+      "title": "Somali National Army officers are reviewing the Basra operation.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-national-army-officers-are-reviewing-the-basra-operation/",
+      "date": "2026-09-06",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "Reports from Mogadishu indicate that top brass officers of the Somali National Army are deliberating on necessary adjustments to ensure the success of the operation aimed at removing Al-Shabab militants from Bara area&#8212; a location situated on the border between the Lower and Middle Shabelle reg"
+    },
+    {
+      "id": "n_a9d03eca63",
+      "type": "news",
+      "title": "The Federal Government of Somalia has released the names of the Al-Shabaab members killed in the Bula-Fulay operation.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-federal-government-of-somalia-has-released-the-names-of-the-al-shabaab-members-killed-in-the-bula-fulay-operation/",
+      "date": "2026-09-06",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Danab"
+      ],
+      "excerpt": "The Federal Government of Somalia has provided further details regarding a planned operation carried out by the Somali National Army—specifically the Danab Commandos—on September, 4, 2026, in the Buula-Fulaay area of the Bay region, which resulted in the successful elimination of 14 members of Al-Sh"
+    },
+    {
+      "id": "n_bae5b73767",
+      "type": "news",
+      "title": "Israel warns its citizens against traveling to Somaliland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/israel-warns-its-citizens-against-traveling-to-somaliland/",
+      "date": "2026-09-06",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Houthis",
+        "Israel",
+        "Security",
+        "Militia"
+      ],
+      "excerpt": "Israel’s National Security Council issued a new warning regarding a security threat facing Israelis and Jews outside Israel, including in Somaliland, noting that Houthi militias in Yemen intend to target Israelis traveling to Somaliland. The National Security Council of Israel highlighted that terro"
+    },
+    {
+      "id": "n_819c24270f",
+      "type": "news",
+      "title": "Commercial Bank of Ethiopia (CBE) Logo Correction",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52683/",
+      "date": "2026-09-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "In our story headlined ‘CBE Posts Record Profit Despite Substantial Loss on Foreign Exchange’ published on September 5, 2026; a slight alteration occurred to the logo of Commercial Bank of Ethiopia (CBE). This slight change occurred during graphics designing, and The Reporter has immediately correct"
+    },
+    {
+      "id": "n_f668c78424",
+      "type": "news",
+      "title": "Inside Sudan’s Chemical Program: Intercepted Files Implicate Military Leadership",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52679/",
+      "date": "2026-09-07",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "A series of major international journalistic investigations has unveiled hundreds of documents, photos, audio recordings, and text messages that, for the first time, construct a detailed picture of an alleged secret program within the Sudanese Armed Forces (SAF). The evidence indicates the military "
+    },
+    {
+      "id": "n_83f16a46ac",
+      "type": "news",
+      "title": "CBE Posts Record Profit Despite Substantial Loss on Foreign Exchange",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52667/",
+      "date": "2026-09-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The state-owned Commercial Bank of Ethiopia (CBE) recorded strong profit growth and capital expansion for the fiscal year ending June 30, 2025, according to its audited financial statement released this week. The audit report—conducted by the Audit Service Corporation under International Financial R"
+    },
+    {
+      "id": "n_6741703006",
+      "type": "news",
+      "title": "US-Africa Week Ahead: America in Nairobi, Somaliland in Washington",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/430031/us-africa-week-ahead-america-in-nairobi-somaliland-in-washington/",
+      "date": "2026-09-07",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Kenya"
+      ],
+      "excerpt": "Kenya President William Ruto and US Assistant Secretary of State Frank Garcia are both expected at this week’s US-East Africa business summit."
+    },
     {
       "id": "n_d88a6863e2",
       "type": "news",
@@ -4145,186 +4324,6 @@
         "Red Sea"
       ],
       "excerpt": "Speaking in Riyadh, Yemen&#039;s internationally recognised government warns global complacency has emboldened the Houthis."
-    },
-    {
-      "id": "n_b47d47977a",
-      "type": "news",
-      "title": "Somalia summons Kenya’s ambassador after state minister Abshir Bukhaari reportedly deported from Nairobi",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-summons-kenya-ambassador-abshir-bukhaari-deported-nairobi/",
-      "date": "2026-07-27",
-      "region": "Somalia",
-      "tags": [
-        "Kenya",
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has summoned Kenya&#8217;s ambassador for talks after State Minister at the Presidency Abshir Bukhaari was reportedly denied entry into Kenya upon arrival at Nairobi&#8217;s Jomo Kenyatta International Airport (JKIA) and deported back to Mogadishu on Sunday"
-    },
-    {
-      "id": "n_79d80e71c2",
-      "type": "news",
-      "title": "Puntland warns over Somalia federal military moves in Galkayo after Bosaso clashes",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-warns-somalia-federal-military-moves-galkayo-bosaso-clashes/",
-      "date": "2026-07-26",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Authorities in northeastern Somalia’s Puntland state on Saturday said they were closely monitoring what they described as military maneuvers by Somalia’s federal government in the central town of Galkayo, warning that the developments could threaten regional stabil"
-    },
-    {
-      "id": "n_555f4f65a2",
-      "type": "news",
-      "title": "NISA successfully eliminates Al-Shabaab Chiefs, 14 Fighters",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nisa-successfully-eliminates-al-shabaab-chiefs-14-fighters/",
-      "date": "2026-07-26",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "Somalia’s National Intelligence and Security Agency (NISA) said Sunday that its forces in collaboration with international partners, successfully eliminated two senior Al-Shabab propaganda officials and 14 other militants in coordinated raids across Hirshabelle state as this dealt a major blow to th"
-    },
-    {
-      "id": "n_d8c606b279",
-      "type": "news",
-      "title": "Amhara Nationalism Faces Historic Choice in National Dialogue",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/07/27/amhara-nationalism-faces-historic-choice-in-national-dialogue/?utm_source=rss&utm_medium=rss&utm_campaign=amhara-nationalism-faces-historic-choice-in-national-dialogue&utm_source=rss&utm_medium=rss&utm_campaign=amhara-nationalism-faces-historic-choice-in-national-dialogue",
-      "date": "2026-07-27",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Constitutional reform could challenge decades-old assumptions about Ethiopia’s political order For generations, Amhara political thought rested on an implicit premise: Whatever ideological language successive governments adopted, the Ethiopian state remained familiar political territory. Regimes cha"
-    },
-    {
-      "id": "n_a2208ccde7",
-      "type": "news",
-      "title": "Massad Boulos courts Egypt’s anti-Ethiopian alliance in the Horn of Africa",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/426104/massad-boulos-courts-egypts-anti-ethiopian-alliance-in-the-horn-of-africa/",
-      "date": "2026-07-27",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Ethiopia",
-        "Eritrea",
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "The US Trump administration risks getting caught between an Egypt-Somalia-Eritrea axis on one side and an Ethiopia-Somaliland-Israel partnership on the other."
-    },
-    {
-      "id": "n_8241685a57",
-      "type": "news",
-      "title": "Turkey cannot commercially drill Somalia’s offshore oil: ex-Puntland minister",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-cannot-commercially-drill-somalia-offshore-oil-ex-puntland-minister/",
-      "date": "2026-07-25",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former Puntland minister and Somali political commentator Ali Haji Warsame has questioned Turkey&#8217;s ability to commercially develop Somalia&#8217;s offshore oil resources, arguing that Ankara&#8217;s current operations in Somali waters are limited to explorati"
-    },
-    {
-      "id": "n_bdd8c1fe74",
-      "type": "news",
-      "title": "Somaliland’s Buurmadow says he would support reunification with Somalia if Hargeisa became Capital",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-buurmadow-supports-somalia-reunification-hargeisa-capital/",
-      "date": "2026-07-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Veteran Somaliland traditional leader Osman Aw Mohamud, widely known as Buurmadow, has proposed that Somaliland should consider reunification with Somalia if a political settlement designates Hargeisa as the national capital, marking one of the clearest public endo"
-    },
-    {
-      "id": "n_9eaac88527",
-      "type": "news",
-      "title": "Kenya claims to have thwarted a suspected Al-Shabaab fighters’ attack at the Somali border.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/kenya-claims-to-have-thwarted-a-suspected-al-shabaab-fighters-attack-at-the-somali-border/",
-      "date": "2026-07-25",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Kenya",
-        "Somalia",
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "Kenya’s police said that they thwarted an attack carried out by suspected Al-Shabab fighters in which they launched a coordinated attack on a base located in Fiino area in Mandera region which lies on the border with Somalia. According to security officers, a group whose number has not been disclose"
-    },
-    {
-      "id": "n_9e9eb0ffd3",
-      "type": "news",
-      "title": "The Mayor of Berbera, Deputy Mayor tender their official resignations",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-mayor-of-berbera-deputy-mayor-tender-their-official-resignations/",
-      "date": "2026-07-25",
-      "region": "Somalia",
-      "tags": [
-        "Berbera",
-        "Maritime"
-      ],
-      "excerpt": "The Mayor of the port city of Berbera, Mr. Abdishakur Mohamud Hassan widely known as Idin, has officially tendered his resignation from the position on Saturday after he led Berbera Council for 14 years. Meanwhile, Berbera Deputy Mayor, Mr. Nuur Adde has also officially tendered his resignation. The"
-    },
-    {
-      "id": "n_7738b83559",
-      "type": "news",
-      "title": "Somaliland issues a statement regarding the release of prisoners captured during the Las Anod conflict.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-issues-a-statement-regarding-the-release-of-prisoners-captured-during-the-las-anod-conflict/",
-      "date": "2026-07-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "On Saturday, the Deputy Minister of Education, Mr. Mohamed Muuse Abdi known as Galayr, confirmed that prisoners held in Lasanod and those held in Somaliland will be exchanged or released on the same day after a final agreement is reached over the issue. The education Minister has announced that peac"
-    },
-    {
-      "id": "n_365d74b17e",
-      "type": "news",
-      "title": "Somaliland Cabinet Approves Landmark Livestock Quarantine Law to Strengthen Exports and Animal Welfare",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-cabinet-approves-landmark-livestock-quarantine-law-to-strengthen-exports-and-animal-welfare/",
-      "date": "2026-07-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Maritime"
-      ],
-      "excerpt": "Republic of Somaliland’s Minister of Livestock Development, Omar Shu’aib Mohamed, has welcomed the Cabinet’s approval of the country’s first-ever Livestock Quarantine Law, describing it as a milestone that will modernize the livestock export industry, improve animal welfare, and boost access to inte"
-    },
-    {
-      "id": "n_da3bb78f51",
-      "type": "news",
-      "title": "Somaliland Foreign Minister Begins High-Level Washington Visit to Deepen U.S. Ties",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-foreign-minister-begins-high-level-washington-visit-to-deepen-u-s-ties/",
-      "date": "2026-07-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Republic of Somaliland’s Minister of Foreign Affairs and International Cooperation, Hon. Abdirahman Dahir Adan, has arrived in Washington, D.C., for a series of high-level meetings with U.S. government officials and leading American institutions aimed at strengthening bilateral relations and expandi"
     }
   ],
   "articles": [
