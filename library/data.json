@@ -1,6 +1,112 @@
 {
-  "last_updated": "2026-09-08T10:33:23.239960+00:00",
+  "last_updated": "2026-09-09T10:44:50.282793+00:00",
   "news": [
+    {
+      "id": "n_c2aa32041e",
+      "type": "news",
+      "title": "Anti-Turkey protests spread across Somalia after Dolow air strike",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/anti-turkey-protests-somalia-dolow-air-strike/",
+      "date": "2026-09-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Jubaland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Mass protests against Turkey and President Recep Tayyip Erdogan have swept through major towns in southern Somalia’s Jubaland state this week, following accusations by regional authorities that Ankara carried out an air strike that wounded a prominent Somali opposi"
+    },
+    {
+      "id": "n_38f23ca482",
+      "type": "news",
+      "title": "The Somali government reveals that it is ready to take over the country’s security if African Union forces withdraw.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-government-reveals-that-it-is-ready-to-take-over-the-countrys-security-if-african-union-forces-withdraw/",
+      "date": "2026-09-09",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "The Federal Government of Somalia said Wednesday that it is ready now to take full responsibility of the country’s security once African Union troops exit from Somalia, removing the skepticism that the withdrawal of foreign troops from the country will pave the way for Al-Shabaab insurgents to captu"
+    },
+    {
+      "id": "n_48326686c8",
+      "type": "news",
+      "title": "Somali forces receive Turkey’s modern ALKAR 120mm mortar system for the first time.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-forces-receive-turkeys-modern-alkar-120mm-mortar-system-for-the-first-time/",
+      "date": "2026-09-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "The Somali National Army has reportedly acquired the ALKAR 120mm modern mortar system, manufactured by the Turkish defense industry company ASELSAN, as part of the deepening military cooperation between Somalia and Turkey. The ALKAR 120mm system is a modern vehicle mounted mortar that utilizes a dig"
+    },
+    {
+      "id": "n_3b64ded526",
+      "type": "news",
+      "title": "Somaliland Police Launches Instructor Training Programme to Build a New Generation of Trainers",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-police-launches-instructor-training-programme-to-build-a-new-generation-of-trainers/",
+      "date": "2026-09-08",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "The Commander of the Somaliland Police Force, Brigadier General Abdirahman Abdillahi Hassan, has officially opened a Training of Trainers (ToT) programme designed to prepare police officers to become instructors capable of training future generations of personnel. The training forms part of the Poli"
+    },
+    {
+      "id": "n_c983adec7c",
+      "type": "news",
+      "title": "Al-Shabaab abducts Aid workers in the Bay region.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shabaab-abducts-aid-workers-in-the-bay-region/",
+      "date": "2026-09-08",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Maritime"
+      ],
+      "excerpt": "Members of Al-Shabaab abducted nearly ten aid agency workers in the Raar area—located 10 km from Buur Hakaba district in the Bay region—while they were transporting aid, according to various sources who spoke to Mustaqbal Media. It is reported that at the time of their abduction, the workers were ad"
+    },
+    {
+      "id": "n_6aa54aad3e",
+      "type": "news",
+      "title": "Somalia: Bashaqle is transforming into a strategic military zone.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-bashaqle-is-transforming-into-a-strategic-military-zone/",
+      "date": "2026-09-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Bashaqle, located between Adale and Warsheikh in the Middle Shabelle region, is reportedly being transformed into a strategic military zone, with security infrastructure being constructed in the area in connection with the Turkish Space Facility being developed on the outskirts of Warsheikh. Constru"
+    },
+    {
+      "id": "n_12aca04698",
+      "type": "news",
+      "title": "Security Council reveals the number of ISIS fighters in Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/security-council-reveals-the-number-of-isis-fighters-in-somalia/",
+      "date": "2026-09-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Puntland",
+        "Maritime"
+      ],
+      "excerpt": "The operational capabilities of ISIS-Somalia is reported to have been weakened significantly following last year’s armed clashes with Puntland forces, who drove the group out of key areas in the Al-Miskaad Mountain range. The fighting has inflicted heavy losses on ISIS-Somalia, destroying significan"
+    },
     {
       "id": "n_23cc560b20",
       "type": "news",
@@ -4215,104 +4321,6 @@
         "African Union"
       ],
       "excerpt": "TRADE MARK CAUTIONARY NOTICE NOTICE IS HEREBY GIVEN that the above trade mark is the property of The Peninsular and Oriental Steam Navigation Company of 16 Palace Street, London, SW1E 5JQ, United Kingdom and the same trade mark are used in connection with the following: Class 35: Advertising; Busine"
-    },
-    {
-      "id": "n_26685958da",
-      "type": "news",
-      "title": "Somaliland:OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/2948417-2/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA OGEYSIISKAN WAXA LAGU WARGELINAYAA in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay The Peninsular and Oriental Steam Navigation Company, oo xarunteedu tahay 16 Palace Street, London, SW1E 5JQ, Boqortooyada Midowday (U"
-    },
-    {
-      "id": "n_3fccc7ee80",
-      "type": "news",
-      "title": "Somali President Hassan Sheikh, AFRICOM Commander discuss ways to  accelerate the war against Al-Shabaab and strengthen security cooperation",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-president-hassan-sheikh-africom-commander-discuss-ways-to-accelerate-the-war-against-al-shabaab-and-strengthen-security-cooperation/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "On Thursday, the President of Somalia Mr. Hassan Sheikh Mohamud, held a high-level meeting in Mogadishu with the Commander of the United States Africa Command (AFRICOM), General Dagvin R.M. Anderseon. The two sides discussed the security situation in Somalia and the region, and ways to further exped"
-    },
-    {
-      "id": "n_7aeddea6ca",
-      "type": "news",
-      "title": "Airstrike targets Al-Shabab’s leaders holding a meeting in Adan Yabaal District in Middle Shabelle province",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/airstrike-targets-al-shababs-leaders-holding-a-meeting-in-adan-yabaal-district-in-middle-shabelle-province/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Airstrikes",
-        "Mogadishu"
-      ],
-      "excerpt": "Somalia’s Defense Minister, Mr. Ahmed Ma’alin Fiqi, provided further details on a planned airstrike that took place in Adan Yabaal district, targeting senior Al-Shabab leaders who were holding a meeting. In a press conference held in Mogadishu on Wednesday, the defense minister further disclosed tha"
-    },
-    {
-      "id": "n_fd2b1d51cb",
-      "type": "news",
-      "title": "AAU among Five Institutions recognized for Transforming African Education Landscape",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52066/",
-      "date": "2026-07-30",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "Addis Ababa University (AAU) has been named one of five inaugural winners of the Africa Higher Education for Transformation (AHEFT) Prize, a new award backed by a USD500 million, decade-long commitment from the Mastercard Foundation. Each of the five winning institutions will receive USD3 million to"
-    },
-    {
-      "id": "n_8a0ed0600e",
-      "type": "news",
-      "title": "Saudi Arabia Executes 17 Ethiopian Migrants in 2026, Over 70 face Imminent Execution: HRW",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52063/",
-      "date": "2026-07-30",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Saudi authorities executed five Ethiopian migrants for non-lethal drug-related offenses on Monday, bringing the total number of Ethiopian nationals executed on drug charges to at least 17 since the start of 2026, Human Rights Watch (HRW) said this week. At least 79 more Ethiopian nationals remain at"
-    },
-    {
-      "id": "n_8edf270ebb",
-      "type": "news",
-      "title": "ET Posts USD 9.1bln Revenue",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52057/",
-      "date": "2026-07-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "CEO Mesfin Tasew awaits green light for retirement The Ethiopian Airlines Group announced an impressive 20 percent jump in earnings to wrap up what will likely be CEO Mesfin Tasew’s final year in charge with USD 9.1 billion in total revenue. The performance included a 16 percent rise in cargo volume"
-    },
-    {
-      "id": "n_9a8b669f47",
-      "type": "news",
-      "title": "Ethiopian Airlines hits $9.1bn revenue, but risks threaten growth",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/426506/ethiopian-airlines-posts-record-9-1bn-revenue-but-analysts-question-how-long-growth-can-outrun-its-risks/",
-      "date": "2026-07-30",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "The carrier’s best year yet collides with aircraft shortages, a Middle East war and a $60m-passenger airport bet that has yet to prove itself."
     }
   ],
   "articles": [
