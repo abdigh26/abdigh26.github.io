@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-09-09T10:44:50.282793+00:00",
+  "last_updated": "2026-09-10T10:34:54.655568+00:00",
   "news": [
+    {
+      "id": "n_749bdd8ef5",
+      "type": "news",
+      "title": "Somaliland ready to send up to 2,000 troops to Gaza if asked, president Irro says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-ready-send-2000-troops-gaza-president-irro/",
+      "date": "2026-09-10",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somaliland is prepared to contribute up to 2,000 soldiers to an international stabilization force planned for Gaza, but it is waiting for the United States or Israel to make a formal request, President Abdirahman Mohamed Abdullahi has said. Speaking in an interview"
+    },
+    {
+      "id": "n_a4624bf81d",
+      "type": "news",
+      "title": "Somalia prepares fresh troop deployment to Baidoa for operation against opposition forces",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-prepares-fresh-troop-deployment-to-baidoa-against-opposition-forces/",
+      "date": "2026-09-09",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s federal government is preparing to deploy fresh troops to Baidoa, the seat of power of Southwest State, to join an operation aimed at pushing back opposition forces stationed on the outskirts of the strategic town. The planned deployment follows a t"
+    },
+    {
+      "id": "n_26685958da",
+      "type": "news",
+      "title": "Somaliland:OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/2948417-2/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA OGEYSIISKAN WAXA LAGU WARGELINAYAA in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay The Peninsular and Oriental Steam Navigation Company, oo xarunteedu tahay 16 Palace Street, London, SW1E 5JQ, Boqortooyada Midowday (U"
+    },
+    {
+      "id": "n_c1d6b1fcf8",
+      "type": "news",
+      "title": "AFRICOM Conducts an airstrike targeted Al-Shabaab insurgents at a location 175 km west of Mogadishu.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/africom-conducts-an-airstrike-targeted-al-shabaab-insurgents-at-a-location-175-km-west-of-mogadishu/",
+      "date": "2026-09-09",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Airstrikes",
+        "Mogadishu"
+      ],
+      "excerpt": "U.S. Africa Command (AFRICOM) stated that on September 4, it conducted an airstrike in Somalia targeting Al-Shabaab militants. AFRICOM stated that the airstrike was carried out in coordination with the Federal Government of Somalia, targeting a location approximately 175 kilometers west of Mogadishu"
+    },
+    {
+      "id": "n_1a96cad69f",
+      "type": "news",
+      "title": "The President of the Somali Regional State accuses the ONLF rebel group of seeking to plunge the region into turmoil.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-president-of-the-somali-regional-state-accuses-the-onlf-rebel-group-of-seeking-to-plunge-the-region-into-turmoil/",
+      "date": "2026-09-09",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Mustafa Muhumed Omar, President of the Somali Regional State of Ethiopia, has strongly criticized the policy of the Ogaden National Liberation Front (ONLF) after a faction of the organization suggested that the armed struggle could potentially be resumed.   Speaking on the region&#8217;s political a"
+    },
+    {
+      "id": "n_52569f17d5",
+      "type": "news",
+      "title": "Journalist Hassan Galaydh detained in Gabiley amidst ongoing debate over the detention of journalists.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/journalist-hassan-galaydh-detained-in-gabiley-amidst-ongoing-debate-over-the-detention-of-journalists/",
+      "date": "2026-09-09",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "Somaliland security forces arrested a journalist, Mr. Hassan Sulieman Haaruun, known as Hassan Galeydh in Gabiley—who is the owner of Galaydh Television, according to sources close to the journalist. Mr. Hassan Galaydh was arrested from Gabiley while he was in the town for a working visit. The offic"
+    },
+    {
+      "id": "n_b65c29aa42",
+      "type": "news",
+      "title": "State Minister for Foreign Affairs receives UNTMIS delegation",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/state-minister-for-foreign-affairs-receives-untmis-delegation/",
+      "date": "2026-09-09",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Federal Government of Somalia’s State Minister for Foreign Affairs and International Cooperation, Mr. Ali Mohamed Omar known as Ali Bal’ad held a meeting on Wednesday with a high-level delegation from United Nations Transitional Assistance Mission in Somalia (UNTMIS) led by the Acting Head of UNTMIS"
+    },
+    {
+      "id": "n_58a0ed8a90",
+      "type": "news",
+      "title": "Somalia collaborating with Kenya on border security and countering Al-Shabaab.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-collaborating-with-kenya-on-border-security-and-countering-al-shabaab/",
+      "date": "2026-09-09",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Kenya",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "The Somali Federal Government has demanded from Kenya to expand the bilateral cooperation between the two countries, specifically in the areas on counter terrorism, with the focus on communities living along the border between the two countries and establishing an early warning system to detect Al-S"
+    },
+    {
+      "id": "n_51f90ed4cb",
+      "type": "news",
+      "title": "Average bid registers 160 Birr in latest Central Bank Forex Auction",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52705/",
+      "date": "2026-09-10",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The weighted average bid from 20 commercial banks came in at 160.53 birr per US dollar in the central bank’s latest auction, which took place yesterday. The auction was the 28th of its kind since August 2024, when the National Bank of Ethiopia (NBE) began selling off foreign currency to commercial b"
+    },
+    {
+      "id": "n_f90eaa13b3",
+      "type": "news",
+      "title": "Obasanjo’s Office Rejects Bias Claims in Ethiopian Mediation Effort",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52693/",
+      "date": "2026-09-08",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "The office of Olusegun Obasanjo, the African Union Special Envoy for the Horn of Africa, has rejected recent claims challenging his impartiality in mediating tensions between the Ethiopian federal government and Tigray leaders. &#8220;The facts say otherwise,&#8221; his office stated on September 7,"
+    },
+    {
+      "id": "n_c76bd5e21c",
+      "type": "news",
+      "title": "Aviation: Are Africa’s airlines destined to feed foreign hubs?",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/430355/aviation-are-africas-airlines-destined-to-feed-foreign-hubs/",
+      "date": "2026-09-10",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopian, Royal Air Maroc, Airlink… Carriers across the continent are forging ever more alliances with global aviation giants, whether from Europe or the Gulf. The question is who really comes out ahead in these partnerships."
+    },
+    {
+      "id": "n_5334e4f4b9",
+      "type": "news",
+      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss",
+      "date": "2026-09-10",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control."
+    },
+    {
+      "id": "n_36613dfd91",
+      "type": "news",
+      "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss",
+      "date": "2026-09-10",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Yemen&#039;s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours."
+    },
     {
       "id": "n_c2aa32041e",
       "type": "news",
@@ -4134,193 +4316,6 @@
         "African Union"
       ],
       "excerpt": "More than 3.7 million people in Tigray face severe El Niño-driven drought as humanitarian agencies confront a staggering USD 623 million funding gap to launch emergency relief, according to new regional operational plans. The response strategy, spearheaded by the Tigray Disaster Risk Management Comm"
-    },
-    {
-      "id": "n_0d2d8972a1",
-      "type": "news",
-      "title": "Safaricom Ethiopia Q1 Revenue Climbs to 6.13bln Birr as Data Fuels Growth",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52116/",
-      "date": "2026-08-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "M-PESA active customer base more than doubles to 5.69 million, up 131.3% year-on-year Safaricom Ethiopia reported 6.13 billion in total revenue for the first quarter ended June 30, 2026, marking a 66.1 percent increase from approximately 3.69 billion Birr a year earlier, as rising mobile data consum"
-    },
-    {
-      "id": "n_258fea5166",
-      "type": "news",
-      "title": "EIPA Warns Against Rising Online Copyright Infringement, Revisits Law to Tighten Enforcement",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52113/",
-      "date": "2026-08-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Piracy"
-      ],
-      "excerpt": "Officials at the Ethiopian Intellectual Property Authority (EIPA) say they are revising the country’s copyright laws to strengthen enforcement against digital piracy and better protect creators as infringement on online platforms surges alongside internet use. The amendments to the Copyright and Nei"
-    },
-    {
-      "id": "n_ba3c599d73",
-      "type": "news",
-      "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
-      "date": "2026-08-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal."
-    },
-    {
-      "id": "n_8d4c22ec9d",
-      "type": "news",
-      "title": "TPLF’s New Proclamation Codifies a Police State",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/06/23/tplfs-new-proclamation-codifies-a-police-state/?utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state&utm_source=rss&utm_medium=rss&utm_campaign=tplfs-new-proclamation-codifies-a-police-state",
-      "date": "2026-06-23",
-      "region": "Ethiopia",
-      "tags": [
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "This sweeping wartime law threatens rights, dissent, and due process.\nThe post TPLF&#8217;s New Proclamation Codifies a Police State appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_d58098fa06",
-      "type": "news",
-      "title": "Ethiopia Cannot Afford Another Disaster",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/06/13/ethiopia-cannot-afford-another-disaster/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster&utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-cannot-afford-another-disaster",
-      "date": "2026-06-13",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Urgent action is needed before political miscalculations lead to national ruin\nThe post Ethiopia Cannot Afford Another Disaster appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_e377b52c48",
-      "type": "news",
-      "title": "Washington’s Ethiopia Reset Risks Rewarding Impunity",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/06/01/washingtons-ethiopia-reset-risks-rewarding-impunity/?utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity&utm_source=rss&utm_medium=rss&utm_campaign=washingtons-ethiopia-reset-risks-rewarding-impunity",
-      "date": "2026-06-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Geopolitical priorities are eclipsing justice in postwar Ethiopia.\nThe post Washington’s Ethiopia Reset Risks Rewarding Impunity appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_f2742f2d2b",
-      "type": "news",
-      "title": "Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/05/26/pretorias-unfinished-peace-is-fueling-tigrays-new-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis&utm_source=rss&utm_medium=rss&utm_campaign=pretorias-unfinished-peace-is-fueling-tigrays-new-crisis",
-      "date": "2026-05-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Avoiding another war requires resolving the conditions Pretoria left unimplemented.\nThe post Pretoria’s Unfinished Peace Is Fueling Tigray’s New Crisis appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_82b20d752c",
-      "type": "news",
-      "title": "The AU Turned Pretoria Into Abiy’s Shield",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/05/20/the-au-turned-pretoria-into-abiys-shield/?utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield&utm_source=rss&utm_medium=rss&utm_campaign=the-au-turned-pretoria-into-abiys-shield",
-      "date": "2026-05-20",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "How Africa’s leading institution turned a peace agreement into a tool of war\nThe post The AU Turned Pretoria Into Abiy’s Shield appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_200576376b",
-      "type": "news",
-      "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
-      "date": "2026-08-01",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "Maritime"
-      ],
-      "excerpt": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees."
-    },
-    {
-      "id": "n_8647b32451",
-      "type": "news",
-      "title": "Houthis say transit through Bab el-Mandeb free of charge",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-transit-through-bab-el-mandeb-free-charge",
-      "date": "2026-08-01",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Bab el-Mandeb",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Houthis say transit through Bab el-Mandeb free of charge\n\n    \n    \n\n        \n    \n                Yemen's Houthi group said on Saturday that transit through the Bab el-Mandeb&nbsp;strait remains free of charge, denying reports that the authorities plan to impose tolls on vessels transiting the wate"
-    },
-    {
-      "id": "n_7fe598cee3",
-      "type": "news",
-      "title": "Somalia joins Saudi coalition to counter Houthis in Red Sea",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-joins-saudi-coalition-counter-houthis-red-sea/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has formally thrown its weight behind a Saudi-engineered coalition designed to shield the Red Sea&#8217;s arteries of global trade from Houthi attacks, aligning itself with a bloc of nations racing to contain an escalation between Yemen&#8217;s Iran-backed "
-    },
-    {
-      "id": "n_eb58bba4a2",
-      "type": "news",
-      "title": "Somaliland:President Visits Hargeisa Group Hospital’s Kidney Department  Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit high",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandpresident-visits-hargeisa-group-hospitals-kidney-department-hargeisa-somaliland-the-president-of-somaliland-paid-a-visit-this-morning-to-the-kidney-department-at-hargei/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "President Visits Hargeisa Group Hospital’s Kidney Department Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit highlighted the "
-    },
-    {
-      "id": "n_4aa4a85f3d",
-      "type": "news",
-      "title": "Somaliland:TRADE MARK CAUTIONARY NOTICE",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandtrade-mark-cautionary-notice-4/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "TRADE MARK CAUTIONARY NOTICE NOTICE IS HEREBY GIVEN that the above trade mark is the property of The Peninsular and Oriental Steam Navigation Company of 16 Palace Street, London, SW1E 5JQ, United Kingdom and the same trade mark are used in connection with the following: Class 35: Advertising; Busine"
     }
   ],
   "articles": [
