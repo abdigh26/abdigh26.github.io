@@ -1,6 +1,130 @@
 {
-  "last_updated": "2026-09-11T10:35:10.683514+00:00",
+  "last_updated": "2026-09-12T10:03:58.458021+00:00",
   "news": [
+    {
+      "id": "n_c66c317fd4",
+      "type": "news",
+      "title": "SOMALILAND – OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somaliland-ogeysiis-digniin-ah-oo-ku-saabsan-astaanta-ganacsiga/",
+      "date": "2026-06-03",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND – OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay leedahay SHENZHEN LAMP TECHNOLOGY CO., LTD., oo laga aasaasay Shiinaha, cinwaankeeduna yahay No. 6 Lanjing North Road, Kengzi Street, Pingshan Distri"
+    },
+    {
+      "id": "n_b926bfbd5e",
+      "type": "news",
+      "title": "Somaliland:Buried Histories, Living Peace: The Intellectual Legacy in the Horn of Africa",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandburied-histories-living-peace-the-intellectual-legacy-in-the-horn-of-africa/",
+      "date": "2026-05-26",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somalilandsun:This article presents the theoretical and methodological innovations underlying the Archaeology of Peace, a subfield founded by Dr. Sada Mire through two decades of fieldwork across the Horn of Africa. Drawing upon empirical evidence from rock art sites, sacred landscapes, and medieval"
+    },
+    {
+      "id": "n_e64a1756c3",
+      "type": "news",
+      "title": "Somaliland’s Jerusalem Move and the Politics of Recognition",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilands-jerusalem-move-and-the-politics-of-recognition/",
+      "date": "2026-05-25",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somaliland’s Jerusalem Move and the Politics of Recognition &#160; In May 2026, Somaliland made a major diplomatic move by announcing that it would open its first embassy in Jerusalem. In doing so, it would become the eighth country to locate its primary diplomatic mission there. The appointment of "
+    },
+    {
+      "id": "n_d443a089f2",
+      "type": "news",
+      "title": "Somaliland:The Mayor of Minneapolis extended his congratulations to the people of Somaliland.",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandthe-mayor-of-minneapolis-extended-his-congratulations-to-the-people-of-somaliland/",
+      "date": "2026-05-19",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "Somalilandsun:The Mayor of Minneapolis, Jacob Frey, extended his congratulations to the people of Somaliland, stating that he is joining in the joy and celebrations from afar as Somaliland marks the 35th anniversary of the restoration of its statehood. Jacob Frey said: “From Minneapolis to Saint Pau"
+    },
+    {
+      "id": "n_d9301b95a4",
+      "type": "news",
+      "title": "LIVE: The 35th Anniversary Commemoration of Somaliland’s National Independence Day",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/live-the-35th-anniversary-commemoration-of-somalilands-national-independence-day/",
+      "date": "2026-05-18",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Today marks the 35th anniversary of Somaliland’s reassertion of its independence on 18 May 1991, an occasion being commemorated extensively across Somaliland and around the world. This year’s celebrations are notably distinct from previous commemorations, particularly in light of the prevailing poli"
+    },
+    {
+      "id": "n_8ca775f4ae",
+      "type": "news",
+      "title": "Dabageed: “President Hassan Sheikh reneged on the promise made to the Hawadle clan that the clan would hold the leadership of Hirshabelle.”",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/dabageed-president-hassan-sheikh-reneged-on-the-promise-made-to-the-hawadle-clan-that-the-clan-would-hold-the-leadership-of-hirshabelle/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Elections",
+        "Clan Conflict"
+      ],
+      "excerpt": "Hirshabelle Vice President Yusuf Hagar Dabageed stated that elections cannot be held in the Hiran region without a prior political agreement and consensus, warning anyone attempting to conduct elections in the region&#8217;s areas.  He highlighted that the Hirshabelle electoral process requires broa"
+    },
+    {
+      "id": "n_b4c7fbeefe",
+      "type": "news",
+      "title": "Danab and Jubbaland forces conduct an operation in Lower Juba.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/danab-and-jubbaland-forces-conduct-an-operation-in-lower-juba/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Danab",
+        "Jubaland"
+      ],
+      "excerpt": "The 162nd Battalion of the Danab Commando Brigade, in coordination with Jubaland forces, conducted a planned operation in the Lagta Welmaarow and Lagta Qunbi areas of the Lower Juba region. During the operation, the forces uncovered and destroyed landmines planted by Al-Shabaab in those areas, which"
+    },
+    {
+      "id": "n_0b11f1a25a",
+      "type": "news",
+      "title": "Airstrikes Conducted in the Lower Shabelle and Middle Juba Regions",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/airstrikes-conducted-in-the-lower-shabelle-and-middle-juba-regions/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Airstrikes",
+        "Militia",
+        "Maritime"
+      ],
+      "excerpt": "According to reports, successive airstrikes targeted locations where members of Al-Shabaab militias were present.  The strikes reportedly took place in areas within the Lower Shabelle and Middle Juba regions. One of the airstrikes reportedly targeted a site near the village of Dhayow in the Sablaale"
+    },
+    {
+      "id": "n_b6d70e1219",
+      "type": "news",
+      "title": "GERD: Ethiopia digs in as Egypt draws a red line on Nile dams",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/430521/ethiopia-digs-in-as-egypt-draws-a-red-line-on-nile-dams/",
+      "date": "2026-09-11",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Amid the Grand Ethiopian Renaissance Dam’s anniversary celebrations, Abiy Ahmed’s government plans three more Nile dams, and Cairo is threatening to block them."
+    },
     {
       "id": "n_87d7935d72",
       "type": "news",
@@ -4191,140 +4315,6 @@
         "Mogadishu"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia and Pakistan have signed a memorandum of understanding to deepen cooperation in defence, security and military capacity building, Somalia&#8217;s Ministry of Defence said on Tuesday. The agreement was signed in Islamabad by Somalia&#8217;s Defence Minister,"
-    },
-    {
-      "id": "n_4a0768cca9",
-      "type": "news",
-      "title": "Al-Shabaab retakes Teedaan in Somalia’s Hiran region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-retakes-teedaan-hiran-region/",
-      "date": "2026-08-03",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab fighters recaptured the town of Teedaan in central Somalia&#8217;s Hiran region on Sunday, seizing a position that has long served as a key line of defence for the regional capital, after clashes that left dozens of people dead. The assault began when in"
-    },
-    {
-      "id": "n_b7c1ed358f",
-      "type": "news",
-      "title": "Somalia: US signs Bosaso base deal with Puntland, bypassing Mogadishu",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-us-puntland-bosaso-military-base-deal-somaliland/",
-      "date": "2026-08-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United States military has signed a new security agreement with Puntland, Somalia&#8217;s northeastern federal member state, bypassing the federal government in Mogadishu altogether &#8211; a move analysts describe as the clearest evidence yet of a hardening Am"
-    },
-    {
-      "id": "n_d4b978671f",
-      "type": "news",
-      "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-      "date": "2026-08-05",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea"
-      ],
-      "excerpt": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon."
-    },
-    {
-      "id": "n_28902bc6d8",
-      "type": "news",
-      "title": "US visa sanctions expose the limits of diplomatic pragmatism",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/04/us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism/?utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism&utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism",
-      "date": "2026-08-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Washington risks prioritizing political expediency over justice after mass atrocity.\nThe post US visa sanctions expose the limits of diplomatic pragmatism appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_bf96a6e263",
-      "type": "news",
-      "title": "Whilst the World Debates Somaliland’s Recognition, Its Girls Remain Invisible",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/whilst-the-world-debates-somalilands-recognition-its-girls-remain-invisible/?utm_source=rss&utm_medium=rss&utm_campaign=whilst-the-world-debates-somalilands-recognition-its-girls-remain-invisible",
-      "date": "2026-08-03",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Israel",
-        "Diplomacy",
-        "Maritime"
-      ],
-      "excerpt": "As international debate surrounding Somaliland&#8217;s recognition has returned to global headlines in recent months, questions of sovereignty and diplomacy have dominated the conversation. Reports of Israel&#8217;s recognition of Somaliland in December and Somaliland&#8217;s opening of an embassy i"
-    },
-    {
-      "id": "n_7233b95db1",
-      "type": "news",
-      "title": "Two Presidents, No Government: Why Tigray’s War Is Coming Back",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/two-presidents-no-government-why-tigrays-war-is-coming-back/?utm_source=rss&utm_medium=rss&utm_campaign=two-presidents-no-government-why-tigrays-war-is-coming-back",
-      "date": "2026-08-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Elections"
-      ],
-      "excerpt": "In Mekelle, the capital of Ethiopia&#8217;s northern Tigray region, two men call themselves president. One is Lieutenant General Tadesse Worede, appointed with Addis Ababa&#8217;s approval to run the region until elections could be held. The other is Debretsion Gebremichael, chairman of the party th"
-    },
-    {
-      "id": "n_edff6ef8fb",
-      "type": "news",
-      "title": "Somalia president forces Uganda to soften dialogue clause in AUSSOM communique",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-forces-uganda-soften-aussom-communique/",
-      "date": "2026-08-02",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud openly clashed with his Ugandan hosts on Friday at the close of an extraordinary summit of African Union troop and police contributing countries (TPCCs), pushing back against communique language calling for dialogue b"
-    },
-    {
-      "id": "n_0e6046fa30",
-      "type": "news",
-      "title": "AFRICOM chief: Somalia must end political infighting or risk losing US military support",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/africom-somalia-infighting-us-military-support/",
-      "date": "2026-08-02",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Danab",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "Key Points AFRICOM commander Gen. Dagvin R.M. Anderson warns continued US engagement in Somalia depends on ending political infighting Anderson says the elite Danab commando force is fully built and &#8220;ready&#8221; &#8211; sustaining it is now Somalia&#8217;s responsibility Somalia&#8217;s locat"
-    },
-    {
-      "id": "n_087ec6805b",
-      "type": "news",
-      "title": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somaliland-ogeysiiska-digniinta-ah-oo-ku-saabsan-astaanta-ganacsiga/",
-      "date": "2026-06-19",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA  Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hantida shirkadda PACIFIC INTERNATIONAL LINES (PRIVATE) LIMITED, oo ah shirkad gaar loo leeyahay oo lagu aasaasay kuna shaqaynaysa shuruucda Singapore, c"
     }
   ],
   "articles": [
