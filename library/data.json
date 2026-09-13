@@ -1,6 +1,365 @@
 {
-  "last_updated": "2026-09-12T10:03:58.458021+00:00",
+  "last_updated": "2026-09-13T11:04:05.736621+00:00",
   "news": [
+    {
+      "id": "n_7099476ed5",
+      "type": "news",
+      "title": "Yemen’s Tariq Saleh reportedly flees to Somaliland after Houthi takeover of Al Mukha",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/yemen-tariq-saleh-flees-somaliland-houthi-takeover-al-mukha/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Houthis",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Brigadier General Tariq Saleh, a member of Yemen’s Presidential Leadership Council and commander of the National Resistance on the country’s western coast, has reportedly fled Yemen by sea for Somaliland after his forces withdrew from Al Mukha on Thursday, allowing"
+    },
+    {
+      "id": "n_07faaede67",
+      "type": "news",
+      "title": "Somalia president endorses Ali Gudlawe for Hirshabelle leader",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-endorses-ali-gudlawe-next-hirshabelle-leader/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s President Hassan Sheikh Mohamud has chosen incumbent Hirshabelle leader Ali Gudlawe to become the next president of Hirshabelle State, making Gudlawe the only candidate competing on behalf of the ruling Justice and Solidarity Party (JSP), Hirshabelle Vice"
+    },
+    {
+      "id": "n_087ec6805b",
+      "type": "news",
+      "title": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somaliland-ogeysiiska-digniinta-ah-oo-ku-saabsan-astaanta-ganacsiga/",
+      "date": "2026-06-19",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA  Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hantida shirkadda PACIFIC INTERNATIONAL LINES (PRIVATE) LIMITED, oo ah shirkad gaar loo leeyahay oo lagu aasaasay kuna shaqaynaysa shuruucda Singapore, c"
+    },
+    {
+      "id": "n_e98f4d8449",
+      "type": "news",
+      "title": "Puntland issues a warning regarding weapons carried within the city of Badhan.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-issues-a-warning-regarding-weapons-carried-within-the-city-of-badhan/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Military",
+        "Security",
+        "Puntland"
+      ],
+      "excerpt": "The Puntland administration announced that, effective today in the city of Badhan (Sanaag region), legal action will be taken against anyone seen carrying weapons or using military-style vehicles that do not belong to the official security forces.  Fu&#8217;aad Xaanano, the State Minister for Securi"
+    },
+    {
+      "id": "n_cadd6fd153",
+      "type": "news",
+      "title": "South West State warns civilians against areas where Laftagareen’s forces and Al-Shabaab are present.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/south-west-state-warns-civilians-against-areas-where-laftagareens-forces-and-al-shabaab-are-present/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Airstrikes"
+      ],
+      "excerpt": "The minister stated that the Southwest administration is planning airstrikes and operations against Al-Shabaab, warning the public against remaining in or near locations where Laftagareen’s forces and the militant group are present.  &#8220;We are targeting Al-Shabaab militants in Southwest regions "
+    },
+    {
+      "id": "n_29bb714b06",
+      "type": "news",
+      "title": "Somalia warns against the use of new technology by terrorists.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-warns-against-the-use-of-new-technology-by-terrorists/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "Somalia’s Ambassador to the United Nations Security Council, Ambassador Abukar Baalle, stated that the terrorist threat is constantly evolving, noting that these groups are rapidly exploiting new technologies.  Ambassador Baalle noted that terrorist groups use social media to recruit and attract new"
+    },
+    {
+      "id": "n_77a7cfff74",
+      "type": "news",
+      "title": "The Commander of the 21st Division visited the Xananbuure camp, where troops are being prepared.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-commander-of-the-21st-division-visited-the-xananbuure-camp-where-troops-are-being-prepared/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Military",
+        "Galmudug"
+      ],
+      "excerpt": "Colonel Mohamed Abdi Dahir (Mohamed Dhagaweyne), Commander of the 21st Division of the National Army, visited the Xananbuure military camp in the Galgaduud region yesterday afternoon. There, he met with a military unit currently preparing to participate in an upcoming military offensive in Galmudug."
+    },
+    {
+      "id": "n_7b4e980119",
+      "type": "news",
+      "title": "The National Army has taken control of the Geel-gub area and bases in Middle Shabelle.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-national-army-has-taken-control-of-the-geel-gub-area-and-bases-in-middle-shabelle/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab"
+      ],
+      "excerpt": "The Somali National Army—specifically units from the Gorgor Commandos and Special Forces—announced that they have seized control of the Geel-gub area and key bases in the Middle Shabelle region during an operation against Al-Shabaab. The operation involved the 18th Brigade of the Gorgor Commandos, t"
+    },
+    {
+      "id": "n_738ab3c1e3",
+      "type": "news",
+      "title": "Inter-clan fighting enters its second day in Cowsweyne and Laanraydab, Galgaduud.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/inter-clan-fighting-enters-its-second-day-in-cowsweyne-and-laanraydab-galgaduud/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Clan Conflict",
+        "Maritime"
+      ],
+      "excerpt": "Fighting between two related clans sharing the area has been ongoing for a second day in the Cowsweyne locality of the Galgaduud region, with reports indicating casualties—both dead and wounded. The conflict erupted specifically in the village of Laanraydab—part of the Ali Afrax area in Galcad distr"
+    },
+    {
+      "id": "n_d9fa3d06b8",
+      "type": "news",
+      "title": "Turkish Ambassador: Somalia will launch a satellite into space for the first time in 2027.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/turkish-ambassador-somalia-will-launch-a-satellite-into-space-for-the-first-time-in-2027/",
+      "date": "2026-09-12",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "The Turkish Ambassador to Somalia announced that Somalia will launch a satellite into space for the first time in 2027, noting that Turkey is collaborating with Somalia on space-related projects.  The ambassador stated that this plan would be implemented in the Warsheekh area, where a facility dedic"
+    },
+    {
+      "id": "n_28902bc6d8",
+      "type": "news",
+      "title": "US visa sanctions expose the limits of diplomatic pragmatism",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/04/us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism/?utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism&utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism",
+      "date": "2026-08-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Washington risks prioritizing political expediency over justice after mass atrocity.\nThe post US visa sanctions expose the limits of diplomatic pragmatism appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_a33543ee8f",
+      "type": "news",
+      "title": "BRICS Summit Calls for Sweeping Global Reforms, Rejects Unilateral Tariffs",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52792/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "On Saturday, the 18th BRICS Summit underway in India adopted the New Delhi Declaration, launching a direct challenge to the current global political and financial order. Representing nearly half of the world&#8217;s population, member nations called for a structural overhaul of the United Nations, a"
+    },
+    {
+      "id": "n_a8d86214fa",
+      "type": "news",
+      "title": "BRICS Summit Endorses Ethiopia’s WTO Bid, Backs Key Global Roles for Addis Ababa",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52789/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The 18th BRICS Summit concluded in New Delhi with a strong vote of confidence for Ethiopia’s economic and diplomatic agenda, as member nations explicitly endorsed the country’s accession to the World Trade Organization (WTO) and backed its leadership for major international roles. In the joint New D"
+    },
+    {
+      "id": "n_189ebd6c17",
+      "type": "news",
+      "title": "FCDO-backed Initiative targets de-risking early-stage investments in Ethiopia",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52786/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "&#8211; UK Development Director Urges Ethiopian Entrepreneurs to Strengthen Investor Links The UK Foreign, Commonwealth and Development Office (FCDO) aims to bridge the persistent startup funding gap in Ethiopia by equipping local entrepreneurs with practical fundraising tools and strengthening thei"
+    },
+    {
+      "id": "n_be4b7e0d5e",
+      "type": "news",
+      "title": "Preserving Soulful Grooves:",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52773/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Maestro arranger Dawit Yifru on the lost magic of New Year releases, the golden era nostalgia, and artists’ modern battles Dawit Yifru stands as one of the most pivotal figures in modern Ethiopian music history—a master keyboardist, composer, and arranger whose work across six decades has profoundly"
+    },
+    {
+      "id": "n_4588ad5701",
+      "type": "news",
+      "title": "Madingo’s Final Voice: Posthumous Studio Album Nears Release",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52770/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "The final recordings of the late artist Madingo Afework are slated for publication as a posthumous album at the end of Meskerem 2019 EC (October 2026), marking a major cultural milestone for the Ethiopian music industry in the New Year. The Reporter confirmed the upcoming release with the artist’s f"
+    },
+    {
+      "id": "n_ae84a083bf",
+      "type": "news",
+      "title": "Dialogue Commission to Submit Final Recommendations Ahead of Parliamentary Transition",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52767/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "The National Dialogue Commission (NDC) will present its complete dialogue report, participant recommendations, and an implementation strategy to the House of Peoples&#8217; Representatives (HoPR) before September 22, 2026, chief commissioner Mesfin Araya (PhD) announced in a press briefing on Thursd"
+    },
+    {
+      "id": "n_bc2ca0f9ea",
+      "type": "news",
+      "title": "GERD Output Surpasses Design Estimates by 17% in First Year, Consortium Urges Focus on Domestic Access",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52764/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Grand Ethiopian Renaissance Dam (GERD) generated approximately 17 percent more electricity than its initial long-term annual estimates during its first year of operation, according to a statement released by the GERD International Collaborative Consortium (GICC). Marking the landmark facility&#8"
+    },
+    {
+      "id": "n_5bc9dfbdcd",
+      "type": "news",
+      "title": "A New Year, An Old Challenge: Ethiopia’s Unfinished Transition",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52760/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security"
+      ],
+      "excerpt": "As Ethiopians woke up yesterday to 2019, it was time for the nation to reflect on a year that has tested its resilience in profound ways. Defined by the complex, often turbulent turn of events on the political, security and economic spheres 2018 was a consequential year to say the least. From the ha"
+    },
+    {
+      "id": "n_67cd1b515d",
+      "type": "news",
+      "title": "Over 600 Prisoners Freed -Including Opposition Leaders, via Amnesty and Dropped Charges",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52757/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "More than 600 federal prisoners, including prominent opposition party leaders, were released on Thursday after the government dropped charges and granted pardons following a five-month advocacy campaign by the Ethiopian Human Rights Commission (EHRC). The release includes MP Christian Tadele- member"
+    },
+    {
+      "id": "n_50537da17f",
+      "type": "news",
+      "title": "Watershed Moments: Recapping the Defining Turning Points of 2018 E.C",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52743/",
+      "date": "2026-09-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security"
+      ],
+      "excerpt": "As Ethiopia concludes the historic chapter of 2018 E.C., the nation stands at the threshold of a dynamic new era. The outgoing year brought defining turning points across political, economic, diplomatic, and security fronts—from landmark sovereign debt restructuring and the birth of capital markets "
+    },
+    {
+      "id": "n_4cd22039d6",
+      "type": "news",
+      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+      "date": "2026-09-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Displacement"
+      ],
+      "excerpt": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict."
+    },
+    {
+      "id": "n_226c6144a2",
+      "type": "news",
+      "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+      "date": "2026-09-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike"
+    },
+    {
+      "id": "n_e6018afd40",
+      "type": "news",
+      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+      "date": "2026-09-13",
+      "region": "Djibouti",
+      "tags": [
+        "Houthis",
+        "Djibouti"
+      ],
+      "excerpt": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait."
+    },
+    {
+      "id": "n_1297ee1c57",
+      "type": "news",
+      "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+      "date": "2026-09-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "n_3f381d1252",
+      "type": "news",
+      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+      "date": "2026-09-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "The Houthis say they carried out a strike targeting a Saudi military base in Sharurah, Najran province."
+    },
     {
       "id": "n_c66c317fd4",
       "type": "news",
@@ -3932,389 +4291,6 @@
         "African Union"
       ],
       "excerpt": "Addis Ababa, Adama, Hawassa, Bahirdar identified as more exposed The Ethiopian Environmental Protection Authority (EPA) has acquired its first specialized analyzer to detect hazardous heavy metals—a major breakthrough in a country where lead poisoning affects millions of children, yet data-driven te"
-    },
-    {
-      "id": "n_dc2f64bd0c",
-      "type": "news",
-      "title": "Deputy Customs Commissioner Among Officials Caught Up in Financial Crime Crackdown",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52209/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "Azezew Chane, deputy head of the Customs Commission, is among nearly 100 government officials taken into police custody as part of a financial investigation that uncovered alleged networks within the revenues and customs administration that manipulated tax assessments, processed forged payment recei"
-    },
-    {
-      "id": "n_4a65f941ee",
-      "type": "news",
-      "title": "ESX Unveils New Trading Manual Outlining Trade Cancellation Rules, Block Trade Thresholds",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52206/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Ethiopian Securities Exchange (ESX) has released a new trading manual establishing clear regulatory standards for trade cancellations and block trading as the country’s capital market prepares for full operational deployment. ESX’s Main Market Trading Manual, establishing operational protocols f"
-    },
-    {
-      "id": "n_f1bf9eba09",
-      "type": "news",
-      "title": "Rooting for the Future: High Ambition, Ecological Realities, and the Legacy of Ethiopia’s Mass Tree Planting",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52202/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Across the highlands, valleys, and agricultural landscapes of Ethiopia, a quiet revolution of spades, saplings, and collective labor has redefined the nation’s environmental policy over the past seven years. In a single twelve-hour campaign, more than 26 million citizens—farmers, students, civil ser"
-    },
-    {
-      "id": "n_a8aefc2cd5",
-      "type": "news",
-      "title": "What young Kenyan men say when no one is watching",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/what-young-kenyan-men-say-when-no-one-is-watching/?utm_source=rss&utm_medium=rss&utm_campaign=what-young-kenyan-men-say-when-no-one-is-watching",
-      "date": "2026-08-09",
-      "region": "Kenya",
-      "tags": [
-        "Kenya",
-        "African Union"
-      ],
-      "excerpt": "A young Kenyan man recently sent this anonymous message to a chatbot late at night: “Mbogi wanasema mimi si mwanaume nisipolala na huyo mama… tangu lini mtu ashajiita mwanaume kwa sababu ya kulala na wanawake?” (“My crew tells me I’m not a man if I don’t sleep with her. Since when did sleeping with "
-    },
-    {
-      "id": "n_f9b6684c82",
-      "type": "news",
-      "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
-      "date": "2026-08-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea."
-    },
-    {
-      "id": "n_75444f7d24",
-      "type": "news",
-      "title": "New Houthi missile and drone attacks kill seven in Yemen’s al-Makha",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
-      "date": "2026-08-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Maritime"
-      ],
-      "excerpt": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha and its commercial port."
-    },
-    {
-      "id": "n_76ebbf2c37",
-      "type": "news",
-      "title": "Houthi attack on Mocha kills seven, Yemeni military says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attack-mocha-kills-seven-yemeni-military-says",
-      "date": "2026-08-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "Houthi attack on Mocha kills seven, Yemeni military says \n\n    \n    \n\n        \n    \n                The Yemeni military said early on Monday that a Houthi attack on the Red Sea port city of Mocha killed seven people,&nbsp;including military personnel and civilians, and wounded 30 others.\n\n&nbsp;The "
-    },
-    {
-      "id": "n_a804537294",
-      "type": "news",
-      "title": "Somalia: Puntland seizes third federal base",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-third-federal-base-carmo-bari/",
-      "date": "2026-08-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Security",
-        "Puntland"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland security forces seized a third military base from Somalia&#8217;s federal government on Saturday, part of a sweeping campaign to strip Mogadishu-aligned troops from the region and place the use of force exclusively under regional authority. Regional police"
-    },
-    {
-      "id": "n_6eb64d9ab2",
-      "type": "news",
-      "title": "Irro tells foreign diplomats in Nairobi: Engage Somaliland as sovereign state, not extension of Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/irro-somaliland-nairobi-diplomats-sovereign-state-somalia/",
-      "date": "2026-08-08",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somaliland President Abdirahman Mohamed Abdullahi Irro urged Western diplomats on Friday to engage his administration as a sovereign, capable partner rather than an extension of Somalia, pressing the case for deeper international cooperation on security and peace. "
-    },
-    {
-      "id": "n_c0165b6a75",
-      "type": "news",
-      "title": "NISA announces that its forces apprehend nine individuals in Mogadishu accused of being members of Al-Shabaab.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nisa-announces-that-its-forces-apprehend-nine-individuals-in-mogadishu-accused-of-being-members-of-al-shabaab/",
-      "date": "2026-08-08",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "The National Intelligence and Security Agency (NISA) said on Friday that its forces successfully detained at least 9 Al-Shabab operatives who are suspected of planning to carry out acts of insecurity in Somalia’s capital, Mogadishu and its surrounding areas. In a statement issued by NISA, the indivi"
-    },
-    {
-      "id": "n_cc7f6df060",
-      "type": "news",
-      "title": "Somalia, Pakistan sign an agreement to strengthen defense and security cooperation.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-pakistan-sign-an-agreement-to-strengthen-defense-and-security-cooperation/",
-      "date": "2026-08-07",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security"
-      ],
-      "excerpt": "Pakistan and Somalia officially signed a Memorandum of Understanding (MOU) between the defense ministries of the two countries which aims to expand the strategic partnership in the areas of defense, security and the advancements of the military capabilities. The defense partnership was signed in Isl"
-    },
-    {
-      "id": "n_3f313e4012",
-      "type": "news",
-      "title": "Jubaland President and AFRICOM officials discuss ways to  accelerate the war against Al-Shabaab.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/jubaland-president-and-africom-officials-discuss-ways-to-accelerate-the-war-against-al-shabaab/",
-      "date": "2026-08-07",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "African Union",
-        "Jubaland"
-      ],
-      "excerpt": "Jubaland regional President, Mr. Ahmed Mohamed Islam known as Ahmed Madobe, held high level discussions with the Commander of Special Operations U.S. Africa Command (AFRICOM), Major General Claude K. Tudor Jr. and other AFRICOM senior officials. The in-depth discussions between the two sides centere"
-    },
-    {
-      "id": "n_cee5d9afc6",
-      "type": "news",
-      "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-      "date": "2026-08-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’."
-    },
-    {
-      "id": "n_b8f67aec4b",
-      "type": "news",
-      "title": "Somalia: Puntland seizes second federal camp, alleges China-donated arms diverted",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-second-federal-camp-china-arms-diverted/",
-      "date": "2026-08-06",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Northeastern Somalia&#8217;s Puntland security forces seized a second military camp belonging to federal government-aligned troops within 24 hours on Thursday, capturing a command centre in the commercial port city of Bosaso a day after a fierce gun battle handed r"
-    },
-    {
-      "id": "n_2fb10f07bc",
-      "type": "news",
-      "title": "Somaliland, AFRICOM hold talks in Germany regarding defense and maritime security cooperation.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-africom-hold-talks-in-germany-regarding-defense-and-maritime-security-cooperation/",
-      "date": "2026-08-06",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Somaliland’s Defense Minister, Mr. Mohamed Yusuf Ali, leading a high-powered delegation recently paid an official working visit to the United States Africa Command (AFRICOM) center in the city of Stuttgart, Germany, where he held a high-level meeting with AFRICOM top officials. The two sides held di"
-    },
-    {
-      "id": "n_78dcb87da5",
-      "type": "news",
-      "title": "Federal forces have withdrawn from North Galkayo and moved towards Galgaduud.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/federal-forces-have-withdrawn-from-north-galkayo-and-moved-towards-galgaduud/",
-      "date": "2026-08-06",
-      "region": "Somalia",
-      "tags": [
-        "Military",
-        "Security",
-        "Puntland",
-        "Maritime"
-      ],
-      "excerpt": "Former Puntland Security Force but later affiliated with the Somali Federal Government forces last night abandoned its military headquarters that lies north of Galkayo, according to reliable sources. Reports further indicate that these forces left for Galguduud province after they received informati"
-    },
-    {
-      "id": "n_882acc8f6f",
-      "type": "news",
-      "title": "Deputy Customs Commission among 91 economic crime suspects",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52161/",
-      "date": "2026-08-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopian Customs Commission deputy commissioner Azezew Chane is among 91 detainees suspected of organized economic crimes. Investigations uncovered alleged networks within the revenues and customs administration that manipulated tax assessments, processed forged payment receipts and deleted electro"
-    },
-    {
-      "id": "n_3ec2760549",
-      "type": "news",
-      "title": "Addis Standard Editor Secures Release, Publisher’s Office Raided by Security Forces",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52158/",
-      "date": "2026-08-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Security"
-      ],
-      "excerpt": "Yonas Kedir, the editor-in-chief of the widely read Addis Standard, has secured his release from custody of security forces. Jakenn Publishing PLC, publisher of Addis Standard, announced the editor’s release in a statement issued today. The publisher also stated that its office space in Addis Ababa "
-    },
-    {
-      "id": "n_62a18eafa5",
-      "type": "news",
-      "title": "Somalia: The Journalists Who Disappeared",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/somalia-the-journalists-who-disappeared/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-the-journalists-who-disappeared",
-      "date": "2026-08-06",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "In October 2022, Abdalle Ahmed Mumin — Secretary-General of the Somali Journalists Syndicate (SJS), the organisation that documents what happens to journalists in Somalia — arrived at Aden Adde International Airport in Mogadishu carrying a ticket to Nairobi. He was travelling to seek medical care fo"
-    },
-    {
-      "id": "n_9a9a511ef1",
-      "type": "news",
-      "title": "Somalia: Puntland seizes federal-aligned base in Galkayo",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-seizes-federal-aligned-base-galkayo/",
-      "date": "2026-08-05",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland security forces on Wednesday seized a military base in the northern part of Galkayo that had been held by forces aligned with Somalia&#8217;s federal government, marking the latest and most significant escalation in the long-running political and military "
-    },
-    {
-      "id": "n_fd9f4826be",
-      "type": "news",
-      "title": "Air India Names Former Ethiopian Airlines Head as CEO, Managing Director",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52155/",
-      "date": "2026-08-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Air India’s Board of Directors on Wednesday announced the appointment of aviation veteran Tewolde Gebremariam as CEO and Managing Director, succeeding Campbell Wilson. The executive transition comes as the Tata Group-owned carrier transitions from its initial stabilization and integration phase into"
-    },
-    {
-      "id": "n_10659c1dd9",
-      "type": "news",
-      "title": "Why Ethiopia’s Conflicts Keep Returning: The Question Ethiopia’s National Dialogue Cannot Avoid",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/why-ethiopias-conflicts-keep-returning-the-question-ethiopias-national-dialogue-cannot-avoid/?utm_source=rss&utm_medium=rss&utm_campaign=why-ethiopias-conflicts-keep-returning-the-question-ethiopias-national-dialogue-cannot-avoid",
-      "date": "2026-08-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "As Ethiopia’s National Dialogue seeks to chart a path toward peace, it faces an immense task. The Dialogue aims to address some of the country’s most difficult political, historical, institutional, social, and peacebuilding questions. Yet its success may ultimately depend on confronting a more basic"
-    },
-    {
-      "id": "n_4fb6495a62",
-      "type": "news",
-      "title": "Renegotiating Military Immunity: Kenya’s New Terms for Foreign Troops",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/renegotiating-military-immunity-kenyas-new-terms-for-foreign-troops/?utm_source=rss&utm_medium=rss&utm_campaign=renegotiating-military-immunity-kenyas-new-terms-for-foreign-troops",
-      "date": "2026-08-06",
-      "region": "Kenya",
-      "tags": [
-        "Kenya",
-        "Military"
-      ],
-      "excerpt": "In July 2026, Britain suspended one of its flagship military exercises in Kenya after Nairobi withheld the licences required for troops to train in Laikipia. Five days later, the two governments reached an agreement allowing Exercise Haraka Storm to proceed. The immediate diplomatic crisis ended, bu"
-    },
-    {
-      "id": "n_fc7a9920fb",
-      "type": "news",
-      "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
-      "date": "2026-08-06",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Israel",
-        "Maritime"
-      ],
-      "excerpt": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon."
-    },
-    {
-      "id": "n_46395992e7",
-      "type": "news",
-      "title": "Somalia’s president, international partners hold fresh talks to break electoral deadlock",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-international-partners-electoral-deadlock-talks/",
-      "date": "2026-08-04",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; President Hassan Sheikh Mohamud met international partners on Tuesday as diplomatic efforts gathered pace to ease growing political tensions over Somalia&#8217;s electoral process and encourage dialogue between the federal government and the opposition. The discuss"
-    },
-    {
-      "id": "n_dc57c5ff3f",
-      "type": "news",
-      "title": "Somalia, Pakistan sign defence cooperation pact in Islamabad",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pakistan-sign-defence-cooperation-pact-islamabad/",
-      "date": "2026-08-04",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia and Pakistan have signed a memorandum of understanding to deepen cooperation in defence, security and military capacity building, Somalia&#8217;s Ministry of Defence said on Tuesday. The agreement was signed in Islamabad by Somalia&#8217;s Defence Minister,"
     }
   ],
   "articles": [
