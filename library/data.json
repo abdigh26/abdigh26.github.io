@@ -1,6 +1,223 @@
 {
-  "last_updated": "2026-09-13T11:04:05.736621+00:00",
+  "last_updated": "2026-09-14T11:46:00.481769+00:00",
   "news": [
+    {
+      "id": "n_38b9f93c6c",
+      "type": "news",
+      "title": "Somalis rethink trade routes as Houthis disrupt Red Sea shipping",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalis-rethink-trade-routes-as-houthis-disrupt-red-sea-shipping/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s business community is seeking alternative shipping routes due to disruptions and security concerns around the Bab al-Mandab Strait and the Strait of Hormuz after Iran-backed Houthis captured a key port city and an island, sending thousands of Yemenis flee"
+    },
+    {
+      "id": "n_818088d075",
+      "type": "news",
+      "title": "Somalia: Mogadishu could fall without AU troops, says ex-minister",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-fall-risk-aynte-aussom-withdrawal/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Mogadishu &#8220;cannot be defended&#8221; if African Union troops withdraw from the country by December, Somalia&#8217;s former Minister of Planning Abdirahman Aynte said, adding that US diplomats have told Somali officials Washington will not reverse its decision"
+    },
+    {
+      "id": "n_6933a0671d",
+      "type": "news",
+      "title": "Garaarta, an area under the administration of Waajid, has been struck by artillery fire.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/garaarta-an-area-under-the-administration-of-waajid-has-been-struck-by-artillery-fire/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Reports from the Bakool region indicate that several mortar shells landed in the vicinity of Garaarta—an area falling under the jurisdiction of Wajid district—sparking fresh security fears and anxiety among local residents. Locals reported the shelling in the Garaarta area over the past few hours; h"
+    },
+    {
+      "id": "n_3e67d70822",
+      "type": "news",
+      "title": "Danab forces capture Al-Shabaab members during an operation.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/danab-forces-capture-al-shabaab-members-during-an-operation/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Danab",
+        "Militia"
+      ],
+      "excerpt": "The specially trained Danab Commando forces—specifically the Danab Special unit—conducted a planned operation south of the Leego area in the Bay region. During the operation, the forces captured two members of the Al-Shabaab militia and seized two AK-47 rifles. The troops also destroyed a site ident"
+    },
+    {
+      "id": "n_33c4d4f2c0",
+      "type": "news",
+      "title": "Commander of the Ground Forces inspected army positions on the outskirts of Baidoa.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/commander-of-the-ground-forces-inspected-army-positions-on-the-outskirts-of-baidoa/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Security"
+      ],
+      "excerpt": "General Sahal Abdullahi Omar, Commander of the National Army&#8217;s Ground Forces, remains in Baidoa to oversee efforts to strengthen security and coordinate the Armed Forces. The Commander is participating in meetings focused on security and planning a joint operation involving the National Army a"
+    },
+    {
+      "id": "n_cfe1b04d34",
+      "type": "news",
+      "title": "Turkish Ambassador Pledges that Ankara will continue its support for Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/turkish-ambassador-pledges-that-ankara-will-continue-its-support-for-somalia/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "Turkey’s Ambassador to Somalia, Alper Aktaş, has announced the conclusion of his tenure in Mogadishu, stating that he is moving to a new post in Skopje, North Macedonia. Aktaş, who has served as ambassador to Somalia since March 2024, expressed that he considered it a great honor to work on strength"
+    },
+    {
+      "id": "n_a68bac75e0",
+      "type": "news",
+      "title": "Somaliland Human Rights Commission expresses concern over the arrest of journalists and a poet in Hargeisa.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-human-rights-commission-expresses-concern-over-the-arrest-of-journalists-and-a-poet-in-hargeisa/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The Somaliland Human Rights Commission has expressed concern regarding the detention of poet Ismaaciil Yuusuf (Jiheeye), journalist Cabdiqani Xuseen Abokor (Baylood), and journalist Xasan Saleebaan Haaruun (Galaydh), stating that some of them were detained without adherence to legal procedures.  In "
+    },
+    {
+      "id": "n_7c51fef9b2",
+      "type": "news",
+      "title": "ACLED states that Al-Shabaab remains the most powerful group among those affiliated with Al-Qaeda.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/acled-states-that-al-shabaab-remains-the-most-powerful-group-among-those-affiliated-with-al-qaeda/",
+      "date": "2026-09-13",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "A new report by the Armed Conflict Location &#38; Event Data Project (ACLED) states that Al-Shabaab remains the most powerful non-state armed group in Somalia and the most violent Al-Qaeda affiliate globally. ACLED notes that Al-Shabaab is waging a long-standing insurgency in Somalia, maintaining co"
+    },
+    {
+      "id": "n_287856c1d7",
+      "type": "news",
+      "title": "US-Africa Week Ahead: New Africa diplomats, Somaliland courts Trump; diaspora day on Capitol Hill",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/430591/us-africa-week-ahead-new-african-diplomats-somaliland-courts-trump-diaspora-day-on-capitol-hill/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The US Senate hosts back-to-back nomination hearings for Trump’s ambassadorial picks across the continent. President Irro presents his case for US recognition of Somaliland, while the agenda for the third annual Diaspora Day includes trade, critical minerals and AI."
+    },
+    {
+      "id": "n_a29d331e98",
+      "type": "news",
+      "title": "Western Tigray: Shifting alliances in Ethiopia’s most dangerous frontier",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/430432/western-tigray-shifting-alliances-in-ethiopias-most-dangerous-frontier/",
+      "date": "2026-09-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "A month of contained fighting masks a bigger struggle over Welkait, the bitterly contested territory in western Tigray – with Sudan and a possible Eritrea-Fano-TPLF alignment against Abiy Ahmed strengthening if Addis Ababa loses control."
+    },
+    {
+      "id": "n_bdb248124a",
+      "type": "news",
+      "title": "US may be ‘forced to intervene’ in the Red Sea",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/us-may-be-forced-to-intervene-in-the-red-sea?traffic_source=rss",
+      "date": "2026-09-14",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea"
+      ],
+      "excerpt": "US may be &#039;forced to intervene&#039; in the Red Sea"
+    },
+    {
+      "id": "n_524c99454f",
+      "type": "news",
+      "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
+      "date": "2026-09-14",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive."
+    },
+    {
+      "id": "n_dfb14d802a",
+      "type": "news",
+      "title": "Can fractured pro-government forces stop the Houthi advance in Yemen?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/airstrikes-hit-houthi-targets-mocha-and-fierce-battles-are-ongoing-west-taiz",
+      "date": "2026-09-14",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "Can fractured pro-government forces stop the Houthi advance in Yemen?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE correspondent\n on \nMon, 09/14/2026 - 09:37\n\n        \n      \n    \n      \n    \n                After seizing the entire Red Sea coast, the Houthis are attempting to adva"
+    },
+    {
+      "id": "n_1821cf5a72",
+      "type": "news",
+      "title": "Houthis seize key Hanish islands in southern Red Sea",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-seize-key-hanish-islands-southern-red-sea",
+      "date": "2026-09-14",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Maritime"
+      ],
+      "excerpt": "Houthis seize key Hanish islands in southern Red Sea\n\n    \n    \n\n        \n    \n                Yemen’s Houthis have captured the strategic Greater and Lesser Hanish islands in the southern Red Sea, tightening their grip around the Bab al-Mandeb shipping route, government and Houthi officials told th"
+    },
+    {
+      "id": "n_89d9e768a4",
+      "type": "news",
+      "title": "Houthis threaten attacks on Saudi military targets over Yemen blockade",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-threaten-attacks-saudi-military-targets-over-yemen-blockade",
+      "date": "2026-09-14",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Houthis threaten attacks on Saudi military targets over Yemen blockade\n\n    \n    \n\n        \n    \n                Houthi military spokesman Yahya Saree said the group will continue to attack Saudi military positions until what he called the aggression against Yemen ends and the blockade on Houthi-con"
+    },
     {
       "id": "n_7099476ed5",
       "type": "news",
@@ -4075,222 +4292,6 @@
         "Maritime"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United Nations Support Office in Somalia (UNSOS) has opened a public tender for licensed auctioneers to liquidate a sprawling inventory of mission property, from vehicles and heavy construction machinery to modular housing units and medical laboratories, in the"
-    },
-    {
-      "id": "n_b8ef60acb8",
-      "type": "news",
-      "title": "Kampala summit fails to secure Somalia’s AUSSOM future",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/aussom-somalia-kampala-summit-fails/",
-      "date": "2026-08-09",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A summit convened specifically to keep Somalia&#8217;s African Union peacekeeping mission functioning has instead confirmed how unresolved its future remains, according to Amani Africa&#8216;s analysis of the gathering, published this week under the title &#8220;Wi"
-    },
-    {
-      "id": "n_90a6ef032b",
-      "type": "news",
-      "title": "Turkish Defense Minister meets with the Somali Army Chief Ankara.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/turkish-defense-minister-meets-with-the-somali-army-chief-ankara/",
-      "date": "2026-08-10",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Turkish Defense Minister, Mr. Yasar Guler met and held a high-level discussion with Somalia’s Army Chief, General Ibrahim Mohamed Mohamud while Turkish Army Chief, General Selcuk Bayraktaroglu was in attendance at the meeting. The meeting took place on Monday and is part of the high-level engagement"
-    },
-    {
-      "id": "n_15c5c05a3e",
-      "type": "news",
-      "title": "Ethiopia withdraws its AUSSOM troops from the district of Buurhakaba.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/ethiopia-withdraws-its-aussom-troops-from-the-district-of-buurhakaba/",
-      "date": "2026-08-10",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia",
-        "African Union",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Ethiopian Defense Forces, specifically those that are serving under the African Union Support and Stabilization Mission in Somalia (AUSSOM) have officially withdrawn from Buurhakaba District in Bay region, while the security responsibility of Buurhakaba Forward Operating Base (FOB) has been official"
-    },
-    {
-      "id": "n_821e682dac",
-      "type": "news",
-      "title": "Army Chief of Somalia’s National Army may Recall Ali Jeyte Osman in order to lead Ma’awisley Forces",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/army-chief-of-somalias-national-army-may-recall-ali-jeyte-osman-in-order-to-lead-maawisley-forces/",
-      "date": "2026-08-10",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "Reports from Mogadishu indicate that the Army Chief of Somalia, General Ibrahim Mohamed Mohamud is considering the possibility of recalling Mr. Ali Jeyte Osman into active military service in order to lead the local defense forces known as “Ma’awisley” in the Hiiraan region. The Army Chief is spearh"
-    },
-    {
-      "id": "n_9e534a1c9b",
-      "type": "news",
-      "title": "The Eritrean Script Exposes Ethiopia’s Unity Farce",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/10/the-eritrean-script-exposes-ethiopias-unity-farce/?utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce&utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce",
-      "date": "2026-08-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "Addis’ Tigray policies echo the mistakes that drove Eritrea away. Karl Marx famously observed that history repeats itself, first as tragedy, then as farce. Ethiopia is now living the second half of that maxim. The three-decade war that ended with Eritrea&#8217;s independence was the tragedy. What is"
-    },
-    {
-      "id": "n_782679e1ca",
-      "type": "news",
-      "title": "Who is Aman?",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52249/",
-      "date": "2026-08-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Greetings everyone. Is everything Aman? Allow us to introduce ourselves. We are Aman Properties. As a sister company of Amanet Group, a name recognized for its contribution to construction, riverside developments in Addis Ababa, and diverse business ventures, we are entering the real estate sector w"
-    },
-    {
-      "id": "n_91162e9cf5",
-      "type": "news",
-      "title": "Israel’s recognition of Somaliland creates a diplomatic quandary",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/427117/israels-recognition-of-somaliland-creates-a-diplomatic-quandary/",
-      "date": "2026-08-11",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Israel"
-      ],
-      "excerpt": "While Somaliland celebrated being officially recognised by Israel, that acceptance has come with a price."
-    },
-    {
-      "id": "n_d4e83ec7d9",
-      "type": "news",
-      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
-      "date": "2026-08-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people."
-    },
-    {
-      "id": "n_2286d21e42",
-      "type": "news",
-      "title": "Fueling the Fire: How Pakistan’s Arms Deliveries to Sudan Resonate from the Red Sea to Balochistan",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52234/",
-      "date": "2026-08-08",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "The recent arrival and first public sighting of 100 Pakistani-made Mohafiz-V armored vehicles during a military parade in Khartoum marks a significant operational shift in Sudan’s ongoing civil conflict. The Pakistani-supplied armored vehicles were paraded by Sudanese Armed Forces (SAF), and reporte"
-    },
-    {
-      "id": "n_c0c353c005",
-      "type": "news",
-      "title": "EIH Cannot Substitute for True Sovereign Wealth Fund, Says AfDB Report",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52228/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Bank projects Ethiopia’s 2026/27 growth at 8.7pct A comprehensive report issued by the African Development Bank (AfDB) warns that Ethiopian Investment Holdings (EIH) cannot serve as a substitute for a true sovereign wealth fund (SWF) due to Ethiopia&#8217;s ongoing macro-fiscal vulnerabilities. The "
-    },
-    {
-      "id": "n_120997a428",
-      "type": "news",
-      "title": "INSA Introduces Critical Infrastructure Cybersecurity Fund",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52225/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Security"
-      ],
-      "excerpt": "The Information Network Security Administration (INSA) has introduced a landmark Critical Infrastructure Cybersecurity Protection Proclamation, with officials hoping the legislation will play a key role in reinforcing national digital sovereignty. A core feature of the proclamation is the establishm"
-    },
-    {
-      "id": "n_a7a4d46512",
-      "type": "news",
-      "title": "Commission Report Highlights Growing Public Grievance with Corruption",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52223/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "Over 60 percent of responders to a nationwide survey conducted by the Federal Anti-Corruption Commission were of the opinion that corruption has worsened over the past five years, describing the scourge as a serious national problem. The findings of the fourth National Corruption Perception Survey w"
-    },
-    {
-      "id": "n_00d778c7e6",
-      "type": "news",
-      "title": "DBE Designates Client Credit Info as Permanently Classified",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52220/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The Development Bank of Ethiopia (DBE) has introduced a slate of new policies tied to privacy, fraud monitoring, and anti-money laundering as part of an overhaul under Ethiopian Investment Holdings (EIH) and new bank president Esayas Kassa (PhD). Esayas, former deputy head of the Ethiopian Capital M"
-    },
-    {
-      "id": "n_1ebc8186f7",
-      "type": "news",
-      "title": "After Four Years of Fragile Peace, Ethiopia Flirts With War Again",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52215/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "On August 1, as Ethiopia&#8217;s national dialogue entered its third week, the sound of artillery and drones cast a dark shadow over what was being said in the dialogue&#8217;s plenary halls. Fighting erupted before dawn around Shererina, a small town in Tigray near the Sudanese border, between the "
-    },
-    {
-      "id": "n_39cd4210ed",
-      "type": "news",
-      "title": "EPA Acquires First Field Scanner to Combat Lead Poisoning and Toxic Contamination",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52212/",
-      "date": "2026-08-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Addis Ababa, Adama, Hawassa, Bahirdar identified as more exposed The Ethiopian Environmental Protection Authority (EPA) has acquired its first specialized analyzer to detect hazardous heavy metals—a major breakthrough in a country where lead poisoning affects millions of children, yet data-driven te"
     }
   ],
   "articles": [
