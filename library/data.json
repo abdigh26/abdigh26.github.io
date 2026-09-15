@@ -1,6 +1,224 @@
 {
-  "last_updated": "2026-09-14T11:46:00.481769+00:00",
+  "last_updated": "2026-09-15T11:02:50.711757+00:00",
   "news": [
+    {
+      "id": "n_bf3e06beed",
+      "type": "news",
+      "title": "Trump nominates Kennington as US ambassador to Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/trump-nominates-devin-kennington-us-ambassador-somalia/",
+      "date": "2026-09-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; President Donald Trump has nominated Devin Kennington, of California, to serve as Ambassador Extraordinary and Plenipotentiary of the United States to the Federal Republic of Somalia, the White House announced Monday, moving to fill a post that has sat vacant since"
+    },
+    {
+      "id": "n_491eec0ed0",
+      "type": "news",
+      "title": "Southwest Somalia conflict risks spiraling into inter-clan war, ACLED warns",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/southwest-somalia-conflict-risks-spiraling-inter-clan-war-acled-warns/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu",
+        "Clan Conflict"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A political and military standoff in Somalia&#8217;s Southwest state risks escalating beyond a power struggle into a protracted inter-clan conflict that could destabilize the wider Bay region, the Armed Conflict Location &#38; Event Data Project (ACLED) said in a n"
+    },
+    {
+      "id": "n_ecd5c99aa4",
+      "type": "news",
+      "title": "Somalia’s Independent Human Rights Commission Chairperson Meets with Head of UNTMIS",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalias-independent-human-rights-commission-chairperson-meets-with-head-of-untmis/",
+      "date": "2026-09-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "The Chairperson of the Independent Human Rights Commission of Somalia, Dr. Maryan Qasim, met in Mogadishu with the Head of the United Nations Transition Mission in Somalia (UNTMIS), Raisedon Zenenga. The two sides discussed the transfer of human rights functions currently managed by the United Natio"
+    },
+    {
+      "id": "n_ca302056cf",
+      "type": "news",
+      "title": "The United States has appointed Devin Kennington as the new ambassador to Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-united-states-has-appointed-devin-kennington-as-the-new-ambassador-to-somalia/",
+      "date": "2026-09-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "U.S. President Donald Trump has nominated Devin Kennington as the new U.S. Ambassador to Somalia, as Washington moves to fill the ambassadorial post in Mogadishu, which has been vacant since the recall of former Ambassador Richard H. Riley in late 2025. Kennington’s nomination was included in a list"
+    },
+    {
+      "id": "n_cde6781a95",
+      "type": "news",
+      "title": "Galmudug police capture militiamen who attacked a checkpoint.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/galmudug-police-capture-militiamen-who-attacked-a-checkpoint/",
+      "date": "2026-09-15",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Galmudug",
+        "Clan Conflict",
+        "Militia"
+      ],
+      "excerpt": "The Galmudug Police Command stated that police forces repelled an attack launched by armed clan-based militias on a checkpoint in the Jiiro-Caweer area, which falls under the Godinlabe district of the Galgaduud region. According to a press release issued by the Galmudug Police Command, the attack oc"
+    },
+    {
+      "id": "n_7b8b575348",
+      "type": "news",
+      "title": "Somaliland: Poet Yusuf Shaacir suspended following accusations he aired in the media outlets",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-poet-yusuf-shaacir-suspended-following-accusations-he-aired-in-the-media-outlets/",
+      "date": "2026-09-15",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The Somaliland House of Representatives has suspended Poet Yusuf Shaacir, an advisor to the House, following accusations that he leveled allegations and made statements against national leaders via independent media outlets. A statement issued by the House of Representatives indicated that the suspe"
+    },
+    {
+      "id": "n_eab29b50b2",
+      "type": "news",
+      "title": "Local forces being trained in Wajid",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/local-forces-being-trained-in-wajid/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "The Federal Government of Somalia has launched a training program in the Waajid district of the Bakool region for local forces; these troops are intended to support the Somali National Army as it prepares to take over security responsibilities from AUSSOM forces. Somali National Army officials state"
+    },
+    {
+      "id": "n_9e534a1c9b",
+      "type": "news",
+      "title": "The Eritrean Script Exposes Ethiopia’s Unity Farce",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/10/the-eritrean-script-exposes-ethiopias-unity-farce/?utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce&utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce",
+      "date": "2026-08-10",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "Addis’ Tigray policies echo the mistakes that drove Eritrea away. Karl Marx famously observed that history repeats itself, first as tragedy, then as farce. Ethiopia is now living the second half of that maxim. The three-decade war that ended with Eritrea&#8217;s independence was the tragedy. What is"
+    },
+    {
+      "id": "n_a027b8173e",
+      "type": "news",
+      "title": "PM Abiy Tells BRICS Summit Ethiopia Will Pursue Sea Access Solely Through Negotiations",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52816/",
+      "date": "2026-09-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopian PM Abiy Ahmed reiterated at the BRICS Summit that Ethiopia will continue seeking access to the sea through diplomatic channels, framing the ambition strictly as an economic priority rather than a security objective. Addressing delegates, Abiy emphasized that maritime access is essential fo"
+    },
+    {
+      "id": "n_d6b5840df9",
+      "type": "news",
+      "title": "Putin Hails Ethiopia’s ‘Constructive Role’ in BRICS, Invites PM Abiy to Moscow",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52811/",
+      "date": "2026-09-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Russian President Vladimir Putin praised Ethiopia’s “constructive contribution” to the BRICS alliance and formally invited PM Abiy Ahmed to attend the upcoming Russia-Africa Summit in Moscow (end of October 2026), following bilateral discussions held on the sidelines of the BRICS Summit in New Delhi"
+    },
+    {
+      "id": "n_9a92387b7d",
+      "type": "news",
+      "title": "UNECA, DHL Express Partner to Boost African SMEs in Cross-Border Trade Under AfCFTA",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52807/",
+      "date": "2026-09-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The United Nations Economic Commission for Africa (ECA) and DHL Express Sub-Saharan Africa have signed a landmark three-year Memorandum of Understanding (MoU) aimed at helping small and medium-sized enterprises (SMEs) across the continent navigate and scale within intra-African trade. Delivered thro"
+    },
+    {
+      "id": "n_ba4e1dca52",
+      "type": "news",
+      "title": "Jigjiga Uncovers Riyadh’s Thread: Unraveling Saudi Arabia’s Expansion into Horn Security",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52803/",
+      "date": "2026-09-14",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "African Union",
+        "Military",
+        "Security"
+      ],
+      "excerpt": "The detention of hundreds of Somali soldiers in Ethiopia&#8217;s Jigjiga has led to a thread more serious than a simple illegal border crossing: there is a broad, Saudi-funded military program training thousands of recruits in Somalia, with some graduates being prepared to fight alongside the Sudane"
+    },
+    {
+      "id": "n_5533fc55b6",
+      "type": "news",
+      "title": "African Leaders Urge Shift to Climate Agency as CCDA-14 Concludes in Addis Ababa",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/52800/",
+      "date": "2026-09-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Delegates highlighted a severe funding discrepancy, noting that while Africa accounts for less than four percent of global emissions, the continent requires approximately USD277 billion annually through 2030 to fulfill its Nationally Determined Contributions (NDCs). Current international financial f"
+    },
+    {
+      "id": "n_8dbe3a4f48",
+      "type": "news",
+      "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+      "date": "2026-09-15",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia."
+    },
+    {
+      "id": "n_cd093b508f",
+      "type": "news",
+      "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
+      "date": "2026-09-15",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Militia"
+      ],
+      "excerpt": "Houthis say attacks by Saudi Arabia ongoing as Yemen PM accuses militia of killing and displacing civilians."
+    },
     {
       "id": "n_38b9f93c6c",
       "type": "news",
@@ -4072,226 +4290,6 @@
         "African Union"
       ],
       "excerpt": "KCB Group is going digital-first for its next expansion phase, targeting Zambia, Mozambique and Zimbabwe through tech rather than branches. CEO Paul Russo calls it “technology-driven” — except in Ethiopia, where a traditional bank acquisition is still on the table."
-    },
-    {
-      "id": "n_696c96ed10",
-      "type": "news",
-      "title": "Al-Shabaab claims deadly IED attack on Somali army truck near Mubarak",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-ied-attack-somali-army-truck-mubarak/",
-      "date": "2026-08-12",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Military",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; More than a dozen Somali army personnel were killed on Monday when a military truck carrying troops was struck by an improvised explosive device (IED) near the town of Mubarak in Somalia’s Lower Shabelle region, according to reports. The attack targeted a Somali mi"
-    },
-    {
-      "id": "n_e55ef10dbf",
-      "type": "news",
-      "title": "Somalia PM rebukes international partners over political pressure",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pm-hamza-abdi-barre-rebukes-international-partners/",
-      "date": "2026-08-11",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s Prime Minister Hamza Abdi Barre on Tuesday launched a blistering attack on the country’s international partners, accusing them of facing a “cultural problem” and of continuing to treat Somalia as though it were still in the transitional period, when the c"
-    },
-    {
-      "id": "n_a1f3ece5de",
-      "type": "news",
-      "title": "Turkey’s ally wins Somalia speaker vote, opposition objects",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-speaker-abdulkadir-mohamed-nur-turkey-opposition/",
-      "date": "2026-08-11",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Maritime",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s parliament handed its most powerful gavel to a man widely regarded as Ankara&#8217;s foremost asset in Mogadishu on Monday, electing Minister of Ports and Maritime Transport Abdulkadir Mohamed Nur as speaker of the House of the People in a vote the "
-    },
-    {
-      "id": "n_19352c8aaa",
-      "type": "news",
-      "title": "Fano’s Kingdom: Inside the insurrection in northern Ethiopia",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/427282/fanos-kingdom-inside-the-insurrection-in-northern-ethiopia/",
-      "date": "2026-08-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "A behind-the-scenes look at the rebellion led by Amhara nationalists – from Ethiopia’s second-largest ethnic group – who have seized large swathes of the northern region bearing their name."
-    },
-    {
-      "id": "n_d543c519b5",
-      "type": "news",
-      "title": "Will the Houthis shut down Saudi Arabian shipping?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
-      "date": "2026-08-13",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia"
-    },
-    {
-      "id": "n_b5649b1615",
-      "type": "news",
-      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-      "date": "2026-08-12",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis."
-    },
-    {
-      "id": "n_80c7bf4af6",
-      "type": "news",
-      "title": "Somalia: A Government With One Foot Out the Door",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/somalia-a-government-with-one-foot-out-the-door/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-a-government-with-one-foot-out-the-door",
-      "date": "2026-08-11",
-      "region": "Somalia",
-      "tags": [
-        "Kenya",
-        "Somalia",
-        "Governance",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "Somalia&#8217;s foreign passport crackdown reveals a governance crisis hiding in plain sight On the afternoon of June 24, 2026, Somalia&#8217;s Second Deputy Prime Minister, Jibril Abdirashid Haji, arrived at Nairobi&#8217;s Jomo Kenyatta International Airport aboard a flight from Mogadishu. Kenyan "
-    },
-    {
-      "id": "n_1445fab1c7",
-      "type": "news",
-      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-      "date": "2026-08-12",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Israel",
-        "Maritime"
-      ],
-      "excerpt": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began."
-    },
-    {
-      "id": "n_272241e5f1",
-      "type": "news",
-      "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
-      "date": "2026-08-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack."
-    },
-    {
-      "id": "n_a59b281083",
-      "type": "news",
-      "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
-      "date": "2026-08-11",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea"
-      ],
-      "excerpt": "Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous."
-    },
-    {
-      "id": "n_4c3ac54fd2",
-      "type": "news",
-      "title": "Attack on ship in Red Sea kills three Pakistani nationals, wounds another",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-ship-red-sea-kills-three-pakistani-nationals-wounds-another",
-      "date": "2026-08-12",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea"
-      ],
-      "excerpt": "Attack on ship in Red Sea kills three Pakistani nationals, wounds another\n\n    \n    \n\n        \n    \n                An attack on a commercial vessel in the Red Sea killed at least three Pakistani nationals and left another wounded,&nbsp;Islamabad's&nbsp;foreign minister said on Wednesday.&nbsp;\n\n\"Pa"
-    },
-    {
-      "id": "n_7ad1952eb7",
-      "type": "news",
-      "title": "Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-yemens-marib-mocha-left-dozens-killed-and-injured",
-      "date": "2026-08-12",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Military"
-      ],
-      "excerpt": "Houthi attacks in Yemen's Marib, Mocha left 'dozens killed and injured', military spokesman says\n\n    \n    \n\n        \n    \n                Houthi military spokesperson Yahya Saree said&nbsp;that missile and drone strikes targeting military sites in Marib and Mocha killed and injured dozens of people"
-    },
-    {
-      "id": "n_bdf3ec874c",
-      "type": "news",
-      "title": "Pentagon admits to killing 153 civilians last year in Yemen: Report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-admits-killing-153-civilians-last-year-yemen-report",
-      "date": "2026-08-12",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Maritime"
-      ],
-      "excerpt": "Pentagon admits to killing 153 civilians last year in Yemen: Report\n\n    \n    \n\n        \n    \n                The Pentagon confirmed to Congress that US attacks against Houthis in Yemen last year killed 153 civilians and injured 243 others, The Hill reported.\n\nIn a 12-page report sent to&nbsp;&nbsp;"
-    },
-    {
-      "id": "n_cf24b02817",
-      "type": "news",
-      "title": "Ethiopia withdraws troops from militant-encircled Burhakaba in Somalia as AUSSOM faces mounting crisis",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-troops-withdraw-burhakaba-somalia-aussom/",
-      "date": "2026-08-10",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Ethiopia",
-        "Somalia",
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Ethiopian troops serving under the African Union Support and Stabilization Mission in Somalia (AUSSOM) have withdrawn from Burhakaba, a strategic Bay region town ringed on every side by Al-Shabaab, handing security responsibility to the Somali National Army after n"
-    },
-    {
-      "id": "n_ad23d9e8b0",
-      "type": "news",
-      "title": "UN puts Somalia mission assets up for sale as Washington pulls plug on AUSSOM lifeline",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/un-sell-somalia-peacekeeping-assets/",
-      "date": "2026-08-09",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United Nations Support Office in Somalia (UNSOS) has opened a public tender for licensed auctioneers to liquidate a sprawling inventory of mission property, from vehicles and heavy construction machinery to modular housing units and medical laboratories, in the"
     }
   ],
   "articles": [
