@@ -1,6 +1,121 @@
 {
-  "last_updated": "2026-09-15T11:02:50.711757+00:00",
+  "last_updated": "2026-09-16T10:50:04.136206+00:00",
   "news": [
+    {
+      "id": "n_3d00ba25af",
+      "type": "news",
+      "title": "Turkey deports 50 Somalis amid anti-Turkey protests",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-deportation-protests-jubaland-puntland-southwest/",
+      "date": "2026-09-16",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkey deported 50 Somali nationals to Mogadishu&#8217;s Aden Adde International Airport on Tuesday as anger over Ankara&#8217;s expanding military and economic footprint in Somalia spread through three regional states and reopened a long-simmering debate over who "
+    },
+    {
+      "id": "n_66d7d5728d",
+      "type": "news",
+      "title": "AUSSOM commander: Al-Shabaab has not seized any territory in Somalia since March of last year.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/aussom-commander-al-shabaab-has-not-seized-any-territory-in-somalia-since-march-of-last-year/",
+      "date": "2026-09-16",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "The Commander of the African Union forces in Somalia (AUSSOM), Lieutenant General Sam Kavuma, stated that Al-Shabaab has not seized any territory from Somali government and African Union forces since March of last year, noting that mission forces have dislodged the group from several positions. In a"
+    },
+    {
+      "id": "n_23b193e218",
+      "type": "news",
+      "title": "NISA dismantls Al-Shabaab networks in Mogadishu and its outskirts.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-dismantls-al-shabaab-networks-in-mogadishu-and-its-outskirts/",
+      "date": "2026-09-16",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "The National Intelligence and Security Agency (NISA) announced that its forces dismantled Al-Shabaab networks that were reportedly planning to embed themselves within parts of the capital, Mogadishu, and its outskirts. A press release issued by NISA stated that the operation resulted in the capture "
+    },
+    {
+      "id": "n_3a2b9ec5df",
+      "type": "news",
+      "title": "A delegation from international organizations visits Jubbaland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/a-delegation-from-international-organizations-visits-jubbaland/",
+      "date": "2026-09-16",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Kismayo"
+      ],
+      "excerpt": "KISMAYO&#8212;A delegation comprising representatives from the embassies of Sweden, Norway, the Netherlands, Switzerland, the European Union, and various international organizations visited Kismayo—the administrative capital of Jubbaland—to inaugurate and inspect development projects implemented in "
+    },
+    {
+      "id": "n_7c6b22e296",
+      "type": "news",
+      "title": "President of Somaliland held a meeting in Washington with members of the U.S. Congress and ambassadors.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/president-of-somaliland-held-a-meeting-in-washington-with-members-of-the-u-s-congress-and-ambassadors/",
+      "date": "2026-09-16",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somaliland President Abdirahman Mohamed Abdullahi (Irro) held a breakfast meeting in Washington, D.C., with members of the U.S. Congress and ambassadors from the international community based in the U.S. capital.  According to a statement from the Office of the Somaliland Presidential Spokesperson, "
+    },
+    {
+      "id": "n_98ca0b9bd5",
+      "type": "news",
+      "title": "The Commander of the 77th Presidential Guard Brigade arrives in Masagawaa",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-commander-of-the-77th-presidential-guard-brigade-arrives-in-masagawaa/",
+      "date": "2026-09-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Colonel Maslax Maxamuud Maxamed, Commander of the 77th Brigade of the National Presidential Guard, has paid a working visit to the Masagawaa area in the Galgaduud region.  A unit from the 77th Brigade—specifically the 86th &#8220;Aar&#8221; Battalion—is stationed in this area, which also hosts bases"
+    },
+    {
+      "id": "n_dbb27f4eb5",
+      "type": "news",
+      "title": "The US has once again placed a $5 million bounty on information regarding a Somali woman affiliated with ISIS",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-us-has-once-again-placed-a-5-million-bounty-on-information-regarding-a-somali-woman-affiliated-with-isis/",
+      "date": "2026-09-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The United States has once again announced a $5 million reward for information leading to the location of Khadra Iise—also known as Umm Qaqa al-Somali—whom the U.S. has identified as the head of Sharia instructors for the ISIS group.  The &#8220;Rewards for Justice&#8221; program stated that Khadra "
+    },
+    {
+      "id": "n_9f1fbbb145",
+      "type": "news",
+      "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
+      "date": "2026-09-16",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea."
+    },
     {
       "id": "n_bf3e06beed",
       "type": "news",
@@ -4178,118 +4293,6 @@
         "Maritime"
       ],
       "excerpt": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four."
-    },
-    {
-      "id": "n_1ea315db15",
-      "type": "news",
-      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
-      "date": "2026-08-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government."
-    },
-    {
-      "id": "n_eb28ce249a",
-      "type": "news",
-      "title": "Turkey will arrest and exile Somalia’s opposition leaders if defiance continues, warns veteran diplomat",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-arrest-exile-opposition-leaders-duale-warning/",
-      "date": "2026-08-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkey will move to arrest and exile Somalia&#8217;s opposition leaders, including former President Sharif Sheikh Ahmed, should they persist in their defiance of President Hassan Sheikh Mohamud&#8217;s disputed term extension, a veteran Somali diplomat has warned. "
-    },
-    {
-      "id": "n_3d47a9ed9a",
-      "type": "news",
-      "title": "Somalia’s Deputy Minister of Commerce and Industry has resigned from his position.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalias-deputy-minister-of-commerce-and-industry-has-resigned-from-his-position/",
-      "date": "2026-08-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Deputy Minister of Commerce and Industry of Somalia’s Federal Government, Mr. Mohamud Abdullahi Ahmed known as “Abuukaate” has tendered his official resignation on Thursday. He conveyed an open letter to the Prime Minister of Somalia’s Federal Government, announcing officially that he quit his m"
-    },
-    {
-      "id": "n_a24fa7afce",
-      "type": "news",
-      "title": "Troops deployed from Mogadishu have arrived in the Hiiraan region.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/troops-deployed-from-mogadishu-have-arrived-in-the-hiiraan-region/",
-      "date": "2026-08-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Mogadishu"
-      ],
-      "excerpt": "Units of Somalia’s National Army set out from Mogadishu, Somalia’s capital by land and reached the frontlines in the eastern part of Hiiraan region. These troops were equipped with combat vehicles and were deployed there to reinforce other Somali military units and local defense forces tasked with f"
-    },
-    {
-      "id": "n_4d417679a6",
-      "type": "news",
-      "title": "Somaliland, Denmark Discuss Strengthening Cooperation, Security, and Development",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-denmark-discuss-strengthening-cooperation-security-and-development/",
-      "date": "2026-08-12",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "Somaliland’s Vice President&#8212;the acting President, Mr. Ali Aw-Abdi, received Danish Ambassador to Somalia, Steen Sonne Andersen, at the Presidential Palace on Wednesday. The two sides held discussions focusing on ways to bolster the bilateral cooperation between the two countries in the areas o"
-    },
-    {
-      "id": "n_8b1b0f3bcd",
-      "type": "news",
-      "title": "NISA Announces Al-Shabaab Members Killed in Lower Shabelle Operation",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nisa-announces-al-shabaab-members-killed-in-lower-shabelle-operation/",
-      "date": "2026-08-12",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security"
-      ],
-      "excerpt": "The National Intelligence and Security Agency (NISA) forces in close collaboration with international partners said on Tuesday that they carried out a planned air strike that took place in Tawakal area in Lower Shabelle region. In a statement, NISA said that at least 7 Al-Shabab militants were succe"
-    },
-    {
-      "id": "n_dfe18d8450",
-      "type": "news",
-      "title": "Abdirashid Janan Announces that they are entering into peace talks with Jubbaland",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/abdirashid-janan-announces-that-they-are-entering-into-peace-talks-with-jubbaland/",
-      "date": "2026-08-11",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Jubaland"
-      ],
-      "excerpt": "Mr. Abdirashid Janan, who was recently appointed by Somalia’s Federal Government as the Head of NISA operations in Jubaland in July 2025, announced on Tuesday that he will engage peaceful dialogue with Jubaland regional administration, and the news is a clear indication that troops stationed in Gedo"
-    },
-    {
-      "id": "n_7b2ebcc6f1",
-      "type": "news",
-      "title": "‘You have to take fintechs head-on,’ says Paul Russo as KCB eyes digital expansion",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/427640/you-have-to-take-fintechs-head-on-says-paul-russo-as-kcb-eyes-digital-expansion-in-southern-and-west-africa/",
-      "date": "2026-08-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "KCB Group is going digital-first for its next expansion phase, targeting Zambia, Mozambique and Zimbabwe through tech rather than branches. CEO Paul Russo calls it “technology-driven” — except in Ethiopia, where a traditional bank acquisition is still on the table."
     }
   ],
   "articles": [
