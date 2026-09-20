@@ -1,6 +1,150 @@
 {
-  "last_updated": "2026-09-19T10:17:10.767480+00:00",
+  "last_updated": "2026-09-20T10:35:52.314020+00:00",
   "news": [
+    {
+      "id": "n_c782011074",
+      "type": "news",
+      "title": "Somalilandsun:OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandsunogeysiiska-digniinta-astaanta-ganacsiga/",
+      "date": "2026-07-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay shirkadda KHONG GUAN VEGETABLE OIL REFINERY SDN. BERHAD, oo xarunteedu tahay 4825, Jalan Permatang Pauh, 13400 Butterworth, Penang, Malaysia, isla mark"
+    },
+    {
+      "id": "n_2c7179bf68",
+      "type": "news",
+      "title": "Abdirashid Janan addresses the security forces in Doolow.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/abdirashid-janan-addresses-the-security-forces-in-doolow/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Security"
+      ],
+      "excerpt": "Abdi Rashid Janan, the former commander of Jubbaland Intelligence and the region&#8217;s overall security chief, addressed the &#8220;Hilaac&#8221; Brigade intelligence forces operating in Doolow district and surrounding areas this morning. Janan spoke to the troops as Gedo region security forces co"
+    },
+    {
+      "id": "n_62ca571422",
+      "type": "news",
+      "title": "Airstrikes Take Place on the outskirts of Baidoa",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/airstrikes-take-place-on-the-outskirts-of-baidoa/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Airstrikes",
+        "Maritime"
+      ],
+      "excerpt": "Reports from the city of Baidoa indicate that airstrikes were carried out last night in areas on the city&#8217;s outskirts, amidst a tense security situation in the city and its surrounding areas. Local residents and sources reported hearing explosions in the Iidow Dhagaal area, while other strikes"
+    },
+    {
+      "id": "n_12d4a32e48",
+      "type": "news",
+      "title": "Somaliland government has issued new directives regarding security in Awdal and Selel.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-government-has-issued-new-directives-regarding-security-in-awdal-and-selel/",
+      "date": "2026-09-19",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "The Somaliland government has issued new directives to strengthen security in the Awdal and Selel regions, banning war-related mobilization or the carrying of weapons in these areas after 2:00 PM on Sunday, September 20. The State Minister for Interior and Security, Abdirashid Mohamed Ahmed (Magaalo"
+    },
+    {
+      "id": "n_60bfda6f2d",
+      "type": "news",
+      "title": "Deputy Minister of Foreign Affairs Receives Copy of European Union Ambassador’s Credentials",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/deputy-minister-of-foreign-affairs-receives-copy-of-european-union-ambassadors-credentials/",
+      "date": "2026-09-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Deputy Minister of Foreign Affairs and International Cooperation, Mr. Hassan Mohamed Ali (Nadaara), today received a copy of the credentials of the newly appointed European Union Ambassador to Somalia, Mr. Laszlo Mathe, as well as the letter of recall for his predecessor. The Deputy Minister tha"
+    },
+    {
+      "id": "n_16343bf22a",
+      "type": "news",
+      "title": "The Rivalry Between Ethiopia and Eritrea Is Reshaping Tigray",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/09/the-rivalry-between-ethiopia-and-eritrea-is-reshaping-tigray/?utm_source=rss&utm_medium=rss&utm_campaign=the-rivalry-between-ethiopia-and-eritrea-is-reshaping-tigray",
+      "date": "2026-09-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea",
+        "African Union"
+      ],
+      "excerpt": "On 1 August 2026, Ethiopian federal and Tigrayan forces clashed in western Tigray, a northern Ethiopian region bordering Eritrea and Sudan.  By 3 August, fighting had subsided, but hundreds of Tigrayans, including wounded fighters, had crossed into war-torn Sudan. The clash followed Ethiopia’s 1 Jun"
+    },
+    {
+      "id": "n_4d8a2dc747",
+      "type": "news",
+      "title": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss",
+      "date": "2026-09-20",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive."
+    },
+    {
+      "id": "n_db0a063c5e",
+      "type": "news",
+      "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+      "date": "2026-09-19",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "Turkish FM highlights Turkiye&#039;s readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen."
+    },
+    {
+      "id": "n_5238fbd22e",
+      "type": "news",
+      "title": "Saudi-led coalition says defence intercepted Houthi missile fired at Riyadh",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "date": "2026-09-19",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia."
+    },
+    {
+      "id": "n_3364f2a7a3",
+      "type": "news",
+      "title": "Inside Somaliland: How Berbera Port is central to the Red Sea's power struggle",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/inside-berbera-port-center-scramble-red-sea",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Berbera",
+        "Red Sea",
+        "Maritime"
+      ],
+      "excerpt": "Inside Somaliland: How Berbera Port is central to the Red Sea's power struggle\n\n    \n    \n\n          \n      \n      \n        Submitted by \nSean Mathews\n on \nTue, 08/11/2026 - 17:59\n\n        \n      \n    \n      \n    \n                DP World's investment in Berbera has been hamstrung by regional politi"
+    },
     {
       "id": "n_645db9e4e0",
       "type": "news",
@@ -4146,148 +4290,6 @@
         "Ethiopia"
       ],
       "excerpt": "Non-communicable diseases (NCDs) are becoming one of Ethiopia’s most significant public health challenges. Cardiovascular diseases, diabetes, cancer and chronic respiratory diseases are already responsible for a substantial share of deaths in the country, while the economic consequences of NCDs are "
-    },
-    {
-      "id": "n_9730573a0e",
-      "type": "news",
-      "title": "Beyond Lawmaking: Why Ethiopia’s Parliament Must Learn to Look Back.",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52385/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Passing a law is only ever half the job. A largely overlooked parliamentary tool, Post-Legislative Scrutiny, asks whether the laws already on the papers are actually working. For Ethiopia&#8217;s House of Peoples Representatives, especially as a new batch of parliamentarians comes in following this "
-    },
-    {
-      "id": "n_1f255d95b6",
-      "type": "news",
-      "title": "Ethiopia: We’re fighting for ‘total removal’ of Abiy’s regime, says Fano militia leader Zemene Kassie",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/428410/ethiopia-were-fighting-for-total-removal-of-abiys-regime-says-fano-militia-leader-zemene-kassie/",
-      "date": "2026-08-21",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Militia"
-      ],
-      "excerpt": "Amid the multiple insurgencies in Ethiopia, Fano militia leader Zemene Kassie claims to have united the key opposition militants in his uncompromising campaign against Prime Minister Abiy Ahmed’s federal government in Addis Ababa."
-    },
-    {
-      "id": "n_eb2cd37cab",
-      "type": "news",
-      "title": "Tanker traffic at Saudi Arabia's Yanbu port falls by a third, report says",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-traffic-saudi-arabias-yanbu-port-falls-third-report-says",
-      "date": "2026-08-22",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Tanker traffic at Saudi Arabia's Yanbu port falls by a third, report says\n\n    \n    \n\n        \n    \n                Tanker traffic at Yanbu, Saudi Arabia's main Red Sea oil terminal, has fallen by more than a third since Yemen’s Houthis announced a blockade of Saudi vessels through the Bab al-Mandeb"
-    },
-    {
-      "id": "n_58597e219e",
-      "type": "news",
-      "title": "Somalia ex-FM accuses Turkey of Puntland ‘massacre’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-fm-accuses-turkey-puntland-massacre/",
-      "date": "2026-08-20",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former Foreign Affairs Minister, Abdisaed Muse Ali, accused Turkey on Thursday of carrying out a &#8220;massacre&#8221; of Somali nationals on Puntland&#8217;s coast, escalating a row over a drone strike that killed four suspected pirates near Garma"
-    },
-    {
-      "id": "n_45e544af06",
-      "type": "news",
-      "title": "Al-Shabab militants set ablaze 10 vehicles transporting charcoal in Lower Shabelle region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/al-shabab-militants-set-ablaze-10-vehicles-transporting-charcoal-in-lower-shabelle-region/",
-      "date": "2026-08-19",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "On Wednesday, Al-Shabab militants intercepted and burned 10 commercial vehicles transporting charcoal along the critical supply corridor between Wanlaweyn and Afgoye districts in Somalia’s Lower Shabelle Province. Reports indicate that the vehicles were on their way to Somalia’s capital, Mogadishu. "
-    },
-    {
-      "id": "n_9040202153",
-      "type": "news",
-      "title": "An Ethiopian fighter who had been with Al-Shabaab for over four years has surrendered to Somali forces.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/an-ethiopian-fighter-who-had-been-with-al-shabaab-for-over-four-years-has-surrendered-to-somali-forces/",
-      "date": "2026-08-19",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Ethiopia",
-        "Somalia"
-      ],
-      "excerpt": "An Ethiopian national who spent more than four years with the militant group of Al-Shabab has subsequently surrendered to the Somali National Army that is operating in Bakool region, a statement from the Ministry of Defense of Somalia said. The Defense Ministry said that the Al-Shabab fighter was id"
-    },
-    {
-      "id": "n_876239db5e",
-      "type": "news",
-      "title": "Somali Ground Forces Commander Visits Frontline Troops to boost their morale",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-ground-forces-commander-visits-frontline-troops-to-boost-their-morale/",
-      "date": "2026-08-19",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Ground Forces Commander of Somalia’s National Army, Brigadier General, Sahal Abdullahi Omar, arrived in Teedaan settlement in the Hiiraan region, where he conducted an inspection visit to the government troops on the frontlines and to boost their morale. He was accompanied by the Commander of Tr"
-    },
-    {
-      "id": "n_6b49765dd8",
-      "type": "news",
-      "title": "Ethiopia’s Tigray rebels say drone hits Mekelle residential area",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/428186/ethiopias-tigray-rebels-say-drone-hits-mekelle-residential-area/",
-      "date": "2026-08-20",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Details of possible civilian casualties are unknown after another air raid on the regional capital in Tigray."
-    },
-    {
-      "id": "n_e3a779cc15",
-      "type": "news",
-      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
-      "date": "2026-08-21",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam."
-    },
-    {
-      "id": "n_4746c89211",
-      "type": "news",
-      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-      "date": "2026-08-20",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia."
     }
   ],
   "articles": [
