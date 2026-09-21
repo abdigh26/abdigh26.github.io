@@ -1,6 +1,237 @@
 {
-  "last_updated": "2026-09-20T10:35:52.314020+00:00",
+  "last_updated": "2026-09-21T11:58:19.045556+00:00",
   "news": [
+    {
+      "id": "n_8fe69994d7",
+      "type": "news",
+      "title": "Somalia: Puntland forces intercept more than 100 federal military recruits in Galkayo",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-intercept-federal-military-recruits-galkayo/",
+      "date": "2026-09-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Security",
+        "Puntland"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland security forces have intercepted two military trucks carrying more than 100 recruits who were reportedly travelling to a federal government-run military training camp, in a fresh security flashpoint between Puntland and Somalia’s federal authorities. The t"
+    },
+    {
+      "id": "n_2af9c634f2",
+      "type": "news",
+      "title": "Somali general says he survived F-16 strike on his home",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-general-says-he-survived-f16-strike/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former Somali Custodial Corps chief General Mahad Abdirahman said an F-16 fighter jet bombed his house in the border town of Dolow, an attack he said he survived and was meant to kill him. Abdirahman, known as Shub, said the jet struck at midnight on Sept 3. In an "
+    },
+    {
+      "id": "n_06fb61b5c2",
+      "type": "news",
+      "title": "Egypt’s Sisi rejects interference in Somalia during talks with CIA chief",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/egypt-sisi-rejects-interference-somalia-cia-chief/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Egyptian President Abdel Fattah al-Sisi rejected any interference that threatens Somalia’s sovereignty, unity or territorial integrity during talks with CIA Director John Ratcliffe, reaffirming Cairo’s support for Somalia’s security and stability, Egypt Today repor"
+    },
+    {
+      "id": "n_d95e804cc7",
+      "type": "news",
+      "title": "Somalia, Pakistan strengthen air defense cooperation.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-pakistan-strengthen-air-defense-cooperation/",
+      "date": "2026-09-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud received a high-level delegation from the Pakistan Air Force in Mogadishu, where the two sides discussed the development of the Somali Air Force and the strengthening of defense cooperation. The Pakistani delegation was led by Air Marshal Muhammad Sarfraz, the "
+    },
+    {
+      "id": "n_89f0181244",
+      "type": "news",
+      "title": "Puntland seizes two vehicles in Galkayo carrying troops belonging to the Federal Government.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-seizes-two-vehicles-in-galkayo-carrying-troops-belonging-to-the-federal-government/",
+      "date": "2026-09-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Galmudug",
+        "Maritime"
+      ],
+      "excerpt": "Puntland forces intercepted two vehicles this morning in the southern part of Galkayo that were reportedly carrying troops belonging to the Federal Government of Somalia. The troops reportedly arrived from the direction of Galmudug, and reports indicate they were en route to the Xananbuure training "
+    },
+    {
+      "id": "n_809e6808a8",
+      "type": "news",
+      "title": "Puntland administration has launched two operations in the Calmadow mountains and along the coast.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-administration-has-launched-two-operations-in-the-calmadow-mountains-and-along-the-coast/",
+      "date": "2026-09-21",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Puntland"
+      ],
+      "excerpt": "The Puntland administration has launched two simultaneous operations—one on land and one at sea—across various parts of the region. The first operation, codenamed &#8220;Onkad&#8221; (Thunder), is underway in the Cal Madow Mountains of the Sanaag region; the Puntland administration states that this "
+    },
+    {
+      "id": "n_b960f84a8d",
+      "type": "news",
+      "title": "NISA Announces a commander and three Al-Shabaab members were killed in an operation in Middle Shabelle.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-announces-a-commander-and-three-al-shabaab-members-were-killed-in-an-operation-in-middle-shabelle/",
+      "date": "2026-09-21",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "The National Intelligence and Security Agency (NISA) of Somalia announced that its forces, in collaboration with international partners, conducted a planned operation in the Guulane and Al-Furqaan areas of the Middle Shabelle region. According to a statement issued by NISA, the operation resulted in"
+    },
+    {
+      "id": "n_8ce8743d2c",
+      "type": "news",
+      "title": "Somalia’s Defense Minister: Al-Shabaab cannot capture even a single village if AUSSOM withdraws.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalias-defense-minister-al-shabaab-cannot-capture-even-a-single-village-if-aussom-withdraws/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "Somalia&#8217;s Defense Minister, Ahmed Moallim Fiqi, stated that Somali forces are capable of resisting Al-Shabaab, even if the African Union&#8217;s AUSSOM forces withdraw from the country. Fiqi said that government forces and the Somali public are jointly countering Al-Shabaab and will continue t"
+    },
+    {
+      "id": "n_1f5ec86d8b",
+      "type": "news",
+      "title": "The Minister of Defense Received a Delegation of Military Officers from Egypt",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-minister-of-defense-received-a-delegation-of-military-officers-from-egypt/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military"
+      ],
+      "excerpt": "The Minister of Defense of the Federal Government of Somalia, Mr. Ahmed Moallim Fiqi, received a delegation of military officials visiting Somalia at his office today, accompanied by the Ambassador of the Arab Republic of Egypt to Somalia, Mr. Mohamed Salah Keshtah.  The meeting focused on strengthe"
+    },
+    {
+      "id": "n_78c60024bb",
+      "type": "news",
+      "title": "Minister of Information Meets with UNDP Representative for Somalia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/minister-of-information-meets-with-undp-representative-for-somalia/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Minister of Information, Culture, and Tourism of the Federal Government of Somalia, Mr. Abdifatah Qasim Mohamud, held a meeting today at his office with the United Nations Development Programme (UNDP) Representative for Somalia, Mr. Christophoros Politis.  Upon his arrival at the Ministry’s head"
+    },
+    {
+      "id": "n_1019ff1c0d",
+      "type": "news",
+      "title": "Family of a Puntland military officer attacked by ISIS.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/family-of-a-puntland-military-officer-attacked-by-isis/",
+      "date": "2026-09-20",
+      "region": "Somalia",
+      "tags": [
+        "Military",
+        "Puntland"
+      ],
+      "excerpt": "ISIS militants hiding in the Calmiskaad mountains of the Bari region attacked the family of a Puntland Defense Force officer in the Kayaxa area, near the village of Sheebaab in the Qandala district. Siciid Cali Orshe, commander of the Daljir unit of the Puntland Dervish forces, stated that a house—w"
+    },
+    {
+      "id": "n_b343605a92",
+      "type": "news",
+      "title": "A simple guide to the Yemen conflict",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+      "date": "2026-09-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation."
+    },
+    {
+      "id": "n_adbbc94f71",
+      "type": "news",
+      "title": "Yemen's Houthis are upending the Gulf order. The Saudis are the biggest losers",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/yemens-houthis-are-upending-gulf-order-saudis-are-biggest-losers",
+      "date": "2026-09-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Yemen's Houthis are upending the Gulf order. The Saudis are the biggest losers\n\n    \n    \n\n          \n      \n      \n        Submitted by \nJoe Gill\n on \nFri, 09/18/2026 - 20:05\n\n        \n      \n    \n      \n    \n                The war has entered a critical phase, with the Iran-aligned group calling "
+    },
+    {
+      "id": "n_da41680bc0",
+      "type": "news",
+      "title": "‘We will destroy your economy’: Houthi leaders warn Saudi Arabia in joint statement",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-will-destroy-your-economy-houthi-leaders-warn-saudi-arabia-joint",
+      "date": "2026-09-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "‘We will destroy your economy’: Houthi leaders warn Saudi Arabia in joint statement \n\n    \n    \n\n        \n    \n                Senior military commanders of the Yemeni Houthis have warned Saudi Arabia that continued attacks and the blockade on Yemen could prompt strikes against energy infrastructure"
+    },
+    {
+      "id": "n_a4893d4437",
+      "type": "news",
+      "title": "Yemen's Giants Brigades claim attacks on Houthi military vehicles, say all aboard killed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-giants-brigades-claim-attacks-houthi-military-vehicles-say-all",
+      "date": "2026-09-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Military"
+      ],
+      "excerpt": "Yemen's Giants Brigades claim attacks on Houthi military vehicles, say all aboard killed\n\n    \n    \n\n        \n    \n                Yemen’s government-affiliated Giants Brigades claimed attacks on five Houthi&nbsp;military vehicles&nbsp;on the Kahbub front overlooking the strategic Bab al-Mandab Stra"
+    },
+    {
+      "id": "n_1ac1d54d76",
+      "type": "news",
+      "title": "Four civilians killed in Yemen's Al-Jawf",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-civilians-killed-yemens-al-jawf",
+      "date": "2026-09-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Four civilians killed in Yemen's Al-Jawf \n\n    \n    \n\n        \n    \n                Air strikes targeting telecommunications towers&nbsp;Yemen's Al-Jawf governorate killed four civilians and injured three others on Sunday, the Houthi-run Yemen News Agency (SABA) reported.\n\nAccording to a local sourc"
+    },
     {
       "id": "n_c782011074",
       "type": "news",
@@ -4070,226 +4301,6 @@
         "Maritime"
       ],
       "excerpt": "The Somali National Army together with the local defense forces foiled Al-Shabab’s attempts to retake the Ali Ganey settlement in the eastern part of the Hiiraan region. Al-Shabab fighters reportedly part of the group that recently seized the Teedaan area on the 2nd of this month headed towards Ali "
-    },
-    {
-      "id": "n_2efa269139",
-      "type": "news",
-      "title": "Somali Local Forces Kill Two Al-Shabaab Leaders in Middle Shabelle – defense ministry",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-local-forces-kill-two-al-shabaab-leaders-in-middle-shabelle-defense-ministry/",
-      "date": "2026-08-22",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia"
-      ],
-      "excerpt": "Local forces in Somalia’s Middle Shabelle region have killed two leaders of the Al-Shabaab militant group, the defence ministry said. The ministry said the two commanders were killed during an operation in the region, in which local forces also targeted other members of the group. According to the m"
-    },
-    {
-      "id": "n_3c5c70ca75",
-      "type": "news",
-      "title": "Breakthrough’s Ambiguous Business Model: Another Pyramid Scheme?",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52446/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Company, led by an MP, claims 100,000 trained for “success” without accreditation For Wondesen Ayalew, the promise began with a 4,500 Birr cost payment. While studying at Addis Ababa University, an acquaintance invited him to attend a training session organized by Breakthrough Trading SC. Wondesen w"
-    },
-    {
-      "id": "n_f7fc5eb442",
-      "type": "news",
-      "title": "National Dialogue Faces Objections over Addis Ababa Question",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52443/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "SNA"
-      ],
-      "excerpt": "The Ethiopian National Dialogue hit a last-minute snag after representatives from the Oromia region objected to a consolidated proposal on Addis Ababa’s legal status, forcing the 4,000-participant assembly to send the issue back for review. The objection was raised after the 120-member agenda consol"
-    },
-    {
-      "id": "n_074b794800",
-      "type": "news",
-      "title": "Sugar Group’s Losses Ease but Estates Buckle under Pressure from Financial Constraints, Conflict, Climate",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52440/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Sugar Group’s Losses Ease but Estates Buckle under Pressure from Financial Constraints, Conflict, Climate The Ethiopian Sugar Industry Group (ESIG) continues to send mixed signals in the recoverability of a number of estates under it, while the government’s indecisiveness and financial woes over sus"
-    },
-    {
-      "id": "n_98c9b17460",
-      "type": "news",
-      "title": "NBE Rejects Global Bank’s Presidential Nominee Amid Liquidity Probe",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52437/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Regulators have rejected Global Bank SC’s nominee for acting president amid an investigation into financial irregularities at the bank. Last month, Global Bank’s board submitted its nomination of Sahlemichael Mekonen as acting president to the National Bank of Ethiopia (NBE) following the suspension"
-    },
-    {
-      "id": "n_440326c9d8",
-      "type": "news",
-      "title": "Ethiopia Must Stop Playing Defense on the Nile",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52434/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Egypt’s furious reaction to Ethiopia’s latest indication that it may develop additional dams on the Nile should come as no surprise. What must concern Ethiopians, however, is not merely the intensity of Cairo’s rhetoric, but the diplomatic space Ethiopia continues to surrender by allowing Egypt’s na"
-    },
-    {
-      "id": "n_2e97ccaf7f",
-      "type": "news",
-      "title": "Dangote Offers East African States Stake in Planned Refinery",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52431/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Kenya"
-      ],
-      "excerpt": "Ethiopia, Kenya, Rwanda express interest Dangote Group has offered East African countries a 30 percent equity stake in the massive oil refinery it plans on constructing in the region, according to Kenyan President William Ruto’s top economic advisor. Kenya’s 10 percent stake would be worth about USD"
-    },
-    {
-      "id": "n_079fb0fd81",
-      "type": "news",
-      "title": "Stalled Eurobond Restructuring to Commence Following Nod from Creditors Committee",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52429/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The co-chairs of Ethiopia’s Official Creditor Committee (OCC) formally confirmed that a June 2026 agreement in principle with private bondholders complies with the G20 Common Framework&#8217;s ‘Comparability of Treatment’ principle, signaling the country’s drawn out negotiations over the debt it def"
-    },
-    {
-      "id": "n_8e37e1b67d",
-      "type": "news",
-      "title": "El Niño Forecast to Wreak Havoc on Ethiopian Agriculture in Coming Months",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52425/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security",
-        "Food Security",
-        "Maritime"
-      ],
-      "excerpt": "Ethiopia faces a contrasting extreme climate threats as intensifying El Niño conditions deepen severe rainfall deficits in parts of the country while forecasts indicate above normal rains and flooding in southern  and eastern areas later this year, according to a new regional report on food security"
-    },
-    {
-      "id": "n_e22974eb0a",
-      "type": "news",
-      "title": "Health Ministry Tightens Rules for Overseas Medical Referrals",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52421/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "Patients seeking transplant procedures abroad will be required to show proof of 1.5mln Birr in deposits Minister of Health Mekdes Daba (MD) has authorized a new directive requiring patients to prove they hold at least 1.5 million Birr in bank deposits before traveling abroad for medical transplant p"
-    },
-    {
-      "id": "n_bf645dba4d",
-      "type": "news",
-      "title": "Insurers Decry Sluggish Growth, Renew Calls for Independent Regulator at Forum",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52418/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia’s insurance penetration stands at just 0.27 percent, with the country’s insurance industry facing what sector experts describe as structural challenges requiring fundamental reform rather than short-term measures. During a presentation delivered at the sixth International Interest-Free Bank"
-    },
-    {
-      "id": "n_f9ba35c502",
-      "type": "news",
-      "title": "Ethiopia’s Cheapest Oil Reserve Is the Fuel It Wastes",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52396/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Consider two figures on Ethiopia’s energy ledger: $150–200 million and $250 million. The first is the estimated foreign-exchange value of roughly 15,000 electric vehicles Ethiopia imported from China in 2025 alone under the country’s ambitious transition away from petroleum. The second is the hard-c"
-    },
-    {
-      "id": "n_0ac4b0b79d",
-      "type": "news",
-      "title": "Sink Together or Float Together: The Inescapable Reality of the Horn of Africa",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52394/",
-      "date": "2026-08-22",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Kenya",
-        "Djibouti",
-        "Somalia"
-      ],
-      "excerpt": "Few regions in the world possess a geopolitical and cultural landscape as deeply intertwined as the Horn of Africa. Encompassing nations such as Ethiopia, Somalia, Eritrea, Djibouti, and by extension Kenya, Sudan and South Sudan, this strategic peninsula sits at the crossroads of Africa, the Middle "
-    },
-    {
-      "id": "n_48ed1e8766",
-      "type": "news",
-      "title": "Shades of Resistance: Ashenda in Black and the Struggle for Tigray’s Polychromatic Future",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52391/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray"
-      ],
-      "excerpt": "The stark tragedy currently unfolding over Tigray is not merely a debate over cultural preservation; it is a profound collision between two fundamentally incompatible political systems—one rigidly monochromatic, and one striving for polychromatic justice. As the people of Tigray mourn the flagrant m"
-    },
-    {
-      "id": "n_2aba5d40e1",
-      "type": "news",
-      "title": "India’s Space Sector: A Launchpad for Global Partnerships",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52389/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Growing competition in outer space provides India with a unique opportunity to shape a narrative in which collaboration, rather than confrontation, drives space exploration. Recognised as a trustworthy and cost-effective spacefaring nation, India is now well placed to transform its technological adv"
-    },
-    {
-      "id": "n_da8f1c9eb9",
-      "type": "news",
-      "title": "Regulating Unhealthy Diets: An Essential Step in Ethiopia’s Fight Against NCDs",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52387/",
-      "date": "2026-08-22",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Non-communicable diseases (NCDs) are becoming one of Ethiopia’s most significant public health challenges. Cardiovascular diseases, diabetes, cancer and chronic respiratory diseases are already responsible for a substantial share of deaths in the country, while the economic consequences of NCDs are "
     }
   ],
   "articles": [
