@@ -1,6 +1,191 @@
 {
-  "last_updated": "2026-09-22T10:57:08.348028+00:00",
+  "last_updated": "2026-09-23T10:45:05.363268+00:00",
   "news": [
+    {
+      "id": "n_169217795c",
+      "type": "news",
+      "title": "Eritrean exiles build network to topple Afwerki",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/eritrean-exiles-network-topple-afwerki/",
+      "date": "2026-09-23",
+      "region": "Eritrea",
+      "tags": [
+        "Eritrea",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "TEL AVIV (Somaliguardian) &#8211;  An Eritrean opposition movement operating out of a warehouse in southern Tel Aviv says it has built the most organized diaspora network yet assembled against President Isaias Afwerki, and is actively courting political support from the United States, Israel and Gul"
+    },
+    {
+      "id": "n_0e5f8fba5d",
+      "type": "news",
+      "title": "Somali journalists’ Facebook pages hit amid China, Türkiye partnerships",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-journalists-facebook-pages-hit-china-turkiye-partnerships/",
+      "date": "2026-09-22",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A coordinated wave of Facebook account suspensions, removals and false death reports struck Somali journalists and independent media outlets over the weekend of Sept. 12–13, according to the Somali Journalists Syndicate (SJS), landing within days of separate Chines"
+    },
+    {
+      "id": "n_3d30e03c6b",
+      "type": "news",
+      "title": "Uganda and Turkey clash over military presence in Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-turkey-clash-military-presence-somalia/",
+      "date": "2026-09-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Uganda&#8217;s decision to suspend all defence cooperation with Turkey is linked to the possible end of the African Union mission in Somalia, which could cost Kampala tens of millions of dollars in lost revenue, several sources familiar with the matter told Middle "
+    },
+    {
+      "id": "n_b491369b89",
+      "type": "news",
+      "title": "Movement opposing the Hirshabelle election underway in Beledweyne.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/movement-opposing-the-hirshabelle-election-underway-in-beledweyne/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Military",
+        "Elections"
+      ],
+      "excerpt": "Political and military activities are underway in the city of Beledweyne in opposition to holding any elections related to the Hirshabelle Regional State within the Hiiraan region. Some politicians, elders, and prominent figures from the region are organizing local forces and making preparations to "
+    },
+    {
+      "id": "n_9702143e3f",
+      "type": "news",
+      "title": "President Hassan Sheikh meets with leaders, including the Prime Minister of Pakistan.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/president-hassan-sheikh-meets-with-leaders-including-the-prime-minister-of-pakistan/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud met with Pakistani Prime Minister Shehbaz Sharif in New York on Tuesday. The meeting took place during the opening of the 81st session of the United Nations General Assembly, as stated by the Pakistani Prime Minister on his social media account. A statement fro"
+    },
+    {
+      "id": "n_29805b1dc0",
+      "type": "news",
+      "title": "The Auditor General strongly opposes the open competitive process for government jobs",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-auditor-general-strongly-opposes-the-open-competitive-process-for-government-jobs/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "The Office of the Auditor General of Somalia has opposed the application of the open competitive recruitment process for government jobs to its own office, stating that doing so infringes upon the institution&#8217;s constitutional independence. The National Civil Service Commission has recently bee"
+    },
+    {
+      "id": "n_49abbcd561",
+      "type": "news",
+      "title": "KAAH Party expresses concern over the arrest of journalists in Somaliland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/kaah-party-expresses-concern-over-the-arrest-of-journalists-in-somaliland/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somaliland’s opposition party, KAAH, has expressed concern over the detention of journalist Abdiqani Hussein Abokor (&#8220;Baylood&#8221;), calling on the government to uphold press freedom, freedom of speech, and the fundamental rights of citizens. In a statement issued on September 22, 2026, the "
+    },
+    {
+      "id": "n_8356c71650",
+      "type": "news",
+      "title": "Somali Air Force Commander  Meets with U.S. Defense Attaché to Somalia at US embassy in Mogadishu",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-air-force-commander-meets-with-u-s-defense-attache-to-somalia-at-the-us-embassy-in-mogadishu/",
+      "date": "2026-09-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "The Commander of the Somali Air Force, Brigadier General Abdirisaaq Mohamud Haji, met today at his office with the U.S. Defense Attaché to Somalia, Colonel Egan O’Reilly, to discuss critical issues regarding the situation in the country. The meeting, which lasted several hours, focused specifically "
+    },
+    {
+      "id": "n_0582629019",
+      "type": "news",
+      "title": "Minority Protection is Ethiopia’s Federal Test",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/24/minority-protection-is-ethiopias-federal-test/?utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test&utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test",
+      "date": "2026-08-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia needs stronger safeguards against the politics of demographic dominance.\nThe post Minority Protection is Ethiopia&#8217;s Federal Test appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_e0d3c8b326",
+      "type": "news",
+      "title": "Ethiopia: Tigray rebel forces seize regional airport",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431503/tigray-rebel-forces-seize-ethiopia-regional-airport/",
+      "date": "2026-09-23",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Tigrayan rebel forces in northern Ethiopia have seized control of the airport in the regional capital, security and local sources told AFP on Wednesday, at a time of rising tensions with the federal government."
+    },
+    {
+      "id": "n_9861da4e8d",
+      "type": "news",
+      "title": "As Houthis move closer, can Djibouti keep Yemen’s conflict across the water?",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431298/as-houthis-move-closer-can-djibouti-keep-yemens-conflict-across-the-water/",
+      "date": "2026-09-22",
+      "region": "Djibouti",
+      "tags": [
+        "Houthis",
+        "Djibouti",
+        "Maritime"
+      ],
+      "excerpt": "With US and Chinese forces stationed only kilometres apart, Djibouti faces growing pressure to stay out of the war while protecting the ports and trade links that underpin its economy."
+    },
+    {
+      "id": "n_896861efc5",
+      "type": "news",
+      "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss",
+      "date": "2026-09-23",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "Mountain’s capture disrupts Houthis&#039; defences and impacts their advances along Red Sea coast."
+    },
+    {
+      "id": "n_f0336bba9d",
+      "type": "news",
+      "title": "Ethiopian Airlines suspends flights to three northern Tigray airports",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports?traffic_source=rss",
+      "date": "2026-09-23",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "The suspension comes after Tigrayan forces took control of Mekelle airport."
+    },
     {
       "id": "n_e9211e4f7f",
       "type": "news",
@@ -4105,196 +4290,6 @@
         "Airstrikes"
       ],
       "excerpt": "Chad Strikes Reopen File on Turkey’s Expanding Military Presence in Sudan A series of high-precision airstrikes near the Sudan-Chad border has escalated the Sudanese war beyond its domestic theater, reopening an international file on Turkey’s evolving military footprint in Northeast Africa. What beg"
-    },
-    {
-      "id": "n_a77a9d2154",
-      "type": "news",
-      "title": "Berhane Demissie Joins Safaricom Ethiopia Board",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52468/",
-      "date": "2026-08-27",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Berhane Demissie, Co-Founder and Managing Partner of Cepheus Growth Capital Partners, has been appointed to the board of Safaricom Ethiopia.&#160; Berhane’s appointment came following a two-day board meeting of Global Partnership for Ethiopia (GPE) at Safaricom Ethiopia’s headquarters in Addis Ababa"
-    },
-    {
-      "id": "n_a713669533",
-      "type": "news",
-      "title": "US Urges Compromise in Tigray as TPLF Demands Preconditions for AU-Led Talks",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52462/",
-      "date": "2026-08-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "The United States has voiced support for African Union High Representative Olusegun Obasanjo’s efforts to engage Ethiopian and Tigrayan leaders following his visit to Mekelle on Monday, amid rising political tensions and reports of renewed clashes. US Ambassador to Ethiopia Ervin Massinga and Chargé"
-    },
-    {
-      "id": "n_d9160870b1",
-      "type": "news",
-      "title": "Trump’s UN cuts hasten new regional scramble for Somalia",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/428988/trumps-un-cuts-hasten-new-regional-scramble-for-somalia/",
-      "date": "2026-08-28",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "Neighbouring powers are vying for influence as the unravelling AU peacekeeping mission further fractures Africa’s most fragile state."
-    },
-    {
-      "id": "n_9be49650f0",
-      "type": "news",
-      "title": "Somalia Pushes Ahead with Controversial Regional Elections Despite Opponent Boycott.",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/somalia-pushes-ahead-with-controversial-regional-elections-despite-opponent-boycott/?utm_source=rss&utm_medium=rss&utm_campaign=somalia-pushes-ahead-with-controversial-regional-elections-despite-opponent-boycott",
-      "date": "2026-08-28",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Elections",
-        "Galmudug"
-      ],
-      "excerpt": "Somalia’s transition to one-person,one-vote elections is increasingly becoming a struggle not only over democratic reform,but also over who controls political power. The Federal government has stepped into South-West and Galmudug not merely to maintain order or oversees voting,but,critics argue, to "
-    },
-    {
-      "id": "n_e1c0b32358",
-      "type": "news",
-      "title": "Somalia: LUTUF cargo ship hijacker says he’s a US citizen",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-lutuf-cargo-ship-hijacker-us-citizen/",
-      "date": "2026-08-27",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A man identifying himself as one of the Somali pirates holding the hijacked cargo vessel M/V LUTUF off the coast of Somalia told local media he came from the United States and intends to return there once he receives his share of the ransom, in an interview that al"
-    },
-    {
-      "id": "n_03af9dd4d6",
-      "type": "news",
-      "title": "Somalia electoral commission accepts Galmudug election rerun",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-electoral-commission-accepts-galmudug-election-rerun/",
-      "date": "2026-08-26",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Elections",
-        "Mogadishu",
-        "Galmudug"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s electoral commission said Wednesday it has accepted a Supreme Court ruling ordering a rerun of the Galmudug municipal and regional parliamentary elections held on July 30, after the court found irregularities in the vote that it said could not be correcte"
-    },
-    {
-      "id": "n_d949d9760d",
-      "type": "news",
-      "title": "Ethiopia’s Future Demands Axum–Harar Synergy",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/27/ethiopias-future-demands-axum-harar-synergy/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy&utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy",
-      "date": "2026-08-27",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Christian highlands and Islamic east shaped Ethiopia together.\nThe post Ethiopia’s Future Demands Axum–Harar Synergy appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_90838788c3",
-      "type": "news",
-      "title": "Mesfin Tasew, the low-profile guardian of the Ethiopian Airlines empire",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/428736/mesfin-tasew-the-quiet-guardian-of-the-ethiopian-airlines-empire/",
-      "date": "2026-08-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Having arrived in the aviation industry by chance in 1984, Mesfin Tasew now runs Ethiopian Airlines, Africa’s leading carrier. The electronics engineer has just had his term extended."
-    },
-    {
-      "id": "n_223a5db45f",
-      "type": "news",
-      "title": "How Las Anod Changed Somaliland’s Case for Recognition",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/08/how-las-anod-changed-somalilands-case-for-recognition/?utm_source=rss&utm_medium=rss&utm_campaign=how-las-anod-changed-somalilands-case-for-recognition",
-      "date": "2026-08-26",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "Somaliland has spent three decades asking the world to trust a specific story about itself: a peaceful, democratic state exercising real authority over the territory it claims, with institutions worthy of recognition. The 2023 war in Las Anod tested all four of those claims — peace, democratic legit"
-    },
-    {
-      "id": "n_2ffcbc5028",
-      "type": "news",
-      "title": "Pakistan-Somalia defence pact: Is Islamabad preparing to send troops? What we know",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/pakistan-somalia-defence-pact-troops/",
-      "date": "2026-08-25",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Pakistan and Somalia have struck their broadest defence agreement in more than three decades, sending army, navy and air force commanders into direct talks in Rawalpindi and reopening a military relationship last defined by the bloodshed of the 1993 Battle of Mogad"
-    },
-    {
-      "id": "n_30562e6636",
-      "type": "news",
-      "title": "Somaliland forces have seized weapons and combat vehicles held by clans fighting in western Somaliland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-forces-have-seized-weapons-and-combat-vehicles-held-by-clans-fighting-in-western-somaliland/",
-      "date": "2026-08-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security",
-        "Clan Conflict"
-      ],
-      "excerpt": "Security Forces that are operating in Awdal and Salel regions in western of Somaliland successfully seized combat vehicles and weapons held by the warring clans involved in the recent inter-clan clashes that took place in those areas. They presented to the local media some of the combat vehicles aft"
-    },
-    {
-      "id": "n_65135c309a",
-      "type": "news",
-      "title": "Exam Reforms Aren’t Fixing Ethiopia’s Institutional Decay",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/25/exam-reforms-arent-fixing-ethiopias-institutional-decay/?utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay&utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay",
-      "date": "2026-08-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "Better exam security hasn&#8217;t made Ethiopian classrooms more honest or human. A few months ago, a clip from an Ethiopian game show went viral. A husband whispered the answer to his wife so she could win. When the host replayed the footage and caught him, the man didn&#8217;t apologize. He didn&#"
-    },
-    {
-      "id": "n_744f4608cb",
-      "type": "news",
-      "title": "Somalia security crisis: UN layoffs, asset auctions signal AUSSOM’s endgame",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-security-crisis-unsos-layoffs-asset-auctions-aussom-endgame/",
-      "date": "2026-08-24",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The scaffolding holding up Somalia&#8217;s international security operation is coming down, piece by piece, not on a battlefield but inside termination letters and auction notices moving quietly through United Nations procurement channels. The United Nations has be"
     }
   ],
   "articles": [
