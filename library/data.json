@@ -1,6 +1,220 @@
 {
-  "last_updated": "2026-09-23T10:45:05.363268+00:00",
+  "last_updated": "2026-09-24T11:05:33.441226+00:00",
   "news": [
+    {
+      "id": "n_a6fdf90f6b",
+      "type": "news",
+      "title": "US warns of more sanctions as UN, AU urge talks in Ethiopia’s Tigray",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/ethiopia-tigray-us-sanctions-un-au-talks/",
+      "date": "2026-09-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; The United States said it has tools to sanction more leaders in Ethiopia, while the United Nations and African Union urged restraint, after Tigrayan forces seized the airport in Tigray&#8217;s capital Mekelle on Wednesday. Tigray&#8217;s regional government said "
+    },
+    {
+      "id": "n_de59a629d6",
+      "type": "news",
+      "title": "Ethiopia: Tigray forces seize Mekelle airport",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/tigray-forces-seize-mekelle-airport-ethiopia/",
+      "date": "2026-09-23",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Tigrayan forces seized control of Alula Aba Nega Airport in Mekelle overnight, taking the facility from federal police in a major escalation just days after the Tigray People&#8217;s Liberation Front (TPLF) announced a new alliance with six other armed groups aim"
+    },
+    {
+      "id": "n_796dfadb7a",
+      "type": "news",
+      "title": "Somali President and a U.S. official discuss relations between the two countries in New York.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-president-and-a-u-s-official-discuss-relations-between-the-two-countries-in-new-york/",
+      "date": "2026-09-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud met with the U.S. Assistant Secretary of State for African Affairs, Frank Garcia, in New York to discuss strengthening the strategic relationship and cooperation between Somalia and the United States. The meeting, held at the United Nations headquarters, focuse"
+    },
+    {
+      "id": "n_a3dedaf03b",
+      "type": "news",
+      "title": "Somaliland Diaspora in North America Hold Rally Outside the United Nations",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-diaspora-in-north-america-hold-rally-outside-the-united-nations/",
+      "date": "2026-09-24",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The Speaker of the Somaliland House of Representatives, members of the Somaliland government, and Somaliland citizens residing in North America held a rally on Wednesday outside the United Nations headquarters in New York. The rally demonstrated support for the Somaliland cause, with participants di"
+    },
+    {
+      "id": "n_cb06593acd",
+      "type": "news",
+      "title": "Britain donates £5 million to Somalia for El Niño flood preparedness.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/britain-donates-5-million-to-somalia-for-el-nino-flood-preparedness/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "The British government has announced £5 million in new funding to support vulnerable communities in Somalia in preparing for floods expected to result from El Niño during the Deyr rainy season (October to December). This funding will strengthen early warning systems, assist families in safely reloca"
+    },
+    {
+      "id": "n_98ee9bb546",
+      "type": "news",
+      "title": "Somaliland Participates in an International Conference on Disaster Management in Taiwan",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-participates-in-an-international-conference-on-disaster-management-in-taiwan/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "Somaliland’s Minister of Interior and Security, Abdalle Mohamed Arab; the Director General of the Ministry of Foreign Affairs and International Cooperation, Mohamed Abdirahman Hassan; and the Fire Brigade Commander, Brigadier General Ahmed Mohamed Hassan (Sawaaxili), participated in the internationa"
+    },
+    {
+      "id": "n_07d155cc79",
+      "type": "news",
+      "title": "Somaliland hopes for security cooperation with Israel before the end of this year.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-hopes-for-security-cooperation-with-israel-before-the-end-of-this-year/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Security"
+      ],
+      "excerpt": "Somaliland President Abdirahman Mohamed Abdullahi (Irro) stated that he hopes security cooperation between Somaliland and Israel will begin before the end of this year. Irro made these remarks after concluding a two-week visit to Washington, D.C., during which he spoke to journalists, including repo"
+    },
+    {
+      "id": "n_97929df29b",
+      "type": "news",
+      "title": "The Hawadle forces of Afcad have mobilized with heavy weaponry and opposed the holding of elections in Hiran.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-hawadle-forces-of-afcad-have-mobilized-with-heavy-weaponry-and-opposed-the-holding-of-elections-in-hiran/",
+      "date": "2026-09-23",
+      "region": "Somalia",
+      "tags": [
+        "Elections"
+      ],
+      "excerpt": "Local forces armed with various weapons—including sniper rifles and heavy weaponry—have appeared in the Afcad area of ​​the Hiiraan region, amidst a tense political climate regarding the upcoming Hirshabelle administration elections.  The forces have openly declared their opposition to holding elect"
+    },
+    {
+      "id": "n_d949d9760d",
+      "type": "news",
+      "title": "Ethiopia’s Future Demands Axum–Harar Synergy",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/27/ethiopias-future-demands-axum-harar-synergy/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy&utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy",
+      "date": "2026-08-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Christian highlands and Islamic east shaped Ethiopia together.\nThe post Ethiopia’s Future Demands Axum–Harar Synergy appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_65135c309a",
+      "type": "news",
+      "title": "Exam Reforms Aren’t Fixing Ethiopia’s Institutional Decay",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/25/exam-reforms-arent-fixing-ethiopias-institutional-decay/?utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay&utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay",
+      "date": "2026-08-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "Better exam security hasn&#8217;t made Ethiopian classrooms more honest or human. A few months ago, a clip from an Ethiopian game show went viral. A husband whispered the answer to his wife so she could win. When the host replayed the footage and caught him, the man didn&#8217;t apologize. He didn&#"
+    },
+    {
+      "id": "n_b480402796",
+      "type": "news",
+      "title": "Why Tigray’s airport takeover could reignite Ethiopia’s civil war",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431531/is-ethiopia-heading-back-to-civil-war/",
+      "date": "2026-09-23",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Tigrayan forces in Ethiopia have seized Mekelle airport just days after former battlefield enemies joined forces against Prime Minister Abiy Ahmed’s government."
+    },
+    {
+      "id": "n_1521040241",
+      "type": "news",
+      "title": "5 questions to understand the removal of US sanctions on Eritrea",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431445/5-questions-to-understand-the-removal-of-us-sanctions-on-eritrea/",
+      "date": "2026-09-23",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "Trump has allowed the northern Ethiopia state of emergency to expire, which included sanctions on Eritrea, just as the conflict is heating up once again."
+    },
+    {
+      "id": "n_5b6674df73",
+      "type": "news",
+      "title": "Yemeni forces say they repel Houthi attacks in Taiz as fighting rages",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss",
+      "date": "2026-09-24",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands."
+    },
+    {
+      "id": "n_4939bd6fe9",
+      "type": "news",
+      "title": "Yemenis seek safety in Djibouti as African migrants continue arriving in Yemen",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/yemenis-seek-safety-djibouti-while-african-migrants-continue-arriving-yemen",
+      "date": "2026-09-24",
+      "region": "Djibouti",
+      "tags": [
+        "Djibouti"
+      ],
+      "excerpt": "Yemenis seek safety in Djibouti as African migrants continue arriving in Yemen\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE correspondent\n on \nThu, 09/24/2026 - 09:40\n\n        \n      \n    \n      \n    \n                Recent escalation has forced more than 3,000 Yemeni refugees to f"
+    },
+    {
+      "id": "n_37930bec14",
+      "type": "news",
+      "title": "Houthi advance on Aden supply route repelled, say Saudi-backed forces",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-advance-aden-supply-route-repelled-say-saudi-backed-forces",
+      "date": "2026-09-24",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Houthi advance on Aden supply route repelled, say Saudi-backed forces\n\n    \n    \n\n        \n    \n                Yemen's Saudi-backed forces said on Thursday that they had repelled overnight attacks by the Houthis on&nbsp;a key supply route to the southern port city of Aden, where the government is b"
+    },
     {
       "id": "n_169217795c",
       "type": "news",
@@ -4080,216 +4294,6 @@
         "Ethiopia"
       ],
       "excerpt": "After decades of control, digital dissent is reshaping Tigray’s politics.\nThe post Tigray&#8217;s Youth are Breaking the TPLF&#8217;s Narrative Monopoly appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_4adddee49c",
-      "type": "news",
-      "title": "Ethiopia Doubles AU Budget Contribution as Bloc’s Financial Struggles Continue",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52562/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Ethiopia has voluntarily agreed to nearly double its annual contribution to the budget of the African Union (AU), upgrading its scale of assessment to the Tier-One category as the continental bloc finds itself in dire need of financing. The decision was announced during the 49th AU Ordinary Session "
-    },
-    {
-      "id": "n_545c0a0b08",
-      "type": "news",
-      "title": "Ethiopia Proposes Maritime Information Center to Bolster Security",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52559/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Red Sea",
-        "Ethiopia",
-        "African Union",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Alarmed by growing security issues along the Red Sea trade corridor, Ethiopian officials have proposed the establishment of a National Maritime Information Centre. The proposal and requests were made by Captain Kibru Mesfin of the Ethiopian Maritime Authority during a regional summit held in Nairobi"
-    },
-    {
-      "id": "n_bc80b8e71b",
-      "type": "news",
-      "title": "IMF to Revisit Ethiopia’s Economic Forecasting Model in Coming Weeks",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52555/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The International Monetary Fund (IMF) is set to replace Ethiopia’s existing macro-economic forecasting model by September 2026. The IMF is replacing it with a dynamic alternative it dubs the Comprehensive Adaptive Expectations Model (CAEM) following a request from Ethiopian authorities, according to"
-    },
-    {
-      "id": "n_8ffb7095a1",
-      "type": "news",
-      "title": "Koysha Dam Needs €500M to Finish as GERD Supplies 52% of Ethiopia’s Power",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52552/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Ethiopia’s second-largest hydropower project, the Koysha Hydroelectric Project, requires an additional €500 million to reach completion, even as the Grand Ethiopian Renaissance Dam (GERD) generated 52 percent of the nation’s total electricity in the 2018 Ethiopian Fiscal Year (EFY). Briefing reporte"
-    },
-    {
-      "id": "n_95a23077d0",
-      "type": "news",
-      "title": "A 12.8 Percent Pass Rate Is Not a Recovery: It’s a Diagnosis",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52549/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The recently released results for the 2025/2026 Grade 12 national examinations have sparked a wave of cautious relief across Ethiopia’s official circles. With 70,544 out of 550,210 examinees, representing just 12.8 percent, reaching the 50 percent passing threshold for university entry, government b"
-    },
-    {
-      "id": "n_266ef7436c",
-      "type": "news",
-      "title": "Tariff Schedules Lag as Ethiopia Records USD 23mln in AfCFTA Trade",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52546/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Only 16 African countries have tariff schedules covering all categories of goods under the African Continental Free Trade Area (AfCFTA), while 25 have published their schedules in official gazettes, despite 50 countries having submitted tariff schedules to the AfCFTA Secretariat, according to a Mini"
-    },
-    {
-      "id": "n_f0ccaa20b2",
-      "type": "news",
-      "title": "Consortium Flags Restrictions on Observers at National Dialogue",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52543/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "A report from the Consortium of Ethiopian Human Rights Organizations (CEHRO) says observers faced restrictions during critical sessions of the just-concluded National Dialogue forum. The consortium deployed a team of 10 observers to the forum, which took place in Addis Ababa between July 15 and Augu"
-    },
-    {
-      "id": "n_2a970d9a9d",
-      "type": "news",
-      "title": "National Park Offers Helping Hand as Drought Takes Hold in North Gondar",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52540/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Drought"
-      ],
-      "excerpt": "At least 8,200 hectares of farmland, 115,000 households affected by low rainfall By Abebe Fikir Administrators of Simien Mountains National Park and North Gondar Zone are preparing a response to a devastating drought affecting communities and livestock in the vicinity of one of Ethiopia’s most iconi"
-    },
-    {
-      "id": "n_1c764967ff",
-      "type": "news",
-      "title": "WHO Warns of Impending Labor Shortage in African Healthcare",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52537/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The World Health Organization has issued a stark warning regarding the future of public health across Africa, projecting that the continent could face a shortage of nearly six million health workers by 2030 unless decisive, large-scale domestic investments are made. Speaking at the 76th session of t"
-    },
-    {
-      "id": "n_e33d02feb0",
-      "type": "news",
-      "title": "EPSS Says Medicine Supply Gaps Fall to 16 percent",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52534/",
-      "date": "2026-08-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The Ethiopian Pharmaceutical Supply Service (EPSS) says the share of medicines facing inadequate supplier availability has fallen from 27 percent to 16 percent following efforts to expand supplier registration, including registration with the Ethiopian Food and Drug Authority (EFDA). EPSS Director-G"
-    },
-    {
-      "id": "n_fde1e8d899",
-      "type": "news",
-      "title": "History that towers over an ancient city",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52491/",
-      "date": "2026-08-28",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The hum of the high-speed train softened as we pulled into Datong, Shanxi province, leaving behind the bustle of Beijing for a city shaped by layers of history. Travelling with 20 fellow students and three co-ordinators from the Communication University of China, I expected to see temples, grottoes "
-    },
-    {
-      "id": "n_f6e9b399bf",
-      "type": "news",
-      "title": "Weather alert system taps technology and folklore",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52488/",
-      "date": "2026-08-28",
-      "region": "Ethiopia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "China offers the world AI-powered MAZU as a meteorological safeguard solution. Zhang Yi and Hu Meidong report ‘Mazu, protect our voyage on the deep,” go the lyrics of a Chinese folk song that is a plea to the sea goddess Mazu. “Safe journey out, safe return ashore.” Embedded in this song is the soul"
-    },
-    {
-      "id": "n_009ebcac1a",
-      "type": "news",
-      "title": "Africa keeps lead in attracting BRI investment",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52486/",
-      "date": "2026-08-28",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Africa retained its position as the leading destination for Belt and Road Initiative investment in the first half of the year, attracting $33.5 billion in Chinese investment, 254 per cent more than in the corresponding period last year, as manufacturing and energy projects gathered pace amid shiftin"
-    },
-    {
-      "id": "n_a556f8047b",
-      "type": "news",
-      "title": "The Spirit of Merdeka: A New Golden Era of Partnership Between Malaysia and Ethiopia",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52476/",
-      "date": "2026-08-28",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Every year, on 31 August, Malaysians around the world will gather to celebrate Hari Merdeka (Independence Day); this year, it will be its 69th iteration. For Malaysia, Merdeka is far more than a historical milestone marking independence in 1957. It is a continuous, living journey of building a prosp"
-    },
-    {
-      "id": "n_bc6c9c60ff",
-      "type": "news",
-      "title": "UN Security Council Weighs Sudan Arms Embargo",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52471/",
-      "date": "2026-08-27",
-      "region": "Ethiopia",
-      "tags": [
-        "Military",
-        "Security",
-        "Airstrikes"
-      ],
-      "excerpt": "Chad Strikes Reopen File on Turkey’s Expanding Military Presence in Sudan A series of high-precision airstrikes near the Sudan-Chad border has escalated the Sudanese war beyond its domestic theater, reopening an international file on Turkey’s evolving military footprint in Northeast Africa. What beg"
     }
   ],
   "articles": [
