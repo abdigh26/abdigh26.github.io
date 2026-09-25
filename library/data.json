@@ -1,6 +1,211 @@
 {
-  "last_updated": "2026-09-24T11:05:33.441226+00:00",
+  "last_updated": "2026-09-25T11:06:46.759503+00:00",
   "news": [
+    {
+      "id": "n_f7f0ac41b9",
+      "type": "news",
+      "title": "Somalia president pledges democracy at UN amid term extension row",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-democracy-un-term-extension-row/",
+      "date": "2026-09-25",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud said on Thursday his government was laying the foundations of universal suffrage, addressing the United Nations General Assembly as opposition leaders at home said he had left unresolved a dispute over his term extens"
+    },
+    {
+      "id": "n_4a70b56bbe",
+      "type": "news",
+      "title": "Somaliland Parliament backs President Irro’s diplomatic efforts.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-parliament-backs-president-irros-diplomatic-efforts/",
+      "date": "2026-09-24",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The Parliament of Somaliland, comprising the House of Representatives and the House of Elders (Guurti), has issued a statement supporting the diplomatic initiatives of Somaliland President Abdirahman Mohamed Abdullahi (Cirro), particularly those concerning the Somaliland cause and the pursuit of int"
+    },
+    {
+      "id": "n_213d8976ae",
+      "type": "news",
+      "title": "High-level delegation from the Pakistan Air Force departs Mogadishu after a five-day visit.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/high-level-delegation-from-the-pakistan-air-force-departs-mogadishu-after-a-five-day-visit/",
+      "date": "2026-09-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "A high-level delegation from the Pakistan Air Force (PAF) has returned to Islamabad after concluding a five-day working visit to Somalia. During the visit, the delegation held high-level meetings with the country&#8217;s leadership and the leadership of the Somali Air Force, focusing on the reconstr"
+    },
+    {
+      "id": "n_b693509a69",
+      "type": "news",
+      "title": "Protests take place in Beledweyne against a non-consensual election in Hirshabelle",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/protests-take-place-in-beledweyne-against-a-non-consensual-election-in-hirshabelle/",
+      "date": "2026-09-24",
+      "region": "Somalia",
+      "tags": [
+        "Elections"
+      ],
+      "excerpt": "A large-scale demonstration took place today in Beledweyne, the capital of the Hiran region, where participating citizens, politicians, community elders, and officials expressed concern and opposition regarding the planned electoral process for the HirShabelle administration. The protest coincides w"
+    },
+    {
+      "id": "n_08e5b47f91",
+      "type": "news",
+      "title": "UN Secretary-General and Hassan Sheikh discuss Somalia’s security and AUSSOM support.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/un-secretary-general-and-hassan-sheikh-discuss-somalias-security-and-aussom-support/",
+      "date": "2026-09-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "The United Nations Secretary-General met with the President of Somalia, Hassan Sheikh Mohamud, to discuss the security situation in Somalia and efforts to strengthen support for the African Union Support and Stabilization Mission in Somalia (AUSSOM). The meeting focused on the latest developments re"
+    },
+    {
+      "id": "n_eaaad0abfa",
+      "type": "news",
+      "title": "Houthis tighten grip on Bab el-Mandeb – and African ports may lose out",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431747/houthis-tighten-grip-on-bab-el-mandeb-and-african-ports-may-lose-out/",
+      "date": "2026-09-25",
+      "region": "Djibouti",
+      "tags": [
+        "Houthis",
+        "Bab el-Mandeb",
+        "Djibouti",
+        "Maritime"
+      ],
+      "excerpt": "Soaring fuel costs are tempting carriers back to Bab el-Mandeb, threatening west Africa’s mega-ship boom. Only a handful of deepwater hubs, and Djibouti, look set to gain."
+    },
+    {
+      "id": "n_138aefca92",
+      "type": "news",
+      "title": "Heavy fighting, internet disruption as Ethiopia conflict rages",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431765/heavy-fighting-internet-disruption-as-ethiopia-conflict-rages/",
+      "date": "2026-09-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source said Friday, with reports of an internet blackout in the north of the country."
+    },
+    {
+      "id": "n_f3cd81124f",
+      "type": "news",
+      "title": "Kenya to double Ethiopian power imports as domestic grid pressures mount",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431601/kenya-to-double-ethiopian-power-imports-as-domestic-grid-pressures-mount/",
+      "date": "2026-09-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya",
+        "Maritime"
+      ],
+      "excerpt": "Nairobi prepares to increase cross-border electricity flows to 400MW under an existing 25-year pact to bolster thin domestic reserves with cheaper regional hydropower."
+    },
+    {
+      "id": "n_979855561e",
+      "type": "news",
+      "title": "Dangote bets $660m on a fuel pipeline into Ethiopia",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431708/dangote-bets-660m-on-a-fuel-pipeline-into-ethiopia/",
+      "date": "2026-09-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Djibouti"
+      ],
+      "excerpt": "A 120km line from Djibouti to Dewele aims to cut the cost and delays of supplying Africa’s second most populous country with fuel."
+    },
+    {
+      "id": "n_a24c7e0845",
+      "type": "news",
+      "title": "Ethiopia: Are Abiy’s Tigray enemies planning a quick march towards Addis? Watch Weldiya",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431639/ethiopia-are-abiys-tigray-enemies-planning-a-quick-march-towards-addis-watch-weldiya/",
+      "date": "2026-09-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Airports have fallen, key roads are under attack, and Tigrayan forces and their new allies are going after strategic junctions across northern Ethiopia as fighting spreads into Afar and Amhara. Down the road lies Weldiya, a key stop on the route Tigrayan forces used during their dramatic 2021 push s"
+    },
+    {
+      "id": "n_0d80aaf1e8",
+      "type": "news",
+      "title": "Saudi Arabia allies line up support as Houthi attacks mount",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
+      "date": "2026-09-25",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh."
+    },
+    {
+      "id": "n_bc94a72f07",
+      "type": "news",
+      "title": "Young men flee Tigray amid fears of forced recruitment",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+      "date": "2026-09-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray"
+      ],
+      "excerpt": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting."
+    },
+    {
+      "id": "n_10d62345f9",
+      "type": "news",
+      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+      "date": "2026-09-25",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities."
+    },
+    {
+      "id": "n_da4bcabed0",
+      "type": "news",
+      "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+      "date": "2026-09-25",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify."
+    },
     {
       "id": "n_a6fdf90f6b",
       "type": "news",
@@ -4094,206 +4299,6 @@
         "Military"
       ],
       "excerpt": "The Somali National Army conducted large-scale military operations against the militant group of Al-Shabab on the outskirts of Basra area, which is situated on the border between Lower and Middle Shabelle provinces, an official statement from the Defense Ministry of Somalia said on Monday. The Somal"
-    },
-    {
-      "id": "n_b737919a24",
-      "type": "news",
-      "title": "#ትሰማ Unmasks a Power Struggle Over Culture in Ethiopia",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/09/01/%e1%89%b5%e1%88%b0%e1%88%9b-unmasks-a-power-struggle-over-culture-in-ethiopia/?utm_source=rss&utm_medium=rss&utm_campaign=%25e1%2589%25b5%25e1%2588%25b0%25e1%2588%259b-unmasks-a-power-struggle-over-culture-in-ethiopia&utm_source=rss&utm_medium=rss&utm_campaign=%25e1%2589%25b5%25e1%2588%25b0%25e1%2588%259b-unmasks-a-power-struggle-over-culture-in-ethiopia",
-      "date": "2026-09-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "A campaign against gender violence ignites a wider cultural debate.\nThe post #ትሰማ Unmasks a Power Struggle Over Culture in Ethiopia appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_9531b51d17",
-      "type": "news",
-      "title": "Addis as the New Commercial Frontier: Deciphering Global Capital in Ethiopia’s Reform Era",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52591/",
-      "date": "2026-08-31",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "As Ethiopia accelerates its economic liberalization, traditional models of foreign assistance and heavy debt financing are reaching their structural limits. With global partners—from the United States and China to Japan, France, and broader European actors—navigating shifting geopolitical dynamics, "
-    },
-    {
-      "id": "n_59c33e7684",
-      "type": "news",
-      "title": "Yemeni forces carry out attacks against Houthi positions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-carry-out-attacks-against-houthi-positions",
-      "date": "2026-09-01",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "Yemeni forces carry out attacks against Houthi positions\n\n    \n    \n\n        \n    \n                Yemen’s military says launched drone attacks targeted Houthi positions&nbsp;across several fronts.\n\nThe army’s media centre shared footage showing&nbsp;drones dropping bombs in the Baqam district, nort"
-    },
-    {
-      "id": "n_c088935f8e",
-      "type": "news",
-      "title": "Everyday Authoritarianism Threatens Ethiopia’s Democratic Ambitions",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/07/20/everyday-authoritarianism-threatens-ethiopias-democratic-ambitions/?utm_source=rss&utm_medium=rss&utm_campaign=everyday-authoritarianism-threatens-ethiopias-democratic-ambitions&utm_source=rss&utm_medium=rss&utm_campaign=everyday-authoritarianism-threatens-ethiopias-democratic-ambitions",
-      "date": "2026-07-20",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The country’s democratic crisis begins in everyday relationships with power.\nThe post Everyday Authoritarianism Threatens Ethiopia&#8217;s Democratic Ambitions appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_7e94cf7549",
-      "type": "news",
-      "title": "Al-Shabaab wants Houthi drones. What could that mean for the Red Sea?",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/429111/al-shabaab-wants-houthi-drones-what-could-that-mean-for-the-red-sea/",
-      "date": "2026-08-31",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Houthis",
-        "Red Sea",
-        "Somalia",
-        "Military"
-      ],
-      "excerpt": "Deepening ties between the Yemeni rebels and Somali militants are putting renewed focus on earlier talks over explosive UAVs and specialised military training, a relationship analyst says could eventually have consequences beyond Somalia and across the Red Sea."
-    },
-    {
-      "id": "n_a20d5d6c2f",
-      "type": "news",
-      "title": "MV LUTUF freed off Somalia after Turkey pays ransom to Somali pirates",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/mv-lutuf-freed-off-somalia-turkey-ransom-somali-pirates/",
-      "date": "2026-08-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A Cameroon-flagged cargo vessel carrying weapons, armored military vehicles and other equipment bound for Turkey&#8217;s military base in Mogadishu was released by Somali pirates on Saturday after Ankara paid a $2.5 million ransom, according to local media and jour"
-    },
-    {
-      "id": "n_3505e8a8ea",
-      "type": "news",
-      "title": "AU clears peacekeepers to join Somalia fight against Southwest Darwish forces",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/au-clears-peacekeepers-southwest-darwish-forces-somalia/",
-      "date": "2026-08-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu",
-        "Militia"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The African Union Commission has authorized its peacekeeping mission in Somalia to join federal government forces in combat operations against Darwish militia loyal to an ousted Southwest regional president, marking the first time the continental force has been cle"
-    },
-    {
-      "id": "n_0777c2041f",
-      "type": "news",
-      "title": "Dolow District Airport successfully reopened after two-year closure",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/dolow-district-airport-successfully-reopened-after-two-year-closure/",
-      "date": "2026-08-29",
-      "region": "Somalia",
-      "tags": [
-        "Jubaland",
-        "Maritime"
-      ],
-      "excerpt": "Dolow District Airport in Gedo Province was successfully reopened on Saturday after a two-year closure due to a political dispute between the Somali Federal Government and Jubaland administration. Conversely, Dolow District Commissioner in Gedo region, Mr. Mohamed Hussein Abdi Lafeey, has wrapped up"
-    },
-    {
-      "id": "n_dd8ce0fa33",
-      "type": "news",
-      "title": "SOLJA expressed its deep concern over the illegal detention of a journalist at CID headquarters in Hargeisa",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/solja-expressed-its-deep-concern-over-the-illegal-detention-of-a-journalist-at-cid-headquarters-in-hargeisa/",
-      "date": "2026-08-29",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Chairman of Somaliland Journalists Association (SOLJA), Mr. Shafi’i Mohamed Ibrahim has announced that all practicing journalists not to go to the Criminal Investigation Department (CID) unless there is an arrest warrant issued by the courts in Somaliland paving the way for his or her detention."
-    },
-    {
-      "id": "n_863485eacc",
-      "type": "news",
-      "title": "Chad Blames Sudan’s Army for Strikes on Convoy",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/anb/africa/chad-sudan/chad-blames-sudans-army-strikes-convoy",
-      "date": "2026-08-28",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Chad Blames Sudan’s Army for Strikes on Convoy\n\ncmoore\n\nFri, 08/28/2026 - 12:46\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                         "
-    },
-    {
-      "id": "n_31360dff8f",
-      "type": "news",
-      "title": "Ethiopia’s Gobena, Kenya’s Olympic champion Jepchirchir win Sydney Marathon",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/sports/2026/8/30/ethiopias-gobena-kenyas-olympic-champion-jepchirchir-win-sydney-marathon?traffic_source=rss",
-      "date": "2026-08-30",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Kenya"
-      ],
-      "excerpt": "Gobena claims first victory after finishing second last year, as Jepchirchir adds to Boston, New York and London wins."
-    },
-    {
-      "id": "n_9061d241ce",
-      "type": "news",
-      "title": "Uganda to withdraw all UPDF troops from Somalia by August 1, 2027, army chief Says – AUSSOM faces major test",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-updf-withdraw-troops-somalia-august-1-2027-aussom/",
-      "date": "2026-08-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Uganda is leaving Somalia. All of it, all the way out, on a fixed date &#8211; and its army chief said so in the plainest terms Kampala has ever used. General Muhoozi Kainerugaba, Uganda&#8217;s Chief of Defence Forces and the son of President Yoweri Museveni, anno"
-    },
-    {
-      "id": "n_ceb3c60eac",
-      "type": "news",
-      "title": "Ethiopia’s National Dialogue Could Unravel the Federal Bargain",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/07/18/ethiopias-national-dialogue-could-unravel-the-federal-bargain/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-national-dialogue-could-unravel-the-federal-bargain&utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-national-dialogue-could-unravel-the-federal-bargain",
-      "date": "2026-07-18",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Somalis fear constitutional reform could undermine their self-determination rights.\nThe post Ethiopia&#8217;s National Dialogue Could Unravel the Federal Bargain appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_1f5b9d4021",
-      "type": "news",
-      "title": "Tigray’s Youth are Breaking the TPLF’s Narrative Monopoly",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/07/17/tigrays-youth-are-breaking-the-tplfs-narrative-monopoly/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-youth-are-breaking-the-tplfs-narrative-monopoly&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-youth-are-breaking-the-tplfs-narrative-monopoly",
-      "date": "2026-07-17",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "After decades of control, digital dissent is reshaping Tigray’s politics.\nThe post Tigray&#8217;s Youth are Breaking the TPLF&#8217;s Narrative Monopoly appeared first on Ethiopia Insight."
     }
   ],
   "articles": [
