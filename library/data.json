@@ -1,6 +1,137 @@
 {
-  "last_updated": "2026-09-25T11:06:46.759503+00:00",
+  "last_updated": "2026-09-26T10:47:48.262460+00:00",
   "news": [
+    {
+      "id": "n_d94c0fe661",
+      "type": "news",
+      "title": "Puntland forces free hijacked oil tanker Sibu 1 off Somalia’s coast, all 20 crew safe",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-free-hijacked-tanker-sibu-1-crew-safe/",
+      "date": "2026-09-26",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Maritime",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland&#8217;s maritime police force freed the oil tanker MT Sibu 1 on Friday, ending a five-week hijacking off Somalia&#8217;s northern coast after a 48-hour operation that left all 20 crew members unharmed, regional officials said. The Puntland Maritime Police "
+    },
+    {
+      "id": "n_e471d4c5aa",
+      "type": "news",
+      "title": "Somaliland offers to rename Berbera Airport after Trump",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-offers-rename-berbera-airport-trump-us-recognition/",
+      "date": "2026-09-26",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Berbera",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somaliland President Abdirahman Mohamed Abdullahi Irro has suggested renaming Berbera International Airport after U.S. President Donald Trump, as his government intensifies a decades-long campaign for independence from Somalia. Irro raised the proposal during an in"
+    },
+    {
+      "id": "n_9dbeeee783",
+      "type": "news",
+      "title": "NISA Announces to have killed 12 Al-Shabaab members in an airstrike in Middle Shabelle.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-announces-to-have-killed-12-al-shabaab-members-in-an-airstrike-in-middle-shabelle/",
+      "date": "2026-09-26",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security",
+        "Airstrikes"
+      ],
+      "excerpt": "The National Intelligence and Security Agency (NISA) of Somalia announced that 12 Al-Shabaab members were killed during a planned operation in the Buur-Saruur area of ​​the Middle Shabelle region. NISA stated that the operation took place in Buur-Saruur—located approximately two kilometers southeast"
+    },
+    {
+      "id": "n_840de44609",
+      "type": "news",
+      "title": "Somalia Humanitarian Forum meeting concludes in Mogadishu.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-humanitarian-forum-meeting-concludes-in-mogadishu/",
+      "date": "2026-09-25",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU, Somalia — The Somalia Humanitarian Forum (CHF 2026) concluded in Mogadishu, addressing preparedness for the anticipated impacts of the 2026 &#8220;Super El Niño&#8221; climate event, early warning systems, and the implementation of urgent measures to mitigate humanitarian risks. The confe"
+    },
+    {
+      "id": "n_b737919a24",
+      "type": "news",
+      "title": "#ትሰማ Unmasks a Power Struggle Over Culture in Ethiopia",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/01/%e1%89%b5%e1%88%b0%e1%88%9b-unmasks-a-power-struggle-over-culture-in-ethiopia/?utm_source=rss&utm_medium=rss&utm_campaign=%25e1%2589%25b5%25e1%2588%25b0%25e1%2588%259b-unmasks-a-power-struggle-over-culture-in-ethiopia&utm_source=rss&utm_medium=rss&utm_campaign=%25e1%2589%25b5%25e1%2588%25b0%25e1%2588%259b-unmasks-a-power-struggle-over-culture-in-ethiopia",
+      "date": "2026-09-01",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A campaign against gender violence ignites a wider cultural debate.\nThe post #ትሰማ Unmasks a Power Struggle Over Culture in Ethiopia appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_208445d135",
+      "type": "news",
+      "title": "Ethiopia’s Foretold War Arrives",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/09/ethiopias-foretold-war-arrives/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-foretold-war-arrives",
+      "date": "2026-09-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "No one can claim that a return to war in Tigray and northern Ethiopia is a surprise, but it makes it no less horrifying. In just a handful of days, and after months of spiralling tensions and sporadic fighting, the &#8216;grey conflict&#8217; the federal government pursued against Tigray has escalat"
+    },
+    {
+      "id": "n_c0f776533f",
+      "type": "news",
+      "title": "Breaking the Pretoria Architecture: How Ethiopia’s Fragmented Wars Converged into a Single Existential Threat",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/09/breaking-the-pretoria-architecture-how-ethiopias-fragmented-wars-converged-into-a-single-existential-threat/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-the-pretoria-architecture-how-ethiopias-fragmented-wars-converged-into-a-single-existential-threat",
+      "date": "2026-09-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "When the Pretoria Cessation of Hostilities Agreement was signed in November 2022, international observers prematurely celebrated the end of one of this century&#8217;s most devastating conflicts. The silence of the guns in Tigray was treated as a definitive roadmap toward peace. What the internation"
+    },
+    {
+      "id": "n_9a77a4adea",
+      "type": "news",
+      "title": "Yemen’s government offers amnesty to Houthi defectors",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/yemens-government-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+      "date": "2026-09-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Yemen’s president called on citizens to join the armed forces, and offered amnesty to Iran-backed Houthi rebels."
+    },
+    {
+      "id": "n_86a01d508b",
+      "type": "news",
+      "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+      "date": "2026-09-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea"
+      ],
+      "excerpt": "Rashad al-Alimi pledges amnesty for Houthi defectors in first speech since losing ground on the western Red Sea coast."
+    },
     {
       "id": "n_f7f0ac41b9",
       "type": "news",
@@ -4162,143 +4293,6 @@
         "Security"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s National Security Adviser, Aways Haji Yusuf, on Tuesday confirmed for the first time that an undisclosed number of Somali National Army (SNA) troops who recently completed a Saudi Arabia-funded training program in Hanaanbure, Galmudug, have crossed "
-    },
-    {
-      "id": "n_02d832e8c3",
-      "type": "news",
-      "title": "Al-Shabaab-Houthi alliance poses a new threat to the U.S. and its allies",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-houthi-alliance-us-allies-threat/",
-      "date": "2026-09-01",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Houthis",
-        "Military",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; On a balmy evening, Jibril “One-Armed” Yahya Ali and his new bride set out for a honeymoon drive along the beach outside al-Ghaydah, Yemen. Jibril, a Somali, and his Yemeni wife had met through a mutual acquaintance, an arms dealer who helped Jibril buy military-gr"
-    },
-    {
-      "id": "n_bd3ccb26fd",
-      "type": "news",
-      "title": "Somalia’s Hassan Sheikh Mohamud agrees to hold elections in 7 Months",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-mohamud-agrees-elections-7-months/",
-      "date": "2026-09-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Elections",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud has agreed to hold elections within seven months and accepted some of the opposition&#8217;s demands, following mediation by the country&#8217;s international partners aimed at ending a long-running dispute over elect"
-    },
-    {
-      "id": "n_c401266ed6",
-      "type": "news",
-      "title": "Somali MPs file no-confidence motion against interior minister",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-no-confidence-motion-interior-minister-ali-yusuf-hosh/",
-      "date": "2026-08-31",
-      "region": "Somalia",
-      "tags": [
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somali lawmakers on Monday tabled a motion of no-confidence against Interior Minister Ali Yusuf Hosh, the first such motion filed against a government official since parliament elected a new speaker several weeks ago. The motion, signed by 60 members of parliament,"
-    },
-    {
-      "id": "n_3f164c488c",
-      "type": "news",
-      "title": "Somalia’s govt, Al-Shabaab battle for Basra in second week",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalias-govt-al-shabaab-battle-basra-second-week/",
-      "date": "2026-08-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s federal government forces and Al-Shabaab militants remained locked in intense fighting for a second consecutive week over the town of Basra, roughly an hour&#8217;s drive northwest of the capital, with no significant change in ground control reporte"
-    },
-    {
-      "id": "n_d03380c41f",
-      "type": "news",
-      "title": "The Houthis and Al-Shabaab have forged a secret alliance-Wall Street Journal",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-houthis-and-al-shabaab-have-forged-a-secret-alliance-wall-street-journal/",
-      "date": "2026-09-02",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Houthis",
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "Houthis in Yemen and Al-Shabab militants in Somalia established strengthening covert partnership entailing the exchange of weapons, training, and coordinating operations, a report published by Wall Street Journal cited. Al-Shabab militants received modernized weapons, training on manned aerial vehic"
-    },
-    {
-      "id": "n_2cd569ba06",
-      "type": "news",
-      "title": "Somali Military Command has launched an investigation into a video showing abuse inflicted upon an Al-Shabaab prisoner",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-military-command-has-launched-an-investigation-into-a-video-showing-abuse-inflicted-upon-an-al-shabaab-prisoner/",
-      "date": "2026-09-01",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "The Military Command of Somalia’s National Army launched a preliminary investigation into members of Somali Forces, who were allegedly accused of disseminating a video on the social media showing abuse inflicted on a prisoner of war, while the Somali troops were conducting an operation against the m"
-    },
-    {
-      "id": "n_00e1ffd95e",
-      "type": "news",
-      "title": "Somaliland Defense Minister Announces January 2027 Military Salary Increase During Frontline Visit",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-defense-minister-announces-january-2027-military-salary-increase-during-frontline-visit/",
-      "date": "2026-09-01",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "Somaliland’s Minister of Defense, Mohamed Yusuf Ali, accompanied by the Commander of the Somaliland National Armed Forces, Brigadier General Nim’an Yusuf Gaxnug, visited frontline military positions today, Monday 31 August, 2026, where they met with troops and assessed conditions on the ground. Duri"
-    },
-    {
-      "id": "n_640963ebe7",
-      "type": "news",
-      "title": "Somalia appeals to Arab nations in assisting to block the recognition of Somaliland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-appeals-to-arab-nations-in-assisting-to-block-the-recognition-of-somaliland/",
-      "date": "2026-08-31",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Israel"
-      ],
-      "excerpt": "Somalia made a call to the Arab countries, urging them to use their relations and diplomatic leverage in a bid to prevent the recognition that Israel granted to Somaliland to turn into a campaign where other countries in the world would follow suit and officially recognize Somaliland, Somalia’s Stat"
-    },
-    {
-      "id": "n_527abd6f3a",
-      "type": "news",
-      "title": "Two Al-Shabaab commanders were killed in an operation in Basra-Defense Ministry",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/two-al-shabaab-commanders-were-killed-in-an-operation-in-basra-defense-ministry/",
-      "date": "2026-08-31",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Military"
-      ],
-      "excerpt": "The Somali National Army conducted large-scale military operations against the militant group of Al-Shabab on the outskirts of Basra area, which is situated on the border between Lower and Middle Shabelle provinces, an official statement from the Defense Ministry of Somalia said on Monday. The Somal"
     }
   ],
   "articles": [
