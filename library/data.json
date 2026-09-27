@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-09-26T10:47:48.262460+00:00",
+  "last_updated": "2026-09-27T11:22:54.077462+00:00",
   "news": [
+    {
+      "id": "n_c579d80851",
+      "type": "news",
+      "title": "Prime Minister Hamza: The Jubaland election will be held wherever possible.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/prime-minister-hamza-the-jubaland-election-will-be-held-wherever-possible/",
+      "date": "2026-09-27",
+      "region": "Somalia",
+      "tags": [
+        "Elections",
+        "Jubaland"
+      ],
+      "excerpt": "Somali Prime Minister Hamza Abdi Barre stated that elections will be held in Jubaland areas where voting is feasible, while in locations where conditions do not permit elections, the electoral procedures designated for such situations will be applied. In an interview, Hamza Abdi Barre indicated that"
+    },
+    {
+      "id": "n_c53986fd44",
+      "type": "news",
+      "title": "Defense Minister issues a stern warning to the opposition: “An iron fist must be used against anyone organizing militias.”",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/defense-minister-issues-a-stern-warning-to-the-opposition-an-iron-fist-must-be-used-against-anyone-organizing-militias/",
+      "date": "2026-09-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Militia"
+      ],
+      "excerpt": "Somalia&#8217;s Minister of Defense, Ahmed Moallim Fiqi, issued a stern warning to opposition politicians regarding the dangers posed by the mobilization of forces, the formation of militias, and any actions that could undermine the country&#8217;s security and stability. Fiqi stated that there woul"
+    },
+    {
+      "id": "n_717a28cff6",
+      "type": "news",
+      "title": "With only days remaining until the Hirshabelle election, a serious dispute persists.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/with-only-days-remaining-until-the-hirshabelle-election-a-serious-dispute-persists/",
+      "date": "2026-09-27",
+      "region": "Somalia",
+      "tags": [
+        "Elections"
+      ],
+      "excerpt": "The National Electoral Commission is preparing to hold a &#8220;one-person, one-vote&#8221; election on the 30th of this month in the Hiran and Middle Shabelle regions, even as tensions run high in the Hiran region. The Federal Government is pushing for the election to take place on schedule, despit"
+    },
+    {
+      "id": "n_c5a33787e8",
+      "type": "news",
+      "title": "Yemen government forces widen attacks against Houthis: What we know",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
+      "date": "2026-09-27",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours."
+    },
+    {
+      "id": "n_50ac4f214e",
+      "type": "news",
+      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+      "date": "2026-09-27",
+      "region": "Djibouti",
+      "tags": [
+        "Djibouti"
+      ],
+      "excerpt": "Djibouti urges world to help as Yemen war drives refugee influx"
+    },
+    {
+      "id": "n_1c02374473",
+      "type": "news",
+      "title": "Ethiopia’s army promises restraint amid fears of new civil war",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
+      "date": "2026-09-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Maritime"
+      ],
+      "excerpt": "Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia."
+    },
     {
       "id": "n_d94c0fe661",
       "type": "news",
@@ -4205,94 +4288,6 @@
         "Kenya"
       ],
       "excerpt": "The US ride-hailing group’s latest African exits deepen a regional retreat and open the door for rivals better adapted to local pricing and costs. Uber remains available in South Africa, Kenya, Ghana, Egypt and Morocco."
-    },
-    {
-      "id": "n_fa93e8e450",
-      "type": "news",
-      "title": "After the Ballot: What Democracy Must Mean for Somalia",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/09/after-the-ballot-what-democracy-must-mean-for-somalia/?utm_source=rss&utm_medium=rss&utm_campaign=after-the-ballot-what-democracy-must-mean-for-somalia",
-      "date": "2026-09-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Somali political life is intensely debated across towns, households, media platforms and diaspora communities. Yet this energy does not consistently produce the power to compel answers, reverse failed policies or remove officials whose conduct has become unacceptable. The distance between participat"
-    },
-    {
-      "id": "n_e7134cae33",
-      "type": "news",
-      "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
-      "date": "2026-09-04",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea"
-      ],
-      "excerpt": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast."
-    },
-    {
-      "id": "n_355b98e1bb",
-      "type": "news",
-      "title": "Somalia: Armed militias seize election centers in Beledweyne",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-armed-militias-seize-election-centers-beledweyne/",
-      "date": "2026-09-02",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Elections",
-        "Mogadishu",
-        "Militia"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Armed militias seized centers designated for voter registration in Beledweyne on Tuesday, as Somalia’s electoral commission set September 30 for Hirshabelle municipal and parliamentary elections, intensifying opposition to the planned vote, Caasimada Online news we"
-    },
-    {
-      "id": "n_be66fd6766",
-      "type": "news",
-      "title": "Heavy fighting breaks out in Baidoa between Federal Forces and troops loyal to the former president of Southwest State.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/heavy-fighting-breaks-out-in-baidoa-between-federal-forces-and-troops-loyal-to-the-former-president-of-southwest-state/",
-      "date": "2026-09-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Fierce fighting erupted in Baidoa on Thursday morning, where armed clashes ensued between Somali Federal Forces and troops loyal to the former ousted President of Southwest State. The armed confrontation took place in the city and its surrounding areas, while heavy gunfire could be heard from severa"
-    },
-    {
-      "id": "n_9488fa39e8",
-      "type": "news",
-      "title": "The United States is supporting Puntland in the development and training of its Armed forces.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-united-states-is-supporting-puntland-in-the-development-and-training-of-its-armed-forces/",
-      "date": "2026-09-02",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Puntland",
-        "Maritime"
-      ],
-      "excerpt": "Puntland’s Regional State President in Somalia, Mr. Saed Abdullahi Deni yesterday held a high-level meeting held in the port city of Bosaso with senior U.S. Africa Command (AFRICOM) officials, led by Colonel James Rose, commander of U.S. Special Operations in East Africa, an official statement from "
-    },
-    {
-      "id": "n_2ae1e5a99a",
-      "type": "news",
-      "title": "Somalia NSA confirms troops crossed into Ethiopia region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-nsa-confirms-troops-crossed-ethiopia-somali-region/",
-      "date": "2026-09-02",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia",
-        "SNA",
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s National Security Adviser, Aways Haji Yusuf, on Tuesday confirmed for the first time that an undisclosed number of Somali National Army (SNA) troops who recently completed a Saudi Arabia-funded training program in Hanaanbure, Galmudug, have crossed "
     }
   ],
   "articles": [
