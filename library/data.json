@@ -1,6 +1,177 @@
 {
-  "last_updated": "2026-09-27T11:22:54.077462+00:00",
+  "last_updated": "2026-09-28T12:52:45.442753+00:00",
   "news": [
+    {
+      "id": "n_2c0e3769ac",
+      "type": "news",
+      "title": "Somalia PM denies paying Al-Shabaab to keep Mogadishu secure",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pm-denies-paying-al-shabaab-keep-mogadishu-secure/",
+      "date": "2026-09-28",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s Prime Minister Hamza Abdi Barre has denied his government pays Al-Shabaab to stop attacks on Mogadishu, saying it has never held talks with the group. Barre said in an interview with Dawan TV that the government does not pay the Islamist militant gr"
+    },
+    {
+      "id": "n_321c4d3a0a",
+      "type": "news",
+      "title": "Somalia parliament speaker plans to cut pay of absent lawmakers",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-cut-pay-absent-lawmakers/",
+      "date": "2026-09-28",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s parliament speaker, Abdulkadir Mohamed Nur Jama, plans to cut the salaries of about 50 lawmakers for not regularly attending assembly meetings, Somali Stream reported on Sunday. Jama has ordered the parliament secretariat to provide him with the nam"
+    },
+    {
+      "id": "n_fc9a09be9e",
+      "type": "news",
+      "title": "Somalia: Pirates captured in SIBU tanker raid escape Puntland convoy",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-sibu-tanker-escape-puntland-convoy/",
+      "date": "2026-09-27",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Nineteen pirates escaped from a convoy of vehicles transporting them to Puntland&#8217;s regional capital on Saturday, a day after being captured in a raid to free the SIBU tanker off Somalia&#8217;s northeastern coast, Caasimada Online news website reported on Sun"
+    },
+    {
+      "id": "n_38ab5de31a",
+      "type": "news",
+      "title": "Heavy weapons used in fighting in Baidoa",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/heavy-weapons-used-in-fighting-in-baidoa/",
+      "date": "2026-09-28",
+      "region": "Somalia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "Forces loyal to the former President of Southwest State, Abdiaziz Hassan Mohamed (Laftagareen), launched a heavy attack today on the city of Baidoa, the capital of the Bay region. These forces attacked the city from multiple directions, utilizing automatic weapons, explosives, and unmanned aerial ve"
+    },
+    {
+      "id": "n_d752a31792",
+      "type": "news",
+      "title": "Somalia Defense Minister Meets Children of Fallen Soldiers Amid Allowance Concerns",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-defense-minister-meets-children-of-fallen-soldiers-amid-allowance-concerns/",
+      "date": "2026-09-28",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Minister of Defense of the Federal Government of Somalia, Mr. Ahmed Moallim Fiqi, and the Commander of the Somali National Army, Brigadier General Ibrahim Mohamed Mohamud, held a meeting to check on the well-being and offer encouragement to some of the orphaned children of Somali National Army s"
+    },
+    {
+      "id": "n_e339788d0f",
+      "type": "news",
+      "title": "Heavy fighting breaks out in the city of Baidoa.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/heavy-fighting-breaks-out-in-the-city-of-baidoa/",
+      "date": "2026-09-28",
+      "region": "Somalia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "Heavy fighting broke out this morning in Baidoa, the capital of the Bay region, with reports indicating that Southwest State Darawish forces loyal to former Southwest President Abdiaziz Hassan Mohamed &#8220;Laftagareen&#8221; had reached the Afar Irdoodka area in the city center. It remains unclear"
+    },
+    {
+      "id": "n_4c51fcb50b",
+      "type": "news",
+      "title": "Somaliland says it is pursuing efforts to take over the management of its airspace.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-says-it-is-pursuing-efforts-to-take-over-the-management-of-its-airspace/",
+      "date": "2026-09-28",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia"
+      ],
+      "excerpt": "Somaliland has announced that it is pursuing efforts to fully assume control of its airspace management and to eliminate the requirement for Somalia’s electronic visa (E-Visa) system, which travelers to Hargeisa are currently compelled to use. Somaliland’s Minister of Presidential Affairs, Khadar Hu"
+    },
+    {
+      "id": "n_3ca9096f02",
+      "type": "news",
+      "title": "The women running Ethiopia’s economy",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/431720/the-women-running-ethiopias-economy/",
+      "date": "2026-09-28",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The most powerful women in Ethiopia’s economy right now are not necessarily the entrepreneurs on magazine covers. They are the officials setting tax targets and negotiating the country’s way out of sovereign default, alongside executives running its biggest phone company, ride-hailing network and in"
+    },
+    {
+      "id": "n_472e7a6b13",
+      "type": "news",
+      "title": "Fighting between rival forces in Somalia’s Baidoa",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fighting-between-rival-forces-in-somalias-baidoa?traffic_source=rss",
+      "date": "2026-09-28",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "There are reports of casualties in Baidoa where forces have launched attacks, triggering fighting with federal troops."
+    },
+    {
+      "id": "n_3562a761cf",
+      "type": "news",
+      "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss",
+      "date": "2026-09-28",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Sudan army denies backing Tigray fighters, says rival paramilitary RSF receiving support from within Ethiopia."
+    },
+    {
+      "id": "n_815aef2d70",
+      "type": "news",
+      "title": "Al Jazeera reports from near front line in Ethiopia’s Afar region",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region?traffic_source=rss",
+      "date": "2026-09-28",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Al Jazeera reports from Ethiopia’s Afar region, where fighting has spread amid efforts to oust PM Abiy Ahmed."
+    },
+    {
+      "id": "n_89bb70fb80",
+      "type": "news",
+      "title": "How the Iran war is squeezing Pakistan, Turkey and Egypt from every direction",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/how-iran-war-squeezing-pakistan-turkey-egypt-every-direction",
+      "date": "2026-09-28",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea"
+      ],
+      "excerpt": "How the Iran war is squeezing Pakistan, Turkey and Egypt from every direction\n\n    \n    \n\n          \n      \n      \n        Submitted by \nShady Ibrahim\n on \nFri, 09/25/2026 - 16:39\n\n        \n      \n    \n      \n    \n                Disruptions at Hormuz, Bab al-Mandeb and Suez are only half the story."
+    },
     {
       "id": "n_c579d80851",
       "type": "news",
@@ -4122,172 +4293,6 @@
         "African Union"
       ],
       "excerpt": "Incomplete vital statistics leave roughly 84pct of deaths unrecorded nationwide Ethiopia has officially launched a national Health and Demographic Surveillance System (HDSS) Network, uniting 16 university-based surveillance centers into a single unified framework hosted and administered by the Ethio"
-    },
-    {
-      "id": "n_9d5a72198c",
-      "type": "news",
-      "title": "“We Imposed No Price Hikes”: Noah Real Estate’s Legal Counsel",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52649/",
-      "date": "2026-09-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "In the past decade, Noah Real Estate built a strong reputation in Ethiopia&#8217;s property market—a sector long marred by delivery delays and buyer disputes- since the infamous Access Real Estate saga. Uniquely positioning itself by constructing before selling, Noah was widely viewed as an exceptio"
-    },
-    {
-      "id": "n_d87dfdd9c7",
-      "type": "news",
-      "title": "Stalled Wagons, Heavy Debts: The Unfulfilled Promise of Ethiopia’s Railway System",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52643/",
-      "date": "2026-09-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Every morning at Autobus Tera, Surafel Tafesework faces a familiar dilemma. A 37-year-old officer at a private bank branch in Megenagna, Surafel prefers taking the train to work—it is cheaper than mid-buses or taxis. But lately, waiting for it has become exercise in patience. “The train fare is bett"
-    },
-    {
-      "id": "n_4ad76ff848",
-      "type": "news",
-      "title": "Unveiling Ethiopia’s Silent Epidemic:",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52640/",
-      "date": "2026-09-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Prof. Waltaji Terfa on the Unseen Burden of Lead Toxicity, Regulatory Vacuum and the Strategic Imperative for Public Health Action Across the globe, modern public health paradigms increasingly grapple with invisible, long-term environmental hazards that are quietly undermining human potential and ec"
-    },
-    {
-      "id": "n_3ccaa2ab95",
-      "type": "news",
-      "title": "Ethiopia’s Gold, From Empire to the Illegal Rush",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52635/",
-      "date": "2026-09-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "For centuries, gold was woven into Ethiopia’s political and economic history. Gathered from riverbeds and mining regions, it served as a medium of international trade and accumulated in royal treasuries. It also figured in land transactions, church endowments, inheritances and long-distance commerce"
-    },
-    {
-      "id": "n_6c27068073",
-      "type": "news",
-      "title": "A Solar Shift for Ethiopia’s Farmers",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52631/",
-      "date": "2026-09-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Farming Under a Changing Climate For farmers in Ethiopia’s Central region, rising fuel prices have turned the simple task of pumping water onto their fields into an increasingly costly proposition. Some are responding by replacing diesel pumps with solar power, a shift that is changing not only how "
-    },
-    {
-      "id": "n_9c9812bae2",
-      "type": "news",
-      "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-      "date": "2026-09-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return."
-    },
-    {
-      "id": "n_694ea8cca0",
-      "type": "news",
-      "title": "Somaliland’s Irro departs for US to pitch region’s strategic value as Somalia sends rival team",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-irro-us-visit-strategic-value-somalia-rival-delegation/",
-      "date": "2026-09-04",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somaliland President Abdirahman Mohamed Abdullahi Irro departed Hargeisa on Thursday for a working visit to the United States, part of an effort to present the self-declared republic as an emerging power of geoeconomic and geosecurity value to Washington and other "
-    },
-    {
-      "id": "n_86df2bd3da",
-      "type": "news",
-      "title": "Laftagaren forces attack Somali army positions in Baidoa again",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/laftagaren-forces-attack-somali-army-positions-baidoa-again/",
-      "date": "2026-09-03",
-      "region": "Somalia",
-      "tags": [
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Heavy fighting erupted in Baidoa on Thursday after forces loyal to ousted Southwest State President Abdiasis Laftagaren attacked the city from multiple directions, seizing two federal army bases on its outskirts before entering the town and engaging government troo"
-    },
-    {
-      "id": "n_37d81df43d",
-      "type": "news",
-      "title": "Somali Defense Ministry Confirms its forces inflicted a defeat on militias supporting Laftagareen and Al-Shabaab in Baidoa.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-defense-ministry-confirms-its-forces-inflicted-a-defeat-on-militias-supporting-laftagareen-and-al-shabaab-in-baidoa/",
-      "date": "2026-09-03",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "African Union",
-        "Security",
-        "Militia"
-      ],
-      "excerpt": "On Thursday, the Defense Ministry of Somalia reaffirmed that its Federal Forces together with Southwest State Security forces utterly defeated armed militiamen loyal to the former Southwest State President, Abdiaisis Hassan Mohamed Laftagaren that launched an attack on Baidoa, supported by Al-Shabab"
-    },
-    {
-      "id": "n_e07b105a3e",
-      "type": "news",
-      "title": "Somaliland President Departs on Landmark trip to U.S.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-president-departs-on-landmark-trip-to-u-s/",
-      "date": "2026-09-03",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "On Thursday, Somaliland’s President, Mr. Abdirahman Mohamed Abdillahi Irro, has departed to the United States of America on a landmark trip, and he is expected to make a short stopover in the United Arab Emirates (UAE), an official statement from the President’s Spokesman, Mr. Hussein Adan Egge Deyr"
-    },
-    {
-      "id": "n_4b4efa3058",
-      "type": "news",
-      "title": "Aman Properties Makes Its Public Debut and Announces Aman Addis Expo 2026",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52605/",
-      "date": "2026-09-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "New Life, Lafto Life and Sky View Properties unite under one name — and open the New Year with 250 homes at up to 30% off at Laphto Mall, September 4–7 ADDIS ABABA, 2 September 2026 — Aman Properties made its public debut in Addis Ababa today, marking a new chapter for a company with [&#8230;]"
-    },
-    {
-      "id": "n_538328a0fb",
-      "type": "news",
-      "title": "Uber quits Nigeria, Uganda as Bolt and inDrive honk horns",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/429763/uber-quits-nigeria-and-uganda-as-bolt-and-indrive-eye-market-share/",
-      "date": "2026-09-03",
-      "region": "Kenya",
-      "tags": [
-        "Kenya"
-      ],
-      "excerpt": "The US ride-hailing group’s latest African exits deepen a regional retreat and open the door for rivals better adapted to local pricing and costs. Uber remains available in South Africa, Kenya, Ghana, Egypt and Morocco."
     }
   ],
   "articles": [
