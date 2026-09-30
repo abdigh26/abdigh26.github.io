@@ -1,6 +1,261 @@
 {
-  "last_updated": "2026-09-29T12:06:39.103350+00:00",
+  "last_updated": "2026-09-30T11:54:11.240281+00:00",
   "news": [
+    {
+      "id": "n_b66aee8072",
+      "type": "news",
+      "title": "Somalia: Laftagareen accuses Türkiye of six airstrikes on Baidoa",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagareen-accuses-turkiye-six-airstrikes-baidoa/",
+      "date": "2026-09-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Airstrikes",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former South West State President Abdiaziz Hassan Mohamed Laftagareen has accused Somalia’s federal government and Türkiye of carrying out airstrikes on Baidoa during fierce fighting between his forces and troops loyal to the government, alleging that six missiles "
+    },
+    {
+      "id": "n_a671491576",
+      "type": "news",
+      "title": "Simultaneous elections taking place today in Galmudug and Hirshabelle.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/simultaneous-elections-taking-place-today-in-galmudug-and-hirshabelle/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "Elections",
+        "Galmudug"
+      ],
+      "excerpt": "Residents of parts of the Galmudug and Hirshabelle regions are heading to polling stations this Wednesday to elect members of the regional parliaments and local councils for the districts within these two administrations. The Galmudug election—a repeat vote—is taking place across 11 towns and their "
+    },
+    {
+      "id": "n_5844c4ae11",
+      "type": "news",
+      "title": "Puntland sentences seven men found guilty of being members of Al-Shabaab.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-sentences-seven-men-found-guilty-of-being-members-of-al-shabaab/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security",
+        "Puntland"
+      ],
+      "excerpt": "The Puntland Armed Forces and Serious Crimes Court has announced the sentencing of seven men—captured by Puntland security forces—who were found to be members of the militant group Al-Shabaab. Following proceedings that spanned several hearings, the court found the accused guilty of membership in Al"
+    },
+    {
+      "id": "n_1fbd403bff",
+      "type": "news",
+      "title": "SNA Commander Receives European Union Director of Military Personnel",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/sna-commander-receives-european-union-director-of-military-personnel/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "SNA",
+        "Military"
+      ],
+      "excerpt": "The Commander of the Somali National Army (SNA), Major General Ibrahim Mohamed Mohamud, accompanied by the SNA Land Forces Commander, General Sahal Abdullahi Omar, received Lieutenant General Michiel van der Laan—Director General of the European Union Military Staff (EUMS) and Director of the Milita"
+    },
+    {
+      "id": "n_313aff2133",
+      "type": "news",
+      "title": "The Somaliland press stated that the government does not have the power to block the Borama conference.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somaliland-press-stated-that-the-government-does-not-have-the-power-to-block-the-borama-conference/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "The Somaliland press community has stated that the Ministry of Information lacks the legal authority to block a conference that journalists are planning to hold in Borama, the capital of the Awdal region—an event they described as a forum to deliberate on their future and the state of the media. The"
+    },
+    {
+      "id": "n_63ec0448d0",
+      "type": "news",
+      "title": "Five foreign crew members were killed aboard the MT Honor 25 during the rescue operation",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/five-foreign-crew-members-were-killed-aboard-the-mt-honor-25-during-the-rescue-operation/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Maritime",
+        "Puntland"
+      ],
+      "excerpt": "Five foreign crew members were killed aboard the MT Honor 25 before Puntland maritime forces launched an operation to rescue the vessel, which had been forcibly seized by pirates. According to Puntland authorities, the deceased crew members included three nationals of Pakistan, one from Myanmar, and"
+    },
+    {
+      "id": "n_a3f34aae93",
+      "type": "news",
+      "title": "The Meteorology Department of the Somaliland Ministry of Agricultural Development Announces Surging Temperatures across most regions and districts of Somaliland",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-meteorology-department-of-the-somaliland-ministry-of-agricultural-development-announces-surging-temperatures-across-most-regions-and-districts-of-somaliland/",
+      "date": "2026-09-29",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Maritime"
+      ],
+      "excerpt": "The Meteorology Department of the Somaliland Ministry of Agricultural Development has issued a report regarding the temperature forecast for the region this week. Temperatures are expected to range between 27°C and 36°C. A statement from the Ministry indicates a high probability of above-average tem"
+    },
+    {
+      "id": "n_83c4eb3147",
+      "type": "news",
+      "title": "Escalating Northern Ethiopia Conflict Overwhelms Hospitals: MSF Reports",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53096/",
+      "date": "2026-09-29",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Renewed fighting across northern Ethiopia has driven hundreds of war-wounded patients into hospitals across the Tigray and Amhara regions, straining medical facilities and forcing Médecins Sans Frontières (MSF) to suspend some operations and redirect staff. MSF reported Monday that its emergency tea"
+    },
+    {
+      "id": "n_ed4f780ee6",
+      "type": "news",
+      "title": "Shimelis Abdisa Secures Second Term as Oromia President",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53086/",
+      "date": "2026-09-28",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Elections"
+      ],
+      "excerpt": "Shimelis Abdisa has been re-elected as President of the Oromia Regional State, securing another term with the backing of 509 members of the regional council, the Caffee Oromia. The council confirmed his re-election on Monday during its inaugural session in Adama. Shimelis has led the region as presi"
+    },
+    {
+      "id": "n_b588496f83",
+      "type": "news",
+      "title": "Council Approves Key Legal and Economic Measures",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53078/",
+      "date": "2026-09-28",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Council of Ministers has approved a package of legal and economic measures covering the organization of federal executive bodies, external financing for an energy-sector project and amendments to value-added tax regulations. At its 59th regular meeting, the Council approved a draft law governing"
+    },
+    {
+      "id": "n_e90943aff2",
+      "type": "news",
+      "title": "Meskel: A Celebration Carried Through Generations",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53068/",
+      "date": "2026-09-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "As the yellow “Adey Abeba” flowers emerge across Ethiopia’s highlands, the country enters a season associated with renewal, reunion and celebration. In Addis Ababa, another sign of the season is the growing preparation for the “Demera,” the traditional bonfire lit on the eve of Meskel. On September "
+    },
+    {
+      "id": "n_236177c942",
+      "type": "news",
+      "title": "Fresh Voices, New Directions",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53064/",
+      "date": "2026-09-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Making Meaning From What Remains At Ethiopost headquarters on Churchill Avenue, six artists use painting, printmaking, installation and mixed media to examine memory, attachment, uncertainty and the creative process as The Space Ethiopia seeks to connect art-school graduates with the professional ar"
+    },
+    {
+      "id": "n_0e9299a225",
+      "type": "news",
+      "title": "Ethiopia Presses Case for Sea Access, UN Security Council Overhaul amid Tense UNGA Session",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53061/",
+      "date": "2026-09-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "UN Chief Urges Immediate De-escalation in Northern Ethiopia    Against the backdrop of one of the most fractured and contentious United Nations General Assembly (UNGA) sessions in recent memory, President Taye Atske-Selassie delivered a decisive address for Ethiopia, invoking Emperor Haile Selassie’"
+    },
+    {
+      "id": "n_ec3fe64503",
+      "type": "news",
+      "title": "Escalating Fights in Northern Ethiopia Risk Severe Human Rights Violations: EHRC",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53058/",
+      "date": "2026-09-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Rights Body Urges International Community to Pressure Warring Parties to Negotiation Table The Ethiopian Human Rights Commission (EHRC) warned that flared armed fighting across northern Ethiopia poses severe and compounding risks to human rights. In an official public statement on Friday September 2"
+    },
+    {
+      "id": "n_80c7a0e93d",
+      "type": "news",
+      "title": "AfDB Unveils USD5Bln Emergency Buffer to Contain Energy, Fertilizer Crisis",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53055/",
+      "date": "2026-09-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security",
+        "Food Security"
+      ],
+      "excerpt": "Ethiopia listed among 25 high-vulnerability nations hit by Middle East trade shocks In response to growing threats to regional food security driven by supply chain disruptions from Middle East conflicts, the African Development Bank Group (AfDB) has approved a temporary, one-year Global Energy and F"
+    },
+    {
+      "id": "n_81f7fcadf2",
+      "type": "news",
+      "title": "Ethiopia’s Youth Investment Bank Eyes Launch This Year, Targets Funding 100+ Startups",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53053/",
+      "date": "2026-09-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Ethiopia’s Youth Entrepreneurship Investment Bank (YEIB)- a new bank under formation- is expected to begin operations this year, targeting more than 100 innovative startups and micro, small, and medium enterprises (MSMEs), according to the Ministry of Labour and Skills (MoLS). Zerihun Alemayehu, Job"
+    },
+    {
+      "id": "n_0e80726769",
+      "type": "news",
+      "title": "Stepping Back from the Looming Abyss",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53050/",
+      "date": "2026-09-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "Northern Ethiopia stands once again on the precipice of a devastating, wide-scale catastrophe. The heavy clashes that began this week between the Ethiopian National Defense Forces (ENDF) and the Tigray People’s Liberation Front (TPLF), stretching across contested regional borders and key strategic c"
+    },
+    {
+      "id": "n_0c5b5e106a",
+      "type": "news",
+      "title": "Pakistan vows to defend Saudi Arabia against Houthis",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
+      "date": "2026-09-30",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis."
+    },
     {
       "id": "n_678128bbd6",
       "type": "news",
@@ -4023,272 +4278,6 @@
         "African Union"
       ],
       "excerpt": "Spokesperson for Saudi-led coalition says Houthis have hit civilian sites in Abha, Khamis Mushait, Jizan and Najran."
-    },
-    {
-      "id": "n_562d94d1f3",
-      "type": "news",
-      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
-      "date": "2026-09-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Bid to take the capital comes as clashes between Yemeni forces and Houthis intensify in the provinces of al-Bayda and al-Jawf."
-    },
-    {
-      "id": "n_b823d20b26",
-      "type": "news",
-      "title": "Houthi attacks cause fires at Saudi energy facilities, operations disrupted",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-cause-fires-saudi-energy-facilities-operations-disrupted",
-      "date": "2026-09-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Houthi attacks cause fires at Saudi energy facilities, operations disrupted\n\n    \n    \n\n        \n    \n                Several energy facilities and utilities in Saudia Arabia's southern region has been&nbsp;attacked by Yemen's Houthis, sparking fires at a number of sites and temporarily halting some"
-    },
-    {
-      "id": "n_57c7536ebf",
-      "type": "news",
-      "title": "Morning update",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-619",
-      "date": "2026-09-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Morning update\n\n    \n    \n\n        \n    \n                Good morning Middle East Eye readers,\n\nHere are the latest developments:&nbsp;\n\n\n\t\n\tThe spokesperson of the Saudi-led coalition in Yemen announced that 73 people, including women and children, were wounded after Houthis launched attacks in the"
-    },
-    {
-      "id": "n_82fb1511b4",
-      "type": "news",
-      "title": "Saudi-led coalition in Yemen says 73 people wounded in Houthi attacks, vows firm response",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-yemen-says-73-people-wounded-houthi-attacks-vows",
-      "date": "2026-09-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Saudi-led coalition in Yemen says 73 people wounded in Houthi attacks, vows firm response\n\n    \n    \n\n        \n    \n                The spokesperson of the Saudi-led coalition in Yemen announced that 73 people,&nbsp;including women and children, were wounded after Houthis launched attacks in the cit"
-    },
-    {
-      "id": "n_577140f42e",
-      "type": "news",
-      "title": "Somali cleric Ali Wajis endorses killing of government critics",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-cleric-ali-wajis-endorses-killing-government-critics/",
-      "date": "2026-09-06",
-      "region": "Somalia",
-      "tags": [
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A prominent pro-government religious scholar told a gathering of senior Somali officials, including the defense minister, on Sunday that people who oppose the administration of President Hassan Sheikh Mohamud should be treated as terrorists and killed &#8211; a sta"
-    },
-    {
-      "id": "n_14448cec1a",
-      "type": "news",
-      "title": "Al-Shabaab launched a series of night-time attacks on military bases in northeastern Kenya.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/al-shabaab-launched-a-series-of-night-time-attacks-on-military-bases-in-northeastern-kenya/",
-      "date": "2026-09-07",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Kenya",
-        "African Union",
-        "Military",
-        "Security"
-      ],
-      "excerpt": "Al-Shabaab is reported to have launched a series of attacks last night on positions and checkpoints by Kenyan security forces in Wajir, Garissa, and Mandera regions of the country&#8217;s northeast. Reports from the area indicate that Al-Shabab fighters attacked a military camp in Qorof Xaraar, Waji"
-    },
-    {
-      "id": "n_8f90bc856c",
-      "type": "news",
-      "title": "Kenya and Somalia agree to extend the Isiolo-Mandera road to reach Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/kenya-and-somalia-agree-to-extend-the-isiolo-mandera-road-to-reach-somalia/",
-      "date": "2026-09-07",
-      "region": "Somalia",
-      "tags": [
-        "Kenya",
-        "Somalia",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Kenya and Somalia have agreed upon to expedite the plan to expand the road connecting Isiolo and Mandera, which is being routed through Somalia to create a new trade, transport, and security corridor connecting the countries of the Horn of Africa. This matter came to light following a meeting held i"
-    },
-    {
-      "id": "n_5bd4630004",
-      "type": "news",
-      "title": "Land Forces Commander of Somalia’s National Army Travels to Bardhere, Gedo region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/land-forces-commander-of-somalias-national-army-travels-to-bardhere-gedo-region/",
-      "date": "2026-09-06",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "A delegation led by the Commander of the Land Forces of Somalia’s National Army, Brigadier General Sahal Abdullahi Omar, arrived in the town of Bardhere in Gedo region on Sunday. The delegation was greeted upon arrival at the airport by officials led by the commander of the 36th Brigade of the 43rd "
-    },
-    {
-      "id": "n_2fe903dc77",
-      "type": "news",
-      "title": "Jubaland Officials join the residents of Kismayo and Afmadow in protests against Turkey.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/jubaland-officials-join-the-residents-of-kismayo-and-afmadow-in-protests-against-turkey/",
-      "date": "2026-09-06",
-      "region": "Somalia",
-      "tags": [
-        "Military",
-        "Airstrikes",
-        "Jubaland",
-        "Kismayo"
-      ],
-      "excerpt": "Hundreds of people took to the streets of Kismayo, the interim capital of Jubaland, to express their anger against the Turkish government following an incident in Dolow district of the Gedo region. The protesters accused Turkey of involvement in an airstrike that allegedly targeted senior military c"
-    },
-    {
-      "id": "n_21d6570b50",
-      "type": "news",
-      "title": "Somali National Army officers are reviewing the Basra operation.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-national-army-officers-are-reviewing-the-basra-operation/",
-      "date": "2026-09-06",
-      "region": "Somalia",
-      "tags": [
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "Reports from Mogadishu indicate that top brass officers of the Somali National Army are deliberating on necessary adjustments to ensure the success of the operation aimed at removing Al-Shabab militants from Bara area&#8212; a location situated on the border between the Lower and Middle Shabelle reg"
-    },
-    {
-      "id": "n_a9d03eca63",
-      "type": "news",
-      "title": "The Federal Government of Somalia has released the names of the Al-Shabaab members killed in the Bula-Fulay operation.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-federal-government-of-somalia-has-released-the-names-of-the-al-shabaab-members-killed-in-the-bula-fulay-operation/",
-      "date": "2026-09-06",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Danab"
-      ],
-      "excerpt": "The Federal Government of Somalia has provided further details regarding a planned operation carried out by the Somali National Army—specifically the Danab Commandos—on September, 4, 2026, in the Buula-Fulaay area of the Bay region, which resulted in the successful elimination of 14 members of Al-Sh"
-    },
-    {
-      "id": "n_bae5b73767",
-      "type": "news",
-      "title": "Israel warns its citizens against traveling to Somaliland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/israel-warns-its-citizens-against-traveling-to-somaliland/",
-      "date": "2026-09-06",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Houthis",
-        "Israel",
-        "Security",
-        "Militia"
-      ],
-      "excerpt": "Israel’s National Security Council issued a new warning regarding a security threat facing Israelis and Jews outside Israel, including in Somaliland, noting that Houthi militias in Yemen intend to target Israelis traveling to Somaliland. The National Security Council of Israel highlighted that terro"
-    },
-    {
-      "id": "n_819c24270f",
-      "type": "news",
-      "title": "Commercial Bank of Ethiopia (CBE) Logo Correction",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52683/",
-      "date": "2026-09-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "In our story headlined ‘CBE Posts Record Profit Despite Substantial Loss on Foreign Exchange’ published on September 5, 2026; a slight alteration occurred to the logo of Commercial Bank of Ethiopia (CBE). This slight change occurred during graphics designing, and The Reporter has immediately correct"
-    },
-    {
-      "id": "n_f668c78424",
-      "type": "news",
-      "title": "Inside Sudan’s Chemical Program: Intercepted Files Implicate Military Leadership",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52679/",
-      "date": "2026-09-07",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "A series of major international journalistic investigations has unveiled hundreds of documents, photos, audio recordings, and text messages that, for the first time, construct a detailed picture of an alleged secret program within the Sudanese Armed Forces (SAF). The evidence indicates the military "
-    },
-    {
-      "id": "n_83f16a46ac",
-      "type": "news",
-      "title": "CBE Posts Record Profit Despite Substantial Loss on Foreign Exchange",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52667/",
-      "date": "2026-09-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "The state-owned Commercial Bank of Ethiopia (CBE) recorded strong profit growth and capital expansion for the fiscal year ending June 30, 2025, according to its audited financial statement released this week. The audit report—conducted by the Audit Service Corporation under International Financial R"
-    },
-    {
-      "id": "n_6741703006",
-      "type": "news",
-      "title": "US-Africa Week Ahead: America in Nairobi, Somaliland in Washington",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430031/us-africa-week-ahead-america-in-nairobi-somaliland-in-washington/",
-      "date": "2026-09-07",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Kenya"
-      ],
-      "excerpt": "Kenya President William Ruto and US Assistant Secretary of State Frank Garcia are both expected at this week’s US-East Africa business summit."
-    },
-    {
-      "id": "n_d88a6863e2",
-      "type": "news",
-      "title": "Somalia: Fahad Yasin links Jama to Gen. Shub drone strike",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-fahad-yasin-links-speaker-jama-drone-strike-gen-shub/",
-      "date": "2026-09-05",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former intelligence chief Fahad Yasin has accused the Speaker of the House of the People, Abdulkadir Mohamed Nur &#8211; widely known by the nicknames &#8220;Jama&#8221; and &#8220;Minister TikTok&#8221; &#8211; of directing the drone strike that hi"
-    },
-    {
-      "id": "n_6b8d533b62",
-      "type": "news",
-      "title": "Ethiopia questions Somali soldiers who crossed border to visit families in Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-questions-somali-soldiers-border-crossing-families-somalia/",
-      "date": "2026-09-05",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia",
-        "SNA",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Ethiopia&#8217;s security agencies have begun interrogating dozens of Somali National Army (SNA) soldiers who crossed into Ethiopian territory after completing training in Somalia&#8217;s Galmudug region, according to reports by regional media. Around 80 soldiers c"
     }
   ],
   "articles": [
