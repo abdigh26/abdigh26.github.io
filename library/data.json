@@ -1,6 +1,168 @@
 {
-  "last_updated": "2026-09-30T11:54:11.240281+00:00",
+  "last_updated": "2026-10-01T12:25:08.877535+00:00",
   "news": [
+    {
+      "id": "n_bad0dfbdcd",
+      "type": "news",
+      "title": "Turkey, major power in Somalia, drawn into internal conflicts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-major-power-somalia-drawn-into-internal-conflict/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkey has poured huge sums into making Somalia one of its main foreign outposts but is being sucked into the country’s violent political battles, risking the goodwill it has built. Turkish F-16s fired missiles around Baidoa, a city in southern Somalia, on Monday a"
+    },
+    {
+      "id": "n_29e6403bba",
+      "type": "news",
+      "title": "Somalia’s president Hassan Sheikh turns to Ethiopia, Djibouti and Egypt as Baidoa crisis tests regional alliances",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-hassan-sheikh-ethiopia-djibouti-egypt-baidoa-crisis/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Djibouti",
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somali President Hassan Sheikh Mohamud’s diplomatic circuit through Ethiopia and Djibouti, followed by a planned visit to Egypt, is unfolding against a volatile backdrop in which Somalia’s domestic political disputes are increasingly entangled with the strategic ca"
+    },
+    {
+      "id": "n_47ddc910f2",
+      "type": "news",
+      "title": "Pirates kill five crew on tanker off Somalia before rescue",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-pirates-kill-five-crew-mt-honour-25/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Security",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Pirates killed five crew members aboard the hijacked oil tanker MT Honour 25 before Puntland security forces rescued the vessel off Somalia&#8217;s coast, the semi-autonomous state&#8217;s information ministry said on Tuesday. Three Pakistanis, one Myanmar national"
+    },
+    {
+      "id": "n_84a1810585",
+      "type": "news",
+      "title": "Ethiopia plans to withdraw thousands of troops from Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/ethiopia-plans-to-withdraw-thousands-of-troops-from-somalia/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "Military"
+      ],
+      "excerpt": "Ethiopia is planning to withdraw more than 3,000 troops from Somalia as ongoing conflicts in its northern region place pressure on its military, according to Bloomberg, although the Somali government stated that no official notification has been received. According to sources cited by Bloomberg, Eth"
+    },
+    {
+      "id": "n_8f6af1896d",
+      "type": "news",
+      "title": "ICRC: 148 people wounded in the fighting in Baidoa.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/icrc-148-people-wounded-in-the-fighting-in-baidoa/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "The International Committee of the Red Cross (ICRC) has expressed deep concern regarding the impact of fighting in the city of Baidoa on the civilian population, following heavy clashes in densely populated areas. The ICRC reported that 106 wounded individuals were treated at two government hospital"
+    },
+    {
+      "id": "n_695640f5fe",
+      "type": "news",
+      "title": "AFRICOM conducts airstrikes in Lower Juba",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/africom-conducts-airstrikes-in-lower-juba/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Airstrikes",
+        "Maritime"
+      ],
+      "excerpt": "U.S. Africa Command (AFRICOM) stated that, in coordination with the Federal Government of Somalia, it conducted airstrikes against Al-Shabaab militants in areas of the Lower Juba region. AFRICOM reported that the strikes were carried out in the vicinity of Welmaro—located approximately 40 km west of"
+    },
+    {
+      "id": "n_1cb31b79ce",
+      "type": "news",
+      "title": "Flights between Puntland and Mogadishu suspended following the NIRA card requirement.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/flights-between-puntland-and-mogadishu-suspended-following-the-nira-card-requirement/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "Domestic flights connecting Mogadishu and Puntland were disrupted this morning after the Somali government enforced a requirement that internal travelers must possess the NIRA national identity card. Passengers on a Freedom Airlines flight departing from Garowe for Mogadishu and Nairobi were informe"
+    },
+    {
+      "id": "n_43f4997f5a",
+      "type": "news",
+      "title": "Puntland claims to have cleared its waters of pirate hijackings.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-claims-to-have-cleared-its-waters-of-pirate-hijackings/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Piracy",
+        "Puntland",
+        "Maritime"
+      ],
+      "excerpt": "Puntland’s Minister of Security Ibrahim Artan Ismail, Minister of Ports Shakir Mohamed Guled, and Deputy Minister of Information Bilal Mohamud Qabowsade provided details regarding anti-piracy operations aimed at securing the coastline. The officials, who today welcomed the vessel *SIBU*—recently for"
+    },
+    {
+      "id": "n_20928b7afe",
+      "type": "news",
+      "title": "Egypt announces the release of eight sailors abducted in Puntland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/egypt-announces-the-release-of-eight-sailors-abducted-in-puntland/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "Eight Egyptian sailors, who had been held since May 2nd aboard the M/T Eureka—a vessel seized off the coast of Puntland—have been released, according to the Egyptian Ministry of Foreign Affairs. Egyptian Foreign Minister Badr Abdelatty instructed the Egyptian Embassy in Mogadishu to receive the sail"
+    },
+    {
+      "id": "n_9d42e47059",
+      "type": "news",
+      "title": "The Somali government states that it is engaging with Al-Shabaab members who renounce the group’s ideology.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-government-states-that-it-is-engaging-with-al-shabaab-members-who-renounce-the-groups-ideology/",
+      "date": "2026-09-30",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab"
+      ],
+      "excerpt": "Somali Prime Minister Hamza Abdi Barre stated that the government is ready to engage with any member of Al-Shabaab who wishes to renounce the group and its ideology. In an interview with Dawan TV, Prime Minister Hamza said the government does not oppose dialogue with Al-Shabaab members seeking to le"
+    },
+    {
+      "id": "n_a4586219b0",
+      "type": "news",
+      "title": "Tigray’s Liberation Must End in Freedom",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/30/tigrays-liberation-must-end-in-freedom-2/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom-2&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom-2",
+      "date": "2026-09-30",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Liberation secured survival while leaving Tigray’s political order unfinished.\nThe post Tigray’s Liberation Must End in Freedom appeared first on Ethiopia Insight."
+    },
     {
       "id": "n_b66aee8072",
       "type": "news",
@@ -4117,167 +4279,6 @@
         "African Union"
       ],
       "excerpt": "The Commander of the Somaliland Police Force, Brigadier General Abdirahman Abdillahi Hassan, has officially opened a Training of Trainers (ToT) programme designed to prepare police officers to become instructors capable of training future generations of personnel. The training forms part of the Poli"
-    },
-    {
-      "id": "n_c983adec7c",
-      "type": "news",
-      "title": "Al-Shabaab abducts Aid workers in the Bay region.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/al-shabaab-abducts-aid-workers-in-the-bay-region/",
-      "date": "2026-09-08",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Maritime"
-      ],
-      "excerpt": "Members of Al-Shabaab abducted nearly ten aid agency workers in the Raar area—located 10 km from Buur Hakaba district in the Bay region—while they were transporting aid, according to various sources who spoke to Mustaqbal Media. It is reported that at the time of their abduction, the workers were ad"
-    },
-    {
-      "id": "n_6aa54aad3e",
-      "type": "news",
-      "title": "Somalia: Bashaqle is transforming into a strategic military zone.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-bashaqle-is-transforming-into-a-strategic-military-zone/",
-      "date": "2026-09-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Bashaqle, located between Adale and Warsheikh in the Middle Shabelle region, is reportedly being transformed into a strategic military zone, with security infrastructure being constructed in the area in connection with the Turkish Space Facility being developed on the outskirts of Warsheikh. Constru"
-    },
-    {
-      "id": "n_12aca04698",
-      "type": "news",
-      "title": "Security Council reveals the number of ISIS fighters in Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/security-council-reveals-the-number-of-isis-fighters-in-somalia/",
-      "date": "2026-09-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security",
-        "Puntland",
-        "Maritime"
-      ],
-      "excerpt": "The operational capabilities of ISIS-Somalia is reported to have been weakened significantly following last year’s armed clashes with Puntland forces, who drove the group out of key areas in the Al-Miskaad Mountain range. The fighting has inflicted heavy losses on ISIS-Somalia, destroying significan"
-    },
-    {
-      "id": "n_23cc560b20",
-      "type": "news",
-      "title": "Somalia president’s policies have failed the country, says academic",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-policies-failed-country-academic/",
-      "date": "2026-09-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A prominent Somali professor has issued a sharp public rebuke of Somalia&#8217;s President Hassan Sheikh Mohamud, warning that his administration&#8217;s policies have failed the country and accusing him of presiding over a political collapse that is pushing Somali"
-    },
-    {
-      "id": "n_6faa4962fa",
-      "type": "news",
-      "title": "The Danab Commando forces carried out a planned operation on the outskirts of the Harboole area in Afmadow district.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-danab-commando-forces-carried-out-a-planned-operation-on-the-outskirts-of-the-harboole-area-in-afmadow-district/",
-      "date": "2026-09-07",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "SNA",
-        "Danab",
-        "Airstrikes",
-        "Maritime"
-      ],
-      "excerpt": "Somali National Army (SNA) in collaboration with international partners carried out airstrikes on the outskirts of Harboole area in the Afmadow District of the Lower Juba region, targeting members of the Al-Shabaab militants. Reports from the area indicate that the airstrike followed a planned opera"
-    },
-    {
-      "id": "n_1a2d5cbc6b",
-      "type": "news",
-      "title": "Somalia’s Federal Government is set to open a military base in Bardhere City",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalias-federal-government-is-set-to-open-a-military-base-in-bardhere-city/",
-      "date": "2026-09-07",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "SNA",
-        "Military"
-      ],
-      "excerpt": "The Federal Government of Somalia is set to open a new military training camp in the Bardhere District in the Gedo Region. The Commander of the Somali National Army (SNA) Ground Forces, General Sahal Abdullahi Omar, arrived in Bardhere yesterday, Sunday, leading a delegation of officers including th"
-    },
-    {
-      "id": "n_d8c606b279",
-      "type": "news",
-      "title": "Amhara Nationalism Faces Historic Choice in National Dialogue",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/07/27/amhara-nationalism-faces-historic-choice-in-national-dialogue/?utm_source=rss&utm_medium=rss&utm_campaign=amhara-nationalism-faces-historic-choice-in-national-dialogue&utm_source=rss&utm_medium=rss&utm_campaign=amhara-nationalism-faces-historic-choice-in-national-dialogue",
-      "date": "2026-07-27",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Constitutional reform could challenge decades-old assumptions about Ethiopia’s political order For generations, Amhara political thought rested on an implicit premise: Whatever ideological language successive governments adopted, the Ethiopian state remained familiar political territory. Regimes cha"
-    },
-    {
-      "id": "n_2e9f556cbb",
-      "type": "news",
-      "title": "Somalia’s End-of-year Cliffhanger",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/pod/africa/somalia/somalias-end-year-cliffhanger",
-      "date": "2026-09-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Somalia’s End-of-year Cliffhanger\n\npzeiler\n\nThu, 09/03/2026 - 16:47\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                                     "
-    },
-    {
-      "id": "n_775cd0f78f",
-      "type": "news",
-      "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
-      "date": "2026-09-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children."
-    },
-    {
-      "id": "n_4ef2522676",
-      "type": "news",
-      "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
-      "date": "2026-09-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage."
-    },
-    {
-      "id": "n_31a83d0b23",
-      "type": "news",
-      "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
-      "date": "2026-09-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Spokesperson for Saudi-led coalition says Houthis have hit civilian sites in Abha, Khamis Mushait, Jizan and Najran."
     }
   ],
   "articles": [
