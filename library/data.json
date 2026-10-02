@@ -1,6 +1,241 @@
 {
-  "last_updated": "2026-10-01T12:25:08.877535+00:00",
+  "last_updated": "2026-10-02T11:51:42.104397+00:00",
   "news": [
+    {
+      "id": "n_ef9e35761c",
+      "type": "news",
+      "title": "Explosions heard in Addis Ababa after Ethiopia bans drone flights",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/headlines/addis-ababa-explosions-ethiopia-drone-flight-ban/",
+      "date": "2026-10-01",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Explosions were heard overnight in Ethiopia&#8217;s capital ​Addis Ababa, three diplomatic sources said on Thursday, adding to anxiety about the possible spread of renewed conflict in the country&#8217;s north. A source ‌linked to the opposition alliance fighting"
+    },
+    {
+      "id": "n_b765930896",
+      "type": "news",
+      "title": "Ethiopia to withdraw over 3,000 troops from Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-3000troop-withdrawal-somalia/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Ethiopia plans to withdraw more than 3,000 troops from Somalia as fighting escalates in its north, Bloomberg News reported on Wednesday, citing people familiar with the matter. The pullout could begin in the coming days or weeks, Bloomberg said. The troops would be"
+    },
+    {
+      "id": "n_604a847bbf",
+      "type": "news",
+      "title": "Eritrea severs diplomatic ties with Ethiopia amid escalating tensions.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/eritrea-severs-diplomatic-ties-with-ethiopia-amid-escalating-tensions/",
+      "date": "2026-10-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "Eritrea announced that it has severed diplomatic relations with Ethiopia after Addis Ababa closed the Eritrean embassy and ordered ten Eritrean diplomats to leave the country within 48 hours. On Thursday, Ethiopia announced the closure of the Eritrean embassy, ​​accusing the neighboring country of e"
+    },
+    {
+      "id": "n_322f4b1af8",
+      "type": "news",
+      "title": "Minister Fiqi accuses the opposition of a “plot against the state.”",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/minister-fiqi-accuses-the-opposition-of-a-plot-against-the-state/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Somalia’s Minister of Defense, Ahmed Moallim Fiqi, has leveled serious accusations against opposition politicians, alleging that they are holding meetings regarding Somalia in Abu Dhabi, United Arab Emirates. In a post on his Facebook page, Fiqi stated that the politicians in question have &#8220;no"
+    },
+    {
+      "id": "n_ea287f0263",
+      "type": "news",
+      "title": "Egypt gives the Ethiopian ambassador 48 hours to leave the country.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/egypt-gives-the-ethiopian-ambassador-48-hours-to-leave-the-country/",
+      "date": "2026-10-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Egypt has announced the expulsion of an official from the Ethiopian Embassy in Cairo, giving him 48 hours to leave the country; this move appears to be a diplomatic response to Ethiopia’s decision to expel an Egyptian diplomat. Egyptian government sources described Ethiopia’s decision to declare a m"
+    },
+    {
+      "id": "n_22bdf1e4d6",
+      "type": "news",
+      "title": "The President of Somalia receives the credentials of the ambassadors of Turkey and the European Union.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-president-of-somalia-receives-the-credentials-of-the-ambassadors-of-turkey-and-the-european-union/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The President of Somalia, Hassan Sheikh Mohamud, received the credentials of the new Ambassadors of the Republic of Türkiye, Mr. Ferhat Alkan, and the European Union, Mr. László Máthé, at the Presidential Palace; they are now officially commencing their diplomatic duties in the country. The Presiden"
+    },
+    {
+      "id": "n_fe469fe04b",
+      "type": "news",
+      "title": "Ethiopia is closing its embassy in Asmara and expelling 10 Eritrean diplomats.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/ethiopia-is-closing-its-embassy-in-asmara-and-expelling-10-eritrean-diplomats/",
+      "date": "2026-10-01",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "The Ethiopian government has announced the closure of its embassy in Asmara, Eritrea, citing direct and indirect actions taken by Eritrea against Ethiopia as the reason for this move. In a statement issued on Thursday, Ethiopia&#8217;s Ministry of Foreign Affairs announced that ten Eritrean diplomat"
+    },
+    {
+      "id": "n_ea83cbb16c",
+      "type": "news",
+      "title": "Somaliland: Minister of Livestock Presents Plan to Boost Livestock Exports to the Council of Ministers",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-minister-of-livestock-presents-plan-to-boost-livestock-exports-to-the-council-of-ministers/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Maritime"
+      ],
+      "excerpt": "Somaliland’s Minister of Livestock and Rural Development, Dr. Omar Shuaib Mohamed, briefed the Council of Ministers on the significant increase in livestock exports and the importance of establishing a comprehensive national plan to develop the livestock sector. The Minister informed the Council of "
+    },
+    {
+      "id": "n_590a9bc479",
+      "type": "news",
+      "title": "Brigadier General Ivan Falasca Takes Command  of the European Union Training Mission in Somalia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/brigadier-general-ivan-falasca-takes-command-of-the-european-union-training-mission-in-somalia/",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "Brigadier General Ivan Falasca has officially assumed command of EUTM-S, taking over from Brigadier General Elio Manes during a change-of-command ceremony held in Mogadishu. The ceremony was presided over by the Director of the EU Military Planning and Conduct Capability, Lieutenant General Michiel "
+    },
+    {
+      "id": "n_16a498abc3",
+      "type": "news",
+      "title": "Mustafa Muhumud Omar re-elected as President of the Somali Regional State.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/mustafa-muhumud-omar-re-elected-as-president-of-the-somali-regional-state/",
+      "date": "2026-10-01",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The 7th Council of the Somali Regional State of Ethiopia has once again approved Mr. Mustafe Muxumed Cumar to continue serving as the President of the Somali Regional State (SRS). The approval of Mustafe Muxumed Cumar took place during a session of the 7th Council, where members decided that he shou"
+    },
+    {
+      "id": "n_d8328f8e24",
+      "type": "news",
+      "title": "Somalia’s Saudi-Backed Troop Incursion Raises Regional Stakes",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/10/somalias-saudi-backed-troop-incursion-raises-regional-stakes/?utm_source=rss&utm_medium=rss&utm_campaign=somalias-saudi-backed-troop-incursion-raises-regional-stakes&utm_source=rss&utm_medium=rss&utm_campaign=somalias-saudi-backed-troop-incursion-raises-regional-stakes",
+      "date": "2026-09-10",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "Addis Ababa wants answers after Somali troops cross the border.\nThe post Somalia’s Saudi-Backed Troop Incursion Raises Regional Stakes appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_7ed0dc0dbe",
+      "type": "news",
+      "title": "Ethiopian Airlines spends $5bn on cargo fleet as its Bishoftu hub takes shape",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432148/ethiopian-airlines-spends-5bn-on-cargo-fleet-as-its-new-hub-takes-shape/",
+      "date": "2026-10-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Ten Boeing freighters position the continent’s leading carrier as Africa’s air cargo gateway, with next-generation Boeing 777-8 Freighters arriving after the eagerly anticipated Bishoftu International Airport opens in 2030."
+    },
+    {
+      "id": "n_19dcbfbe7d",
+      "type": "news",
+      "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss",
+      "date": "2026-10-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Old rivalries, territorial disputes and new alliances are reshaping the conflict in Ethiopia’s north."
+    },
+    {
+      "id": "n_4630665e34",
+      "type": "news",
+      "title": "At least 80 dead in fighting between Houthis and pro-government forces in last 24 hours",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-80-dead-fighting-between-houthis-and-pro-government-forces-last-24",
+      "date": "2026-10-02",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "At least 80 dead in fighting between Houthis and pro-government forces in last 24 hours\n\n    \n    \n\n        \n    \n                Fighting in southwestern Yemen between the Houthis and pro-government forces has left more than 80 people dead in the past 24 hours, sources from both sides told AFP on F"
+    },
+    {
+      "id": "n_54733d5bb8",
+      "type": "news",
+      "title": "Yemen's air force says it carried out 20 strikes on Houthi targets in Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-air-force-says-it-carried-out-20-strikes-houthi-targets-taiz",
+      "date": "2026-10-02",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Yemen's air force says it carried out 20 strikes on Houthi targets in Taiz \n\n    \n    \n\n        \n    \n                Yemen's armed forces spokesperson early on Friday said that air force warplanes carried out 20 precision strikes on Houthi targets&nbsp;over the past three hours in Taiz province.\n\nT"
+    },
+    {
+      "id": "n_5e0bdd4ee1",
+      "type": "news",
+      "title": "Saudi-led coalition says it intercepted Houthi missile",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missile",
+      "date": "2026-10-02",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi-led coalition says it intercepted Houthi missile\n\n    \n    \n\n        \n    \n                The Saudi-led coalition in Yemen said that its air defences intercepted and destroyed a ballistic missile launched by the Houthis towards Khamis Mushait, located in southern Saudi Arabia."
+    },
+    {
+      "id": "n_473407b954",
+      "type": "news",
+      "title": "US arrests Energy Department employee under claims of backing Yemen’s Houthis",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-arrests-energy-department-employee-under-claims-backing-yemens",
+      "date": "2026-10-02",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "US arrests Energy Department employee under claims of backing Yemen’s Houthis\n\n    \n    \n\n        \n    \n                The Justice Department has arrested a man under claims that he attempted to&nbsp;provide material support or resources to Yemen’s Houthis.\n\nThe 51 year-old, identified as&nbsp;Asht"
+    },
     {
       "id": "n_bad0dfbdcd",
       "type": "news",
@@ -4037,248 +4272,6 @@
         "Red Sea"
       ],
       "excerpt": "In a significant strategic gain, Houthis claim control of Yemen’s entire Red Sea coastline\n\n    \n    \n\n        \n    \n                Houthi forces have swept through the last government-held stretch of Yemen’s Red Sea coastline and taken control of the entire coast after an 18-hour offensive, Al Jaz"
-    },
-    {
-      "id": "n_749bdd8ef5",
-      "type": "news",
-      "title": "Somaliland ready to send up to 2,000 troops to Gaza if asked, president Irro says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somaliland-ready-send-2000-troops-gaza-president-irro/",
-      "date": "2026-09-10",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Israel",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somaliland is prepared to contribute up to 2,000 soldiers to an international stabilization force planned for Gaza, but it is waiting for the United States or Israel to make a formal request, President Abdirahman Mohamed Abdullahi has said. Speaking in an interview"
-    },
-    {
-      "id": "n_a4624bf81d",
-      "type": "news",
-      "title": "Somalia prepares fresh troop deployment to Baidoa for operation against opposition forces",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-prepares-fresh-troop-deployment-to-baidoa-against-opposition-forces/",
-      "date": "2026-09-09",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s federal government is preparing to deploy fresh troops to Baidoa, the seat of power of Southwest State, to join an operation aimed at pushing back opposition forces stationed on the outskirts of the strategic town. The planned deployment follows a t"
-    },
-    {
-      "id": "n_26685958da",
-      "type": "news",
-      "title": "Somaliland:OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/2948417-2/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA OGEYSIISKAN WAXA LAGU WARGELINAYAA in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay The Peninsular and Oriental Steam Navigation Company, oo xarunteedu tahay 16 Palace Street, London, SW1E 5JQ, Boqortooyada Midowday (U"
-    },
-    {
-      "id": "n_c1d6b1fcf8",
-      "type": "news",
-      "title": "AFRICOM Conducts an airstrike targeted Al-Shabaab insurgents at a location 175 km west of Mogadishu.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/africom-conducts-an-airstrike-targeted-al-shabaab-insurgents-at-a-location-175-km-west-of-mogadishu/",
-      "date": "2026-09-09",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Airstrikes",
-        "Mogadishu"
-      ],
-      "excerpt": "U.S. Africa Command (AFRICOM) stated that on September 4, it conducted an airstrike in Somalia targeting Al-Shabaab militants. AFRICOM stated that the airstrike was carried out in coordination with the Federal Government of Somalia, targeting a location approximately 175 kilometers west of Mogadishu"
-    },
-    {
-      "id": "n_1a96cad69f",
-      "type": "news",
-      "title": "The President of the Somali Regional State accuses the ONLF rebel group of seeking to plunge the region into turmoil.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-president-of-the-somali-regional-state-accuses-the-onlf-rebel-group-of-seeking-to-plunge-the-region-into-turmoil/",
-      "date": "2026-09-09",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Mustafa Muhumed Omar, President of the Somali Regional State of Ethiopia, has strongly criticized the policy of the Ogaden National Liberation Front (ONLF) after a faction of the organization suggested that the armed struggle could potentially be resumed.   Speaking on the region&#8217;s political a"
-    },
-    {
-      "id": "n_52569f17d5",
-      "type": "news",
-      "title": "Journalist Hassan Galaydh detained in Gabiley amidst ongoing debate over the detention of journalists.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/journalist-hassan-galaydh-detained-in-gabiley-amidst-ongoing-debate-over-the-detention-of-journalists/",
-      "date": "2026-09-09",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security"
-      ],
-      "excerpt": "Somaliland security forces arrested a journalist, Mr. Hassan Sulieman Haaruun, known as Hassan Galeydh in Gabiley—who is the owner of Galaydh Television, according to sources close to the journalist. Mr. Hassan Galaydh was arrested from Gabiley while he was in the town for a working visit. The offic"
-    },
-    {
-      "id": "n_b65c29aa42",
-      "type": "news",
-      "title": "State Minister for Foreign Affairs receives UNTMIS delegation",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/state-minister-for-foreign-affairs-receives-untmis-delegation/",
-      "date": "2026-09-09",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Federal Government of Somalia’s State Minister for Foreign Affairs and International Cooperation, Mr. Ali Mohamed Omar known as Ali Bal’ad held a meeting on Wednesday with a high-level delegation from United Nations Transitional Assistance Mission in Somalia (UNTMIS) led by the Acting Head of UNTMIS"
-    },
-    {
-      "id": "n_58a0ed8a90",
-      "type": "news",
-      "title": "Somalia collaborating with Kenya on border security and countering Al-Shabaab.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-collaborating-with-kenya-on-border-security-and-countering-al-shabaab/",
-      "date": "2026-09-09",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Kenya",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "The Somali Federal Government has demanded from Kenya to expand the bilateral cooperation between the two countries, specifically in the areas on counter terrorism, with the focus on communities living along the border between the two countries and establishing an early warning system to detect Al-S"
-    },
-    {
-      "id": "n_51f90ed4cb",
-      "type": "news",
-      "title": "Average bid registers 160 Birr in latest Central Bank Forex Auction",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52705/",
-      "date": "2026-09-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The weighted average bid from 20 commercial banks came in at 160.53 birr per US dollar in the central bank’s latest auction, which took place yesterday. The auction was the 28th of its kind since August 2024, when the National Bank of Ethiopia (NBE) began selling off foreign currency to commercial b"
-    },
-    {
-      "id": "n_f90eaa13b3",
-      "type": "news",
-      "title": "Obasanjo’s Office Rejects Bias Claims in Ethiopian Mediation Effort",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52693/",
-      "date": "2026-09-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "The office of Olusegun Obasanjo, the African Union Special Envoy for the Horn of Africa, has rejected recent claims challenging his impartiality in mediating tensions between the Ethiopian federal government and Tigray leaders. &#8220;The facts say otherwise,&#8221; his office stated on September 7,"
-    },
-    {
-      "id": "n_c76bd5e21c",
-      "type": "news",
-      "title": "Aviation: Are Africa’s airlines destined to feed foreign hubs?",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430355/aviation-are-africas-airlines-destined-to-feed-foreign-hubs/",
-      "date": "2026-09-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopian, Royal Air Maroc, Airlink… Carriers across the continent are forging ever more alliances with global aviation giants, whether from Europe or the Gulf. The question is who really comes out ahead in these partnerships."
-    },
-    {
-      "id": "n_5334e4f4b9",
-      "type": "news",
-      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss",
-      "date": "2026-09-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control."
-    },
-    {
-      "id": "n_36613dfd91",
-      "type": "news",
-      "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss",
-      "date": "2026-09-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Yemen&#039;s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours."
-    },
-    {
-      "id": "n_c2aa32041e",
-      "type": "news",
-      "title": "Anti-Turkey protests spread across Somalia after Dolow air strike",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/anti-turkey-protests-somalia-dolow-air-strike/",
-      "date": "2026-09-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Jubaland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Mass protests against Turkey and President Recep Tayyip Erdogan have swept through major towns in southern Somalia’s Jubaland state this week, following accusations by regional authorities that Ankara carried out an air strike that wounded a prominent Somali opposi"
-    },
-    {
-      "id": "n_38f23ca482",
-      "type": "news",
-      "title": "The Somali government reveals that it is ready to take over the country’s security if African Union forces withdraw.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-somali-government-reveals-that-it-is-ready-to-take-over-the-countrys-security-if-african-union-forces-withdraw/",
-      "date": "2026-09-09",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "The Federal Government of Somalia said Wednesday that it is ready now to take full responsibility of the country’s security once African Union troops exit from Somalia, removing the skepticism that the withdrawal of foreign troops from the country will pave the way for Al-Shabaab insurgents to captu"
-    },
-    {
-      "id": "n_48326686c8",
-      "type": "news",
-      "title": "Somali forces receive Turkey’s modern ALKAR 120mm mortar system for the first time.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-forces-receive-turkeys-modern-alkar-120mm-mortar-system-for-the-first-time/",
-      "date": "2026-09-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "The Somali National Army has reportedly acquired the ALKAR 120mm modern mortar system, manufactured by the Turkish defense industry company ASELSAN, as part of the deepening military cooperation between Somalia and Turkey. The ALKAR 120mm system is a modern vehicle mounted mortar that utilizes a dig"
-    },
-    {
-      "id": "n_3b64ded526",
-      "type": "news",
-      "title": "Somaliland Police Launches Instructor Training Programme to Build a New Generation of Trainers",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-police-launches-instructor-training-programme-to-build-a-new-generation-of-trainers/",
-      "date": "2026-09-08",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The Commander of the Somaliland Police Force, Brigadier General Abdirahman Abdillahi Hassan, has officially opened a Training of Trainers (ToT) programme designed to prepare police officers to become instructors capable of training future generations of personnel. The training forms part of the Poli"
     }
   ],
   "articles": [
