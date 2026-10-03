@@ -1,6 +1,231 @@
 {
-  "last_updated": "2026-10-02T11:51:42.104397+00:00",
+  "last_updated": "2026-10-03T11:04:49.141413+00:00",
   "news": [
+    {
+      "id": "n_8a1039d783",
+      "type": "news",
+      "title": "Pro-government forces claim to retake Mekelle airport in Ethiopia’s Tigray region",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/pro-government-forces-claim-retake-mekelle-airport-ethiopia-tigray/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Militia",
+        "Maritime"
+      ],
+      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; A militia group allied to Ethiopia&#8217;s federal government said they had recaptured ​the main airport in the capital of ‌the northern Tigray region, an opposition stronghold. &#8220;We have taken full control of Mekelle Alula Aba ​Nega Airport. We are currentl"
+    },
+    {
+      "id": "n_e769ea0bb5",
+      "type": "news",
+      "title": "SOMALILAND:OGAYSIISKA DIGNIINTA CALAAMADA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandogaysiiska-digniinta-calaamada-ganacsiga-2/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "OGAYSIISKA DIGNIINTA CALAAMADA GANACSIGA (Gudaha dhulka Somaliland) Halkan waxaa lagu ogeysiinayaa in: : KT&#38;G Corporation, a South Korean company with head office at: 71, Beotkkotgil, Daedeok-gu, Daejeon, Republic of Korea ay tahay milkiilaha iyo lahaanshaha keliya ee calaamaddan ganacsi ee hoos"
+    },
+    {
+      "id": "n_a6bb4d26a0",
+      "type": "news",
+      "title": "SOMALILAND:OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandogeysiiska-digniinta-calaamadda-ganacsiga-2/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA (Gudaha dhulka Somaliland)) WAXAA LAGU OGEYSIINAYAA in shirkadda KT&#38;G Corporation, a South Korean company with head office at: 71, Beotkkotgil, Daedeok-gu, Daejeon, Republic of Korea ay leedahay calaamadda ganacsi ee hoos ku xusan: BOHEM Calaamaddan waxa"
+    },
+    {
+      "id": "n_2419791889",
+      "type": "news",
+      "title": "SOMALILAND:OGEYSIISKA DIGNIINTA SUMADDA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandogeysiiska-digniinta-sumadda-ganacsiga/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND  OGEYSIISKA DIGNIINTA SUMADDA GANACSIGA ____________________ &#160; &#160; OGEYSIIS BAA HALKAN LAGU BIXINAYAA in summadaha ganacsi ee kor ku xusan ay yihiin summadaha ganacsi ee RADISSON HOSPITALITY BELGIUM BV/SRL of Avenue du Bourget 44, B-1130 Brussels, Belgium, isla markaana loo isticm"
+    },
+    {
+      "id": "n_26685958da",
+      "type": "news",
+      "title": "Somaliland:OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/2948417-2/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA OGEYSIISKAN WAXA LAGU WARGELINAYAA in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay The Peninsular and Oriental Steam Navigation Company, oo xarunteedu tahay 16 Palace Street, London, SW1E 5JQ, Boqortooyada Midowday (U"
+    },
+    {
+      "id": "n_71ee89db11",
+      "type": "news",
+      "title": "Al-Shabaab reported to have cut off the road connecting Hobyo and Harardhere.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shabaab-reported-to-have-cut-off-the-road-connecting-hobyo-and-harardhere/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Maritime"
+      ],
+      "excerpt": "Reports from the Mudug region indicate that Al-Shabaab fighters have cut off the road connecting the towns of Hobyo and Harardhere—a vital route for the movement of people and vehicles between the coastal areas and the interior of the region. According to Somali government officials, this action too"
+    },
+    {
+      "id": "n_faedcf7798",
+      "type": "news",
+      "title": "Somaliland Ministry of Finance Launches SLFMIS at Hargeisa General Hospital",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-ministry-of-finance-launches-slfmis-at-hargeisa-general-hospital/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "The Somaliland Ministry of Finance and Economic Development has launched the implementation of the Somaliland Financial Management Information System (SLFMIS) at Hargeisa General Hospital, as part of broader plans to modernize financial management across government institutions. The implementation o"
+    },
+    {
+      "id": "n_55a76564e2",
+      "type": "news",
+      "title": "Pakistan pledges compensation and housing to the families of sailors killed in Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/pakistan-pledges-compensation-and-housing-to-the-families-of-sailors-killed-in-somalia/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Pakistani government has announced that it will provide 12.5 million rupees ($44,000) and a house to the family of each of the three Pakistani sailors killed during the rescue operation of an oil tanker that had been held off the coast of Somalia for months. The three men were among 10 Pakistani"
+    },
+    {
+      "id": "n_6fe9f1daf5",
+      "type": "news",
+      "title": "UK Allocates £2.5 Million to Somalia to Prevent Autumn Floods",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/uk-allocates-2-5-million-to-somalia-to-prevent-autumn-floods/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "The United Kingdom has allocated an additional £2.5 million to Somalia to strengthen preparedness for floods expected during the *Deyr* rainy season (October to December 2026), as weather forecasts indicate an increasing risk of flooding in parts of the country. The funds are being channeled through"
+    },
+    {
+      "id": "n_9adb6a2241",
+      "type": "news",
+      "title": "US airstrikes in Somalia have caused civilian casualties totaling 216 people.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/us-airstrikes-in-somalia-have-caused-civilian-casualties-totaling-216-people/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Airstrikes",
+        "Maritime"
+      ],
+      "excerpt": "A new report published on September 28, 2026, by Arab Reporters for Investigative Journalism (ARIJ)—utilizing data collected by the organization Airwars—states that airstrikes conducted by the United States and the coalition it leads in Somalia between 2007 and the end of May 2025 resulted in civili"
+    },
+    {
+      "id": "n_c89641370b",
+      "type": "news",
+      "title": "The NISA Director Met with Various Segments of Society in Dhusamareb",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-nisa-director-met-with-various-segments-of-society-in-dhusamareb/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Galmudug"
+      ],
+      "excerpt": "The Director of the National Intelligence and Security Agency (NISA), Mahad Mohamed Salad, currently in the city of Dhusamareb, held various meetings tonight with different segments of society from the Galmudug capital. The meetings were attended by politicians, traditional elders, businesspeople, w"
+    },
+    {
+      "id": "n_1a55a82531",
+      "type": "news",
+      "title": "Freedom Airline has denied that a Garowe-Mogadishu flight was cancelled due to the NIRA card.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/freedom-airline-has-denied-that-a-garowe-mogadishu-flight-was-cancelled-due-to-the-nira-card/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "Freedom Airline has denied reports claiming that a flight scheduled for yesterday on the Garowe-Mogadishu-Nairobi route was cancelled due to a requirement for passengers to possess a NIRA identification card. Mukhtar Hamud, Freedom Airline’s manager for Somalia, speaking to HOL, stated that the airl"
+    },
+    {
+      "id": "n_2fc07ad055",
+      "type": "news",
+      "title": "Ethiopia’s Tigray conflict hits Addis Ababa as regional alliances fracture",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432251/ethiopias-tigray-conflict-hits-addis-ababa-as-regional-alliances-fracture/",
+      "date": "2026-10-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Red Sea",
+        "Ethiopia"
+      ],
+      "excerpt": "As militarised commercial drones hit the capital, expelled ambassadors and Red Sea posturing threaten to drag East Africa into a wider war."
+    },
+    {
+      "id": "n_dfab2883e8",
+      "type": "news",
+      "title": "What Washington Agreed to Last Month",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/10/what-washington-agreed-to-last-month/?utm_source=rss&utm_medium=rss&utm_campaign=what-washington-agreed-to-last-month",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Berbera",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Somaliland’s president spent two weeks in Washington this month offering almost everything he has. Access to the port at Berbera. Access to the territory’s minerals. Military access, which he called a matter for negotiation and declined to rule out. He only asked for one thing in return. Recognition"
+    },
+    {
+      "id": "n_3b37414a3b",
+      "type": "news",
+      "title": "Not Energy, But Power: why Geothermal Energy Benefits Everyone in Iceland but not Kenya",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/10/not-energy-but-power-why-geothermal-energy-benefits-everyone-in-iceland-but-not-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=not-energy-but-power-why-geothermal-energy-benefits-everyone-in-iceland-but-not-kenya",
+      "date": "2026-10-02",
+      "region": "Kenya",
+      "tags": [
+        "Kenya"
+      ],
+      "excerpt": "This article draws on in-person interviews at Mt Suswa, Olkaria, and Menengai with Coalition for Human Rights in Development (CHRD) members and partners directly affected by geothermal projects. Interviews were led by the Coalition’s Research and Learning Facilitator and interviewees identified thro"
+    },
+    {
+      "id": "n_7db8d91156",
+      "type": "news",
+      "title": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
+      "date": "2026-10-03",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Government forces close a key crossing connecting Houthi-held al-Houban to government-held Taiz city."
+    },
     {
       "id": "n_ef9e35761c",
       "type": "news",
@@ -4041,237 +4266,6 @@
         "Ethiopia"
       ],
       "excerpt": "Amid the Grand Ethiopian Renaissance Dam’s anniversary celebrations, Abiy Ahmed’s government plans three more Nile dams, and Cairo is threatening to block them."
-    },
-    {
-      "id": "n_87d7935d72",
-      "type": "news",
-      "title": "Somalia parliament parliament speaker says foreign agenda behind Turkish flag burnings",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-speaker-foreign-agenda-turkish-flag-burnings/",
-      "date": "2026-09-10",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s parliament speaker, Abdulkadir Mohamed Nur Jama, has described the burning of the Turkish flag in several regions across the country as an &#8220;appalling&#8221; development that is new to Somalia, saying a foreign agenda is behind the acts. His re"
-    },
-    {
-      "id": "n_eb58bba4a2",
-      "type": "news",
-      "title": "Somaliland:President Visits Hargeisa Group Hospital’s Kidney Department  Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit high",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandpresident-visits-hargeisa-group-hospitals-kidney-department-hargeisa-somaliland-the-president-of-somaliland-paid-a-visit-this-morning-to-the-kidney-department-at-hargei/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "President Visits Hargeisa Group Hospital’s Kidney Department Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit highlighted the "
-    },
-    {
-      "id": "n_4aa4a85f3d",
-      "type": "news",
-      "title": "Somaliland:TRADE MARK CAUTIONARY NOTICE",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandtrade-mark-cautionary-notice-4/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "TRADE MARK CAUTIONARY NOTICE NOTICE IS HEREBY GIVEN that the above trade mark is the property of The Peninsular and Oriental Steam Navigation Company of 16 Palace Street, London, SW1E 5JQ, United Kingdom and the same trade mark are used in connection with the following: Class 35: Advertising; Busine"
-    },
-    {
-      "id": "n_af998a9c2a",
-      "type": "news",
-      "title": "Heavily armed clan militias fought in the city of Badhan.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/heavily-armed-clan-militias-fought-in-the-city-of-badhan/",
-      "date": "2026-09-11",
-      "region": "Somalia",
-      "tags": [
-        "Clan Conflict",
-        "Militia"
-      ],
-      "excerpt": "Clashes between two clan militias erupted today in the city of Badhan, Sanaag region, with both sides employing various types of heavy weaponry, as evidenced by footage from the scene circulated on social media.  Most business activities and public movement in Badhan have come to a standstill; milit"
-    },
-    {
-      "id": "n_2ca2948fc1",
-      "type": "news",
-      "title": "Israel supports Ethiopia’s efforts to secure access to the Red Sea.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/israel-supports-ethiopias-efforts-to-secure-access-to-the-red-sea/",
-      "date": "2026-09-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Red Sea",
-        "Ethiopia",
-        "Israel",
-        "Maritime"
-      ],
-      "excerpt": "Israel has clearly demonstrated its support for Ethiopia&#8217;s efforts to secure access to the Red Sea, with Israel&#8217;s Ambassador to Ethiopia, Avraham Neguise, stating that supporting this initiative is official Israeli policy. In an interview with the Addis Ababa-based Ethiopian News Agency "
-    },
-    {
-      "id": "n_1108df51dc",
-      "type": "news",
-      "title": "The United States warns that the threat from Al-Shabaab could extend beyond Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-united-states-warns-that-the-threat-from-al-shabaab-could-extend-beyond-somalia/",
-      "date": "2026-09-11",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia"
-      ],
-      "excerpt": "The United States has stated that it is closely monitoring the connections between jihadist groups in Africa—including the movement of funds, people, weapons, and technology—amid concerns in Washington that groups operating in Somalia could develop the capability to plan attacks outside the country."
-    },
-    {
-      "id": "n_bb1015997e",
-      "type": "news",
-      "title": "Banadir Regional Court sentences a defendant charged with terrorist financing to eight years in prison.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/banadir-regional-court-sentences-a-defendant-charged-with-terrorist-financing-to-eight-years-in-prison/",
-      "date": "2026-09-11",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "African Union"
-      ],
-      "excerpt": "The Banadir Regional Court sentenced Abdi Mohamed Abdirahman to eight years in prison after the Office of the Prosecutor General charged him with membership in Al-Shabaab, financing terrorist acts, and money laundering. According to a press release issued by the Office of the National Prosecutor Gen"
-    },
-    {
-      "id": "n_0ce66e69b7",
-      "type": "news",
-      "title": "Shabaab Seizes Areas Near Arbiska",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/shabaab-seizes-areas-near-arbiska/",
-      "date": "2026-09-10",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "Reports from the outskirts of Mogadishu indicate that Al-Shabaab insurgents seized areas near Arbiska yesterday after government forces withdrew from positions they had held there. According to reports, government forces retreated from the village of Basra, where fighting had taken place in recent d"
-    },
-    {
-      "id": "n_c70b4ab04e",
-      "type": "news",
-      "title": "Latest reports on a deadly clash in Bardhere District.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/latest-reports-on-a-deadly-clash-in-bardhere-district/",
-      "date": "2026-09-10",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "African Union",
-        "Militia",
-        "Maritime"
-      ],
-      "excerpt": "This fighting followed mortar shells fired this yesterday by Al-Shabaab militia into the Bardhere district of the Gedo region, prompting government forces to deploy to the locations from which the shells had been launched. Reports indicate that the forces had fully secured the battle sites and pushe"
-    },
-    {
-      "id": "n_89f96e2467",
-      "type": "news",
-      "title": "A soldier from the Somali National Army was killed in a clan-based revenge attack on the outskirts of El-baraf.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/a-soldier-from-the-somali-national-army-was-killed-in-a-clan-based-revenge-attack-on-the-outskirts-of-el-baraf/",
-      "date": "2026-09-10",
-      "region": "Somalia",
-      "tags": [
-        "Clan Conflict"
-      ],
-      "excerpt": "Ahmed Shire, a soldier in the Somali National Army, was killed on the outskirts of the El-baraf district in the Middle Shabelle region after an armed group ambushed him and two other soldiers accompanying him. According to information regarding the incident, the three soldiers were on leave at the t"
-    },
-    {
-      "id": "n_74a97b7322",
-      "type": "news",
-      "title": "Somali Forces in Harardhere District have been placed on high alert amidst fears of Al-Shabaab attacks",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-forces-in-harardhere-district-have-been-placed-on-high-alert-amidst-fears-of-al-shabaab-attacks/",
-      "date": "2026-09-10",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "African Union"
-      ],
-      "excerpt": "Somali Forces based in Harardhere district were put on a high alert due to fears that Al-Shabaab insurgents may launch attacks on the district. Last week, Al-Shabaab insurgents deployed additional new fighters in settlements under the jurisdiction of Harardhere and stepped up their movements in thes"
-    },
-    {
-      "id": "n_2df305b7ed",
-      "type": "news",
-      "title": "Frank Garcia: 5 questions to understand US top diplomat’s second trip to Africa",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430444/frank-garcia-five-questions-to-understand-us-top-diplomats-second-trip-to-africa/",
-      "date": "2026-09-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Kenya",
-        "African Union"
-      ],
-      "excerpt": "The US Assistant Secretary of State for African Affairs has wrapped up a three-nation tour of the continent, from 30 August to 10 September, with stops in Zambia, Kenya and Ethiopia."
-    },
-    {
-      "id": "n_21ed4f67ce",
-      "type": "news",
-      "title": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
-      "date": "2026-09-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "Maritime"
-      ],
-      "excerpt": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz."
-    },
-    {
-      "id": "n_ad974956e8",
-      "type": "news",
-      "title": "Houthis used Anthropic AI to develop ballistic missile software, says report",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-used-anthropic-ai-develop-ballistic-missile-software-says-report",
-      "date": "2026-09-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Houthis used Anthropic AI to develop ballistic missile software, says report\n\n    \n    \n\n        \n    \n                A Yemen-based threat actor cell has tried to use Anthropic’s Claude AI model to create guidance, navigation, and control software for ballistic missiles, a US artificial intelligenc"
-    },
-    {
-      "id": "n_0ee9c6607e",
-      "type": "news",
-      "title": "Pakistan says no military action planned over Houthi attacks on Saudi Arabia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-no-military-action-planned-over-houthi-attacks-saudi",
-      "date": "2026-09-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "Pakistan says no military action planned over Houthi attacks on Saudi Arabia\n\n    \n    \n\n        \n    \n                Pakistan said on Thursday that no military response by Islamabad was currently being discussed under its joint defence agreement with Saudi Arabia and Turkey following Houthi attack"
-    },
-    {
-      "id": "n_4625d7d916",
-      "type": "news",
-      "title": "In a significant strategic gain, Houthis claim control of Yemen’s entire Red Sea coastline",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/significant-strategic-gain-houthis-claim-control-yemens-entire-red-sea",
-      "date": "2026-09-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea"
-      ],
-      "excerpt": "In a significant strategic gain, Houthis claim control of Yemen’s entire Red Sea coastline\n\n    \n    \n\n        \n    \n                Houthi forces have swept through the last government-held stretch of Yemen’s Red Sea coastline and taken control of the entire coast after an 18-hour offensive, Al Jaz"
     }
   ],
   "articles": [
