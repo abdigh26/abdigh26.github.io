@@ -1,6 +1,318 @@
 {
-  "last_updated": "2026-10-03T11:04:49.141413+00:00",
+  "last_updated": "2026-10-04T11:46:17.531061+00:00",
   "news": [
+    {
+      "id": "n_f6c643b8d9",
+      "type": "news",
+      "title": "Somalia won’t accept Israeli presence in Somaliland ‘under any circumstances,’ president says",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-israeli-presence-somaliland-president/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Israel",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia will not accept Israeli presence in the country “under any circumstances” and will resist any attempts to be pulled into the Middle East’s crises, its President Hassan Sheikh Mohamud tells Al Jazeera. Speaking in an exclusive interview, Mohamud said that Is"
+    },
+    {
+      "id": "n_24f3c12bf5",
+      "type": "news",
+      "title": "US air operations killed or wounded at least 216 civilians in Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/us-airstrikes-somalia-216-civilians-killed-wounded/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; At least 216 civilians in Somalia were recorded as killed or injured by U.S. air operations between 2007 and May 2025, according to an investigation supported by Arab Reporters for Investigative Journalism (ARIJ). The investigation described the figure as the minim"
+    },
+    {
+      "id": "n_eb58bba4a2",
+      "type": "news",
+      "title": "Somaliland:President Visits Hargeisa Group Hospital’s Kidney Department  Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit high",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandpresident-visits-hargeisa-group-hospitals-kidney-department-hargeisa-somaliland-the-president-of-somaliland-paid-a-visit-this-morning-to-the-kidney-department-at-hargei/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "President Visits Hargeisa Group Hospital’s Kidney Department Hargeisa, Somaliland – The President of Somaliland paid a visit this morning to the Kidney Department at Hargeisa Group Hospital, where he met with patients, healthcare professionals, and hospital administrators. The visit highlighted the "
+    },
+    {
+      "id": "n_4aa4a85f3d",
+      "type": "news",
+      "title": "Somaliland:TRADE MARK CAUTIONARY NOTICE",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandtrade-mark-cautionary-notice-4/",
+      "date": "2026-07-30",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "TRADE MARK CAUTIONARY NOTICE NOTICE IS HEREBY GIVEN that the above trade mark is the property of The Peninsular and Oriental Steam Navigation Company of 16 Palace Street, London, SW1E 5JQ, United Kingdom and the same trade mark are used in connection with the following: Class 35: Advertising; Busine"
+    },
+    {
+      "id": "n_721315fd8f",
+      "type": "news",
+      "title": "The Hawadle clan reportedly reached an agreement with Al-Shabaab following a meeting held in Maxaas.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-hawadle-clan-reportedly-reached-an-agreement-with-al-shabaab-following-a-meeting-held-in-maxaas/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Clan Conflict",
+        "Militia",
+        "Maritime"
+      ],
+      "excerpt": "The situation in the Hiiraan region is entering a new phase following a meeting in the town of Maxaas attended by former members of the *Macawiisley* militia from the Hawadle clan. The meeting has become a major topic of discussion across the region, with emerging reports suggesting that segments of"
+    },
+    {
+      "id": "n_041bfe4f1a",
+      "type": "news",
+      "title": "Somaliland states its support for Ethiopia gaining access to the sea.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-states-its-support-for-ethiopia-gaining-access-to-the-sea/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "The Somaliland government has stated that it has consistently supported agreements granting Ethiopia access to the sea, noting that such cooperation could lead to shared interests and regional development. In a statement issued on October 3, 2026, the Somaliland Ministry of Foreign Affairs and Inter"
+    },
+    {
+      "id": "n_d23457e283",
+      "type": "news",
+      "title": "Somalia to receive $16 million from the United Nations Emergency Relief Fund.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-to-receive-16-million-from-the-united-nations-emergency-relief-fund/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The United Nations has allocated $16 million to Somalia as part of a $160 million package designated for 12 countries facing underfunded humanitarian crises. The funding was announced on October 2, 2026, and Somalia is one of eight African nations benefiting from this allocation. The funds are inten"
+    },
+    {
+      "id": "n_2e5212bb94",
+      "type": "news",
+      "title": "Somali Navy seizes boat carrying seven foreigners in Hobyo.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-navy-seizes-boat-carrying-seven-foreigners-in-hobyo/",
+      "date": "2026-10-03",
+      "region": "Somalia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "The Somali Navy and Coastal Defense Force conducted a maritime patrol and surveillance operation off the coast of Hobyo district in the Mudug region, where they intercepted a vessel suspected of operating illegally within Somali waters. According to information regarding the operation reported by th"
+    },
+    {
+      "id": "n_7a8f8a71af",
+      "type": "news",
+      "title": "UN Security Council to Hold Closed Talks on Northern Ethiopia Tensions",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53202/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Security"
+      ],
+      "excerpt": "The UN Security Council is set to convene closed consultations on the deteriorating situation in northern Ethiopia, as renewed tensions threaten to unravel the fragile calm established by the 2022 Pretoria Agreement and raise the prospect of a wider regional conflict. An official from the UN Departm"
+    },
+    {
+      "id": "n_26b5c918c1",
+      "type": "news",
+      "title": "Policy, Data Credibility Deficit Threatens Ethiopia’s Inflation Fight: EEA Survey",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53199/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A sweeping expert elicitation survey conducted by the Ethiopian Economics Association (EEA) reveals deep-seated skepticism among economic scholars regarding the credibility of Ethiopia’s macroeconomic policy framework, official inflation data, and the operational independence of the central bank. Th"
+    },
+    {
+      "id": "n_a7e2b164dd",
+      "type": "news",
+      "title": "Central Bank Weighs Greenfield Entry for First Fully Owned Foreign Banks",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53196/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The National Bank of Ethiopia (NBE) is reviewing applications from two foreign banks seeking to establish fully owned subsidiaries in the country, while several other international lenders conduct due diligence on potential equity investments in existing Ethiopian banks, a senior regulator disclosed"
+    },
+    {
+      "id": "n_81e77128cf",
+      "type": "news",
+      "title": "Audit Flags ETB537mln Uncollected at AAU, Including from Unreturned Academicians from Abroad",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53193/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Addis Ababa University (AAU) is holding ETB 537.45 million in unsettled advances and receivables, including more than ETB 145.25 million that has remained outstanding for five to ten years, according to a report by the Office of the Federal Auditor General (OFAG). The audit report for the 2017 Ethio"
+    },
+    {
+      "id": "n_2348e0db0f",
+      "type": "news",
+      "title": "New Federal Government to Take Office as Executive Framework, Dialogue Recommendations Heads to Parliament",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53189/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia’s incoming federal government is set to begin its five-year administrative term on Monday, inheriting a proposed structural framework for federal executive institutions alongside national dialogue recommendations to be presented to parliament ahead of the transition. The newly elected House"
+    },
+    {
+      "id": "n_9287a46c1d",
+      "type": "news",
+      "title": "As Ethiopia-Eritrea Ties Collapse, Diplomacy Must Not Become Another Casualty",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53186/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Diplomacy"
+      ],
+      "excerpt": "The abrupt severing of diplomatic ties between Ethiopia and Eritrea this week is more than a rupture in bilateral relations; it constitutes a profound destabilization of the Horn of Africa. This breakdown, marked by the closure of embassies and the expulsion of diplomats, has transformed a simmering"
+    },
+    {
+      "id": "n_130c752a35",
+      "type": "news",
+      "title": "Funding Bottleneck Forces Goh Betoch to Halt Mortgages as National Housing Fund Takes Shape",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53183/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Goh Betoch Bank, Ethiopia’s sole specialized mortgage lender, is forced to pull the brake on long-term mortgage lending after its loan-to-deposit ratio soared to an unsustainable level. The freeze highlights severe structural liquidity mismatches in the financial sector just as federal authorities a"
+    },
+    {
+      "id": "n_c199d0fe05",
+      "type": "news",
+      "title": "Regional Directive to Establish Amhara Education Fund to Counter Years of School Disruption",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53180/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Amhara regional government is finalizing a directive to establish a dedicated regional education fund and foundation aimed at upgrading school standards, enhancing educational quality, and expanding access across the region. Dr. Mulunesh Desie, Social Sector Coordinator with the rank of Deputy C"
+    },
+    {
+      "id": "n_71a4f08360",
+      "type": "news",
+      "title": "Ethiopia Overhauls Building Codes to Mandate Seismic Safety, Wind Standards",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53177/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Ethiopia has updated its national building codes to enforce stricter seismic safety requirements, establish protocols for evaluating older structures, and account for regional wind variations and advanced construction materials, experts disclosed at an engineering summit in Addis Ababa. The details "
+    },
+    {
+      "id": "n_f498f4e928",
+      "type": "news",
+      "title": "High Digital Transaction Costs, Fraud Gaps Threaten Ethiopia’s Financial Inclusion Targets: Report",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53174/",
+      "date": "2026-10-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "High digital transaction fees, undisclosed user charges, and unmitigated digital fraud risks threaten to derail Ethiopia’s push toward universal financial inclusion, according to an assessment of the National Financial Inclusion Strategy II (NFIS II). Launched at the Ethiopian Finance Forum 2026 in "
+    },
+    {
+      "id": "n_2076ac0917",
+      "type": "news",
+      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+      "date": "2026-10-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Federal troops and allied fighters seen in control of the city after capturing main regional airport."
+    },
+    {
+      "id": "n_ca381e2625",
+      "type": "news",
+      "title": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss",
+      "date": "2026-10-04",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Maritime"
+      ],
+      "excerpt": "Yemenis trapped in the Red Sea port city speak of deteriorating conditions there."
+    },
+    {
+      "id": "n_03c53bf27d",
+      "type": "news",
+      "title": "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
+      "date": "2026-10-04",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses."
+    },
+    {
+      "id": "n_130da5d116",
+      "type": "news",
+      "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Houthis",
+        "Somalia"
+      ],
+      "excerpt": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb"
+    },
     {
       "id": "n_8a1039d783",
       "type": "news",
@@ -3963,309 +4275,6 @@
         "Ethiopia"
       ],
       "excerpt": "The 18th BRICS Summit concluded in New Delhi with a strong vote of confidence for Ethiopia’s economic and diplomatic agenda, as member nations explicitly endorsed the country’s accession to the World Trade Organization (WTO) and backed its leadership for major international roles. In the joint New D"
-    },
-    {
-      "id": "n_189ebd6c17",
-      "type": "news",
-      "title": "FCDO-backed Initiative targets de-risking early-stage investments in Ethiopia",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52786/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "&#8211; UK Development Director Urges Ethiopian Entrepreneurs to Strengthen Investor Links The UK Foreign, Commonwealth and Development Office (FCDO) aims to bridge the persistent startup funding gap in Ethiopia by equipping local entrepreneurs with practical fundraising tools and strengthening thei"
-    },
-    {
-      "id": "n_be4b7e0d5e",
-      "type": "news",
-      "title": "Preserving Soulful Grooves:",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52773/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Maestro arranger Dawit Yifru on the lost magic of New Year releases, the golden era nostalgia, and artists’ modern battles Dawit Yifru stands as one of the most pivotal figures in modern Ethiopian music history—a master keyboardist, composer, and arranger whose work across six decades has profoundly"
-    },
-    {
-      "id": "n_4588ad5701",
-      "type": "news",
-      "title": "Madingo’s Final Voice: Posthumous Studio Album Nears Release",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52770/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "The final recordings of the late artist Madingo Afework are slated for publication as a posthumous album at the end of Meskerem 2019 EC (October 2026), marking a major cultural milestone for the Ethiopian music industry in the New Year. The Reporter confirmed the upcoming release with the artist’s f"
-    },
-    {
-      "id": "n_ae84a083bf",
-      "type": "news",
-      "title": "Dialogue Commission to Submit Final Recommendations Ahead of Parliamentary Transition",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52767/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "The National Dialogue Commission (NDC) will present its complete dialogue report, participant recommendations, and an implementation strategy to the House of Peoples&#8217; Representatives (HoPR) before September 22, 2026, chief commissioner Mesfin Araya (PhD) announced in a press briefing on Thursd"
-    },
-    {
-      "id": "n_bc2ca0f9ea",
-      "type": "news",
-      "title": "GERD Output Surpasses Design Estimates by 17% in First Year, Consortium Urges Focus on Domestic Access",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52764/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Grand Ethiopian Renaissance Dam (GERD) generated approximately 17 percent more electricity than its initial long-term annual estimates during its first year of operation, according to a statement released by the GERD International Collaborative Consortium (GICC). Marking the landmark facility&#8"
-    },
-    {
-      "id": "n_5bc9dfbdcd",
-      "type": "news",
-      "title": "A New Year, An Old Challenge: Ethiopia’s Unfinished Transition",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52760/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security"
-      ],
-      "excerpt": "As Ethiopians woke up yesterday to 2019, it was time for the nation to reflect on a year that has tested its resilience in profound ways. Defined by the complex, often turbulent turn of events on the political, security and economic spheres 2018 was a consequential year to say the least. From the ha"
-    },
-    {
-      "id": "n_67cd1b515d",
-      "type": "news",
-      "title": "Over 600 Prisoners Freed -Including Opposition Leaders, via Amnesty and Dropped Charges",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52757/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "More than 600 federal prisoners, including prominent opposition party leaders, were released on Thursday after the government dropped charges and granted pardons following a five-month advocacy campaign by the Ethiopian Human Rights Commission (EHRC). The release includes MP Christian Tadele- member"
-    },
-    {
-      "id": "n_50537da17f",
-      "type": "news",
-      "title": "Watershed Moments: Recapping the Defining Turning Points of 2018 E.C",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52743/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security"
-      ],
-      "excerpt": "As Ethiopia concludes the historic chapter of 2018 E.C., the nation stands at the threshold of a dynamic new era. The outgoing year brought defining turning points across political, economic, diplomatic, and security fronts—from landmark sovereign debt restructuring and the birth of capital markets "
-    },
-    {
-      "id": "n_4cd22039d6",
-      "type": "news",
-      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-      "date": "2026-09-13",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Displacement"
-      ],
-      "excerpt": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict."
-    },
-    {
-      "id": "n_226c6144a2",
-      "type": "news",
-      "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-      "date": "2026-09-13",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike"
-    },
-    {
-      "id": "n_e6018afd40",
-      "type": "news",
-      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
-      "date": "2026-09-13",
-      "region": "Djibouti",
-      "tags": [
-        "Houthis",
-        "Djibouti"
-      ],
-      "excerpt": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait."
-    },
-    {
-      "id": "n_1297ee1c57",
-      "type": "news",
-      "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
-      "date": "2026-09-13",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea"
-      ],
-      "excerpt": "Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait."
-    },
-    {
-      "id": "n_3f381d1252",
-      "type": "news",
-      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-      "date": "2026-09-13",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "The Houthis say they carried out a strike targeting a Saudi military base in Sharurah, Najran province."
-    },
-    {
-      "id": "n_c66c317fd4",
-      "type": "news",
-      "title": "SOMALILAND – OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somaliland-ogeysiis-digniin-ah-oo-ku-saabsan-astaanta-ganacsiga/",
-      "date": "2026-06-03",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "SOMALILAND – OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay leedahay SHENZHEN LAMP TECHNOLOGY CO., LTD., oo laga aasaasay Shiinaha, cinwaankeeduna yahay No. 6 Lanjing North Road, Kengzi Street, Pingshan Distri"
-    },
-    {
-      "id": "n_b926bfbd5e",
-      "type": "news",
-      "title": "Somaliland:Buried Histories, Living Peace: The Intellectual Legacy in the Horn of Africa",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandburied-histories-living-peace-the-intellectual-legacy-in-the-horn-of-africa/",
-      "date": "2026-05-26",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Somalilandsun:This article presents the theoretical and methodological innovations underlying the Archaeology of Peace, a subfield founded by Dr. Sada Mire through two decades of fieldwork across the Horn of Africa. Drawing upon empirical evidence from rock art sites, sacred landscapes, and medieval"
-    },
-    {
-      "id": "n_e64a1756c3",
-      "type": "news",
-      "title": "Somaliland’s Jerusalem Move and the Politics of Recognition",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilands-jerusalem-move-and-the-politics-of-recognition/",
-      "date": "2026-05-25",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Somaliland’s Jerusalem Move and the Politics of Recognition &#160; In May 2026, Somaliland made a major diplomatic move by announcing that it would open its first embassy in Jerusalem. In doing so, it would become the eighth country to locate its primary diplomatic mission there. The appointment of "
-    },
-    {
-      "id": "n_d443a089f2",
-      "type": "news",
-      "title": "Somaliland:The Mayor of Minneapolis extended his congratulations to the people of Somaliland.",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandthe-mayor-of-minneapolis-extended-his-congratulations-to-the-people-of-somaliland/",
-      "date": "2026-05-19",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "Somalilandsun:The Mayor of Minneapolis, Jacob Frey, extended his congratulations to the people of Somaliland, stating that he is joining in the joy and celebrations from afar as Somaliland marks the 35th anniversary of the restoration of its statehood. Jacob Frey said: “From Minneapolis to Saint Pau"
-    },
-    {
-      "id": "n_d9301b95a4",
-      "type": "news",
-      "title": "LIVE: The 35th Anniversary Commemoration of Somaliland’s National Independence Day",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/live-the-35th-anniversary-commemoration-of-somalilands-national-independence-day/",
-      "date": "2026-05-18",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Today marks the 35th anniversary of Somaliland’s reassertion of its independence on 18 May 1991, an occasion being commemorated extensively across Somaliland and around the world. This year’s celebrations are notably distinct from previous commemorations, particularly in light of the prevailing poli"
-    },
-    {
-      "id": "n_8ca775f4ae",
-      "type": "news",
-      "title": "Dabageed: “President Hassan Sheikh reneged on the promise made to the Hawadle clan that the clan would hold the leadership of Hirshabelle.”",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/dabageed-president-hassan-sheikh-reneged-on-the-promise-made-to-the-hawadle-clan-that-the-clan-would-hold-the-leadership-of-hirshabelle/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Elections",
-        "Clan Conflict"
-      ],
-      "excerpt": "Hirshabelle Vice President Yusuf Hagar Dabageed stated that elections cannot be held in the Hiran region without a prior political agreement and consensus, warning anyone attempting to conduct elections in the region&#8217;s areas.  He highlighted that the Hirshabelle electoral process requires broa"
-    },
-    {
-      "id": "n_b4c7fbeefe",
-      "type": "news",
-      "title": "Danab and Jubbaland forces conduct an operation in Lower Juba.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/danab-and-jubbaland-forces-conduct-an-operation-in-lower-juba/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Danab",
-        "Jubaland"
-      ],
-      "excerpt": "The 162nd Battalion of the Danab Commando Brigade, in coordination with Jubaland forces, conducted a planned operation in the Lagta Welmaarow and Lagta Qunbi areas of the Lower Juba region. During the operation, the forces uncovered and destroyed landmines planted by Al-Shabaab in those areas, which"
-    },
-    {
-      "id": "n_0b11f1a25a",
-      "type": "news",
-      "title": "Airstrikes Conducted in the Lower Shabelle and Middle Juba Regions",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/airstrikes-conducted-in-the-lower-shabelle-and-middle-juba-regions/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Airstrikes",
-        "Militia",
-        "Maritime"
-      ],
-      "excerpt": "According to reports, successive airstrikes targeted locations where members of Al-Shabaab militias were present.  The strikes reportedly took place in areas within the Lower Shabelle and Middle Juba regions. One of the airstrikes reportedly targeted a site near the village of Dhayow in the Sablaale"
-    },
-    {
-      "id": "n_b6d70e1219",
-      "type": "news",
-      "title": "GERD: Ethiopia digs in as Egypt draws a red line on Nile dams",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430521/ethiopia-digs-in-as-egypt-draws-a-red-line-on-nile-dams/",
-      "date": "2026-09-11",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Amid the Grand Ethiopian Renaissance Dam’s anniversary celebrations, Abiy Ahmed’s government plans three more Nile dams, and Cairo is threatening to block them."
     }
   ],
   "articles": [
