@@ -1,6 +1,241 @@
 {
-  "last_updated": "2026-10-04T11:46:17.531061+00:00",
+  "last_updated": "2026-10-05T13:34:14.715365+00:00",
   "news": [
+    {
+      "id": "n_066274848f",
+      "type": "news",
+      "title": "Somalia: Al-Shabaab signs deal with Hawadle clan to end 4-year war",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-hawadle-deal-end-war-somalia/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Mogadishu",
+        "Clan Conflict"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab said on Saturday it had signed an agreement with the Hawadle clan to end a four-year conflict in central Somalia&#8217;s Hiran region. The group&#8217;s Al Furqan media arm posted videos on Facebook of a meeting in the town of Mahas, attended by dozens o"
+    },
+    {
+      "id": "n_add8fc46b5",
+      "type": "news",
+      "title": "Ethiopia’s government forces retake Mekelle from Tigray rebels",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/ethiopia-retakes-mekelle-tigray-tplf-withdraws/",
+      "date": "2026-10-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Militia"
+      ],
+      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Ethiopian government forces and allied militias have regained control of the capital of Tigray, three sources told Reuters ​on Sunday, dealing a major setback to the ‌opposition alliance that rules the northern region. The Tigray People&#8217;s Liberation Front ("
+    },
+    {
+      "id": "n_2fdcac5222",
+      "type": "news",
+      "title": "The Somali Civil Aviation Authority denies that Aden Adde Airport is being closed.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-civil-aviation-authority-denies-that-aden-adde-airport-is-being-closed/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "The Somali Civil Aviation Authority has stated that operations at Mogadishu’s Aden Adde International Airport are proceeding normally, dismissing circulated reports claiming the airport would close in the coming days. In a statement issued today, Monday, October 5, the Authority confirmed that there"
+    },
+    {
+      "id": "n_28c56ebbb5",
+      "type": "news",
+      "title": "Prof. Ahmed Ismail Samatar criticizes President Irro’s trip to the United States and the Somaliland embassy in Jerusalem.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/prof-ahmed-ismail-samatar-criticizes-president-irros-trip-to-the-united-states-and-the-somaliland-embassy-in-jerusalem/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Prof. Ahmed Ismail Samatar, a prominent Somali politician and scholar who has long commented on affairs concerning Somaliland and the Horn of Africa, has criticized the recent visit to the United States by Somaliland President Abdirahman Mohamed Abdullahi (Irro). Speaking from the United States, Pro"
+    },
+    {
+      "id": "n_37bdc8942b",
+      "type": "news",
+      "title": "Somalia, Egypt, Sudan, and Eritrea issue a warning to the Ethiopian government over GERD dam Dispute",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-egypt-sudan-and-eritrea-issue-a-warning-to-the-ethiopian-government-over-gerd-dam-dispute/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Somalia"
+      ],
+      "excerpt": "The leaders of Egypt, Sudan, Eritrea, and Somalia held a summit in the Egyptian coastal city of El Alamein, rejecting unilateral actions by Ethiopia that could harm the water rights of Egypt and Sudan—both of which are in a dispute with Ethiopia over the GERD dam. Egyptian President Abdel Fattah el-"
+    },
+    {
+      "id": "n_b51854a402",
+      "type": "news",
+      "title": "Prime Minister Hamza Barre visits Ballanbale for clan reconciliation efforts.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/prime-minister-hamza-barre-visits-ballanbale-for-clan-reconciliation-efforts/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "Clan Conflict"
+      ],
+      "excerpt": "Somali Prime Minister Hamza Abdi Barre arrived today in the town of Ballanbale, Galgaduud region, to participate in efforts to resolve a clan dispute stemming from past armed clashes. The Prime Minister&#8217;s visit comes as the federal government intensifies mediation efforts between the conflicti"
+    },
+    {
+      "id": "n_3290b0cc1f",
+      "type": "news",
+      "title": "Shabelle River Breaches at 366 Points; Flood Risk Rising",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/shabelle-river-breaches-at-366-points-flood-risk-rising/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Somali Disaster Management Agency (SODMA) has issued a warning regarding the risk of flooding from the Shabelle River, noting that the river has breached its banks at 366 critical locations. SODMA Commissioner Mohamud Moallim Abdulle stated that the river&#8217;s condition and long-standing negl"
+    },
+    {
+      "id": "n_ffb2797fb5",
+      "type": "news",
+      "title": "The Commander of the Somaliland National Army Met with the Athletes Who Achieved Success in the Hargeisa Half Marathon",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-commander-of-the-somaliland-national-army-met-with-the-athletes-who-achieved-success-in-the-hargeisa-half-marathon/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The Commander of the Somaliland National Army, Brigadier General Nimcaan Yusuf Gaaxnuug, received the &#8220;Gaashaan&#8221; National Army team—who achieved success in the Hargeisa International Half Marathon (21km)—at his General Headquarters office today. The Commander congratulated the athletes o"
+    },
+    {
+      "id": "n_e893a52b59",
+      "type": "news",
+      "title": "Puntland suspends Mudug Police Commander following the escape of pirate prisoners.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-suspends-mudug-police-commander-following-the-escape-of-pirate-prisoners/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Puntland"
+      ],
+      "excerpt": "The Puntland Police Command has suspended the Mudug Regional Police Commander, Maxamuud Muuse Bile (known as Fardafuul), following an incident involving the escape of prisoners captured during an operation against pirates. The commander has been temporarily replaced by his deputy, Ayuub Siciid Cali "
+    },
+    {
+      "id": "n_9df1e1b150",
+      "type": "news",
+      "title": "The National Army Command Attends the Swearing-in Ceremony for Officer Cadets and the 22nd Gorgor Brigade",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-national-army-command-attends-the-swearing-in-ceremony-for-officer-cadets-and-the-22nd-gorgor-brigade/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Deputy Commander of the Somali National Army, Brigadier General Madeey Nurey Sheikh Ufurow, attended an official ceremony marking the swearing-in of the 9th batch of officer cadets and the 22nd Brigade of the Gorgor Commandos of the Somali National Army. The event showcased the preparedness, dis"
+    },
+    {
+      "id": "n_6583d75a42",
+      "type": "news",
+      "title": "The Commander of the Somaliland National Army inspects military barracks and the Burao Hospital.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-commander-of-the-somaliland-national-army-inspects-military-barracks-and-the-burao-hospital/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Military"
+      ],
+      "excerpt": "The Commander of the Somaliland National Army, Brigadier General Nimcaan Yuusuf Gaaxnuug, inspected several National Army barracks in the city of Burao today, specifically the 12th Division Headquarters. The Commander met with officers from the 12th Division Headquarters, inquiring about the general"
+    },
+    {
+      "id": "n_1f33222325",
+      "type": "news",
+      "title": "Taiwan hands over $1 million to Somaliland to strengthen kidney dialysis services.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/taiwan-hands-over-1-million-to-somaliland-to-strengthen-kidney-dialysis-services/",
+      "date": "2026-10-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The Government of the Republic of Somaliland today received a $1 million grant from the Government of Taiwan, intended to strengthen, expand, and improve dialysis services provided in Somaliland hospitals. Taiwan’s Representative to Somaliland, Allen C. Lou, handed over the grant to Somaliland offic"
+    },
+    {
+      "id": "n_0ff6206e77",
+      "type": "news",
+      "title": "Parliament Reopens with Key Reshuffles in House Leadership",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53214/",
+      "date": "2026-10-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "As Ethiopia’s ruling Prosperity Party prepares to establish its second-term executive administration, significant leadership reshuffles have taken place within the national legislative bodies following the reopening of Parliament today. President Taye Atskeselassie, has opened the parliament session"
+    },
+    {
+      "id": "n_36e9d5d6fd",
+      "type": "news",
+      "title": "Drones over Addis: How Ethiopia’s rebels are trying to nationalise the war",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432272/drones-over-addis-how-ethiopias-rebels-are-trying-to-nationalise-the-war/",
+      "date": "2026-10-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A rebel alliance says it struck the heart of federal power days before Abiy Ahmeds swearing-in. Analysts say the goal is to stretch the army thin — and the neighbours are watching."
+    },
+    {
+      "id": "n_3307537b69",
+      "type": "news",
+      "title": "Ethiopian forces seize Mekelle as regional rivals gather in Egypt",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432282/ethiopian-forces-seize-mekelle-as-regional-rivals-gather-in-egypt/",
+      "date": "2026-10-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Prime Minister Abiy Ahmed reclaims Tigray’s regional capital without a fight, but an Alamein summit of uneasy neighbours threatens to escalate a domestic war into a proxy conflict."
+    },
+    {
+      "id": "n_664444eae6",
+      "type": "news",
+      "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
+      "date": "2026-10-05",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Army of internationally recognised gov&#039;t claims key gains near strait before Saudi, Pakistani, Turkish officials meet."
+    },
+    {
+      "id": "n_fe210e3e7f",
+      "type": "news",
+      "title": "Yemen war: What’s the latest, as government forces claim advances?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "date": "2026-10-05",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "After launching major military offensive to reclaim Houthi-held areas, Yemeni government says it has taken key district."
+    },
     {
       "id": "n_f6c643b8d9",
       "type": "news",
@@ -4037,244 +4272,6 @@
         "Red Sea"
       ],
       "excerpt": "US may be &#039;forced to intervene&#039; in the Red Sea"
-    },
-    {
-      "id": "n_524c99454f",
-      "type": "news",
-      "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
-      "date": "2026-09-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive."
-    },
-    {
-      "id": "n_dfb14d802a",
-      "type": "news",
-      "title": "Can fractured pro-government forces stop the Houthi advance in Yemen?",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/airstrikes-hit-houthi-targets-mocha-and-fierce-battles-are-ongoing-west-taiz",
-      "date": "2026-09-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea"
-      ],
-      "excerpt": "Can fractured pro-government forces stop the Houthi advance in Yemen?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE correspondent\n on \nMon, 09/14/2026 - 09:37\n\n        \n      \n    \n      \n    \n                After seizing the entire Red Sea coast, the Houthis are attempting to adva"
-    },
-    {
-      "id": "n_1821cf5a72",
-      "type": "news",
-      "title": "Houthis seize key Hanish islands in southern Red Sea",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-seize-key-hanish-islands-southern-red-sea",
-      "date": "2026-09-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "Maritime"
-      ],
-      "excerpt": "Houthis seize key Hanish islands in southern Red Sea\n\n    \n    \n\n        \n    \n                Yemen’s Houthis have captured the strategic Greater and Lesser Hanish islands in the southern Red Sea, tightening their grip around the Bab al-Mandeb shipping route, government and Houthi officials told th"
-    },
-    {
-      "id": "n_89d9e768a4",
-      "type": "news",
-      "title": "Houthis threaten attacks on Saudi military targets over Yemen blockade",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-threaten-attacks-saudi-military-targets-over-yemen-blockade",
-      "date": "2026-09-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "Houthis threaten attacks on Saudi military targets over Yemen blockade\n\n    \n    \n\n        \n    \n                Houthi military spokesman Yahya Saree said the group will continue to attack Saudi military positions until what he called the aggression against Yemen ends and the blockade on Houthi-con"
-    },
-    {
-      "id": "n_7099476ed5",
-      "type": "news",
-      "title": "Yemen’s Tariq Saleh reportedly flees to Somaliland after Houthi takeover of Al Mukha",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/yemen-tariq-saleh-flees-somaliland-houthi-takeover-al-mukha/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Houthis",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Brigadier General Tariq Saleh, a member of Yemen’s Presidential Leadership Council and commander of the National Resistance on the country’s western coast, has reportedly fled Yemen by sea for Somaliland after his forces withdrew from Al Mukha on Thursday, allowing"
-    },
-    {
-      "id": "n_07faaede67",
-      "type": "news",
-      "title": "Somalia president endorses Ali Gudlawe for Hirshabelle leader",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-endorses-ali-gudlawe-next-hirshabelle-leader/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s President Hassan Sheikh Mohamud has chosen incumbent Hirshabelle leader Ali Gudlawe to become the next president of Hirshabelle State, making Gudlawe the only candidate competing on behalf of the ruling Justice and Solidarity Party (JSP), Hirshabelle Vice"
-    },
-    {
-      "id": "n_087ec6805b",
-      "type": "news",
-      "title": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somaliland-ogeysiiska-digniinta-ah-oo-ku-saabsan-astaanta-ganacsiga/",
-      "date": "2026-06-19",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "SOMALILAND – OGEYSIISKA DIGNIINTA AH OO KU SAABSAN ASTAANTA GANACSIGA  Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hantida shirkadda PACIFIC INTERNATIONAL LINES (PRIVATE) LIMITED, oo ah shirkad gaar loo leeyahay oo lagu aasaasay kuna shaqaynaysa shuruucda Singapore, c"
-    },
-    {
-      "id": "n_e98f4d8449",
-      "type": "news",
-      "title": "Puntland issues a warning regarding weapons carried within the city of Badhan.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-issues-a-warning-regarding-weapons-carried-within-the-city-of-badhan/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Military",
-        "Security",
-        "Puntland"
-      ],
-      "excerpt": "The Puntland administration announced that, effective today in the city of Badhan (Sanaag region), legal action will be taken against anyone seen carrying weapons or using military-style vehicles that do not belong to the official security forces.  Fu&#8217;aad Xaanano, the State Minister for Securi"
-    },
-    {
-      "id": "n_cadd6fd153",
-      "type": "news",
-      "title": "South West State warns civilians against areas where Laftagareen’s forces and Al-Shabaab are present.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/south-west-state-warns-civilians-against-areas-where-laftagareens-forces-and-al-shabaab-are-present/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Airstrikes"
-      ],
-      "excerpt": "The minister stated that the Southwest administration is planning airstrikes and operations against Al-Shabaab, warning the public against remaining in or near locations where Laftagareen’s forces and the militant group are present.  &#8220;We are targeting Al-Shabaab militants in Southwest regions "
-    },
-    {
-      "id": "n_29bb714b06",
-      "type": "news",
-      "title": "Somalia warns against the use of new technology by terrorists.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-warns-against-the-use-of-new-technology-by-terrorists/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "Somalia’s Ambassador to the United Nations Security Council, Ambassador Abukar Baalle, stated that the terrorist threat is constantly evolving, noting that these groups are rapidly exploiting new technologies.  Ambassador Baalle noted that terrorist groups use social media to recruit and attract new"
-    },
-    {
-      "id": "n_77a7cfff74",
-      "type": "news",
-      "title": "The Commander of the 21st Division visited the Xananbuure camp, where troops are being prepared.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-commander-of-the-21st-division-visited-the-xananbuure-camp-where-troops-are-being-prepared/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Military",
-        "Galmudug"
-      ],
-      "excerpt": "Colonel Mohamed Abdi Dahir (Mohamed Dhagaweyne), Commander of the 21st Division of the National Army, visited the Xananbuure military camp in the Galgaduud region yesterday afternoon. There, he met with a military unit currently preparing to participate in an upcoming military offensive in Galmudug."
-    },
-    {
-      "id": "n_7b4e980119",
-      "type": "news",
-      "title": "The National Army has taken control of the Geel-gub area and bases in Middle Shabelle.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-national-army-has-taken-control-of-the-geel-gub-area-and-bases-in-middle-shabelle/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab"
-      ],
-      "excerpt": "The Somali National Army—specifically units from the Gorgor Commandos and Special Forces—announced that they have seized control of the Geel-gub area and key bases in the Middle Shabelle region during an operation against Al-Shabaab. The operation involved the 18th Brigade of the Gorgor Commandos, t"
-    },
-    {
-      "id": "n_738ab3c1e3",
-      "type": "news",
-      "title": "Inter-clan fighting enters its second day in Cowsweyne and Laanraydab, Galgaduud.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/inter-clan-fighting-enters-its-second-day-in-cowsweyne-and-laanraydab-galgaduud/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Clan Conflict",
-        "Maritime"
-      ],
-      "excerpt": "Fighting between two related clans sharing the area has been ongoing for a second day in the Cowsweyne locality of the Galgaduud region, with reports indicating casualties—both dead and wounded. The conflict erupted specifically in the village of Laanraydab—part of the Ali Afrax area in Galcad distr"
-    },
-    {
-      "id": "n_d9fa3d06b8",
-      "type": "news",
-      "title": "Turkish Ambassador: Somalia will launch a satellite into space for the first time in 2027.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/turkish-ambassador-somalia-will-launch-a-satellite-into-space-for-the-first-time-in-2027/",
-      "date": "2026-09-12",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "The Turkish Ambassador to Somalia announced that Somalia will launch a satellite into space for the first time in 2027, noting that Turkey is collaborating with Somalia on space-related projects.  The ambassador stated that this plan would be implemented in the Warsheekh area, where a facility dedic"
-    },
-    {
-      "id": "n_28902bc6d8",
-      "type": "news",
-      "title": "US visa sanctions expose the limits of diplomatic pragmatism",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/04/us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism/?utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism&utm_source=rss&utm_medium=rss&utm_campaign=us-visa-sanctions-expose-the-limits-of-diplomatic-pragmatism",
-      "date": "2026-08-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Washington risks prioritizing political expediency over justice after mass atrocity.\nThe post US visa sanctions expose the limits of diplomatic pragmatism appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_a33543ee8f",
-      "type": "news",
-      "title": "BRICS Summit Calls for Sweeping Global Reforms, Rejects Unilateral Tariffs",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52792/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "On Saturday, the 18th BRICS Summit underway in India adopted the New Delhi Declaration, launching a direct challenge to the current global political and financial order. Representing nearly half of the world&#8217;s population, member nations called for a structural overhaul of the United Nations, a"
-    },
-    {
-      "id": "n_a8d86214fa",
-      "type": "news",
-      "title": "BRICS Summit Endorses Ethiopia’s WTO Bid, Backs Key Global Roles for Addis Ababa",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52789/",
-      "date": "2026-09-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The 18th BRICS Summit concluded in New Delhi with a strong vote of confidence for Ethiopia’s economic and diplomatic agenda, as member nations explicitly endorsed the country’s accession to the World Trade Organization (WTO) and backed its leadership for major international roles. In the joint New D"
     }
   ],
   "articles": [
