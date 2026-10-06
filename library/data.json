@@ -1,6 +1,304 @@
 {
-  "last_updated": "2026-10-05T13:34:14.715365+00:00",
+  "last_updated": "2026-10-06T12:43:51.001936+00:00",
   "news": [
+    {
+      "id": "n_96867f5466",
+      "type": "news",
+      "title": "Egypt, Somalia, Eritrea and Sudan summit: Red Sea, Nile and Ethiopia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/egypt-somalia-eritrea-sudan-summit-ethiopia-red-sea-nile/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "Red Sea",
+        "Ethiopia",
+        "Eritrea",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "CAIRO (Somaliguardian) &#8211; The leaders of Egypt, Somalia, Eritrea and Sudan have issued a consequential joint declaration on Somalia’s sovereignty, Sudan’s unity, Red Sea governance and Nile water security, creating a new framework for regional coordination as tensions with Ethiopia intensify. T"
+    },
+    {
+      "id": "n_c4423235ca",
+      "type": "news",
+      "title": "Yemen says forces have retaken strategic Bab el-Mandeb from Houthis",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/world/yemen-retakes-bab-el-mandeb-from-houthis/",
+      "date": "2026-10-05",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Bab el-Mandeb",
+        "African Union"
+      ],
+      "excerpt": "SANAA (Somaliguardian) &#8211; Saudi-backed Yemeni government forces have secured effective control of the Bab el-Mandeb Strait, Yemen&#8217;s ​Information Minister Moammar al-Eryani told Reuters on Monday, though fighting continues with Houthi forces in the area. The government forces advanced rapi"
+    },
+    {
+      "id": "n_87bec9143b",
+      "type": "news",
+      "title": "The President of Turkey announces that they have begun construction of their space center in Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-president-of-turkey-announces-that-they-have-begun-construction-of-their-space-center-in-somalia/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "Turkish President Recep Tayyip Erdogan announced the commencement of construction on a space launch facility in Somalia. Speaking at the opening of the International Astronautical Congress (IAC 2026) in Antalya on Monday, the President stated that they are establishing a new partnership with Somalia"
+    },
+    {
+      "id": "n_a4e44d13dd",
+      "type": "news",
+      "title": "Ahmed Shide becomes the first Somali to serve as Speaker of the Ethiopian House of Representatives.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/ahmed-shide-becomes-the-first-somali-to-serve-as-speaker-of-the-ethiopian-house-of-representatives/",
+      "date": "2026-10-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Elections"
+      ],
+      "excerpt": "The Ethiopian House of Peoples&#8217; Representatives elected Ahmed Shide as its Speaker yesterday, making him the first Somali to lead the lower house of the Ethiopian Federal Parliament. Ahmed Shide’s election took place during the inaugural session of Ethiopia’s 7th Parliament, as the country ent"
+    },
+    {
+      "id": "n_88269a9c27",
+      "type": "news",
+      "title": "Somaliland Police Issue Warning Regarding Environmental and Wildlife Violations",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-police-issue-warning-regarding-environmental-and-wildlife-violations/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Somaliland Police Spokesperson, Senior Colonel Abdi-Aziz Sheikh Ismail, stated that the Environmental and Wildlife Protection Force will take legal action against anyone who violates Somaliland’s environment and wildlife. The spokesperson made these remarks during an awareness campaign on environmen"
+    },
+    {
+      "id": "n_679cf243f3",
+      "type": "news",
+      "title": "Somaliland’s Minister of Livestock Addresses the Kodayare Incident",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalilands-minister-of-livestock-addresses-the-kodayare-incident/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "Somaliland’s Minister of Livestock, Omar Shu&#8217;ayb, addressed an incident that occurred in the Kodayare area of ​​Dacarbudhuq district, stating that the incident involved only one individual and that security forces are currently pursuing the person accused of committing the act. The Minister st"
+    },
+    {
+      "id": "n_9b1a60de49",
+      "type": "news",
+      "title": "Somaliland’s Minister of Environment Launches Environmental Protection Awareness Campaign in Awdal region",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalilands-minister-of-environment-launches-environmental-protection-awareness-campaign-in-awdal-region/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "The Minister of Environment and Climate Change of Somaliland, Mr. Abdullahi Jama Osman (Geeljire), accompanied by the Governor of Awdal Region, Mr. Hassan Dahir (Hassan Iid), launched a major environmental awareness campaign in the Awdal region today. This awareness initiative, which involves the En"
+    },
+    {
+      "id": "n_f405a14dec",
+      "type": "news",
+      "title": "Danab Commando Forces Conduct a Planned Operation in Jowhar-yareey",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/danab-commando-forces-conduct-a-planned-operation-in-jowhar-yareey/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Danab"
+      ],
+      "excerpt": "The Danab Commando forces of the Somali National Army—specifically the 161st Company of the 16th Brigade—conducted a planned operation from last night through the early hours of this morning in the Jowhar-yareey area of ​​the Lower Shabelle region.  The operation focused on controlling the movement "
+    },
+    {
+      "id": "n_e07fdc57eb",
+      "type": "news",
+      "title": "Jubaland’s Minister of Security participates in the police-community partnership program in Gobweyn.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/jubalands-minister-of-security-participates-in-the-police-community-partnership-program-in-gobweyn/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Jubaland"
+      ],
+      "excerpt": "The Minister of Internal Security for the Jubaland State, Gen. Yusuf Hussein Osman (Dhuumaal), participated in a police-community partnership program in the Gobweyn area, aimed at strengthening the relationship and cooperation between security forces and the local community. The event was attended b"
+    },
+    {
+      "id": "n_30b0940a3e",
+      "type": "news",
+      "title": "President Hassan Sheikh: Al-Shabaab can no longer take over the whole of Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/president-hassan-sheikh-al-shabaab-can-no-longer-take-over-the-whole-of-somalia/",
+      "date": "2026-10-05",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud stated that the war against Al-Shabaab may continue for some time, but there is no possibility of the group regaining overall control of the country. In an interview with Al Jazeera, the President noted that Al-Shabaab previously had a vast presence across the "
+    },
+    {
+      "id": "n_579a85b4e7",
+      "type": "news",
+      "title": "Inside Sudan’s War",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/pod/africa/sudan/inside-sudans-war",
+      "date": "2026-10-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Inside Sudan’s War\n\nmloukili\n\nThu, 10/01/2026 - 13:56\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                                                   "
+    },
+    {
+      "id": "n_a782ea64d3",
+      "type": "news",
+      "title": "Back to War in Ethiopia?",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/pod/africa/ethiopia/back-war-ethiopia-0",
+      "date": "2026-09-29",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Back to War in Ethiopia?\n\nhschaub\n\nTue, 09/29/2026 - 13:45\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                                              "
+    },
+    {
+      "id": "n_f710dc718e",
+      "type": "news",
+      "title": "South Sudan’s President Jettisons Unity Government and Hardens Grip on Power",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/anb/africa/south-sudan/south-sudans-president-jettisons-unity-government-and-hardens-grip-power",
+      "date": "2026-09-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "South Sudan’s President Jettisons Unity Government and Hardens Grip on Power\n\neschelhaas\n\nTue, 09/29/2026 - 11:07\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n  "
+    },
+    {
+      "id": "n_a42cf018bd",
+      "type": "news",
+      "title": "Pakistan, Turkiye join Saudi deterrence against Houthis: What that means",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
+      "date": "2026-10-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Islamabad says its role is defensive, but Riyadh&#039;s offensive in Yemen tests how long it can stay out of the fight."
+    },
+    {
+      "id": "n_80b887c799",
+      "type": "news",
+      "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss",
+      "date": "2026-10-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports."
+    },
+    {
+      "id": "n_2c930fb90c",
+      "type": "news",
+      "title": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "date": "2026-10-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "The internationally recognised government retakes territories from the Houthis as fighting rages on the western coast."
+    },
+    {
+      "id": "n_ea274b744e",
+      "type": "news",
+      "title": "Houthis say Saudi airports, Aramco facilities being targeted",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-airports-aramco-facilities-being-targeted",
+      "date": "2026-10-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Houthis say Saudi airports, Aramco facilities being targeted\n\n    \n    \n\n        \n    \n                Yemen’s Houthis on Monday said the group is actively targeting airports and Saudi Aramco oil facilities in Saudi Arabia with drones and ballistic missiles, Houthi military spokesperson Yahya Saree "
+    },
+    {
+      "id": "n_5e45555bc5",
+      "type": "news",
+      "title": "Ethiopia pushes to secure Red Sea access as Tigray war raises regional tensions",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/ethiopia-presses-secure-red-sea-access-tigray-war-raises-regional-tensions",
+      "date": "2026-10-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Red Sea",
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia pushes to secure Red Sea access as Tigray war raises regional tensions\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nTue, 10/06/2026 - 12:01\n\n        \n      \n    \n      \n    \n                Addis Ababa says its ‘legitimate interests’ in the Red Sea must be recog"
+    },
+    {
+      "id": "n_08f212fb9b",
+      "type": "news",
+      "title": "France pledges $3.36m in assistance to Yemen",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-pledges-336m-assistance-yemen",
+      "date": "2026-10-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "France pledges $3.36m in assistance to Yemen\n\n    \n    \n\n        \n    \n                France has pledged an additional $3.36m to Yemen as renewed fighting displaces more than 200,000 people.\n\n“The Houthi offensive in the ‌Bab al-Mandab strait has triggered a new humanitarian shock,” French Foreign "
+    },
+    {
+      "id": "n_e01b4a5b9a",
+      "type": "news",
+      "title": "Houthis say they targeted Saudi Arabia's Abha International Airport with missiles",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-arabias-abha-international-airport",
+      "date": "2026-10-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Houthis say they targeted Saudi Arabia's Abha International Airport with missiles\n\n    \n    \n\n        \n    \n                Yemen's Houthis said they targeted Saudi Arabia's Abha International Airport in the south-west of the country with missiles on Tuesday.\n\n\"We reiterate our warning to all intern"
+    },
+    {
+      "id": "n_76fa7eb8ec",
+      "type": "news",
+      "title": "US Navy helicopter disappears after declaring emergency over Red Sea near Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-navy-helicopter-disappears-after-declaring-emergency-over-red-sea",
+      "date": "2026-10-06",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea",
+        "African Union"
+      ],
+      "excerpt": "US Navy helicopter disappears after declaring emergency over Red Sea near Saudi Arabia\n\n    \n    \n\n        \n    \n                A US Navy helicopter disappeared from publicly available flight-tracking data after it declared and emergency over the&nbsp;Red Sea near Saudi Arabia.\n\nThe Sikorsky MH-60R"
+    },
     {
       "id": "n_066274848f",
       "type": "news",
@@ -3969,309 +4267,6 @@
         "Militia"
       ],
       "excerpt": "The Galmudug Police Command stated that police forces repelled an attack launched by armed clan-based militias on a checkpoint in the Jiiro-Caweer area, which falls under the Godinlabe district of the Galgaduud region. According to a press release issued by the Galmudug Police Command, the attack oc"
-    },
-    {
-      "id": "n_7b8b575348",
-      "type": "news",
-      "title": "Somaliland: Poet Yusuf Shaacir suspended following accusations he aired in the media outlets",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-poet-yusuf-shaacir-suspended-following-accusations-he-aired-in-the-media-outlets/",
-      "date": "2026-09-15",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Somaliland House of Representatives has suspended Poet Yusuf Shaacir, an advisor to the House, following accusations that he leveled allegations and made statements against national leaders via independent media outlets. A statement issued by the House of Representatives indicated that the suspe"
-    },
-    {
-      "id": "n_eab29b50b2",
-      "type": "news",
-      "title": "Local forces being trained in Wajid",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/local-forces-being-trained-in-wajid/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "The Federal Government of Somalia has launched a training program in the Waajid district of the Bakool region for local forces; these troops are intended to support the Somali National Army as it prepares to take over security responsibilities from AUSSOM forces. Somali National Army officials state"
-    },
-    {
-      "id": "n_9e534a1c9b",
-      "type": "news",
-      "title": "The Eritrean Script Exposes Ethiopia’s Unity Farce",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/10/the-eritrean-script-exposes-ethiopias-unity-farce/?utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce&utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce",
-      "date": "2026-08-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "Addis’ Tigray policies echo the mistakes that drove Eritrea away. Karl Marx famously observed that history repeats itself, first as tragedy, then as farce. Ethiopia is now living the second half of that maxim. The three-decade war that ended with Eritrea&#8217;s independence was the tragedy. What is"
-    },
-    {
-      "id": "n_a027b8173e",
-      "type": "news",
-      "title": "PM Abiy Tells BRICS Summit Ethiopia Will Pursue Sea Access Solely Through Negotiations",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52816/",
-      "date": "2026-09-15",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Ethiopian PM Abiy Ahmed reiterated at the BRICS Summit that Ethiopia will continue seeking access to the sea through diplomatic channels, framing the ambition strictly as an economic priority rather than a security objective. Addressing delegates, Abiy emphasized that maritime access is essential fo"
-    },
-    {
-      "id": "n_d6b5840df9",
-      "type": "news",
-      "title": "Putin Hails Ethiopia’s ‘Constructive Role’ in BRICS, Invites PM Abiy to Moscow",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52811/",
-      "date": "2026-09-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Russian President Vladimir Putin praised Ethiopia’s “constructive contribution” to the BRICS alliance and formally invited PM Abiy Ahmed to attend the upcoming Russia-Africa Summit in Moscow (end of October 2026), following bilateral discussions held on the sidelines of the BRICS Summit in New Delhi"
-    },
-    {
-      "id": "n_9a92387b7d",
-      "type": "news",
-      "title": "UNECA, DHL Express Partner to Boost African SMEs in Cross-Border Trade Under AfCFTA",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52807/",
-      "date": "2026-09-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The United Nations Economic Commission for Africa (ECA) and DHL Express Sub-Saharan Africa have signed a landmark three-year Memorandum of Understanding (MoU) aimed at helping small and medium-sized enterprises (SMEs) across the continent navigate and scale within intra-African trade. Delivered thro"
-    },
-    {
-      "id": "n_ba4e1dca52",
-      "type": "news",
-      "title": "Jigjiga Uncovers Riyadh’s Thread: Unraveling Saudi Arabia’s Expansion into Horn Security",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52803/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia",
-        "African Union",
-        "Military",
-        "Security"
-      ],
-      "excerpt": "The detention of hundreds of Somali soldiers in Ethiopia&#8217;s Jigjiga has led to a thread more serious than a simple illegal border crossing: there is a broad, Saudi-funded military program training thousands of recruits in Somalia, with some graduates being prepared to fight alongside the Sudane"
-    },
-    {
-      "id": "n_5533fc55b6",
-      "type": "news",
-      "title": "African Leaders Urge Shift to Climate Agency as CCDA-14 Concludes in Addis Ababa",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52800/",
-      "date": "2026-09-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Delegates highlighted a severe funding discrepancy, noting that while Africa accounts for less than four percent of global emissions, the continent requires approximately USD277 billion annually through 2030 to fulfill its Nationally Determined Contributions (NDCs). Current international financial f"
-    },
-    {
-      "id": "n_8dbe3a4f48",
-      "type": "news",
-      "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
-      "date": "2026-09-15",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia."
-    },
-    {
-      "id": "n_cd093b508f",
-      "type": "news",
-      "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
-      "date": "2026-09-15",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Militia"
-      ],
-      "excerpt": "Houthis say attacks by Saudi Arabia ongoing as Yemen PM accuses militia of killing and displacing civilians."
-    },
-    {
-      "id": "n_38b9f93c6c",
-      "type": "news",
-      "title": "Somalis rethink trade routes as Houthis disrupt Red Sea shipping",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalis-rethink-trade-routes-as-houthis-disrupt-red-sea-shipping/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s business community is seeking alternative shipping routes due to disruptions and security concerns around the Bab al-Mandab Strait and the Strait of Hormuz after Iran-backed Houthis captured a key port city and an island, sending thousands of Yemenis flee"
-    },
-    {
-      "id": "n_818088d075",
-      "type": "news",
-      "title": "Somalia: Mogadishu could fall without AU troops, says ex-minister",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-fall-risk-aynte-aussom-withdrawal/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Mogadishu &#8220;cannot be defended&#8221; if African Union troops withdraw from the country by December, Somalia&#8217;s former Minister of Planning Abdirahman Aynte said, adding that US diplomats have told Somali officials Washington will not reverse its decision"
-    },
-    {
-      "id": "n_6933a0671d",
-      "type": "news",
-      "title": "Garaarta, an area under the administration of Waajid, has been struck by artillery fire.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/garaarta-an-area-under-the-administration-of-waajid-has-been-struck-by-artillery-fire/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Reports from the Bakool region indicate that several mortar shells landed in the vicinity of Garaarta—an area falling under the jurisdiction of Wajid district—sparking fresh security fears and anxiety among local residents. Locals reported the shelling in the Garaarta area over the past few hours; h"
-    },
-    {
-      "id": "n_3e67d70822",
-      "type": "news",
-      "title": "Danab forces capture Al-Shabaab members during an operation.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/danab-forces-capture-al-shabaab-members-during-an-operation/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Danab",
-        "Militia"
-      ],
-      "excerpt": "The specially trained Danab Commando forces—specifically the Danab Special unit—conducted a planned operation south of the Leego area in the Bay region. During the operation, the forces captured two members of the Al-Shabaab militia and seized two AK-47 rifles. The troops also destroyed a site ident"
-    },
-    {
-      "id": "n_33c4d4f2c0",
-      "type": "news",
-      "title": "Commander of the Ground Forces inspected army positions on the outskirts of Baidoa.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/commander-of-the-ground-forces-inspected-army-positions-on-the-outskirts-of-baidoa/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Security"
-      ],
-      "excerpt": "General Sahal Abdullahi Omar, Commander of the National Army&#8217;s Ground Forces, remains in Baidoa to oversee efforts to strengthen security and coordinate the Armed Forces. The Commander is participating in meetings focused on security and planning a joint operation involving the National Army a"
-    },
-    {
-      "id": "n_cfe1b04d34",
-      "type": "news",
-      "title": "Turkish Ambassador Pledges that Ankara will continue its support for Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/turkish-ambassador-pledges-that-ankara-will-continue-its-support-for-somalia/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "Turkey’s Ambassador to Somalia, Alper Aktaş, has announced the conclusion of his tenure in Mogadishu, stating that he is moving to a new post in Skopje, North Macedonia. Aktaş, who has served as ambassador to Somalia since March 2024, expressed that he considered it a great honor to work on strength"
-    },
-    {
-      "id": "n_a68bac75e0",
-      "type": "news",
-      "title": "Somaliland Human Rights Commission expresses concern over the arrest of journalists and a poet in Hargeisa.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-human-rights-commission-expresses-concern-over-the-arrest-of-journalists-and-a-poet-in-hargeisa/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Somaliland Human Rights Commission has expressed concern regarding the detention of poet Ismaaciil Yuusuf (Jiheeye), journalist Cabdiqani Xuseen Abokor (Baylood), and journalist Xasan Saleebaan Haaruun (Galaydh), stating that some of them were detained without adherence to legal procedures.  In "
-    },
-    {
-      "id": "n_7c51fef9b2",
-      "type": "news",
-      "title": "ACLED states that Al-Shabaab remains the most powerful group among those affiliated with Al-Qaeda.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/acled-states-that-al-shabaab-remains-the-most-powerful-group-among-those-affiliated-with-al-qaeda/",
-      "date": "2026-09-13",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "A new report by the Armed Conflict Location &#38; Event Data Project (ACLED) states that Al-Shabaab remains the most powerful non-state armed group in Somalia and the most violent Al-Qaeda affiliate globally. ACLED notes that Al-Shabaab is waging a long-standing insurgency in Somalia, maintaining co"
-    },
-    {
-      "id": "n_287856c1d7",
-      "type": "news",
-      "title": "US-Africa Week Ahead: New Africa diplomats, Somaliland courts Trump; diaspora day on Capitol Hill",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430591/us-africa-week-ahead-new-african-diplomats-somaliland-courts-trump-diaspora-day-on-capitol-hill/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The US Senate hosts back-to-back nomination hearings for Trump’s ambassadorial picks across the continent. President Irro presents his case for US recognition of Somaliland, while the agenda for the third annual Diaspora Day includes trade, critical minerals and AI."
-    },
-    {
-      "id": "n_a29d331e98",
-      "type": "news",
-      "title": "Western Tigray: Shifting alliances in Ethiopia’s most dangerous frontier",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430432/western-tigray-shifting-alliances-in-ethiopias-most-dangerous-frontier/",
-      "date": "2026-09-14",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "A month of contained fighting masks a bigger struggle over Welkait, the bitterly contested territory in western Tigray – with Sudan and a possible Eritrea-Fano-TPLF alignment against Abiy Ahmed strengthening if Addis Ababa loses control."
-    },
-    {
-      "id": "n_bdb248124a",
-      "type": "news",
-      "title": "US may be ‘forced to intervene’ in the Red Sea",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/us-may-be-forced-to-intervene-in-the-red-sea?traffic_source=rss",
-      "date": "2026-09-14",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea"
-      ],
-      "excerpt": "US may be &#039;forced to intervene&#039; in the Red Sea"
     }
   ],
   "articles": [
