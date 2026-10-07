@@ -1,6 +1,211 @@
 {
-  "last_updated": "2026-10-06T12:43:51.001936+00:00",
+  "last_updated": "2026-10-07T12:37:51.702002+00:00",
   "news": [
+    {
+      "id": "n_d1b9e456bb",
+      "type": "news",
+      "title": "Kenya Ebola case: Somalia screens Mogadishu airport arrivals",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/kenya-ebola-case-somalia-airport-screening/",
+      "date": "2026-10-07",
+      "region": "Somalia",
+      "tags": [
+        "Kenya",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s federal government is closely monitoring flights from Ebola-affected African countries and has deployed health staff at Mogadishu airport, after neighbouring Kenya reported its first case of the virus on Tuesday, Caasimada Online reported on Wednesd"
+    },
+    {
+      "id": "n_1bfc7517e3",
+      "type": "news",
+      "title": "SOMALILAND:OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/2948522-2/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND  OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA  RADISSON WAXAA LAGU OGEYSIINAYAA in calaamadda ganacsiga ee kor ku xusan ay tahay calaamadda ganacsiga ee shirkadda RADISSON HOSPITALITY BELGIUM BV/SRL, oo xarunteedu tahay Avenue du Bourget 44, B-1130 Brussels, Belgium, lana isticmaalo xiriirka"
+    },
+    {
+      "id": "n_e0a4067fa5",
+      "type": "news",
+      "title": "Somalia steps up Ebola preparedness following confirmed case in Kenya.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-steps-up-ebola-preparedness-following-confirmed-case-in-kenya/",
+      "date": "2026-10-07",
+      "region": "Somalia",
+      "tags": [
+        "Kenya",
+        "Somalia"
+      ],
+      "excerpt": "The Federal Government of Somalia has announced that it is strengthening the country&#8217;s preparedness to prevent Ebola, following Kenya&#8217;s confirmation of its first case of the disease in Nairobi. Somalia’s Ministry of Health and Social Care stated that, while no Ebola cases have been confi"
+    },
+    {
+      "id": "n_281b8faeef",
+      "type": "news",
+      "title": "President Hassan Sheikh denies that Turkey has a military base in Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/president-hassan-sheikh-denies-that-turkey-has-a-military-base-in-somalia/",
+      "date": "2026-10-07",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud has denied reports claiming that Turkey maintains a military base in Somalia where Turkish troops operate on a permanent basis. Speaking to Al Jazeera Arabic about relations between Somalia and Turkey, Hassan Sheikh stated that the Turkish facility in Somalia i"
+    },
+    {
+      "id": "n_486c722dd5",
+      "type": "news",
+      "title": "Ethiopia accuses President Hassan Sheikh of engaging in actions contrary to its interests.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/ethiopia-accuses-president-hassan-sheikh-of-engaging-in-actions-contrary-to-its-interests/",
+      "date": "2026-10-07",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopia has accused Somali President Hassan Sheikh Mohamud of supporting measures it claims run counter to its strategic interests, following his participation in a summit held on October 4 in El Alamein, Egypt, involving Somalia, Egypt, Eritrea, and Sudan. A report published by the Ethiopian News "
+    },
+    {
+      "id": "n_fa1e0871e8",
+      "type": "news",
+      "title": "NISA: Former Al-Shabaab leader killed in operation in Jilib",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-former-al-shabaab-leader-killed-in-operation-in-jilib/",
+      "date": "2026-10-07",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "The National Intelligence and Security Agency (NISA) of Somalia announced that a planned operation in Jilib district resulted in the killing of Bashir Ahmed Haji Nunow, whom it described as a former leader within Al-Shabaab’s security wing. According to a press release issued by NISA, the operation "
+    },
+    {
+      "id": "n_047773e64e",
+      "type": "news",
+      "title": "Hargeisa court sentences writer Adan Sahan to three years in prison.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/hargeisa-court-sentences-writer-adan-sahan-to-three-years-in-prison/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Hargeisa District Court today sentenced writer Adan Sahan to three years in prison; he had been detained in Hargeisa and was accused of offending religion. The charges against Adan Sahan stem from remarks made during an interview with Galaydh TV, in which he discussed his views on the role of wo"
+    },
+    {
+      "id": "n_40ec5adab7",
+      "type": "news",
+      "title": "Somalia’s Health Minister: 600 health facilities were at risk of closing.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalias-health-minister-600-health-facilities-were-at-risk-of-closing/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Somalia’s Minister of Health and Social Care, Dr. Ali Haji Adan, stated that nearly 600 health facilities operating in the country were at risk of closure due to a decline in health funding. The Minister noted that these facilities relied on external funding—which has dropped significantly—thereby j"
+    },
+    {
+      "id": "n_9e534a1c9b",
+      "type": "news",
+      "title": "The Eritrean Script Exposes Ethiopia’s Unity Farce",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/10/the-eritrean-script-exposes-ethiopias-unity-farce/?utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce&utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce",
+      "date": "2026-08-10",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "Addis’ Tigray policies echo the mistakes that drove Eritrea away. Karl Marx famously observed that history repeats itself, first as tragedy, then as farce. Ethiopia is now living the second half of that maxim. The three-decade war that ended with Eritrea&#8217;s independence was the tragedy. What is"
+    },
+    {
+      "id": "n_47e0e9781c",
+      "type": "news",
+      "title": "New Government Targets 9.62 percent Tax-to-GDP Ratio amid Structural Economic Reforms",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53235/",
+      "date": "2026-10-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia’s newly sworn-in government plans to raise the country’s tax-to-GDP ratio to 9.62 percent in the 2026/27 fiscal year, placing domestic revenue mobilization at the center of its economic agenda as PM Abiy Ahmed (PhD) begins a new term. President Taye Atske Selassie announced the target on Tu"
+    },
+    {
+      "id": "n_2d3c27b185",
+      "type": "news",
+      "title": "Ethiopia Reaffirms Rights over Nile, Red Sea as Regional Alliances Shift",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53223/",
+      "date": "2026-10-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Red Sea",
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia has reaffirmed its stance on the Abay River and its strategic interests in the Red Sea as diplomatic tensions with neighboring states escalate alongside renewed fighting between federal forces and the Tigray People&#8217;s Liberation Front (TPLF) in northern Ethiopia. Responding to regional"
+    },
+    {
+      "id": "n_c39126d2d6",
+      "type": "news",
+      "title": "Parliament Re-Elects Abiy Ahmed as Prime Minister",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53219/",
+      "date": "2026-10-05",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Elections"
+      ],
+      "excerpt": "The House of Peoples’ Representatives (HPR) convened this afternoon for its inaugural session following the national elections. During the session, the HPR officially re-elected Abiy Ahmed as Prime Minister of Ethiopia. Nominated by the ruling Prosperity Party, which secured a decisive parliamentary"
+    },
+    {
+      "id": "n_35a57b92f7",
+      "type": "news",
+      "title": "Egypt is trying to contain Ethiopia. Will it succeed?",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432487/egypt-is-trying-to-contain-ethiopia-will-it-succeed/",
+      "date": "2026-10-06",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "The North African country sees an opportunity to organise Ethiopia’s enemies – but it is unclear how strong an alliance Egypt has built with Eritrea, Sudan and Somalia, nor how Washington will respond."
+    },
+    {
+      "id": "n_3ea205616c",
+      "type": "news",
+      "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+      "date": "2026-10-07",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land."
+    },
     {
       "id": "n_96867f5466",
       "type": "news",
@@ -4064,209 +4269,6 @@
         "Maritime"
       ],
       "excerpt": "Saudi-led coalition target telecommunications towers in Yemen’s Taiz\n\n    \n    \n\n        \n    \n                Warplanes belonging to the Saudi-led coalition have targeted three telecommunications towers in Yemen’s Taiz province, the Houthi-run Al Masirah TV channel reported.\n\nThe attacks struck tow"
-    },
-    {
-      "id": "n_866b7264f5",
-      "type": "news",
-      "title": "'Few cards to play': Saudi Arabia faces limited options against Houthis with allies out",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/few-cards-play-saudi-arabia-faces-limited-options-against-houthis-0",
-      "date": "2026-09-17",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "'Few cards to play': Saudi Arabia faces limited options against Houthis with allies out\n\n    \n    \n\n        \n    \n                For months, Saudi Arabia appeared fairly insulated from the war on Iran even as it engulfed smaller neighbours.\n\nIn fact, Saudi Aramco, the kingdom’s oil company, chalked"
-    },
-    {
-      "id": "n_3d00ba25af",
-      "type": "news",
-      "title": "Turkey deports 50 Somalis amid anti-Turkey protests",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-deportation-protests-jubaland-puntland-southwest/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkey deported 50 Somali nationals to Mogadishu&#8217;s Aden Adde International Airport on Tuesday as anger over Ankara&#8217;s expanding military and economic footprint in Somalia spread through three regional states and reopened a long-simmering debate over who "
-    },
-    {
-      "id": "n_66d7d5728d",
-      "type": "news",
-      "title": "AUSSOM commander: Al-Shabaab has not seized any territory in Somalia since March of last year.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/aussom-commander-al-shabaab-has-not-seized-any-territory-in-somalia-since-march-of-last-year/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "The Commander of the African Union forces in Somalia (AUSSOM), Lieutenant General Sam Kavuma, stated that Al-Shabaab has not seized any territory from Somali government and African Union forces since March of last year, noting that mission forces have dislodged the group from several positions. In a"
-    },
-    {
-      "id": "n_23b193e218",
-      "type": "news",
-      "title": "NISA dismantls Al-Shabaab networks in Mogadishu and its outskirts.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nisa-dismantls-al-shabaab-networks-in-mogadishu-and-its-outskirts/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "The National Intelligence and Security Agency (NISA) announced that its forces dismantled Al-Shabaab networks that were reportedly planning to embed themselves within parts of the capital, Mogadishu, and its outskirts. A press release issued by NISA stated that the operation resulted in the capture "
-    },
-    {
-      "id": "n_3a2b9ec5df",
-      "type": "news",
-      "title": "A delegation from international organizations visits Jubbaland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/a-delegation-from-international-organizations-visits-jubbaland/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Kismayo"
-      ],
-      "excerpt": "KISMAYO&#8212;A delegation comprising representatives from the embassies of Sweden, Norway, the Netherlands, Switzerland, the European Union, and various international organizations visited Kismayo—the administrative capital of Jubbaland—to inaugurate and inspect development projects implemented in "
-    },
-    {
-      "id": "n_7c6b22e296",
-      "type": "news",
-      "title": "President of Somaliland held a meeting in Washington with members of the U.S. Congress and ambassadors.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/president-of-somaliland-held-a-meeting-in-washington-with-members-of-the-u-s-congress-and-ambassadors/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Somaliland President Abdirahman Mohamed Abdullahi (Irro) held a breakfast meeting in Washington, D.C., with members of the U.S. Congress and ambassadors from the international community based in the U.S. capital.  According to a statement from the Office of the Somaliland Presidential Spokesperson, "
-    },
-    {
-      "id": "n_98ca0b9bd5",
-      "type": "news",
-      "title": "The Commander of the 77th Presidential Guard Brigade arrives in Masagawaa",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-commander-of-the-77th-presidential-guard-brigade-arrives-in-masagawaa/",
-      "date": "2026-09-15",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Colonel Maslax Maxamuud Maxamed, Commander of the 77th Brigade of the National Presidential Guard, has paid a working visit to the Masagawaa area in the Galgaduud region.  A unit from the 77th Brigade—specifically the 86th &#8220;Aar&#8221; Battalion—is stationed in this area, which also hosts bases"
-    },
-    {
-      "id": "n_dbb27f4eb5",
-      "type": "news",
-      "title": "The US has once again placed a $5 million bounty on information regarding a Somali woman affiliated with ISIS",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-us-has-once-again-placed-a-5-million-bounty-on-information-regarding-a-somali-woman-affiliated-with-isis/",
-      "date": "2026-09-15",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The United States has once again announced a $5 million reward for information leading to the location of Khadra Iise—also known as Umm Qaqa al-Somali—whom the U.S. has identified as the head of Sharia instructors for the ISIS group.  The &#8220;Rewards for Justice&#8221; program stated that Khadra "
-    },
-    {
-      "id": "n_9f1fbbb145",
-      "type": "news",
-      "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
-      "date": "2026-09-16",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea."
-    },
-    {
-      "id": "n_bf3e06beed",
-      "type": "news",
-      "title": "Trump nominates Kennington as US ambassador to Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/trump-nominates-devin-kennington-us-ambassador-somalia/",
-      "date": "2026-09-15",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; President Donald Trump has nominated Devin Kennington, of California, to serve as Ambassador Extraordinary and Plenipotentiary of the United States to the Federal Republic of Somalia, the White House announced Monday, moving to fill a post that has sat vacant since"
-    },
-    {
-      "id": "n_491eec0ed0",
-      "type": "news",
-      "title": "Southwest Somalia conflict risks spiraling into inter-clan war, ACLED warns",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/southwest-somalia-conflict-risks-spiraling-inter-clan-war-acled-warns/",
-      "date": "2026-09-14",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Mogadishu",
-        "Clan Conflict"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A political and military standoff in Somalia&#8217;s Southwest state risks escalating beyond a power struggle into a protracted inter-clan conflict that could destabilize the wider Bay region, the Armed Conflict Location &#38; Event Data Project (ACLED) said in a n"
-    },
-    {
-      "id": "n_ecd5c99aa4",
-      "type": "news",
-      "title": "Somalia’s Independent Human Rights Commission Chairperson Meets with Head of UNTMIS",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalias-independent-human-rights-commission-chairperson-meets-with-head-of-untmis/",
-      "date": "2026-09-15",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "The Chairperson of the Independent Human Rights Commission of Somalia, Dr. Maryan Qasim, met in Mogadishu with the Head of the United Nations Transition Mission in Somalia (UNTMIS), Raisedon Zenenga. The two sides discussed the transfer of human rights functions currently managed by the United Natio"
-    },
-    {
-      "id": "n_ca302056cf",
-      "type": "news",
-      "title": "The United States has appointed Devin Kennington as the new ambassador to Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-united-states-has-appointed-devin-kennington-as-the-new-ambassador-to-somalia/",
-      "date": "2026-09-15",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "U.S. President Donald Trump has nominated Devin Kennington as the new U.S. Ambassador to Somalia, as Washington moves to fill the ambassadorial post in Mogadishu, which has been vacant since the recall of former Ambassador Richard H. Riley in late 2025. Kennington’s nomination was included in a list"
-    },
-    {
-      "id": "n_cde6781a95",
-      "type": "news",
-      "title": "Galmudug police capture militiamen who attacked a checkpoint.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/galmudug-police-capture-militiamen-who-attacked-a-checkpoint/",
-      "date": "2026-09-15",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Galmudug",
-        "Clan Conflict",
-        "Militia"
-      ],
-      "excerpt": "The Galmudug Police Command stated that police forces repelled an attack launched by armed clan-based militias on a checkpoint in the Jiiro-Caweer area, which falls under the Godinlabe district of the Galgaduud region. According to a press release issued by the Galmudug Police Command, the attack oc"
     }
   ],
   "articles": [
