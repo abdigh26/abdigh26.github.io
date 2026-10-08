@@ -1,6 +1,217 @@
 {
-  "last_updated": "2026-10-07T12:37:51.702002+00:00",
+  "last_updated": "2026-10-08T12:47:36.984810+00:00",
   "news": [
+    {
+      "id": "n_1e83b4705e",
+      "type": "news",
+      "title": "Eritrean troops seen in Ethiopia’s Tigray as fears of wider conflict grow",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/eritrean-troops-seen-ethiopia-tigray-wider-conflict/",
+      "date": "2026-10-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Eritrean soldiers drove through the northern Ethiopian town of Adigrat on Wednesday, two witnesses told Reuters, days after the ​Horn of Africa neighbours severed diplomatic ties, raising fears of outright conflict. The sightings of Eritrean troops would be the f"
+    },
+    {
+      "id": "n_a2741bf164",
+      "type": "news",
+      "title": "Al-Shabaab kills people in Hiiraan, and fighting is underway in Tardo..",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shabaab-kills-people-in-hiiraan-and-fighting-is-underway-in-tardo/",
+      "date": "2026-10-08",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Maritime"
+      ],
+      "excerpt": "Reports from the Tardo area in the Hiran region indicate that heavy fighting is underway between Al-Shabaab militants and local residents following an incident in the center of the area, according to the Tardo district commissioner speaking to Risaala Media. The fighting reportedly began after Al-Sh"
+    },
+    {
+      "id": "n_81e65a7601",
+      "type": "news",
+      "title": "Puntland operations and US airstrikes have crippled the revenue sources of ISIS in Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-operations-and-us-airstrikes-have-crippled-the-revenue-sources-of-isis-in-somalia/",
+      "date": "2026-10-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Airstrikes",
+        "Puntland",
+        "Maritime"
+      ],
+      "excerpt": "The ISIS group in Somalia is facing a significant decline in its financial strength after operations by Puntland and U.S. support crippled networks that were crucial for collecting and transferring the group&#8217;s funds. According to a new report by the Africa Center for Strategic Studies, ISIS-So"
+    },
+    {
+      "id": "n_75febb472e",
+      "type": "news",
+      "title": "Somalia Commences medical screening for people arriving from Africa….",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-commences-medical-screening-for-people-arriving-from-africa/",
+      "date": "2026-10-08",
+      "region": "Somalia",
+      "tags": [
+        "Kenya",
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "Somalia has begun screening travelers arriving from African countries after Kenya confirmed a case of Ebola, with medical teams deployed to airports to monitor incoming passengers. This measure is part of efforts to strengthen Somalia&#8217;s preparedness and to detect potential cases early, before "
+    },
+    {
+      "id": "n_37071654a7",
+      "type": "news",
+      "title": "Ethiopia Cabinet Reshuffle: PM Abiy Fills Four Key Posts",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53269/",
+      "date": "2026-10-08",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Prime Minister Abiy Ahmed (PhD) has announced four key government appointments, following several cabinet reshuffles made earlier today. Under the new appointments, Alemtsehay Paulos steps in as the Minister of Mines, succeeding Habtamu Tegegn (Eng). Ambassador Betre Mengistu has been named Head of "
+    },
+    {
+      "id": "n_1bbf794a2f",
+      "type": "news",
+      "title": "Ethiopia Unveils New Cabinet Reshuffle",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53263/",
+      "date": "2026-10-08",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "women represent 41 percent Ethiopia’s House of Peoples’ Representatives on Thursday unanimously approved 22 ministerial nominees presented by Prime Minister Abiy Ahmed, formally establishing the Cabinet of the new  Government. The nominations were submitted during the second regular session of the 7"
+    },
+    {
+      "id": "n_0361386caa",
+      "type": "news",
+      "title": "Aman Properties Is Expanding Its Horizon: Sar Bet Is Next",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53260/",
+      "date": "2026-10-08",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "We have exciting news to share: Aman Properties is expanding to Sar Bet. After establishing developments in areas including Bisrate Gebriel, Kazanchis, Bole and Kara Kore, Aman Properties is widening its presence across the capital, with Sar Bet among the locations shaping what comes next. The expan"
+    },
+    {
+      "id": "n_b35618cafc",
+      "type": "news",
+      "title": "UN Warns of Aid Disruption in Tigray Following Looting of Humanitarian Depots",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53257/",
+      "date": "2026-10-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "The United Nations announced that a UN agency warehouse and several facilities operated by local and international humanitarian organizations have been looted in Tigray, as renewed fighting in northern Ethiopia severely disrupts aid operations and raises alarm over rising civilian casualties.&#160; "
+    },
+    {
+      "id": "n_4e76c37e4b",
+      "type": "news",
+      "title": "Government Overhauls Ministerial Mandates as Cabinet Reshuffle Looms",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53254/",
+      "date": "2026-10-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "Prime Minister Abiy Ahmed (PhD) has unveiled a major institutional overhaul of Ethiopia’s federal bureaucracy as he begins his new five-year term, proposing a significant realignment of executive mandates without expanding the overall number of cabinet seats. A draft proclamation submitted to the Ho"
+    },
+    {
+      "id": "n_273c38b55b",
+      "type": "news",
+      "title": "Africa’s 2026 Growth Forecast Rises to 4.3%, World Bank Says",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53251/",
+      "date": "2026-10-07",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Africa’s economic growth is expected to accelerate to 4.3% in 2026 as stronger performances across the region boost the outlook, the World Bank said, while urging governments to harness artificial intelligence to increase productivity and create jobs. The region’s economy grew by 4.1% in 2025, the b"
+    },
+    {
+      "id": "n_c2a5a3562e",
+      "type": "news",
+      "title": "Africa to Launch Its Own Credit Rating Agency",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53248/",
+      "date": "2026-10-07",
+      "region": "Ethiopia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "The African Union will launch Africa’s first continental credit rating agency, seeking to offer an alternative to the three major global ratings agencies as mounting debt burdens weigh on economies across the continent. The AU says the Africa Credit Rating Agency (AfCRA) will provide assessments bas"
+    },
+    {
+      "id": "n_af80c9cb10",
+      "type": "news",
+      "title": "Kenya Confirms First Ebola Case After Patient Dies",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53245/",
+      "date": "2026-10-07",
+      "region": "Kenya",
+      "tags": [
+        "Kenya"
+      ],
+      "excerpt": "Kenya confirmed its first Ebola case on Tuesday after a Kenyan citizen who had traveled from the Democratic Republic of Congo died in Nairobi, raising concerns about the spread of the virus across borders in East Africa. The man had been ill for about a month before traveling by road from Congo to U"
+    },
+    {
+      "id": "n_48fddc0739",
+      "type": "news",
+      "title": "Ethiopia launches drone strikes on Eritrean forces in Tigray",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432735/ethiopia-launches-drone-strikes-on-eritrean-forces-in-tigray/",
+      "date": "2026-10-08",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Addis Ababa and Asmara edge closer to open conflict as overnight bombardment near Adigrat hits military convoys and shatter a fragile regional order."
+    },
+    {
+      "id": "n_b68c383b49",
+      "type": "news",
+      "title": "Fitsum Assefa: 10 things to know about Ethiopia’s new finance minister",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432675/fitsum-assefa-10-things-to-know-about-ethiopias-new-finance-minister/",
+      "date": "2026-10-08",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "An academic and architect of Abiy Ahmed’s economic reforms, Fitsum Assefa must now secure funding to deliver them – while managing creditors, rising living costs and renewed war in Tigray."
+    },
+    {
+      "id": "n_7b17f0a8f4",
+      "type": "news",
+      "title": "Yemen’s government needs tribes to defeat the Houthis. Will they join?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join?traffic_source=rss",
+      "date": "2026-10-08",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Yemen&#039;s tribes could prove crucial to government&#039;s fight against the Houthis, but many may wait before choosing sides."
+    },
     {
       "id": "n_d1b9e456bb",
       "type": "news",
@@ -4056,219 +4267,6 @@
         "Maritime"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; In July, the U.S. Mission to the African Union announced that it would be cutting support for the United Nations Support Office in Somalia (UNSOS). This unit provides logistical support, food rations, fuel, and medical supplies for the African Union peacekeeping mi"
-    },
-    {
-      "id": "n_d9cefb2232",
-      "type": "news",
-      "title": "Danab forces carry out a planned operation in the Leego area.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/danab-forces-carry-out-a-planned-operation-in-the-leego-area/",
-      "date": "2026-09-17",
-      "region": "Somalia",
-      "tags": [
-        "Danab"
-      ],
-      "excerpt": "The Danab Commando forces of the Somali National Army—specifically the 161st Battalion—conducted a planned operation in the Leego area of ​​the Lower Shabelle region. The operation thwarted a plot to plant landmines on roads used by Somali civilians, particularly the routes connecting the Lower Shab"
-    },
-    {
-      "id": "n_dae41d28d0",
-      "type": "news",
-      "title": "President of Somaliland meets with the Chairman of the U.S. House Foreign Affairs Committee.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/president-of-somaliland-meets-with-the-chairman-of-the-u-s-house-foreign-affairs-committee/",
-      "date": "2026-09-17",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "On the second day of his meetings on Capitol Hill in Washington, D.C., the President of Somaliland, Abdirahman Mohamed Abdullahi (Irro), held separate meetings with the Chairman of the U.S. House Foreign Affairs Subcommittee, Brian Mast, and Senator Mike Rounds. According to a statement from the Off"
-    },
-    {
-      "id": "n_91387a806b",
-      "type": "news",
-      "title": "The Hawadle clan issues resolutions regarding the formation of the third HirShabelle administration.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-hawadle-clan-issues-resolutions-regarding-the-formation-of-the-third-hirshabelle-administration/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Elections",
-        "Clan Conflict"
-      ],
-      "excerpt": "Intellectuals, politicians, and various segments of the Hawadle community have concluded a series of meetings in Beledweyne regarding the political situation and the process of establishing the third HirShabelle administration. The Hawadle community called for a halt to the ongoing elections and pol"
-    },
-    {
-      "id": "n_3de6727e30",
-      "type": "news",
-      "title": "Janan visits Balad Hawo; Nairobi agreement and handover of UK camp planned",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/janan-visits-balad-hawo-nairobi-agreement-and-handover-of-uk-camp-planned/",
-      "date": "2026-09-16",
-      "region": "Kenya",
-      "tags": [
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Reports from the Gedo region indicate that Abdirashid Janan is traveling to the district of Balad-Hawo; the purpose of his trip is reportedly to finalize and implement the agreement reached in Nairobi between the relevant political and security factions. According to well-informed sources, Janan is "
-    },
-    {
-      "id": "n_e5e5af47a5",
-      "type": "news",
-      "title": "Minister of State for Defense receives a delegation from the African Union Counter-Terrorism Centre.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/minister-of-state-for-defense-receives-a-delegation-from-the-african-union-counter-terrorism-centre/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "The State Minister for Defense—who is also the Acting Minister of Defence—MP Omar Ali Abdi, yesterday received a delegation from the African Union Counter-Terrorism Centre (AUCTC), led by the Centre’s Director, Mr. Idriss Mounir Lallali. The meeting focused on strengthening counter-terrorism coopera"
-    },
-    {
-      "id": "n_e9c9378f9d",
-      "type": "news",
-      "title": "NISA dismantles Al-Shabaab networks in Mogadishu and its outskirts.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nisa-dismantles-al-shabaab-networks-in-mogadishu-and-its-outskirts/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "The National Intelligence and Security Agency (NISA) announced that its forces dismantled Al-Shabaab networks that were reportedly planning to embed themselves within parts of the capital, Mogadishu, and its outskirts. A press release issued by NISA stated that the operation resulted in the capture "
-    },
-    {
-      "id": "n_2600549cc4",
-      "type": "news",
-      "title": "Tigray’s Liberation Must End in Freedom",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/09/16/tigrays-liberation-must-end-in-freedom/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom",
-      "date": "2026-09-16",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Liberation secured survival while leaving Tigray’s political order unfinished.\nThe post Tigray’s Liberation Must End in Freedom appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_01c92640b3",
-      "type": "news",
-      "title": "Ethiopia’s National Emergency Medical Team Earns Landmark WHO Classification",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52825/",
-      "date": "2026-09-17",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia’s National Emergency Medical Team (EMT) has officially received international classification from the World Health Organization (WHO), becoming the first civilian EMT in the WHO African Region to achieve this milestone. Announced by the WHO on September 15, 2026, the verification confirms t"
-    },
-    {
-      "id": "n_e42f8c9f95",
-      "type": "news",
-      "title": "Ethiopia: How Abiy wins powerful friends around the world but struggles with neighbours",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430644/ethiopia-how-abiy-wins-powerful-friends-around-the-world-but-struggles-with-neighbours/",
-      "date": "2026-09-17",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Kenya",
-        "Maritime"
-      ],
-      "excerpt": "From a bromance with Kenya’s William Ruto to a personal rapport with Macron, strategic ties with the Emiratis, and renewed ties with Europe, China and Türkiye, Abiy Ahmed has built an enviable network of partners. But as tensions deepen with Eritrea, Sudan and Egypt, can he replicate that success cl"
-    },
-    {
-      "id": "n_462767f8e6",
-      "type": "news",
-      "title": "The Sanctuary Parliament How Somalia’s Immunity System Protects Those Who Should Face Justice",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/09/the-sanctuary-parliament-how-somalias-immunity-system-protects-those-who-should-face-justice/?utm_source=rss&utm_medium=rss&utm_campaign=the-sanctuary-parliament-how-somalias-immunity-system-protects-those-who-should-face-justice",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "The first piece documented who disappeared into Somalia’s detention system. The second — “The Journalists Who Disappeared” — documented who was silenced for reporting it. This piece documents the officials whose orders produced those outcomes — and the institution that now protects them. They are no"
-    },
-    {
-      "id": "n_f20775ed2d",
-      "type": "news",
-      "title": "The Horn of Africa’s Age of Permanent Conflict",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/09/the-horn-of-africas-age-of-permanent-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=the-horn-of-africas-age-of-permanent-conflict",
-      "date": "2026-09-16",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Sudan&#8217;s Comprehensive Peace Agreement, signed in 2005, seemed to vindicate a model for how wars might end in the Horn of Africa. Under the auspices of the African Union, led by hegemonic Ethiopia and backed by the United States, it wrangled the government and the Sudan People&#8217;s Liberatio"
-    },
-    {
-      "id": "n_ab23f0c548",
-      "type": "news",
-      "title": "‘They called us’: Has Trump abandoned Bab al-Mandeb to the Houthis?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/opinions/2026/9/17/they-called-us-has-trump-abandoned-bab-al-mandeb-to-the-houthis?traffic_source=rss",
-      "date": "2026-09-17",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Security"
-      ],
-      "excerpt": "Washington’s response to the Houthi advance exposes the limits of the US security umbrella in the Gulf."
-    },
-    {
-      "id": "n_28fd1a04fa",
-      "type": "news",
-      "title": "Yemeni forces target Houthis as US rules out direct role",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss",
-      "date": "2026-09-17",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi Arabia requests missile defence support from allies as the US sees its own stock of interceptors dwindle."
-    },
-    {
-      "id": "n_7df4588c75",
-      "type": "news",
-      "title": "Saudi-led coalition air strikes kill one in Yemen's Hajjah province",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-air-strikes-kill-one-yemens-hajjah-province",
-      "date": "2026-09-17",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi-led coalition air strikes kill one in Yemen's Hajjah province\n\n    \n    \n\n        \n    \n                At least one person has been killed in Saudi-led coalition strikes in the Yemeni city of Avs, in the Hajjah province, Houthi-run&nbsp;Al Masirah TV reports.\n\nAccording to the report, two air"
-    },
-    {
-      "id": "n_7ecd43739a",
-      "type": "news",
-      "title": "Saudi-led coalition target telecommunications towers in Yemen’s Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-target-telecommunications-towers-yemens-taiz",
-      "date": "2026-09-17",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi-led coalition target telecommunications towers in Yemen’s Taiz\n\n    \n    \n\n        \n    \n                Warplanes belonging to the Saudi-led coalition have targeted three telecommunications towers in Yemen’s Taiz province, the Houthi-run Al Masirah TV channel reported.\n\nThe attacks struck tow"
     }
   ],
   "articles": [
