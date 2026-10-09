@@ -1,6 +1,170 @@
 {
-  "last_updated": "2026-10-08T12:47:36.984810+00:00",
+  "last_updated": "2026-10-09T12:33:10.110403+00:00",
   "news": [
+    {
+      "id": "n_46d4748ebe",
+      "type": "news",
+      "title": "Sharif calls for ‘united national front to save Somalia’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/sharif-sheikh-ahmed-calls-for-united-national-front-to-save-somalia/",
+      "date": "2026-10-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Opposition leader and former President Sharif Sheikh Ahmed has warned that threats of force and military mobilization against political opponents risk pushing Somalia toward “chaos or authoritarianism.” He called for a broad national front to “save Somalia.” In a s"
+    },
+    {
+      "id": "n_9606b8112c",
+      "type": "news",
+      "title": "Somalia: Laftagaren forces take Qansah-dhere, west of Baidoa",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagaren-forces-capture-qansah-dhere-baidoa/",
+      "date": "2026-10-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Forces loyal to Abdiasis Laftagaren, Somalia&#8217;s former Southwest leader, captured the strategic town of Qansah-dhere in the Bay region on Thursday without a gunfight, local media reported. The town, 90 kilometers west of Baidoa, is the first to pass fully out "
+    },
+    {
+      "id": "n_3271a56f76",
+      "type": "news",
+      "title": "Abdirashid Janan hands over his forces to Jubaland and flew to Nairobi.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/abdirashid-janan-hands-over-his-forces-to-jubaland-and-flew-to-nairobi/",
+      "date": "2026-10-09",
+      "region": "Somalia",
+      "tags": [
+        "Kenya",
+        "Jubaland"
+      ],
+      "excerpt": "Abdirashid Hassan Abdinur (Janan) has fully handed over the forces he commanded in the Beled-Hawo district of the Gedo region to the Jubaland administration, following days of negotiations between him and Jubaland officials. Local sources confirmed that Janan departed Mandera this morning on a Kenya"
+    },
+    {
+      "id": "n_3181c0e66d",
+      "type": "news",
+      "title": "Clash in the Tardo area of ​​Hiran Region leaves Al-Shabaab members dead.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/clash-in-the-tardo-area-of-hiran-region-leaves-al-shabaab-members-dead/",
+      "date": "2026-10-08",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Militia",
+        "Maritime"
+      ],
+      "excerpt": "Reports from the Hiran region indicate that a clash broke out today between local residents and Al-Shabaab militia in the area of ​​Tardo, located in the eastern part of the region. The confrontation, which resulted in the deaths of four Al-Shabaab fighters, was sparked by outrage over the militia&#"
+    },
+    {
+      "id": "n_7a66eceb29",
+      "type": "news",
+      "title": "Somalia signs agreement with Pakistan to purchase JF-17 fighter jets.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalia-signs-agreement-with-pakistan-to-purchase-jf-17-fighter-jets/",
+      "date": "2026-10-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "Somalia has reportedly entered into an agreement with Pakistan to acquire JF-17 Thunder fighter jets, a move that is part of the Federal Government of Somalia&#8217;s efforts to rebuild and modernize the country&#8217;s Air Force. Turkish media outlet TRHaber reported that Mogadishu and Islamabad ha"
+    },
+    {
+      "id": "n_2600549cc4",
+      "type": "news",
+      "title": "Tigray’s Liberation Must End in Freedom",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/16/tigrays-liberation-must-end-in-freedom/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom",
+      "date": "2026-09-16",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Liberation secured survival while leaving Tigray’s political order unfinished.\nThe post Tigray’s Liberation Must End in Freedom appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_a5f0a2de8f",
+      "type": "news",
+      "title": "Is Assab Port the real prize in the looming Ethiopia-Eritrea war?",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/432744/is-assab-port-the-real-prize-in-the-looming-ethiopia-eritrea-war/",
+      "date": "2026-10-08",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea",
+        "Maritime"
+      ],
+      "excerpt": "Four years after fighting side by side in the 2020-2022 Tigray war, Abiy Ahmed and Isaias Afwerki’s countries are closer to war with each other than at any point since their 2018 rapprochement. How far could it go?"
+    },
+    {
+      "id": "n_6a8e0eb5ac",
+      "type": "news",
+      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "date": "2026-10-09",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Saudi Arabia has seen several attacks by the Houthis in recent days, with airports appearing to be the primary target."
+    },
+    {
+      "id": "n_fdca9c4c95",
+      "type": "news",
+      "title": "Yemen’s deputy defence minister says forces advancing on multiple fronts",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-deputy-defence-minister-says-forces-advancing-multiple-fronts",
+      "date": "2026-10-09",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Military"
+      ],
+      "excerpt": "Yemen’s deputy defence minister says forces advancing on multiple fronts\n\n    \n    \n\n        \n    \n                Yemen’s deputy defence minister, Major General Samir al-Sabri, has said that the Houthi-held capital, Sanaa, remains a direct military target for government forces, Al Jazeera has repor"
+    },
+    {
+      "id": "n_e26a1b7d51",
+      "type": "news",
+      "title": "Saudi-led coalition says it destroyed three Houthi rocket-launch platforms",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-three-houthi-rocket-launch",
+      "date": "2026-10-09",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Saudi-led coalition says it destroyed three Houthi rocket-launch platforms\n\n    \n    \n\n        \n    \n                Colonel Turki al-Maliki, spokesman for the Saudi-led coalition supporting Yemen’s internationally recognised government, said coalition forces had destroyed three rocket-launch platfo"
+    },
+    {
+      "id": "n_90bea57dd6",
+      "type": "news",
+      "title": "Pakistani premier condemns Houthi attacks on Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-premier-condemns-houthi-attacks-saudi-arabia",
+      "date": "2026-10-09",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Pakistani premier condemns Houthi attacks on Saudi Arabia\n\n    \n    \n\n        \n    \n                Pakistani Prime Minister Shehbaz Sharif condemned recent Houthi attacks targeting Saudi Arabia, including strikes on Riyadh's King Khalid International Airport, which resulted in casualties.&nbsp;\n\n\"I"
+    },
     {
       "id": "n_1e83b4705e",
       "type": "news",
@@ -4112,161 +4276,6 @@
         "Somaliland"
       ],
       "excerpt": "SOMALILAND ASTAANTA GANACSIGA – OGEYSIIS DIGNIIN AH WESTERN UNION Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay astaanta ganacsi ee WESTERN UNION HOLDINGS, INC., Acorporation organised under the State of Georgia of  7001 East Belleview Avenue, Denver, Colorado 80237, Un"
-    },
-    {
-      "id": "n_8ef992f0fa",
-      "type": "news",
-      "title": "The military command is striving to ensure that defensive positions in the Hiiraan region are not abandoned.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-military-command-is-striving-to-ensure-that-defensive-positions-in-the-hiiraan-region-are-not-abandoned/",
-      "date": "2026-09-17",
-      "region": "Somalia",
-      "tags": [
-        "Military"
-      ],
-      "excerpt": "The Somali military command is striving to ensure that the National Army and the *Macawiisley* community defense forces maintain their defensive positions in the Hiiraan region, amidst a fierce dispute between the Federal Government and local politicians. The command fears that the forces might beco"
-    },
-    {
-      "id": "n_601ab5f151",
-      "type": "news",
-      "title": "Puntland and the United States have confirmed an airstrike targeting a facility where Al-Shabaab was storing weapons.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-and-the-united-states-have-confirmed-an-airstrike-targeting-a-facility-where-al-shabaab-was-storing-weapons/",
-      "date": "2026-09-17",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Airstrikes",
-        "Puntland"
-      ],
-      "excerpt": "Puntland government has provided further details regarding an operation against Al-Shabaab in the Golis mountain range of the Al-Madow highlands, specifically targeting a facility in the Markad area used by the group to stockpile weapons and ammunition. A press release from the Puntland Presidency s"
-    },
-    {
-      "id": "n_b23fd078a1",
-      "type": "news",
-      "title": "The Error in Tsmido’s Trial and Error",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/09/17/the-error-in-tsmidos-trial-and-error/?utm_source=rss&utm_medium=rss&utm_campaign=the-error-in-tsmidos-trial-and-error&utm_source=rss&utm_medium=rss&utm_campaign=the-error-in-tsmidos-trial-and-error",
-      "date": "2026-09-17",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Why Ethiopia’s emerging anti-Abiy alignment cannot defer what comes next\nThe post The Error in Tsmido’s Trial and Error appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_0ff0af94e0",
-      "type": "news",
-      "title": "Eskinder Nega and Zemene Kassie: Ethiopia’s Fano rivals turned uneasy allies",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/430830/eskinder-nega-vs-zemene-kassie-the-rivalry-at-the-heart-of-ethiopias-fano-rebellion/",
-      "date": "2026-09-18",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "They tried to unite Fano in 2023 and ended up building rival movements. Three years later, Eskinder Nega and Zemene Kassie are finally under one roof, but old differences over leadership and the Amhara struggle have not gone away."
-    },
-    {
-      "id": "n_58de92bb47",
-      "type": "news",
-      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
-      "date": "2026-09-18",
-      "region": "Red Sea",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "Italy&#039;s defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays."
-    },
-    {
-      "id": "n_49a8a06fc8",
-      "type": "news",
-      "title": "Houthi leader denies Yemeni group targeted Mecca with drone",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/houthi-leader-denies-yemeni-group-targeted-mecca-drone",
-      "date": "2026-09-18",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Houthi leader denies Yemeni group targeted Mecca with drone\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nFri, 09/18/2026 - 09:16\n\n        \n      \n    \n      \n    \n                Abdul-Malik al-Houthi accuses Saudi Arabia of a 'major lie' over claim of attack on holy cit"
-    },
-    {
-      "id": "n_d2ca24dcef",
-      "type": "news",
-      "title": "Heavy clashes reported between Yemeni forces and Houthis in Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/heavy-clashes-reported-between-yemeni-forces-and-houthis-taiz",
-      "date": "2026-09-18",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Maritime"
-      ],
-      "excerpt": "Heavy clashes reported between Yemeni forces and Houthis in Taiz\n\n    \n    \n\n        \n    \n                Heavy clashes between Yemeni government forces and Houthi fighters have been reported in Taiz governorate, particularly in the al-Waziyah district around the al-Dharifah intersection, Al Jazeer"
-    },
-    {
-      "id": "n_2a54a2984a",
-      "type": "news",
-      "title": "Houthi ballistic missile reportedly hits King Fahd Port in Saudi Arabia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-ballistic-missile-reportedly-hits-king-fahd-port-saudi-arabia",
-      "date": "2026-09-18",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Houthi ballistic missile reportedly hits King Fahd Port in Saudi Arabia\n\n    \n    \n\n        \n    \n                Yemen’s Houthi forces launched a \"powerful ballistic missile attack\" on the King Fahd Industrial Port in Yanbu, Saudi Arabia, overnight, Iranian news agency Tasnim has reported.&nbsp;\n\nT"
-    },
-    {
-      "id": "n_5cb4f1ba4e",
-      "type": "news",
-      "title": "Yemeni army claim to have killed 30 Houthi fighters in Taiz over past day",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claim-have-killed-30-houthi-fighters-taiz-over-past-day",
-      "date": "2026-09-18",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Maritime"
-      ],
-      "excerpt": "Yemeni army claim to have killed 30 Houthi fighters in Taiz over past day\n\n    \n    \n\n        \n    \n                Yemen's army said that&nbsp;30 Houthi fighters were killed and over 60 others were wounded within 24 hours in the Al-Waziyah district west of Taiz.\n\nYemeni warplanes also reportedly&nb"
-    },
-    {
-      "id": "n_f19a0202a0",
-      "type": "news",
-      "title": "Pakistan says time has come to implement Mecca defence pact",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-time-has-come-implement-mecca-defence-pact-0",
-      "date": "2026-09-18",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Pakistan says time has come to implement Mecca defence pact\n\n    \n    \n\n        \n    \n                Pakistan’s defence minister has said the time has come to implement the Mecca defence agreement with Saudi Arabia and Turkey as Houthi attacks on the kingdom intensify.\n\nSpeaking to Geo News on Wedn"
-    },
-    {
-      "id": "n_82a6730d69",
-      "type": "news",
-      "title": "Somalia: Al-Shabaab ‘stronger than ever’ despite billions spent on AU missions",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-stronger-than-ever-au-missions/",
-      "date": "2026-09-16",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "African Union",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; In July, the U.S. Mission to the African Union announced that it would be cutting support for the United Nations Support Office in Somalia (UNSOS). This unit provides logistical support, food rations, fuel, and medical supplies for the African Union peacekeeping mi"
     }
   ],
   "articles": [
