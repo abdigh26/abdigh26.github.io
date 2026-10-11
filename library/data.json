@@ -1,6 +1,205 @@
 {
-  "last_updated": "2026-10-10T11:53:41.222207+00:00",
+  "last_updated": "2026-10-11T12:05:13.821679+00:00",
   "news": [
+    {
+      "id": "n_1f9be416e9",
+      "type": "news",
+      "title": "Somalia: Government forces mass near opposition leaders’ homes",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-masses-forces-near-opposition-leaders-homes-mogadishu/",
+      "date": "2026-10-11",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Large numbers of government forces have been deployed around the residences of Somalia&#8217;s former President Sharif Sheikh Ahmed and former Prime Minister Hassan Ali Khaire near Mogadishu airport. Local media increasingly report that President Hassan Sheikh Moha"
+    },
+    {
+      "id": "n_ed8cf1d778",
+      "type": "news",
+      "title": "Saudi Arabia: 12 killed, 300 injured in Riyadh airport attack",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/world/riyadh-airport-attack-12-killed-300-injured/",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "RIYADH (Somaliguardian) &#8211; At least 12 people were ​killed and more than 300 wounded in an attack on Riyadh&#8217;s international airport on Saturday, the deadliest in the kingdom in more than a decade, as ‌the Iran-backed Houthis escalate a campaign they launched this summer. The dead from the"
+    },
+    {
+      "id": "n_d43fa2d268",
+      "type": "news",
+      "title": "Somalia’s govt loses three towns in 48 hours as rivals advance",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-three-towns-48-hours/",
+      "date": "2026-10-10",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Jubaland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab militants have severed a vital army supply road in central Somalia, and Jubaland forces have wrested a southern town from federal control, leaving the government in Mogadishu with three territorial losses in 48 hours. Fighters from the jihadist group cap"
+    },
+    {
+      "id": "n_86c060d389",
+      "type": "news",
+      "title": "SOMALILAND: ASTAANTA GANACSIGA – OGEYSIIS DIGNIIN AH",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somaliland-astaanta-ganacsiga-ogeysiis-digniin-ah-2/",
+      "date": "2026-09-18",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND ASTAANTA GANACSIGA &#8211; OGEYSIIS DIGNIIN AH WAXAA HADDAN LAGU OGEYSIINAYAA in astaanta ganacsi ee kor ku xusan ay tahay astaanta ganacsi ee: KADOOGLU YAG SANAYI VE TICARET ANONIM SIRKETI of 4.ORGANIZE SANAYI BOLGESI, 83422 NOLU CADDE, NO:11, SEHITKAMIL /GAZIANTEP oo loo isticmaalo bade"
+    },
+    {
+      "id": "n_3078a2d004",
+      "type": "news",
+      "title": "SOMALILAND:  ASTAANTA GANACSIGA – OGEYSIIS DIGNIIN AH",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somaliland-astaanta-ganacsiga-ogeysiis-digniin-ah/",
+      "date": "2026-09-18",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND ASTAANTA GANACSIGA – OGEYSIIS DIGNIIN AH WESTERN UNION Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay astaanta ganacsi ee WESTERN UNION HOLDINGS, INC., Acorporation organised under the State of Georgia of  7001 East Belleview Avenue, Denver, Colorado 80237, Un"
+    },
+    {
+      "id": "n_bfa70cb3da",
+      "type": "news",
+      "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+      "date": "2026-10-11",
+      "region": "Djibouti",
+      "tags": [
+        "Djibouti"
+      ],
+      "excerpt": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere."
+    },
+    {
+      "id": "n_2d2b240ac7",
+      "type": "news",
+      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh."
+    },
+    {
+      "id": "n_adb4bdb9c7",
+      "type": "news",
+      "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Airstrikes"
+      ],
+      "excerpt": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis."
+    },
+    {
+      "id": "n_5a153cdce0",
+      "type": "news",
+      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade."
+    },
+    {
+      "id": "n_976f9b99e0",
+      "type": "news",
+      "title": "Yemen’s Health Ministry raises alarm over ‘near depletion’ of medical, fuel supplies in Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-health-ministry-raises-alarm-over-near-depletion-medical-fuel",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Yemen’s Health Ministry raises alarm over ‘near depletion’ of medical, fuel supplies in Taiz\n\n    \n    \n\n        \n    \n                Yemen’s Health Ministry warned on Sunday of “serious health and humanitarian repercussions” facing the city of Taiz as a result of the Houthis' obstruction of the de"
+    },
+    {
+      "id": "n_d03a409255",
+      "type": "news",
+      "title": "Iraq, EU leaders denounce alleged Houthi attack on Riyadh airport",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-eu-leaders-denounce-houthi-attack-ridadh-airport",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Iraq, EU leaders denounce alleged Houthi attack on Riyadh airport\n\n    \n    \n\n        \n    \n                Several international leaders issued condemnations on Sunday following the alleged Houthi attack a day earlier on Saudi Arabia's King Khalid International Airport in Riyadh.&nbsp;\n\nIraq called"
+    },
+    {
+      "id": "n_14849aea8b",
+      "type": "news",
+      "title": "Attack on Riyadh airport leaves 12 dead, more than 300 injured",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-riyadh-airport-leaves-12-dead-more-300-injured",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Attack on Riyadh airport leaves 12 dead, more than 300 injured\n\n    \n    \n\n        \n    \n                At least 12 people were killed and 309 others injured in an attack on Saudi Arabia's King Khalid International Airport in Riyadh as Yemen's Houthis escalated the campaign they launched this summe"
+    },
+    {
+      "id": "n_cc7a9b58d7",
+      "type": "news",
+      "title": "Yemen's Houthis warn against using Saudi airports as Riyadh closure extended",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-warn-against-using-saudi-airports-riyadh-closure-extended",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Yemen's Houthis warn against using Saudi airports as Riyadh closure extended\n\n    \n    \n\n        \n    \n                Yemen's Houthis on Sunday renewed their warning to airlines, airport workers, and travellers against using Saudi Arabian airports, saying the warning should be taken seriously and t"
+    },
+    {
+      "id": "n_1da9c579b6",
+      "type": "news",
+      "title": "Kuwait's Jazeera Airways says Riyadh flights affected by temporary suspension",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaits-jazeera-airways-says-riyadh-flights-affected-temporary",
+      "date": "2026-10-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Kuwait's Jazeera Airways says Riyadh flights affected by temporary suspension\n\n    \n    \n\n        \n    \n                Kuwait's Jazeera Airways says its Riyadh flights have been affected by the temporary suspension of operations at King Khalid International Airport, where an alleged Houthi strike k"
+    },
     {
       "id": "n_a02838a1cf",
       "type": "news",
@@ -4071,201 +4270,6 @@
         "Security"
       ],
       "excerpt": "The National Intelligence and Security Agency (NISA) of Somalia announced that its forces, in collaboration with international partners, conducted a planned operation in the Guulane and Al-Furqaan areas of the Middle Shabelle region. According to a statement issued by NISA, the operation resulted in"
-    },
-    {
-      "id": "n_8ce8743d2c",
-      "type": "news",
-      "title": "Somalia’s Defense Minister: Al-Shabaab cannot capture even a single village if AUSSOM withdraws.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalias-defense-minister-al-shabaab-cannot-capture-even-a-single-village-if-aussom-withdraws/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "Somalia&#8217;s Defense Minister, Ahmed Moallim Fiqi, stated that Somali forces are capable of resisting Al-Shabaab, even if the African Union&#8217;s AUSSOM forces withdraw from the country. Fiqi said that government forces and the Somali public are jointly countering Al-Shabaab and will continue t"
-    },
-    {
-      "id": "n_1f5ec86d8b",
-      "type": "news",
-      "title": "The Minister of Defense Received a Delegation of Military Officers from Egypt",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-minister-of-defense-received-a-delegation-of-military-officers-from-egypt/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military"
-      ],
-      "excerpt": "The Minister of Defense of the Federal Government of Somalia, Mr. Ahmed Moallim Fiqi, received a delegation of military officials visiting Somalia at his office today, accompanied by the Ambassador of the Arab Republic of Egypt to Somalia, Mr. Mohamed Salah Keshtah.  The meeting focused on strengthe"
-    },
-    {
-      "id": "n_78c60024bb",
-      "type": "news",
-      "title": "Minister of Information Meets with UNDP Representative for Somalia",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/minister-of-information-meets-with-undp-representative-for-somalia/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Minister of Information, Culture, and Tourism of the Federal Government of Somalia, Mr. Abdifatah Qasim Mohamud, held a meeting today at his office with the United Nations Development Programme (UNDP) Representative for Somalia, Mr. Christophoros Politis.  Upon his arrival at the Ministry’s head"
-    },
-    {
-      "id": "n_1019ff1c0d",
-      "type": "news",
-      "title": "Family of a Puntland military officer attacked by ISIS.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/family-of-a-puntland-military-officer-attacked-by-isis/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Military",
-        "Puntland"
-      ],
-      "excerpt": "ISIS militants hiding in the Calmiskaad mountains of the Bari region attacked the family of a Puntland Defense Force officer in the Kayaxa area, near the village of Sheebaab in the Qandala district. Siciid Cali Orshe, commander of the Daljir unit of the Puntland Dervish forces, stated that a house—w"
-    },
-    {
-      "id": "n_b343605a92",
-      "type": "news",
-      "title": "A simple guide to the Yemen conflict",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
-      "date": "2026-09-21",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation."
-    },
-    {
-      "id": "n_adbbc94f71",
-      "type": "news",
-      "title": "Yemen's Houthis are upending the Gulf order. The Saudis are the biggest losers",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/yemens-houthis-are-upending-gulf-order-saudis-are-biggest-losers",
-      "date": "2026-09-21",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Yemen's Houthis are upending the Gulf order. The Saudis are the biggest losers\n\n    \n    \n\n          \n      \n      \n        Submitted by \nJoe Gill\n on \nFri, 09/18/2026 - 20:05\n\n        \n      \n    \n      \n    \n                The war has entered a critical phase, with the Iran-aligned group calling "
-    },
-    {
-      "id": "n_da41680bc0",
-      "type": "news",
-      "title": "‘We will destroy your economy’: Houthi leaders warn Saudi Arabia in joint statement",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-will-destroy-your-economy-houthi-leaders-warn-saudi-arabia-joint",
-      "date": "2026-09-21",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "‘We will destroy your economy’: Houthi leaders warn Saudi Arabia in joint statement \n\n    \n    \n\n        \n    \n                Senior military commanders of the Yemeni Houthis have warned Saudi Arabia that continued attacks and the blockade on Yemen could prompt strikes against energy infrastructure"
-    },
-    {
-      "id": "n_a4893d4437",
-      "type": "news",
-      "title": "Yemen's Giants Brigades claim attacks on Houthi military vehicles, say all aboard killed",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-giants-brigades-claim-attacks-houthi-military-vehicles-say-all",
-      "date": "2026-09-21",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Military"
-      ],
-      "excerpt": "Yemen's Giants Brigades claim attacks on Houthi military vehicles, say all aboard killed\n\n    \n    \n\n        \n    \n                Yemen’s government-affiliated Giants Brigades claimed attacks on five Houthi&nbsp;military vehicles&nbsp;on the Kahbub front overlooking the strategic Bab al-Mandab Stra"
-    },
-    {
-      "id": "n_1ac1d54d76",
-      "type": "news",
-      "title": "Four civilians killed in Yemen's Al-Jawf",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-civilians-killed-yemens-al-jawf",
-      "date": "2026-09-21",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Maritime"
-      ],
-      "excerpt": "Four civilians killed in Yemen's Al-Jawf \n\n    \n    \n\n        \n    \n                Air strikes targeting telecommunications towers&nbsp;Yemen's Al-Jawf governorate killed four civilians and injured three others on Sunday, the Houthi-run Yemen News Agency (SABA) reported.\n\nAccording to a local sourc"
-    },
-    {
-      "id": "n_c782011074",
-      "type": "news",
-      "title": "Somalilandsun:OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandsunogeysiiska-digniinta-astaanta-ganacsiga/",
-      "date": "2026-07-04",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "OGEYSIISKA DIGNIINTA ASTAANTA GANACSIGA Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay shirkadda KHONG GUAN VEGETABLE OIL REFINERY SDN. BERHAD, oo xarunteedu tahay 4825, Jalan Permatang Pauh, 13400 Butterworth, Penang, Malaysia, isla mark"
-    },
-    {
-      "id": "n_2c7179bf68",
-      "type": "news",
-      "title": "Abdirashid Janan addresses the security forces in Doolow.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/abdirashid-janan-addresses-the-security-forces-in-doolow/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Security"
-      ],
-      "excerpt": "Abdi Rashid Janan, the former commander of Jubbaland Intelligence and the region&#8217;s overall security chief, addressed the &#8220;Hilaac&#8221; Brigade intelligence forces operating in Doolow district and surrounding areas this morning. Janan spoke to the troops as Gedo region security forces co"
-    },
-    {
-      "id": "n_62ca571422",
-      "type": "news",
-      "title": "Airstrikes Take Place on the outskirts of Baidoa",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/airstrikes-take-place-on-the-outskirts-of-baidoa/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Airstrikes",
-        "Maritime"
-      ],
-      "excerpt": "Reports from the city of Baidoa indicate that airstrikes were carried out last night in areas on the city&#8217;s outskirts, amidst a tense security situation in the city and its surrounding areas. Local residents and sources reported hearing explosions in the Iidow Dhagaal area, while other strikes"
-    },
-    {
-      "id": "n_12d4a32e48",
-      "type": "news",
-      "title": "Somaliland government has issued new directives regarding security in Awdal and Selel.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-government-has-issued-new-directives-regarding-security-in-awdal-and-selel/",
-      "date": "2026-09-19",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security"
-      ],
-      "excerpt": "The Somaliland government has issued new directives to strengthen security in the Awdal and Selel regions, banning war-related mobilization or the carrying of weapons in these areas after 2:00 PM on Sunday, September 20. The State Minister for Interior and Security, Abdirashid Mohamed Ahmed (Magaalo"
-    },
-    {
-      "id": "n_60bfda6f2d",
-      "type": "news",
-      "title": "Deputy Minister of Foreign Affairs Receives Copy of European Union Ambassador’s Credentials",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/deputy-minister-of-foreign-affairs-receives-copy-of-european-union-ambassadors-credentials/",
-      "date": "2026-09-19",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Deputy Minister of Foreign Affairs and International Cooperation, Mr. Hassan Mohamed Ali (Nadaara), today received a copy of the credentials of the newly appointed European Union Ambassador to Somalia, Mr. Laszlo Mathe, as well as the letter of recall for his predecessor. The Deputy Minister tha"
     }
   ],
   "articles": [
