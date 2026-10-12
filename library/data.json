@@ -1,6 +1,178 @@
 {
-  "last_updated": "2026-10-11T12:05:13.821679+00:00",
+  "last_updated": "2026-10-12T14:23:35.807029+00:00",
   "news": [
+    {
+      "id": "n_380a9e8273",
+      "type": "news",
+      "title": "Somalia: Former president Sharif Sheikh Ahmed denies his guards harassed NISA officers",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-sharif-sheikh-ahmed-denies-guards-harassed-nisa-officers/",
+      "date": "2026-10-12",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former President Sharif Sheikh Ahmed on Sunday, June 28, 2026, disputed an account by the National Intelligence and Security Agency (NISA) that armed men under his command attacked its personnel in the capital. The dispute comes amid fears of armed "
+    },
+    {
+      "id": "n_9e18e1cb05",
+      "type": "news",
+      "title": "Somaliland Foreign Minister: We are ready for Ethiopia to utilize the port of Berbera.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-foreign-minister-we-are-ready-for-ethiopia-to-utilize-the-port-of-berbera/",
+      "date": "2026-10-12",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Berbera",
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Somaliland’s Minister of Foreign Affairs, Abdirahman Dahir Adan Bakaal, stated that Somaliland is ready to discuss Ethiopia’s need for sea access, noting that the port of Berbera is available for Ethiopia to utilize.  In an interview with the UAE-based Sky News Arabia, the minister discussed Somalil"
+    },
+    {
+      "id": "n_d199500a4c",
+      "type": "news",
+      "title": "Somaliland Ministry of Telecommunications Conducts Training on Branding Guidelines and Government Communication Systems",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-ministry-of-telecommunications-conducts-training-on-branding-guidelines-and-government-communication-systems/",
+      "date": "2026-10-12",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The Ministry of Telecommunications and Technology of the Republic of Somaliland conducted a training session for its staff and various departments regarding the Government Branding and Communication System Guidelines. Somaliland’s Minister of Telecommunications and Technology, Dr. Abdisalan Hussein "
+    },
+    {
+      "id": "n_aed462bd03",
+      "type": "news",
+      "title": "Somaliland’s Ministry of Environment Steps Up the Fight Against Land Degradation and Wildlife Smuggling",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalilands-ministry-of-environment-steps-up-the-fight-against-land-degradation-and-wildlife-smuggling/",
+      "date": "2026-10-12",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Abdirashid Said Mohamed, the Coordinator for the Ministry of Environment and Climate Change in the Sahil Region, stated that the Ministry has invested significant effort in combating land degradation, protecting vegetation, and preventing wildlife trafficking; he noted that the production of charcoa"
+    },
+    {
+      "id": "n_0e3d3f9f18",
+      "type": "news",
+      "title": "Somalia’s Defense Minister issues a warning to the opposition.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalias-defense-minister-issues-a-warning-to-the-opposition/",
+      "date": "2026-10-12",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu",
+        "Militia"
+      ],
+      "excerpt": "The Minister of Defense of the Federal Government of Somalia, Ahmed Moallim Fiqi, has leveled accusations against certain political opposition factions, alleging that they are mobilizing armed militias and undertaking actions that threaten the security and stability of the capital, Mogadishu. In a s"
+    },
+    {
+      "id": "n_c4fba75eb4",
+      "type": "news",
+      "title": "Uganda, Somalia Agree to Strengthen Military and Economic Cooperation",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/uganda-somalia-agree-to-strengthen-military-and-economic-cooperation/",
+      "date": "2026-10-12",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Uganda and Somalia are set to strengthen their long-standing military cooperation, with General Ibrahim Mohamed Mohamud of the Somali National Army commending the Uganda People&#8217;s Defence Forces (UPDF) for the continuous training and advisory support provided to the Somali National Army. During"
+    },
+    {
+      "id": "n_8fb75f191b",
+      "type": "news",
+      "title": "UAE accused of airstrike that killed civilians in the mountains of Puntland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/uae-accused-of-airstrike-that-killed-civilians-in-the-mountains-of-puntland/",
+      "date": "2026-10-11",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Airstrikes",
+        "Puntland",
+        "Maritime"
+      ],
+      "excerpt": "Puntland security officials have accused the United Arab Emirates of carrying out an airstrike that killed four members of the same family and injured five others during operations against the ISIS group in the Al-Miskaad Mountains of the Bari region in January 2025. A report published by the media "
+    },
+    {
+      "id": "n_206071e0a9",
+      "type": "news",
+      "title": "President Hassan Sheikh and the UK Ambassador discuss security, the political situation, and humanitarian preparedness.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/president-hassan-sheikh-and-the-uk-ambassador-discuss-security-the-political-situation-and-humanitarian-preparedness/",
+      "date": "2026-10-11",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud met with the UK Ambassador to Somalia, Charles King, to discuss bilateral cooperation, security, the political situation, and preparations for addressing humanitarian needs. In a post on X, the UK Ambassador stated that meeting the President was an honor, notin"
+    },
+    {
+      "id": "n_5b2a277fe7",
+      "type": "news",
+      "title": "Two people die and four others were injured by gunfire at a market in Garowe.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/two-people-die-and-four-others-were-injured-by-gunfire-at-a-market-in-garowe/",
+      "date": "2026-10-11",
+      "region": "Somalia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "At least two civilians were killed and four others injured after a gunman opened fire at a business premises in the Inji market in Garowe. According to reports on the incident, the gunman opened fire in the shoe-selling section of the Inji market, one of Garowe&#8217;s bustling commercial areas. The"
+    },
+    {
+      "id": "n_63566d446d",
+      "type": "news",
+      "title": "Abiy Appoints Former Digital ID Official as State Minister",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53382/",
+      "date": "2026-10-10",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Abiy Appoints FormePrime Minister Abiy Ahmed has appointed Yodahe Arayasellassie, formerly the head of the National ID Program, as a state minister in the Ministry of Innovation and Technology as the government reshuffles senior positions across the federal administration. The Office of the Prime Mi"
+    },
+    {
+      "id": "n_2825e3033c",
+      "type": "news",
+      "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
+      "date": "2026-10-12",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Yemen&#039;s Southern Giants Brigades have emerged as one of the leading forces against the Houthis."
+    },
+    {
+      "id": "n_9cebbd0125",
+      "type": "news",
+      "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
+      "date": "2026-10-12",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience."
+    },
     {
       "id": "n_1f9be416e9",
       "type": "news",
@@ -4095,181 +4267,6 @@
         "Galmudug"
       ],
       "excerpt": "Puntland has handed over the troops and vehicles it seized this morning in the city of Galkayo to the Galmudug administration, following discussions between officials from both sides. The Puntland and Galmudug administrations discussed the security situation in the Mudug region and the vehicles Punt"
-    },
-    {
-      "id": "n_4728ea756e",
-      "type": "news",
-      "title": "Russian Embassy in Addis Hosts State Duma Vote as Envoy Highlights Ties, BRICS, and National Dialogue",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/52937/",
-      "date": "2026-09-21",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Elections"
-      ],
-      "excerpt": "Russian citizens living in Ethiopia cast their ballots on Sunday, September 20, at Polling Station No. 8351 at the Embassy of Russia in Addis Ababa, taking part in elections for the ninth convocation of the State Duma, the lower house of the Russian parliament. The polling station opened at 8:00am R"
-    },
-    {
-      "id": "n_fdc501d2ba",
-      "type": "news",
-      "title": "5 questions to understand Somaliland President Irro’s Washington debut",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/431340/5-questions-to-understand-somaliland-president-irros-washington-debut/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The leader of the self-declared state made new inroads in the quest for US recognition but failed to secure an audience with Trump himself."
-    },
-    {
-      "id": "n_a7b791070c",
-      "type": "news",
-      "title": "Somalia Awaits a New Security Order as Mission Drawdown Looms",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/cmt/africa/somalia/somalia-awaits-new-security-order-mission-drawdown-looms",
-      "date": "2026-09-18",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "Somalia Awaits a New Security Order as Mission Drawdown Looms\n\npfranz\n\nFri, 09/18/2026 - 21:00\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n          "
-    },
-    {
-      "id": "n_a0dce9c3a2",
-      "type": "news",
-      "title": "G7 foreign ministers demand Houthis halt strikes on Saudi Arabia",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss",
-      "date": "2026-09-22",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Ministers demand an end to maritime shipping attacks and urge Iran to stop arming the Yemeni group."
-    },
-    {
-      "id": "n_2b2ff4b248",
-      "type": "news",
-      "title": "Houthis battle for strategic heights in Yemen as thousands more flee homes",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss",
-      "date": "2026-09-22",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Fighting intensifies as US media say Trump called off attacks against Houthis at the last minute on Sunday."
-    },
-    {
-      "id": "n_8fe69994d7",
-      "type": "news",
-      "title": "Somalia: Puntland forces intercept more than 100 federal military recruits in Galkayo",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-forces-intercept-federal-military-recruits-galkayo/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Security",
-        "Puntland"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland security forces have intercepted two military trucks carrying more than 100 recruits who were reportedly travelling to a federal government-run military training camp, in a fresh security flashpoint between Puntland and Somalia’s federal authorities. The t"
-    },
-    {
-      "id": "n_2af9c634f2",
-      "type": "news",
-      "title": "Somali general says he survived F-16 strike on his home",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somali-general-says-he-survived-f16-strike/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former Somali Custodial Corps chief General Mahad Abdirahman said an F-16 fighter jet bombed his house in the border town of Dolow, an attack he said he survived and was meant to kill him. Abdirahman, known as Shub, said the jet struck at midnight on Sept 3. In an "
-    },
-    {
-      "id": "n_06fb61b5c2",
-      "type": "news",
-      "title": "Egypt’s Sisi rejects interference in Somalia during talks with CIA chief",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/egypt-sisi-rejects-interference-somalia-cia-chief/",
-      "date": "2026-09-20",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Egyptian President Abdel Fattah al-Sisi rejected any interference that threatens Somalia’s sovereignty, unity or territorial integrity during talks with CIA Director John Ratcliffe, reaffirming Cairo’s support for Somalia’s security and stability, Egypt Today repor"
-    },
-    {
-      "id": "n_d95e804cc7",
-      "type": "news",
-      "title": "Somalia, Pakistan strengthen air defense cooperation.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-pakistan-strengthen-air-defense-cooperation/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "Somali President Hassan Sheikh Mohamud received a high-level delegation from the Pakistan Air Force in Mogadishu, where the two sides discussed the development of the Somali Air Force and the strengthening of defense cooperation. The Pakistani delegation was led by Air Marshal Muhammad Sarfraz, the "
-    },
-    {
-      "id": "n_89f0181244",
-      "type": "news",
-      "title": "Puntland seizes two vehicles in Galkayo carrying troops belonging to the Federal Government.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-seizes-two-vehicles-in-galkayo-carrying-troops-belonging-to-the-federal-government/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Puntland",
-        "Galmudug",
-        "Maritime"
-      ],
-      "excerpt": "Puntland forces intercepted two vehicles this morning in the southern part of Galkayo that were reportedly carrying troops belonging to the Federal Government of Somalia. The troops reportedly arrived from the direction of Galmudug, and reports indicate they were en route to the Xananbuure training "
-    },
-    {
-      "id": "n_809e6808a8",
-      "type": "news",
-      "title": "Puntland administration has launched two operations in the Calmadow mountains and along the coast.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-administration-has-launched-two-operations-in-the-calmadow-mountains-and-along-the-coast/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Puntland"
-      ],
-      "excerpt": "The Puntland administration has launched two simultaneous operations—one on land and one at sea—across various parts of the region. The first operation, codenamed &#8220;Onkad&#8221; (Thunder), is underway in the Cal Madow Mountains of the Sanaag region; the Puntland administration states that this "
-    },
-    {
-      "id": "n_b960f84a8d",
-      "type": "news",
-      "title": "NISA Announces a commander and three Al-Shabaab members were killed in an operation in Middle Shabelle.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/nisa-announces-a-commander-and-three-al-shabaab-members-were-killed-in-an-operation-in-middle-shabelle/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "The National Intelligence and Security Agency (NISA) of Somalia announced that its forces, in collaboration with international partners, conducted a planned operation in the Guulane and Al-Furqaan areas of the Middle Shabelle region. According to a statement issued by NISA, the operation resulted in"
     }
   ],
   "articles": [
