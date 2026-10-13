@@ -1,6 +1,173 @@
 {
-  "last_updated": "2026-10-12T14:23:35.807029+00:00",
+  "last_updated": "2026-10-13T13:32:38.640024+00:00",
   "news": [
+    {
+      "id": "n_7e04b0f820",
+      "type": "news",
+      "title": "Larry André calls Somalia’s government ‘illegitimate,’ urges action to halt Southwest conflict",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/larry-andre-somalia-government-illegitimate-southwest-conflict/",
+      "date": "2026-10-13",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former United States Ambassador to Somalia Larry André Jr. has called on the international community to intensify pressure on President Hassan Sheikh Mohamud’s government to halt conflict and civilian displacement in Southwest State, warning that continued instabil"
+    },
+    {
+      "id": "n_a277b87976",
+      "type": "news",
+      "title": "SOMALILAND:Trump’s Remarks on Somalia and Somaliland: Guulleed Dafac Explains Their Significance",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandtrumps-remarks-on-somalia-and-somaliland-guulleed-dafac-explains-their-significance/",
+      "date": "2026-10-13",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia"
+      ],
+      "excerpt": "SOMALILANDSUN: Trump’s Remarks on Somalia and Somaliland: Guulleed Dafac Explains Their Significance https://youtu.be/sRuYzJ4Phh8?si=JIzwu6Feiu0pYGhk"
+    },
+    {
+      "id": "n_21547bb2e6",
+      "type": "news",
+      "title": "SOMALILAND:The U.S. President has made it clear that Somalia and Somaliland are not one and the same.",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandthe-u-s-president-has-made-it-clear-that-somalia-and-somaliland-are-not-one-and-the-same/",
+      "date": "2026-10-13",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "Somalilandsun: President Donald Trump of the United States, speaking at an outdoor event in the state of Ohio, officially declared that Somalia and Somaliland are two separate countries. Trump said that many people like or support Somaliland, but he raised concerns about its name, suggesting that So"
+    },
+    {
+      "id": "n_e9a1f98dac",
+      "type": "news",
+      "title": "The Somali Regional State confirm that Somali troops have entered Ethiopia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-regional-state-confirm-that-somali-troops-have-entered-ethiopia/",
+      "date": "2026-10-13",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "The Ethiopian Somali Regional State has confirmed for the first time that troops trained by the Federal Government of Somalia have entered Ethiopian territory and are currently undergoing a formal bilateral process. The region&#8217;s security chief, Abdulkadir Rashid Duale, stated that the troops r"
+    },
+    {
+      "id": "n_079a9655b1",
+      "type": "news",
+      "title": "The President of the Somali Region inaugurates the MESOB and Smart City centers in Jigjiga.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-president-of-the-somali-region-inaugurates-the-mesob-and-smart-city-centers-in-jigjiga/",
+      "date": "2026-10-13",
+      "region": "Somalia",
+      "tags": [
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "The President of the Somali Regional State (SRS), Mustafe Muxumed Cumar, inaugurated the One-Stop Service Center (MESOB) and the Smart City Center in Jigjiga; these facilities are designed to streamline public services and enhance security in the capital. The MESOB center consolidates various servic"
+    },
+    {
+      "id": "n_20b51bf1ed",
+      "type": "news",
+      "title": "G-24 Advances Quota Reform Agenda as Previous IMF Review Awaits Full Implementation",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53410/",
+      "date": "2026-10-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Group of 24 developing countries is pressing for changes to the International Monetary Fund’s quota system as discussions turn to the 17th review, while the previous round remains short of the approvals required for its implementation. Iyabo Masha, director of the G-24 Secretariat, said the IMF’"
+    },
+    {
+      "id": "n_1330221f13",
+      "type": "news",
+      "title": "B7-33 Peptide: A Signaling Fragment Reframing Relaxin Pathways in Molecular Research",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53408/",
+      "date": "2026-10-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The evolving landscape of peptide-based inquiry continues to uncover fragments that diverge meaningfully from their parent molecules, not by replicating their full signaling spectrum, but by selectively engaging specific intracellular cascades. Within this framework, B7-33 has emerged as a particula"
+    },
+    {
+      "id": "n_82cc5d5d5e",
+      "type": "news",
+      "title": "As war with Ethiopia looms, how much weaponry does Eritrea have?",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/433139/as-war-with-ethiopia-looms-how-much-weaponry-does-eritrea-have/",
+      "date": "2026-10-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Military"
+      ],
+      "excerpt": "The growing threat of another war with its neighbour is putting Asmara’s military strength under scrutiny, particularly its ability to sustain a prolonged conflict and the extent to which it has modernised its ageing arsenal."
+    },
+    {
+      "id": "n_08b8c7fe8f",
+      "type": "news",
+      "title": "Pulling Ethiopia and Eritrea Back from War",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war",
+      "date": "2026-10-12",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "Pulling Ethiopia and Eritrea Back from War\n\ncmoore\n\nMon, 10/12/2026 - 21:44\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                             "
+    },
+    {
+      "id": "n_5c165ed1ac",
+      "type": "news",
+      "title": "How Close Are Ethiopia and Eritrea to All-out War?",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/pod/africa/horn-africa/how-close-are-ethiopia-and-eritrea-all-out-war",
+      "date": "2026-10-09",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "How Close Are Ethiopia and Eritrea to All-out War?\n\nmloukili\n\nFri, 10/09/2026 - 15:41\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                   "
+    },
+    {
+      "id": "n_b318399471",
+      "type": "news",
+      "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
+      "date": "2026-10-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint."
+    },
+    {
+      "id": "n_9b6b843d3d",
+      "type": "news",
+      "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
+      "date": "2026-10-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz."
+    },
     {
       "id": "n_380a9e8273",
       "type": "news",
@@ -4097,176 +4264,6 @@
         "African Union"
       ],
       "excerpt": "The Office of the Auditor General of Somalia has opposed the application of the open competitive recruitment process for government jobs to its own office, stating that doing so infringes upon the institution&#8217;s constitutional independence. The National Civil Service Commission has recently bee"
-    },
-    {
-      "id": "n_49abbcd561",
-      "type": "news",
-      "title": "KAAH Party expresses concern over the arrest of journalists in Somaliland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/kaah-party-expresses-concern-over-the-arrest-of-journalists-in-somaliland/",
-      "date": "2026-09-23",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Somaliland’s opposition party, KAAH, has expressed concern over the detention of journalist Abdiqani Hussein Abokor (&#8220;Baylood&#8221;), calling on the government to uphold press freedom, freedom of speech, and the fundamental rights of citizens. In a statement issued on September 22, 2026, the "
-    },
-    {
-      "id": "n_8356c71650",
-      "type": "news",
-      "title": "Somali Air Force Commander  Meets with U.S. Defense Attaché to Somalia at US embassy in Mogadishu",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-air-force-commander-meets-with-u-s-defense-attache-to-somalia-at-the-us-embassy-in-mogadishu/",
-      "date": "2026-09-22",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "The Commander of the Somali Air Force, Brigadier General Abdirisaaq Mohamud Haji, met today at his office with the U.S. Defense Attaché to Somalia, Colonel Egan O’Reilly, to discuss critical issues regarding the situation in the country. The meeting, which lasted several hours, focused specifically "
-    },
-    {
-      "id": "n_0582629019",
-      "type": "news",
-      "title": "Minority Protection is Ethiopia’s Federal Test",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/24/minority-protection-is-ethiopias-federal-test/?utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test&utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test",
-      "date": "2026-08-24",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia needs stronger safeguards against the politics of demographic dominance.\nThe post Minority Protection is Ethiopia&#8217;s Federal Test appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_e0d3c8b326",
-      "type": "news",
-      "title": "Ethiopia: Tigray rebel forces seize regional airport",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/431503/tigray-rebel-forces-seize-ethiopia-regional-airport/",
-      "date": "2026-09-23",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Security",
-        "Maritime"
-      ],
-      "excerpt": "Tigrayan rebel forces in northern Ethiopia have seized control of the airport in the regional capital, security and local sources told AFP on Wednesday, at a time of rising tensions with the federal government."
-    },
-    {
-      "id": "n_9861da4e8d",
-      "type": "news",
-      "title": "As Houthis move closer, can Djibouti keep Yemen’s conflict across the water?",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/431298/as-houthis-move-closer-can-djibouti-keep-yemens-conflict-across-the-water/",
-      "date": "2026-09-22",
-      "region": "Djibouti",
-      "tags": [
-        "Houthis",
-        "Djibouti",
-        "Maritime"
-      ],
-      "excerpt": "With US and Chinese forces stationed only kilometres apart, Djibouti faces growing pressure to stay out of the war while protecting the ports and trade links that underpin its economy."
-    },
-    {
-      "id": "n_896861efc5",
-      "type": "news",
-      "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss",
-      "date": "2026-09-23",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea"
-      ],
-      "excerpt": "Mountain’s capture disrupts Houthis&#039; defences and impacts their advances along Red Sea coast."
-    },
-    {
-      "id": "n_f0336bba9d",
-      "type": "news",
-      "title": "Ethiopian Airlines suspends flights to three northern Tigray airports",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports?traffic_source=rss",
-      "date": "2026-09-23",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "The suspension comes after Tigrayan forces took control of Mekelle airport."
-    },
-    {
-      "id": "n_e9211e4f7f",
-      "type": "news",
-      "title": "Somaliland:From Banking Expertise to Institution Building: Professor Eid Ali Ahmed’s Strategic Contribution to Somaliland’s Financial Sector",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandfrom-banking-expertise-to-institution-building-professor-eid-ali-ahmeds-strategic-contribution-to-somalilands-financial-sector/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "From Banking Expertise to Institution Building: Professor Eid Ali Ahmed’s Strategic Contribution to Somaliland’s Financial Sector From banking halls in Somaliland and the United Kingdom to strategic planning at the highest levels of financial institutions, Professor Eid Ali Ahmed has built a career "
-    },
-    {
-      "id": "n_b43c883b0a",
-      "type": "news",
-      "title": "Somalia’s Ambassador to Kenya Meets with WHO Representative for Somalia",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalias-ambassador-to-kenya-meets-with-who-representative-for-somalia/",
-      "date": "2026-09-22",
-      "region": "Somalia",
-      "tags": [
-        "Kenya",
-        "Somalia"
-      ],
-      "excerpt": "The Ambassador of the Federal Republic of Somalia to Kenya, Mr. Jabril Ibrahim Abdulle, received the World Health Organization (WHO) Representative for Somalia, Dr. Humphrey Karamagi, at the Somali Embassy in Nairobi during a working visit. The meeting focused on strengthening cooperation and collab"
-    },
-    {
-      "id": "n_79840565a6",
-      "type": "news",
-      "title": "Jubaland Parliamentary Speaker Meets a delegation from Sweden and UNICEF",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/jubaland-parliamentary-speaker-meets-a-delegation-from-sweden-and-unicef/",
-      "date": "2026-09-22",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Jubaland",
-        "Kismayo"
-      ],
-      "excerpt": "KISMAYO&#8212;The Speaker of the Jubbaland House of Representatives and Acting President of Jubbaland, Abdi Mohamed Abdirahman, received a high-level delegation from Sweden and UNICEF at the Jubbaland Presidential Palace. The delegation was led by the Swedish Ambassador to Somalia and included senio"
-    },
-    {
-      "id": "n_02fb952157",
-      "type": "news",
-      "title": "Somali President travels to the United States to attend the United Nations General Assembly.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-president-travels-to-the-united-states-to-attend-the-united-nations-general-assembly/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Somali President Hassan Sheikh Mohamud and a delegation led by him have departed for the United States to attend the United Nations General Assembly session in New York. Sources close to the presidency confirmed the delegation&#8217;s travel, noting that the UN General Assembly session opens tomorro"
-    },
-    {
-      "id": "n_3e6ff390ba",
-      "type": "news",
-      "title": "Puntland hands over to Galmudug the troops and vehicles seized in Galkayo.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-hands-over-to-galmudug-the-troops-and-vehicles-seized-in-galkayo/",
-      "date": "2026-09-21",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Puntland",
-        "Galmudug"
-      ],
-      "excerpt": "Puntland has handed over the troops and vehicles it seized this morning in the city of Galkayo to the Galmudug administration, following discussions between officials from both sides. The Puntland and Galmudug administrations discussed the security situation in the Mudug region and the vehicles Punt"
     }
   ],
   "articles": [
