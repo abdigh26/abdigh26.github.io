@@ -645,6 +645,17 @@ const BLUF_URL    = 'https://hoa-gemini-proxy.vercel.app/api/bluf';
 const ANALYZE_URL = 'https://hoa-gemini-proxy.vercel.app/api/analyze';
 const ANALYSTS_URL = '/analysts/data.json';
 const ANALYST_PREVIEW_COUNT = 2;
+const AI_TIMEOUT_MS = 30000;
+
+async function fetchAI(url, options = {}) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), AI_TIMEOUT_MS);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
 
 // ── STATE ──────────────────────────────────────────────────────────────────
 const S = { tab:'all', region:'all', query:'', page:1, perPage:4 };
@@ -722,7 +733,7 @@ async function getBluf(btn) {
   cachedEl.textContent = '';
 
   try {
-    const res = await fetch(BLUF_URL, {
+    const res = await fetchAI(BLUF_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ url: item.url, title: item.title, content: item.excerpt })
@@ -734,11 +745,14 @@ async function getBluf(btn) {
     cachedEl.textContent = data.cached ? '✓ cached' : 'live';
 
   } catch(e) {
-    textEl.innerHTML = `<span class="bluf-thinking">Service unavailable. Please try again or check your connection. (Detail: ${e.message})</span>`;
+    const message = e.name === 'AbortError'
+      ? 'The BLUF request timed out. Please try again.'
+      : `Service unavailable. Please try again or check your connection. (Detail: ${e.message})`;
+    textEl.innerHTML = `<span class="bluf-thinking">${message}</span>`;
+  } finally {
+    btn.classList.remove('loading');
+    btn.innerHTML = '<span class="bolt">⚡</span> BLUF';
   }
-
-  btn.classList.remove('loading');
-  btn.innerHTML = '<span class="bolt">⚡</span> BLUF';
 }
 
 // ── STATS ──────────────────────────────────────────────────────────────────
@@ -943,7 +957,7 @@ async function runSearch() {
   document.getElementById('searchBtn').disabled = true;
 
   try {
-    const res = await fetch(ANALYZE_URL, {
+    const res = await fetchAI(ANALYZE_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ query: q })
@@ -953,9 +967,13 @@ async function runSearch() {
     const text = data.analysis || 'Analysis unavailable.';
     aiBody.textContent = text;
   } catch(e) {
-    aiBody.innerHTML = `<span class="ai-thinking">AI Analysis currently unavailable. Please try again later. (Detail: ${e.message})</span>`;
+    const message = e.name === 'AbortError'
+      ? 'The analysis request timed out after 30 seconds. Please try again.'
+      : `AI Analysis currently unavailable. Please try again later. (Detail: ${e.message})`;
+    aiBody.innerHTML = `<span class="ai-thinking">${message}</span>`;
+  } finally {
+    document.getElementById('searchBtn').disabled = false;
   }
-  document.getElementById('searchBtn').disabled = false;
 }
 
 document.getElementById('searchInput').addEventListener('keydown', e => {
