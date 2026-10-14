@@ -645,7 +645,7 @@ const BLUF_URL    = 'https://hoa-gemini-proxy.vercel.app/api/bluf';
 const ANALYZE_URL = 'https://hoa-gemini-proxy.vercel.app/api/analyze';
 const ANALYSTS_URL = '/analysts/data.json';
 const ANALYST_PREVIEW_COUNT = 2;
-const AI_TIMEOUT_MS = 30000;
+const AI_TIMEOUT_MS = 10000;
 
 async function fetchAI(url, options = {}) {
   const controller = new AbortController();
@@ -718,6 +718,7 @@ async function getBluf(btn) {
   const cachedEl = document.getElementById('bluf-cached-' + articleId);
 
   if (!item || !panel || !textEl || !cachedEl) return;
+  if (btn.classList.contains('loading')) return;
 
   // Toggle off if already showing
   if (panel.classList.contains('show')) {
@@ -741,6 +742,7 @@ async function getBluf(btn) {
 
     if (!res.ok) throw new Error(`Proxy error (${res.status})`);
     const data = await res.json();
+    if (!data || typeof data.bluf !== 'string') throw new Error('Invalid BLUF response');
     textEl.textContent   = data.bluf || 'BLUF unavailable.';
     cachedEl.textContent = data.cached ? '✓ cached' : 'live';
 
@@ -936,6 +938,8 @@ function setRegion(btn, region) {
 
 // ── SEARCH + AI ────────────────────────────────────────────────────────────
 async function runSearch() {
+  const searchBtn = document.getElementById('searchBtn');
+  if (searchBtn.disabled) return;
   const q = document.getElementById('searchInput').value.trim();
   if (!q) {
     S.query=''; S.page=1; render();
@@ -954,7 +958,7 @@ async function runSearch() {
   aiBox.classList.add('show');
   aiQ.textContent = `"${q}"`;
   aiBody.innerHTML = '<span class="ai-thinking">Generating intelligence analysis…</span>';
-  document.getElementById('searchBtn').disabled = true;
+  searchBtn.disabled = true;
 
   try {
     const res = await fetchAI(ANALYZE_URL, {
@@ -964,6 +968,7 @@ async function runSearch() {
     });
     if (!res.ok) throw new Error(`Proxy error (${res.status})`);
     const data = await res.json();
+    if (!data || typeof data.analysis !== 'string') throw new Error('Invalid analysis response');
     const text = data.analysis || 'Analysis unavailable.';
     aiBody.textContent = text;
   } catch(e) {
@@ -972,7 +977,7 @@ async function runSearch() {
       : `AI Analysis currently unavailable. Please try again later. (Detail: ${e.message})`;
     aiBody.innerHTML = `<span class="ai-thinking">${message}</span>`;
   } finally {
-    document.getElementById('searchBtn').disabled = false;
+    searchBtn.disabled = false;
   }
 }
 
