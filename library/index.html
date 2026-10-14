@@ -699,10 +699,14 @@ async function loadAnalystWatch() {
 }
 
 // ── BLUF ENGINE ────────────────────────────────────────────────────────────
-async function getBluf(btn, articleId, url, title, excerpt) {
+async function getBluf(btn) {
+  const articleId = btn.dataset.blufId;
+  const item = (window.BLUF_ITEMS || {})[articleId];
   const panel    = document.getElementById('bluf-panel-'  + articleId);
   const textEl   = document.getElementById('bluf-text-'   + articleId);
   const cachedEl = document.getElementById('bluf-cached-' + articleId);
+
+  if (!item || !panel || !textEl || !cachedEl) return;
 
   // Toggle off if already showing
   if (panel.classList.contains('show')) {
@@ -721,7 +725,7 @@ async function getBluf(btn, articleId, url, title, excerpt) {
     const res = await fetch(BLUF_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ url, title, content: excerpt })
+      body: JSON.stringify({ url: item.url, title: item.title, content: item.excerpt })
     });
 
     if (!res.ok) throw new Error(`Proxy error (${res.status})`);
@@ -804,8 +808,15 @@ function cardHTML(d) {
   const excerpt = d.excerpt ? `<div class="card-excerpt">${esc(d.excerpt)}</div>` : '';
   const isNews = d.type === 'news';
 
+  // Keep article content out of inline JavaScript. RSS text can contain quotes,
+  // backslashes, or line breaks that would otherwise invalidate the handler.
+  if (isNews) {
+    window.BLUF_ITEMS = window.BLUF_ITEMS || Object.create(null);
+    window.BLUF_ITEMS[d.id] = { url, title: d.title || '', excerpt: d.excerpt || '' };
+  }
+
   const blufBtn = isNews ? `
-    <button class="bluf-btn" onclick="event.stopPropagation();getBluf(this,'${esc(d.id)}','${esc(url)}','${esc(d.title).replace(/'/g,"\\'")}','${esc(d.excerpt||'').replace(/'/g,"\\'")}')">
+    <button class="bluf-btn" data-bluf-id="${esc(d.id)}" onclick="event.stopPropagation();getBluf(this)">
       <span class="bolt">⚡</span> BLUF
     </button>` : '';
 
