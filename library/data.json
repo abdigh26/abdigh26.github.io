@@ -1,6 +1,97 @@
 {
-  "last_updated": "2026-10-14T11:09:25.121363+00:00",
+  "last_updated": "2026-10-15T10:50:31.793275+00:00",
   "news": [
+    {
+      "id": "n_5e2fd25f52",
+      "type": "news",
+      "title": "Somalia agrees to buy Pakistani JF-17 fighters",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-agrees-to-buy-pakistani-jf-17-fighters/",
+      "date": "2026-10-14",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia has agreed to buy JF-17 Thunder fighter jets from Pakistan, a Turkish defence outlet reported, but neither government has confirmed that a contract exists and no price, aircraft number or delivery date has been published. TRHaber posted the claim on X on Oc"
+    },
+    {
+      "id": "n_dfa038f2ec",
+      "type": "news",
+      "title": "No quick wins in the Ethiopia-Eritrea war of egos",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/433582/no-quick-wins-in-the-ethiopia-eritrea-war-of-egos/",
+      "date": "2026-10-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "Ethiopia Prime Minister Abiy Ahmed and Eritrea President Isaias Afwerki are edging closer to a war neither can afford to lose nor easily win. Analysts warn of multiple scenarios, from claiming countless lives yet being contained in Tigray, spilling over into Eritrea, or destabilising the Horn of Afr"
+    },
+    {
+      "id": "n_b7913fcc87",
+      "type": "news",
+      "title": "Israel, Trump recognition: 5 questions on Somaliland’s place in the Horn of Africa crisis",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/433477/israel-trump-recognition-5-questions-on-somalilands-place-in-the-horn-of-africa-crisis/",
+      "date": "2026-10-15",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Diplomacy",
+        "Security"
+      ],
+      "excerpt": "Recognised by Israel in December 2025, the self-declared republic has become a player in the region’s geopolitics through security diplomacy and economic deals – at the risk of stoking tensions that are already running high."
+    },
+    {
+      "id": "n_06e99919e8",
+      "type": "news",
+      "title": "Eritrea’s Coming Crisis? How the Lifting of US Sanctions Might Spell Trouble for Africa’s Most Opaque State",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/10/eritreas-coming-crisis-how-the-lifting-of-us-sanctions-might-spell-trouble-for-africas-most-opaque-state/?utm_source=rss&utm_medium=rss&utm_campaign=eritreas-coming-crisis-how-the-lifting-of-us-sanctions-might-spell-trouble-for-africas-most-opaque-state",
+      "date": "2026-10-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "excerpt": "On 19 September 2026, the United States lifted its sanctions on Eritrea, one of Africa’s most enigmatic and repressive states. These sanctions were imposed by the Biden administration in 2021 for Eritrea’s role in Ethiopia’s devastating Tigray War (2020-22). Opinions vary as to the possible meanings"
+    },
+    {
+      "id": "n_0e08bad658",
+      "type": "news",
+      "title": "Houthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-no-attacks-against-saudi-arabia-conducted-today-after",
+      "date": "2026-10-15",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Houthis say no attacks against Saudi Arabia conducted today, after coalition forces report missile downed\n\n    \n    \n\n        \n    \n                Yahya Saree, the Houthi military spokesperson, has confirmed that the group has not launched any attacks against Saudi Arabia on Thursday.\n\nThis comes a"
+    },
+    {
+      "id": "n_d8860d1b6d",
+      "type": "news",
+      "title": "Why have Saudi air defences failed to intercept Houthi missiles?",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/why-have-saudi-air-defences-failed-intercept-houthi-missiles",
+      "date": "2026-10-15",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Why have Saudi air defences failed to intercept Houthi missiles?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPaul Iddon\n on \nWed, 10/14/2026 - 21:30\n\n        \n      \n    \n      \n    \n                Geography, interceptor shortages and evolving attack tactics may help explain why Saud"
+    },
     {
       "id": "n_62f5662d8a",
       "type": "news",
@@ -4178,90 +4269,6 @@
         "Maritime"
       ],
       "excerpt": "The Speaker of the Somaliland House of Representatives, members of the Somaliland government, and Somaliland citizens residing in North America held a rally on Wednesday outside the United Nations headquarters in New York. The rally demonstrated support for the Somaliland cause, with participants di"
-    },
-    {
-      "id": "n_cb06593acd",
-      "type": "news",
-      "title": "Britain donates £5 million to Somalia for El Niño flood preparedness.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/britain-donates-5-million-to-somalia-for-el-nino-flood-preparedness/",
-      "date": "2026-09-23",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "The British government has announced £5 million in new funding to support vulnerable communities in Somalia in preparing for floods expected to result from El Niño during the Deyr rainy season (October to December). This funding will strengthen early warning systems, assist families in safely reloca"
-    },
-    {
-      "id": "n_98ee9bb546",
-      "type": "news",
-      "title": "Somaliland Participates in an International Conference on Disaster Management in Taiwan",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-participates-in-an-international-conference-on-disaster-management-in-taiwan/",
-      "date": "2026-09-23",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security"
-      ],
-      "excerpt": "Somaliland’s Minister of Interior and Security, Abdalle Mohamed Arab; the Director General of the Ministry of Foreign Affairs and International Cooperation, Mohamed Abdirahman Hassan; and the Fire Brigade Commander, Brigadier General Ahmed Mohamed Hassan (Sawaaxili), participated in the internationa"
-    },
-    {
-      "id": "n_07d155cc79",
-      "type": "news",
-      "title": "Somaliland hopes for security cooperation with Israel before the end of this year.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-hopes-for-security-cooperation-with-israel-before-the-end-of-this-year/",
-      "date": "2026-09-23",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Israel",
-        "Security"
-      ],
-      "excerpt": "Somaliland President Abdirahman Mohamed Abdullahi (Irro) stated that he hopes security cooperation between Somaliland and Israel will begin before the end of this year. Irro made these remarks after concluding a two-week visit to Washington, D.C., during which he spoke to journalists, including repo"
-    },
-    {
-      "id": "n_97929df29b",
-      "type": "news",
-      "title": "The Hawadle forces of Afcad have mobilized with heavy weaponry and opposed the holding of elections in Hiran.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-hawadle-forces-of-afcad-have-mobilized-with-heavy-weaponry-and-opposed-the-holding-of-elections-in-hiran/",
-      "date": "2026-09-23",
-      "region": "Somalia",
-      "tags": [
-        "Elections"
-      ],
-      "excerpt": "Local forces armed with various weapons—including sniper rifles and heavy weaponry—have appeared in the Afcad area of ​​the Hiiraan region, amidst a tense political climate regarding the upcoming Hirshabelle administration elections.  The forces have openly declared their opposition to holding elect"
-    },
-    {
-      "id": "n_d949d9760d",
-      "type": "news",
-      "title": "Ethiopia’s Future Demands Axum–Harar Synergy",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/27/ethiopias-future-demands-axum-harar-synergy/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy&utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy",
-      "date": "2026-08-27",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Christian highlands and Islamic east shaped Ethiopia together.\nThe post Ethiopia’s Future Demands Axum–Harar Synergy appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_65135c309a",
-      "type": "news",
-      "title": "Exam Reforms Aren’t Fixing Ethiopia’s Institutional Decay",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/25/exam-reforms-arent-fixing-ethiopias-institutional-decay/?utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay&utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay",
-      "date": "2026-08-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "Better exam security hasn&#8217;t made Ethiopian classrooms more honest or human. A few months ago, a clip from an Ethiopian game show went viral. A husband whispered the answer to his wife so she could win. When the host replayed the footage and caught him, the man didn&#8217;t apologize. He didn&#"
     }
   ],
   "articles": [
