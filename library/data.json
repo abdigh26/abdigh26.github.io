@@ -1,6 +1,121 @@
 {
-  "last_updated": "2026-10-15T10:50:31.793275+00:00",
+  "last_updated": "2026-10-16T10:40:24.010305+00:00",
   "news": [
+    {
+      "id": "n_5ef93ab306",
+      "type": "news",
+      "title": "Somalia’s government loses Burhakabo to ousted Southwest leader’s forces",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-burhakabo-southwest/",
+      "date": "2026-10-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Forces loyal to Somalia’s former Southwest State president, Abdiasis Laftagaren, seized another strategic town in Bay region on Thursday, deepening the federal government’s territorial losses. The assault on Burhakabo began early in the day. The town lies on the ro"
+    },
+    {
+      "id": "n_d949d9760d",
+      "type": "news",
+      "title": "Ethiopia’s Future Demands Axum–Harar Synergy",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/27/ethiopias-future-demands-axum-harar-synergy/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy&utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-future-demands-axum-harar-synergy",
+      "date": "2026-08-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Christian highlands and Islamic east shaped Ethiopia together.\nThe post Ethiopia’s Future Demands Axum–Harar Synergy appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_65135c309a",
+      "type": "news",
+      "title": "Exam Reforms Aren’t Fixing Ethiopia’s Institutional Decay",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/08/25/exam-reforms-arent-fixing-ethiopias-institutional-decay/?utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay&utm_source=rss&utm_medium=rss&utm_campaign=exam-reforms-arent-fixing-ethiopias-institutional-decay",
+      "date": "2026-08-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Security"
+      ],
+      "excerpt": "Better exam security hasn&#8217;t made Ethiopian classrooms more honest or human. A few months ago, a clip from an Ethiopian game show went viral. A husband whispered the answer to his wife so she could win. When the host replayed the footage and caught him, the man didn&#8217;t apologize. He didn&#"
+    },
+    {
+      "id": "n_03bf6333d6",
+      "type": "news",
+      "title": "Ethiopia: IMF review delay shifts the fiscal test home",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/433707/ethiopia-imf-review-delay-shifts-the-fiscal-test-home/",
+      "date": "2026-10-16",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The IMF has deferred its decision on Ethiopia’s sixth programme review to early 2027, delaying a smaller-than-planned payout. With external debt restructuring almost complete, the reform’s credibility now hinges on how Addis Ababa taxes, borrows and budgets at home."
+    },
+    {
+      "id": "n_62f2c4c00e",
+      "type": "news",
+      "title": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
+      "date": "2026-10-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Asian Cup preparations continue for January, but Asian Tour delays golf&#039;s Saudi Invitational after Houthi attacks."
+    },
+    {
+      "id": "n_59d5e019b2",
+      "type": "news",
+      "title": "UN Security Council condemns 'escalatory' Houthi strikes on Saudi Arabia",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-condemns-escalatory-houthi-strikes-saudi-arabia",
+      "date": "2026-10-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "UN Security Council condemns 'escalatory' Houthi strikes on Saudi Arabia \n\n    \n    \n\n        \n    \n                The UN Security Council has condemned the \"escalatory\" attacks by Iran-backed Houthis&nbsp;on Saudi Arabia, including \"reckless strikes\" on Riyadh's airport.\n\nThe Saudi capital's inter"
+    },
+    {
+      "id": "n_2e7edae138",
+      "type": "news",
+      "title": "Saudi Arabia says preparations on for 2027 AFC Asian cup",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-preparations-2027-afc-asian-cup",
+      "date": "2026-10-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi Arabia says preparations on for 2027 AFC Asian cup\n\n    \n    \n\n        \n    \n                Saudi Arabia has said preparations for the&nbsp;2027 AFC Asian Cup, due to begin on 7 January in&nbsp;Riyadh, Jeddah and Al Khobar,&nbsp;remain on schedule despite escalating Houthi attacks on the king"
+    },
+    {
+      "id": "n_1532ec8904",
+      "type": "news",
+      "title": "Houthis claim Saudi reconnaissance drone downed over Marib",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-saudi-reconnaissance-drone-downed-over-marib",
+      "date": "2026-10-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Houthis claim Saudi reconnaissance drone downed over Marib \n\n    \n    \n\n        \n    \n                Houthi&nbsp;military spokesman Yahya Saree has said the group shot down a&nbsp;Saudi Wing Loong II armed reconnaissance drone over Marib governorate.\n\nIn a statement posted on Telegram, Saree said t"
+    },
     {
       "id": "n_5e2fd25f52",
       "type": "news",
@@ -4152,123 +4267,6 @@
         "Maritime"
       ],
       "excerpt": "Airports have fallen, key roads are under attack, and Tigrayan forces and their new allies are going after strategic junctions across northern Ethiopia as fighting spreads into Afar and Amhara. Down the road lies Weldiya, a key stop on the route Tigrayan forces used during their dramatic 2021 push s"
-    },
-    {
-      "id": "n_0d80aaf1e8",
-      "type": "news",
-      "title": "Saudi Arabia allies line up support as Houthi attacks mount",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
-      "date": "2026-09-25",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh."
-    },
-    {
-      "id": "n_bc94a72f07",
-      "type": "news",
-      "title": "Young men flee Tigray amid fears of forced recruitment",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
-      "date": "2026-09-25",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray"
-      ],
-      "excerpt": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting."
-    },
-    {
-      "id": "n_10d62345f9",
-      "type": "news",
-      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
-      "date": "2026-09-25",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities."
-    },
-    {
-      "id": "n_da4bcabed0",
-      "type": "news",
-      "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
-      "date": "2026-09-25",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify."
-    },
-    {
-      "id": "n_a6fdf90f6b",
-      "type": "news",
-      "title": "US warns of more sanctions as UN, AU urge talks in Ethiopia’s Tigray",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/ethiopia-tigray-us-sanctions-un-au-talks/",
-      "date": "2026-09-24",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; The United States said it has tools to sanction more leaders in Ethiopia, while the United Nations and African Union urged restraint, after Tigrayan forces seized the airport in Tigray&#8217;s capital Mekelle on Wednesday. Tigray&#8217;s regional government said "
-    },
-    {
-      "id": "n_de59a629d6",
-      "type": "news",
-      "title": "Ethiopia: Tigray forces seize Mekelle airport",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/tigray-forces-seize-mekelle-airport-ethiopia/",
-      "date": "2026-09-23",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Tigrayan forces seized control of Alula Aba Nega Airport in Mekelle overnight, taking the facility from federal police in a major escalation just days after the Tigray People&#8217;s Liberation Front (TPLF) announced a new alliance with six other armed groups aim"
-    },
-    {
-      "id": "n_796dfadb7a",
-      "type": "news",
-      "title": "Somali President and a U.S. official discuss relations between the two countries in New York.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somali-president-and-a-u-s-official-discuss-relations-between-the-two-countries-in-new-york/",
-      "date": "2026-09-24",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Somali President Hassan Sheikh Mohamud met with the U.S. Assistant Secretary of State for African Affairs, Frank Garcia, in New York to discuss strengthening the strategic relationship and cooperation between Somalia and the United States. The meeting, held at the United Nations headquarters, focuse"
-    },
-    {
-      "id": "n_a3dedaf03b",
-      "type": "news",
-      "title": "Somaliland Diaspora in North America Hold Rally Outside the United Nations",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-diaspora-in-north-america-hold-rally-outside-the-united-nations/",
-      "date": "2026-09-24",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "The Speaker of the Somaliland House of Representatives, members of the Somaliland government, and Somaliland citizens residing in North America held a rally on Wednesday outside the United Nations headquarters in New York. The rally demonstrated support for the Somaliland cause, with participants di"
     }
   ],
   "articles": [
