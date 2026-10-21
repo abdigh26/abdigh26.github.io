@@ -1,6 +1,154 @@
 {
-  "last_updated": "2026-10-20T10:55:02.275286+00:00",
+  "last_updated": "2026-10-21T11:08:34.276040+00:00",
   "news": [
+    {
+      "id": "n_569b71e56b",
+      "type": "news",
+      "title": "Somalia’s opposition launches first court challenge to new constitution",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-first-court-challenge-new-constitution/",
+      "date": "2026-10-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s Supreme Court has given the federal government until Thursday to present its defense in a case filed by opposition leader Sharif Sheikh Ahmed seeking to annul a controversial new constitution. Regional states opposed to the president, together with the op"
+    },
+    {
+      "id": "n_e439995381",
+      "type": "news",
+      "title": "Ethiopia-Eritrea crisis: Can Washington prevent a wider war without taking sides?",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/433944/ethiopia-eritrea-crisis-can-washington-prevent-a-wider-war-without-taking-sides/",
+      "date": "2026-10-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Military"
+      ],
+      "excerpt": "The Trump administration is seeking to avert a military confrontation between the two neighbours while steering clear of the internal conflict threatening to drag the wider region into war."
+    },
+    {
+      "id": "n_253c67ea0f",
+      "type": "news",
+      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
+      "date": "2026-10-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "UK&#039;s deployment of jets to defend Saudi Arabia is the latest chapter in a relationship older than the kingdom itself."
+    },
+    {
+      "id": "n_b95bd26133",
+      "type": "news",
+      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+      "date": "2026-10-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile."
+    },
+    {
+      "id": "n_6e290448b8",
+      "type": "news",
+      "title": "Saudi-led coalition reports heavy fighting with Houthis in southwestern Yemen",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-reports-heavy-fighting-houthis-southwestern-yemen",
+      "date": "2026-10-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Saudi-led coalition reports heavy fighting with Houthis in southwestern Yemen\n\n    \n    \n\n        \n    \n                The Saudi-led coalition says its forces are battling the Houthis in Kahboub, in southwestern Yemen.\n\nA coalition spokesperson said troops were trying to repel a large-scale attack "
+    },
+    {
+      "id": "n_2359883b6f",
+      "type": "news",
+      "title": "Missile targets Aden airport as Houthis claim strike on coalition site",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-targets-aden-airport-houthis-claim-strike-coalition-site",
+      "date": "2026-10-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Missile targets Aden airport as Houthis claim strike on coalition site\n\n    \n    \n\n        \n    \n                Houthi armed forces spokesman Yahya Saree said the group fired a ballistic missile at the Saudi-led coalition’s “military operation room at the Badr Camp in Aden with a ballistic missile”"
+    },
+    {
+      "id": "n_83eb43737a",
+      "type": "news",
+      "title": "Morning update",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-647",
+      "date": "2026-10-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Morning update\n\n    \n    \n\n        \n    \n                Good morning Middle East Eye readers,\n\nHere are the latest developments:&nbsp;\n\n\n\t\n\tThe UK is set to deploy Royal Air Force Typhoon fighter jets to Saudi Arabia as a form of protection against Houthi attacks. According to the British governmen"
+    },
+    {
+      "id": "n_cae06f789f",
+      "type": "news",
+      "title": "UK to deploy fighter jets, military advisers to Saudi Arabia as defence from Houthi attacks",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-deploy-fighter-jets-military-advisers-saudi-arabia-defence-houthi",
+      "date": "2026-10-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "UK to deploy fighter jets, military advisers to Saudi Arabia as defence from Houthi attacks\n\n    \n    \n\n        \n    \n                The UK is set to deploy Royal Air Force Typhoon fighter jets to Saudi Arabia as a form of protection against Houthi attack.\n\nAccording to the British government annou"
+    },
+    {
+      "id": "n_7d6d2bcae4",
+      "type": "news",
+      "title": "Saudi attacks on boats in Yemen's Taiz kills eight fishermen",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attacks-boats-yemens-taiz-kills-eight-fishermen",
+      "date": "2026-10-21",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi attacks on boats in Yemen's Taiz kills eight fishermen\n\n    \n    \n\n        \n    \n                The Sanaa-based Ministry of Health and Environment announced that Saudi strikes targeting&nbsp;boats off the coast of al-Kadha in the&nbsp;Taiz Governorate killed&nbsp;eight fishermen.\n\nThe Houthi-"
+    },
+    {
+      "id": "n_bd7321312c",
+      "type": "news",
+      "title": "Houthi media report more air strikes on Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-report-more-air-strikes-taiz",
+      "date": "2026-10-20",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Houthi media report more air strikes on Taiz\n\n    \n    \n\n        \n    \n                Three air strikes targeted the al-Nashma area in the al-Ma’afer district of Yemen's Taiz, according to reporting by Al Jazeera Arabic, citing media outlets affiliated with the Houthis."
+    },
     {
       "id": "n_8369427454",
       "type": "news",
@@ -4104,153 +4252,6 @@
         "Ethiopia"
       ],
       "excerpt": "As the yellow “Adey Abeba” flowers emerge across Ethiopia’s highlands, the country enters a season associated with renewal, reunion and celebration. In Addis Ababa, another sign of the season is the growing preparation for the “Demera,” the traditional bonfire lit on the eve of Meskel. On September "
-    },
-    {
-      "id": "n_236177c942",
-      "type": "news",
-      "title": "Fresh Voices, New Directions",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53064/",
-      "date": "2026-09-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Making Meaning From What Remains At Ethiopost headquarters on Churchill Avenue, six artists use painting, printmaking, installation and mixed media to examine memory, attachment, uncertainty and the creative process as The Space Ethiopia seeks to connect art-school graduates with the professional ar"
-    },
-    {
-      "id": "n_0e9299a225",
-      "type": "news",
-      "title": "Ethiopia Presses Case for Sea Access, UN Security Council Overhaul amid Tense UNGA Session",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53061/",
-      "date": "2026-09-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "UN Chief Urges Immediate De-escalation in Northern Ethiopia    Against the backdrop of one of the most fractured and contentious United Nations General Assembly (UNGA) sessions in recent memory, President Taye Atske-Selassie delivered a decisive address for Ethiopia, invoking Emperor Haile Selassie’"
-    },
-    {
-      "id": "n_ec3fe64503",
-      "type": "news",
-      "title": "Escalating Fights in Northern Ethiopia Risk Severe Human Rights Violations: EHRC",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53058/",
-      "date": "2026-09-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Rights Body Urges International Community to Pressure Warring Parties to Negotiation Table The Ethiopian Human Rights Commission (EHRC) warned that flared armed fighting across northern Ethiopia poses severe and compounding risks to human rights. In an official public statement on Friday September 2"
-    },
-    {
-      "id": "n_80c7a0e93d",
-      "type": "news",
-      "title": "AfDB Unveils USD5Bln Emergency Buffer to Contain Energy, Fertilizer Crisis",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53055/",
-      "date": "2026-09-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security",
-        "Food Security"
-      ],
-      "excerpt": "Ethiopia listed among 25 high-vulnerability nations hit by Middle East trade shocks In response to growing threats to regional food security driven by supply chain disruptions from Middle East conflicts, the African Development Bank Group (AfDB) has approved a temporary, one-year Global Energy and F"
-    },
-    {
-      "id": "n_81f7fcadf2",
-      "type": "news",
-      "title": "Ethiopia’s Youth Investment Bank Eyes Launch This Year, Targets Funding 100+ Startups",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53053/",
-      "date": "2026-09-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Ethiopia’s Youth Entrepreneurship Investment Bank (YEIB)- a new bank under formation- is expected to begin operations this year, targeting more than 100 innovative startups and micro, small, and medium enterprises (MSMEs), according to the Ministry of Labour and Skills (MoLS). Zerihun Alemayehu, Job"
-    },
-    {
-      "id": "n_0e80726769",
-      "type": "news",
-      "title": "Stepping Back from the Looming Abyss",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53050/",
-      "date": "2026-09-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia"
-      ],
-      "excerpt": "Northern Ethiopia stands once again on the precipice of a devastating, wide-scale catastrophe. The heavy clashes that began this week between the Ethiopian National Defense Forces (ENDF) and the Tigray People’s Liberation Front (TPLF), stretching across contested regional borders and key strategic c"
-    },
-    {
-      "id": "n_0c5b5e106a",
-      "type": "news",
-      "title": "Pakistan vows to defend Saudi Arabia against Houthis",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
-      "date": "2026-09-30",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis."
-    },
-    {
-      "id": "n_678128bbd6",
-      "type": "news",
-      "title": "Somalia: Puntland frees second tanker from pirates",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-puntland-frees-second-tanker-from-somali-pirates/",
-      "date": "2026-09-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Piracy",
-        "Maritime",
-        "Puntland"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland Maritime Police Force (PMPF) troops have freed the Palau-flagged tanker MT Honour from Somali pirates in the Bandarbayla district, days after releasing the SIBU 1 tanker, in a fast-moving push against piracy off the regional coast, Daily Somalia reported o"
-    },
-    {
-      "id": "n_6e1f3fcfba",
-      "type": "news",
-      "title": "US Warns of Ties Between Houthis and Al-Shabaab and the Red Sea Threat",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/us-warns-of-ties-between-houthis-and-al-shabaab-and-the-red-sea-threat/",
-      "date": "2026-09-29",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Houthis",
-        "Red Sea",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "US officials have warned that the deepening ties between Yemen’s Houthis and Somalia’s Al-Shabaab pose an additional threat to regional stability and maritime trade security. Security experts state that the Houthis have sold weapons to Al-Shabaab and provided the group&#8217;s fighters with training"
-    },
-    {
-      "id": "n_7f3fb8b0d1",
-      "type": "news",
-      "title": "Somaliland government rejects a conference for the Somaliland media community scheduled to open in Borama.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-government-rejects-a-conference-for-the-somaliland-media-community-scheduled-to-open-in-borama/",
-      "date": "2026-09-29",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The Somaliland government has opposed a conference that the Somaliland media community plans to hold soon in Borama, the capital of the Awdal region; the Ministry of Information stated that the event lacks its authorization and questioned the choice of Borama as the venue. Abdisalan Ilkacase, the Di"
     }
   ],
   "articles": [
