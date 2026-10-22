@@ -1,6 +1,119 @@
 {
-  "last_updated": "2026-10-21T11:08:34.276040+00:00",
+  "last_updated": "2026-10-22T11:08:12.337944+00:00",
   "news": [
+    {
+      "id": "n_0245898ea7",
+      "type": "news",
+      "title": "Somali government states it has reached an agreement with Somaliland regarding the eVisa dispute",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-government-states-it-has-reached-an-agreement-with-somaliland-regarding-the-evisa-dispute/",
+      "date": "2026-10-21",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia"
+      ],
+      "excerpt": "The Federal Government of Somalia has announced that it has reached an agreement with Somaliland regarding the dispute over the electronic visa (eVisa) system, stating that both sides are now satisfied with how the system is being managed. Ahmed Ma’allin Hassan, Director of the Somali Civil Aviation"
+    },
+    {
+      "id": "n_b692d2aa30",
+      "type": "news",
+      "title": "Somaliland denies entering into an air traffic management agreement with the Government of Somalia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-denies-entering-into-an-air-traffic-management-agreement-with-the-government-of-somalia/",
+      "date": "2026-10-21",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "Somaliland’s Minister of Civil Aviation, Fu’aad Ahmed Nuh, has denied that Somaliland has entered into an air traffic management agreement with the government of Somalia. He refuted a statement made by the Director of the Somali Civil Aviation Authority, who claimed that an agreement regarding air t"
+    },
+    {
+      "id": "n_bcbd04a343",
+      "type": "news",
+      "title": "A 20-Million-Birr House from Aman Properties: Biggest  Prize Ever in Ethiopia",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53583/",
+      "date": "2026-10-21",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "For years, winning an award in Ethiopia usually meant a trophy, a certificate, or a modest cash prize. Great for recognition, but rarely life-changing. That dynamic began to shift as digital culture took over. Organised by Qirnfud Events, the G Power TikTok Creative Award quickly became a massive st"
+    },
+    {
+      "id": "n_f8f9daeec8",
+      "type": "news",
+      "title": "Meet A7 International, an innovative global platform designed to reinvent the international payments market",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53577/",
+      "date": "2026-10-21",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "A7 International enables businesses and individuals to pay invoices with digital assets, while recipients receive a regular bank transfer, reflecting A7’s international positioning and expanding the geography of settlements available to foreign clients. In two years of operation, A7 has become one o"
+    },
+    {
+      "id": "n_05efb6674c",
+      "type": "news",
+      "title": "UN Urges End to Tigray Fighting, Humanitarian Access and Civilian Rule Restoration",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53573/",
+      "date": "2026-10-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia",
+        "Governance"
+      ],
+      "excerpt": "UN Urges As fighting intensifies in northern Ethiopia, United Nations Resident and Humanitarian Coordinator in Ethiopia, Ozonnia Ojielo, has called for an immediate cessation of hostilities, the restoration of civilian governance, and expanded humanitarian access in Tigray. The appeal follows the fe"
+    },
+    {
+      "id": "n_7be0c464e6",
+      "type": "news",
+      "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
+      "date": "2026-10-22",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Displacement"
+      ],
+      "excerpt": "Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says."
+    },
+    {
+      "id": "n_4567e7e415",
+      "type": "news",
+      "title": "Houthis attempt to rescue boat carrying Indians near Red Sea island",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-attempt-rescue-boat-carrying-indians-near-red-sea-island",
+      "date": "2026-10-22",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Maritime"
+      ],
+      "excerpt": "Houthis attempt to rescue boat carrying Indians near Red Sea island\n\n    \n    \n\n        \n    \n                Yemen's Houthis said on Thursday that they were attempting to rescue a boat carrying 14 Indians near Zuqar island in the Red Sea.\n\nReporting by Reuters"
+    },
+    {
+      "id": "n_345e3a2533",
+      "type": "news",
+      "title": "Two civilians killed from Houthi attacks in Yemen’s Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-civilians-killed-houthi-attacks-yemens-taiz",
+      "date": "2026-10-22",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Two civilians killed from Houthi attacks in Yemen’s Taiz\n\n    \n    \n\n        \n    \n                Yemen’s interior ministry said that a civilian and a young girl have been killed and five others left injured following Houthi&nbsp;shelling across the Taiz governorate."
+    },
     {
       "id": "n_569b71e56b",
       "type": "news",
@@ -4140,118 +4253,6 @@
         "Puntland"
       ],
       "excerpt": "The Puntland Armed Forces and Serious Crimes Court has announced the sentencing of seven men—captured by Puntland security forces—who were found to be members of the militant group Al-Shabaab. Following proceedings that spanned several hearings, the court found the accused guilty of membership in Al"
-    },
-    {
-      "id": "n_1fbd403bff",
-      "type": "news",
-      "title": "SNA Commander Receives European Union Director of Military Personnel",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/sna-commander-receives-european-union-director-of-military-personnel/",
-      "date": "2026-09-30",
-      "region": "Somalia",
-      "tags": [
-        "SNA",
-        "Military"
-      ],
-      "excerpt": "The Commander of the Somali National Army (SNA), Major General Ibrahim Mohamed Mohamud, accompanied by the SNA Land Forces Commander, General Sahal Abdullahi Omar, received Lieutenant General Michiel van der Laan—Director General of the European Union Military Staff (EUMS) and Director of the Milita"
-    },
-    {
-      "id": "n_313aff2133",
-      "type": "news",
-      "title": "The Somaliland press stated that the government does not have the power to block the Borama conference.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-somaliland-press-stated-that-the-government-does-not-have-the-power-to-block-the-borama-conference/",
-      "date": "2026-09-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The Somaliland press community has stated that the Ministry of Information lacks the legal authority to block a conference that journalists are planning to hold in Borama, the capital of the Awdal region—an event they described as a forum to deliberate on their future and the state of the media. The"
-    },
-    {
-      "id": "n_63ec0448d0",
-      "type": "news",
-      "title": "Five foreign crew members were killed aboard the MT Honor 25 during the rescue operation",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/five-foreign-crew-members-were-killed-aboard-the-mt-honor-25-during-the-rescue-operation/",
-      "date": "2026-09-30",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Maritime",
-        "Puntland"
-      ],
-      "excerpt": "Five foreign crew members were killed aboard the MT Honor 25 before Puntland maritime forces launched an operation to rescue the vessel, which had been forcibly seized by pirates. According to Puntland authorities, the deceased crew members included three nationals of Pakistan, one from Myanmar, and"
-    },
-    {
-      "id": "n_a3f34aae93",
-      "type": "news",
-      "title": "The Meteorology Department of the Somaliland Ministry of Agricultural Development Announces Surging Temperatures across most regions and districts of Somaliland",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-meteorology-department-of-the-somaliland-ministry-of-agricultural-development-announces-surging-temperatures-across-most-regions-and-districts-of-somaliland/",
-      "date": "2026-09-29",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Maritime"
-      ],
-      "excerpt": "The Meteorology Department of the Somaliland Ministry of Agricultural Development has issued a report regarding the temperature forecast for the region this week. Temperatures are expected to range between 27°C and 36°C. A statement from the Ministry indicates a high probability of above-average tem"
-    },
-    {
-      "id": "n_83c4eb3147",
-      "type": "news",
-      "title": "Escalating Northern Ethiopia Conflict Overwhelms Hospitals: MSF Reports",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53096/",
-      "date": "2026-09-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Renewed fighting across northern Ethiopia has driven hundreds of war-wounded patients into hospitals across the Tigray and Amhara regions, straining medical facilities and forcing Médecins Sans Frontières (MSF) to suspend some operations and redirect staff. MSF reported Monday that its emergency tea"
-    },
-    {
-      "id": "n_ed4f780ee6",
-      "type": "news",
-      "title": "Shimelis Abdisa Secures Second Term as Oromia President",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53086/",
-      "date": "2026-09-28",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Elections"
-      ],
-      "excerpt": "Shimelis Abdisa has been re-elected as President of the Oromia Regional State, securing another term with the backing of 509 members of the regional council, the Caffee Oromia. The council confirmed his re-election on Monday during its inaugural session in Adama. Shimelis has led the region as presi"
-    },
-    {
-      "id": "n_b588496f83",
-      "type": "news",
-      "title": "Council Approves Key Legal and Economic Measures",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53078/",
-      "date": "2026-09-28",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Council of Ministers has approved a package of legal and economic measures covering the organization of federal executive bodies, external financing for an energy-sector project and amendments to value-added tax regulations. At its 59th regular meeting, the Council approved a draft law governing"
-    },
-    {
-      "id": "n_e90943aff2",
-      "type": "news",
-      "title": "Meskel: A Celebration Carried Through Generations",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53068/",
-      "date": "2026-09-26",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "As the yellow “Adey Abeba” flowers emerge across Ethiopia’s highlands, the country enters a season associated with renewal, reunion and celebration. In Addis Ababa, another sign of the season is the growing preparation for the “Demera,” the traditional bonfire lit on the eve of Meskel. On September "
     }
   ],
   "articles": [
