@@ -1,6 +1,80 @@
 {
-  "last_updated": "2026-10-22T11:08:12.337944+00:00",
+  "last_updated": "2026-10-23T10:59:27.957683+00:00",
   "news": [
+    {
+      "id": "n_908e25dd23",
+      "type": "news",
+      "title": "Somalia opposition scores own goal over Galmudug election",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-galmudug-election/",
+      "date": "2026-10-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu",
+        "Galmudug"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s opposition has come under scrutiny after several of its prominent figures congratulated Liban Ahmed Hassan on his election as leaderof Galmudug state, despite having long opposed similar electoral processes conducted under the federal government. Former P"
+    },
+    {
+      "id": "n_1c7df69692",
+      "type": "news",
+      "title": "Somalia: Key Laftagaren ally survives alleged Turkish drone strike",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagaren-ally-survives-turkish-drone-strike/",
+      "date": "2026-10-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Hassan Abdulkadir, the former internal security minister of Southwest State and a key figure behind Laftagaren’s forces, escaped unharmed from an alleged Turkish drone strike on Wednesday night, as his forces continued to consolidate their hold over much of the Bay"
+    },
+    {
+      "id": "n_1920d5bb1b",
+      "type": "news",
+      "title": "Somaliland Auditor General states that 27 people have been arrested on allegations related to corruption.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-auditor-general-states-that-27-people-have-been-arrested-on-allegations-related-to-corruption/",
+      "date": "2026-10-22",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "Somaliland’s Auditor General, Muse Yusuf Idigaa, stated that 27 individuals have been arrested on charges related to corruption during the tenure of President Abdirahman Mohamed Abdullahi Cirro’s administration. Muse Yusuf Idigaa noted that the President authorized rigorous investigations into gover"
+    },
+    {
+      "id": "n_4c8f260d49",
+      "type": "news",
+      "title": "Liibaan Ahmed Hassan elected as the new leader of Galmudug",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/liibaan-ahmed-hassan-elected-as-the-new-leader-of-galmudug/",
+      "date": "2026-10-22",
+      "region": "Somalia",
+      "tags": [
+        "Elections",
+        "Galmudug"
+      ],
+      "excerpt": "Galmudug lawmakers have elected Liibaan Axmed Xasan as the new leader of the administration, after he secured 72 out of the 89 votes cast in an election held in the city of Dhuusamareeb. Liibaan, running on behalf of the Justice and Unity Party (JSP), won by a significant margin against his fellow c"
+    },
+    {
+      "id": "n_8bc33d60c5",
+      "type": "news",
+      "title": "Tsadkan’s “Reforms” Have Fragmented Tigray’s Unity",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/10/22/tsadkans-reforms-have-fragmented-tigrays-unity/?utm_source=rss&utm_medium=rss&utm_campaign=tsadkans-reforms-have-fragmented-tigrays-unity&utm_source=rss&utm_medium=rss&utm_campaign=tsadkans-reforms-have-fragmented-tigrays-unity",
+      "date": "2026-10-22",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "A campaign against the TPLF undermined Tigray’s unity while its people’s urgent needs went unmet.\nThe post Tsadkan’s “Reforms” Have Fragmented Tigray’s Unity appeared first on Ethiopia Insight."
+    },
     {
       "id": "n_0245898ea7",
       "type": "news",
@@ -4182,77 +4256,6 @@
         "Mogadishu"
       ],
       "excerpt": "Eight Egyptian sailors, who had been held since May 2nd aboard the M/T Eureka—a vessel seized off the coast of Puntland—have been released, according to the Egyptian Ministry of Foreign Affairs. Egyptian Foreign Minister Badr Abdelatty instructed the Egyptian Embassy in Mogadishu to receive the sail"
-    },
-    {
-      "id": "n_9d42e47059",
-      "type": "news",
-      "title": "The Somali government states that it is engaging with Al-Shabaab members who renounce the group’s ideology.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-somali-government-states-that-it-is-engaging-with-al-shabaab-members-who-renounce-the-groups-ideology/",
-      "date": "2026-09-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab"
-      ],
-      "excerpt": "Somali Prime Minister Hamza Abdi Barre stated that the government is ready to engage with any member of Al-Shabaab who wishes to renounce the group and its ideology. In an interview with Dawan TV, Prime Minister Hamza said the government does not oppose dialogue with Al-Shabaab members seeking to le"
-    },
-    {
-      "id": "n_a4586219b0",
-      "type": "news",
-      "title": "Tigray’s Liberation Must End in Freedom",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/09/30/tigrays-liberation-must-end-in-freedom-2/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom-2&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom-2",
-      "date": "2026-09-30",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Liberation secured survival while leaving Tigray’s political order unfinished.\nThe post Tigray’s Liberation Must End in Freedom appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_b66aee8072",
-      "type": "news",
-      "title": "Somalia: Laftagareen accuses Türkiye of six airstrikes on Baidoa",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagareen-accuses-turkiye-six-airstrikes-baidoa/",
-      "date": "2026-09-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Airstrikes",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former South West State President Abdiaziz Hassan Mohamed Laftagareen has accused Somalia’s federal government and Türkiye of carrying out airstrikes on Baidoa during fierce fighting between his forces and troops loyal to the government, alleging that six missiles "
-    },
-    {
-      "id": "n_a671491576",
-      "type": "news",
-      "title": "Simultaneous elections taking place today in Galmudug and Hirshabelle.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/simultaneous-elections-taking-place-today-in-galmudug-and-hirshabelle/",
-      "date": "2026-09-30",
-      "region": "Somalia",
-      "tags": [
-        "Elections",
-        "Galmudug"
-      ],
-      "excerpt": "Residents of parts of the Galmudug and Hirshabelle regions are heading to polling stations this Wednesday to elect members of the regional parliaments and local councils for the districts within these two administrations. The Galmudug election—a repeat vote—is taking place across 11 towns and their "
-    },
-    {
-      "id": "n_5844c4ae11",
-      "type": "news",
-      "title": "Puntland sentences seven men found guilty of being members of Al-Shabaab.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-sentences-seven-men-found-guilty-of-being-members-of-al-shabaab/",
-      "date": "2026-09-30",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Security",
-        "Puntland"
-      ],
-      "excerpt": "The Puntland Armed Forces and Serious Crimes Court has announced the sentencing of seven men—captured by Puntland security forces—who were found to be members of the militant group Al-Shabaab. Following proceedings that spanned several hearings, the court found the accused guilty of membership in Al"
     }
   ],
   "articles": [
