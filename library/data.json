@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-10-23T10:59:27.957683+00:00",
+  "last_updated": "2026-10-24T10:16:09.530528+00:00",
   "news": [
+    {
+      "id": "n_3b09a722cc",
+      "type": "news",
+      "title": "Somalia sends more than 200 military vehicles toward Burhakabo",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-military-vehicles-burhakabo/",
+      "date": "2026-10-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s federal government sent more than 200 military vehicles toward Burhakabo on Saturday, after forces loyal to former Southwest president Abdiasis Laftagaren seized the town last week. Officials have previously vowed to retake Burhakabo and other towns recen"
+    },
+    {
+      "id": "n_1813179025",
+      "type": "news",
+      "title": "Somaliland’s Minister of Health Inaugurates the Maternal and Child Health Unit at Borama Hospital",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somalilands-minister-of-health-inaugurates-the-maternal-and-child-health-unit-at-borama-hospital/",
+      "date": "2026-10-24",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union"
+      ],
+      "excerpt": "The Minister of Health Development of the Republic of Somaliland, Mr. Hussein Bashir Hirsi, inaugurated the new Maternal and Child Health (MCH) wing at the Borama General Hospital, a project funded by the Camuud Foundation. The inauguration ceremony was attended by the Minister of Agriculture, Mr. A"
+    },
+    {
+      "id": "n_02f8d6ae8d",
+      "type": "news",
+      "title": "At least nine people killed in fighting between Oromos and Somalis in Ethiopia; thousands flee to Kenya",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/at-least-nine-people-killed-in-fighting-between-oromos-and-somalis-in-ethiopia-thousands-flee-to-kenya/",
+      "date": "2026-10-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya",
+        "Displacement",
+        "Maritime"
+      ],
+      "excerpt": "At least nine people have reportedly died in clashes between the Oromo and Somali communities in the town of Moyale—located on the border between Ethiopia’s Somali Region and Kenya—while thousands have been displaced from their homes and have crossed into Kenya, according to a report by the Reuters "
+    },
+    {
+      "id": "n_a4586219b0",
+      "type": "news",
+      "title": "Tigray’s Liberation Must End in Freedom",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/30/tigrays-liberation-must-end-in-freedom-2/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom-2&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom-2",
+      "date": "2026-09-30",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Liberation secured survival while leaving Tigray’s political order unfinished.\nThe post Tigray’s Liberation Must End in Freedom appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_841fa1ae80",
+      "type": "news",
+      "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
+      "date": "2026-10-24",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability."
+    },
+    {
+      "id": "n_dcbcb55366",
+      "type": "news",
+      "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+      "date": "2026-10-24",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals."
+    },
     {
       "id": "n_908e25dd23",
       "type": "news",
@@ -4168,94 +4255,6 @@
         "Mogadishu"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; Pirates killed five crew members aboard the hijacked oil tanker MT Honour 25 before Puntland security forces rescued the vessel off Somalia&#8217;s coast, the semi-autonomous state&#8217;s information ministry said on Tuesday. Three Pakistanis, one Myanmar national"
-    },
-    {
-      "id": "n_84a1810585",
-      "type": "news",
-      "title": "Ethiopia plans to withdraw thousands of troops from Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/ethiopia-plans-to-withdraw-thousands-of-troops-from-somalia/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia",
-        "Military"
-      ],
-      "excerpt": "Ethiopia is planning to withdraw more than 3,000 troops from Somalia as ongoing conflicts in its northern region place pressure on its military, according to Bloomberg, although the Somali government stated that no official notification has been received. According to sources cited by Bloomberg, Eth"
-    },
-    {
-      "id": "n_8f6af1896d",
-      "type": "news",
-      "title": "ICRC: 148 people wounded in the fighting in Baidoa.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/icrc-148-people-wounded-in-the-fighting-in-baidoa/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "The International Committee of the Red Cross (ICRC) has expressed deep concern regarding the impact of fighting in the city of Baidoa on the civilian population, following heavy clashes in densely populated areas. The ICRC reported that 106 wounded individuals were treated at two government hospital"
-    },
-    {
-      "id": "n_695640f5fe",
-      "type": "news",
-      "title": "AFRICOM conducts airstrikes in Lower Juba",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/africom-conducts-airstrikes-in-lower-juba/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Airstrikes",
-        "Maritime"
-      ],
-      "excerpt": "U.S. Africa Command (AFRICOM) stated that, in coordination with the Federal Government of Somalia, it conducted airstrikes against Al-Shabaab militants in areas of the Lower Juba region. AFRICOM reported that the strikes were carried out in the vicinity of Welmaro—located approximately 40 km west of"
-    },
-    {
-      "id": "n_1cb31b79ce",
-      "type": "news",
-      "title": "Flights between Puntland and Mogadishu suspended following the NIRA card requirement.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/flights-between-puntland-and-mogadishu-suspended-following-the-nira-card-requirement/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "Domestic flights connecting Mogadishu and Puntland were disrupted this morning after the Somali government enforced a requirement that internal travelers must possess the NIRA national identity card. Passengers on a Freedom Airlines flight departing from Garowe for Mogadishu and Nairobi were informe"
-    },
-    {
-      "id": "n_43f4997f5a",
-      "type": "news",
-      "title": "Puntland claims to have cleared its waters of pirate hijackings.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-claims-to-have-cleared-its-waters-of-pirate-hijackings/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Piracy",
-        "Puntland",
-        "Maritime"
-      ],
-      "excerpt": "Puntland’s Minister of Security Ibrahim Artan Ismail, Minister of Ports Shakir Mohamed Guled, and Deputy Minister of Information Bilal Mohamud Qabowsade provided details regarding anti-piracy operations aimed at securing the coastline. The officials, who today welcomed the vessel *SIBU*—recently for"
-    },
-    {
-      "id": "n_20928b7afe",
-      "type": "news",
-      "title": "Egypt announces the release of eight sailors abducted in Puntland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/egypt-announces-the-release-of-eight-sailors-abducted-in-puntland/",
-      "date": "2026-09-30",
-      "region": "Somalia",
-      "tags": [
-        "Puntland",
-        "Mogadishu"
-      ],
-      "excerpt": "Eight Egyptian sailors, who had been held since May 2nd aboard the M/T Eureka—a vessel seized off the coast of Puntland—have been released, according to the Egyptian Ministry of Foreign Affairs. Egyptian Foreign Minister Badr Abdelatty instructed the Egyptian Embassy in Mogadishu to receive the sail"
     }
   ],
   "articles": [
