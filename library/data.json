@@ -1,6 +1,65 @@
 {
-  "last_updated": "2026-10-25T10:41:31.962103+00:00",
+  "last_updated": "2026-10-26T12:14:14.028250+00:00",
   "news": [
+    {
+      "id": "n_64742cc833",
+      "type": "news",
+      "title": "Somalia’s ex-spy chief does not rule out Al-Shabaab alliance to topple president",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-ex-spy-chief-al-shabab-alliance-president/",
+      "date": "2026-10-25",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Mogadishu",
+        "Clan Conflict"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia faces renewed fears of political instability after former intelligence chief Abdullahi Mohamed Ali Sanbalolshe said his Hawadle clan intends to establish a new regional administration in Hiran, raising the prospect of another confrontation with the federal "
+    },
+    {
+      "id": "n_d8328f8e24",
+      "type": "news",
+      "title": "Somalia’s Saudi-Backed Troop Incursion Raises Regional Stakes",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/10/somalias-saudi-backed-troop-incursion-raises-regional-stakes/?utm_source=rss&utm_medium=rss&utm_campaign=somalias-saudi-backed-troop-incursion-raises-regional-stakes&utm_source=rss&utm_medium=rss&utm_campaign=somalias-saudi-backed-troop-incursion-raises-regional-stakes",
+      "date": "2026-09-10",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "Addis Ababa wants answers after Somali troops cross the border.\nThe post Somalia’s Saudi-Backed Troop Incursion Raises Regional Stakes appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_a48a481a57",
+      "type": "news",
+      "title": "Saudi-led coalition says it struck Houthi missile facilities",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+      "date": "2026-10-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Coalition says it destroyed ballistic missile launchers as well as tunnels and a depot used to store missiles."
+    },
+    {
+      "id": "n_6aa1d8a062",
+      "type": "news",
+      "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
+      "date": "2026-10-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Talks to be first high-level contact between Iran and the bloc since Houthi rebels escalated attacks on Saudi Arabia."
+    },
     {
       "id": "n_99a3adcadd",
       "type": "news",
@@ -4202,60 +4261,6 @@
         "Somalia"
       ],
       "excerpt": "Somalia’s Minister of Defense, Ahmed Moallim Fiqi, has leveled serious accusations against opposition politicians, alleging that they are holding meetings regarding Somalia in Abu Dhabi, United Arab Emirates. In a post on his Facebook page, Fiqi stated that the politicians in question have &#8220;no"
-    },
-    {
-      "id": "n_ea287f0263",
-      "type": "news",
-      "title": "Egypt gives the Ethiopian ambassador 48 hours to leave the country.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/egypt-gives-the-ethiopian-ambassador-48-hours-to-leave-the-country/",
-      "date": "2026-10-02",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Egypt has announced the expulsion of an official from the Ethiopian Embassy in Cairo, giving him 48 hours to leave the country; this move appears to be a diplomatic response to Ethiopia’s decision to expel an Egyptian diplomat. Egyptian government sources described Ethiopia’s decision to declare a m"
-    },
-    {
-      "id": "n_22bdf1e4d6",
-      "type": "news",
-      "title": "The President of Somalia receives the credentials of the ambassadors of Turkey and the European Union.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-president-of-somalia-receives-the-credentials-of-the-ambassadors-of-turkey-and-the-european-union/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The President of Somalia, Hassan Sheikh Mohamud, received the credentials of the new Ambassadors of the Republic of Türkiye, Mr. Ferhat Alkan, and the European Union, Mr. László Máthé, at the Presidential Palace; they are now officially commencing their diplomatic duties in the country. The Presiden"
-    },
-    {
-      "id": "n_fe469fe04b",
-      "type": "news",
-      "title": "Ethiopia is closing its embassy in Asmara and expelling 10 Eritrean diplomats.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/ethiopia-is-closing-its-embassy-in-asmara-and-expelling-10-eritrean-diplomats/",
-      "date": "2026-10-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "The Ethiopian government has announced the closure of its embassy in Asmara, Eritrea, citing direct and indirect actions taken by Eritrea against Ethiopia as the reason for this move. In a statement issued on Thursday, Ethiopia&#8217;s Ministry of Foreign Affairs announced that ten Eritrean diplomat"
-    },
-    {
-      "id": "n_ea83cbb16c",
-      "type": "news",
-      "title": "Somaliland: Minister of Livestock Presents Plan to Boost Livestock Exports to the Council of Ministers",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-minister-of-livestock-presents-plan-to-boost-livestock-exports-to-the-council-of-ministers/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Maritime"
-      ],
-      "excerpt": "Somaliland’s Minister of Livestock and Rural Development, Dr. Omar Shuaib Mohamed, briefed the Council of Ministers on the significant increase in livestock exports and the importance of establishing a comprehensive national plan to develop the livestock sector. The Minister informed the Council of "
     }
   ],
   "articles": [
