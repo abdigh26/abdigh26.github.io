@@ -1,6 +1,128 @@
 {
-  "last_updated": "2026-10-26T12:14:14.028250+00:00",
+  "last_updated": "2026-10-27T11:35:12.430119+00:00",
   "news": [
+    {
+      "id": "n_b1750a1857",
+      "type": "news",
+      "title": "Somali army convoy ambushed by Al-Shabaab in deadliest attack in years",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-army-convoy-ambushed-al-shabaab-deadliest-attack/",
+      "date": "2026-10-27",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "SNA",
+        "African Union",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; About 2,000 Somali National Army (SNA) troops with more than 200 military vehicles came under a militant ambush on the road linking Baidoa and Mogadishu on Monday, causing heavy casualties in what observers say is the deadliest attack the army has faced this year. "
+    },
+    {
+      "id": "n_c7b3038ee6",
+      "type": "news",
+      "title": "Fighting erupts near Baidoa as Somali army advance on Burhakabo stalls",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/baidoa-fighting-somali-army-burhakabo-stalls/",
+      "date": "2026-10-26",
+      "region": "Somalia",
+      "tags": [
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Heavy fighting erupted on Monday on the outskirts of Baidoa between the Somali National Army and forces loyal to Abdiaziz Laftagareen, the former president of Southwest State. An official from Laftagareen’s faction said army units had been ambushed on the road. The"
+    },
+    {
+      "id": "n_aa94bd9fc8",
+      "type": "news",
+      "title": "Kacha, Mastercard Ink Deal to Expand Card Issuance in Ethiopia",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53689/",
+      "date": "2026-10-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Kacha Digital Financial Service SC has signed a landmark five-year agreement with Mastercard to issue payment cards directly to its customers and enable card-issuing services for eligible financial institutions across Ethiopia. Under the partnership, Kacha will offer card issuance capabilities to ba"
+    },
+    {
+      "id": "n_32d733778f",
+      "type": "news",
+      "title": "Ethiopia Earns UN Investment Award with Focus on Safaricom’s Digital Expansion",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53686/",
+      "date": "2026-10-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The Ethiopian Investment Commission (EIC) has received a United Nations award for its efforts in promoting investment in the digital economy, with Safaricom Ethiopia’s telecommunications infrastructure and the M-PESA mobile money platform cited as key vehicles for advancing digital connectivity and "
+    },
+    {
+      "id": "n_e285fe9b92",
+      "type": "news",
+      "title": "Draft Bill Caps Foreign Portfolio Ownership at 15pc in Listed Ethiopian Firms",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53683/",
+      "date": "2026-10-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Stakeholder Scrutinize Bill over Caps, Custody, and Repatriation Ethiopia’s proposed foreign portfolio investment (FPI) regulation has triggered intense debate over capital repatriation, investor confidence, and the readiness of local financial institutions, as stakeholders gathered on October 26, 2"
+    },
+    {
+      "id": "n_61ce878421",
+      "type": "news",
+      "title": "From Shock to Stability: How Strategic Sequencing Can Lock In the Long-Term Gains of Ethiopia’s Macroeconomic Reforms",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53678/",
+      "date": "2026-10-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Across developing and emerging economies, currency devaluation is frequently deployed as a core structural adjustment mechanism during balance-of-payments crises. Proponents of currency floatation, including multilateral institutions such as the International Monetary Fund and the World Bank, conten"
+    },
+    {
+      "id": "n_2ce7b90361",
+      "type": "news",
+      "title": "Addis Ababa Forum Scrutinizes Economic Dividends Ahead of Russia–Africa Summit",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53675/",
+      "date": "2026-10-26",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Less than a week before the third Russia–Africa Summit opens in Moscow on October 28–29, sharp questions are being raised over what African nations—Ethiopia included—stand to gain from Russia’s renewed diplomatic outreach. At a high-level policy dialogue held in Addis Ababa by the University for Pea"
+    },
+    {
+      "id": "n_7a121928e8",
+      "type": "news",
+      "title": "Zeinab Badawi: Sudan's Forgotten Humanitarian Crisis",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/vid/africa/sudan/zeinab-badawi-sudans-forgotten-humanitarian-crisis",
+      "date": "2026-10-22",
+      "region": "Somalia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "Zeinab Badawi: Sudan's Forgotten Humanitarian Crisis\n\nsaureli\n\nThu, 10/22/2026 - 22:03\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                  "
+    },
+    {
+      "id": "n_392f29fd51",
+      "type": "news",
+      "title": "Sixty Christians killed in Ethiopia’s Oromia region",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss",
+      "date": "2026-10-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Church officials say more than 20 people have been injured, while 20 homes have burned down as religious tensions flare."
+    },
     {
       "id": "n_64742cc833",
       "type": "news",
@@ -4133,134 +4255,6 @@
         "Galmudug"
       ],
       "excerpt": "The Director of the National Intelligence and Security Agency (NISA), Mahad Mohamed Salad, currently in the city of Dhusamareb, held various meetings tonight with different segments of society from the Galmudug capital. The meetings were attended by politicians, traditional elders, businesspeople, w"
-    },
-    {
-      "id": "n_1a55a82531",
-      "type": "news",
-      "title": "Freedom Airline has denied that a Garowe-Mogadishu flight was cancelled due to the NIRA card.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/freedom-airline-has-denied-that-a-garowe-mogadishu-flight-was-cancelled-due-to-the-nira-card/",
-      "date": "2026-10-02",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "Freedom Airline has denied reports claiming that a flight scheduled for yesterday on the Garowe-Mogadishu-Nairobi route was cancelled due to a requirement for passengers to possess a NIRA identification card. Mukhtar Hamud, Freedom Airline’s manager for Somalia, speaking to HOL, stated that the airl"
-    },
-    {
-      "id": "n_2fc07ad055",
-      "type": "news",
-      "title": "Ethiopia’s Tigray conflict hits Addis Ababa as regional alliances fracture",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/432251/ethiopias-tigray-conflict-hits-addis-ababa-as-regional-alliances-fracture/",
-      "date": "2026-10-02",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Red Sea",
-        "Ethiopia"
-      ],
-      "excerpt": "As militarised commercial drones hit the capital, expelled ambassadors and Red Sea posturing threaten to drag East Africa into a wider war."
-    },
-    {
-      "id": "n_dfab2883e8",
-      "type": "news",
-      "title": "What Washington Agreed to Last Month",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/10/what-washington-agreed-to-last-month/?utm_source=rss&utm_medium=rss&utm_campaign=what-washington-agreed-to-last-month",
-      "date": "2026-10-02",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Berbera",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "Somaliland’s president spent two weeks in Washington this month offering almost everything he has. Access to the port at Berbera. Access to the territory’s minerals. Military access, which he called a matter for negotiation and declined to rule out. He only asked for one thing in return. Recognition"
-    },
-    {
-      "id": "n_3b37414a3b",
-      "type": "news",
-      "title": "Not Energy, But Power: why Geothermal Energy Benefits Everyone in Iceland but not Kenya",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/10/not-energy-but-power-why-geothermal-energy-benefits-everyone-in-iceland-but-not-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=not-energy-but-power-why-geothermal-energy-benefits-everyone-in-iceland-but-not-kenya",
-      "date": "2026-10-02",
-      "region": "Kenya",
-      "tags": [
-        "Kenya"
-      ],
-      "excerpt": "This article draws on in-person interviews at Mt Suswa, Olkaria, and Menengai with Coalition for Human Rights in Development (CHRD) members and partners directly affected by geothermal projects. Interviews were led by the Coalition’s Research and Learning Facilitator and interviewees identified thro"
-    },
-    {
-      "id": "n_7db8d91156",
-      "type": "news",
-      "title": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
-      "date": "2026-10-03",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Government forces close a key crossing connecting Houthi-held al-Houban to government-held Taiz city."
-    },
-    {
-      "id": "n_ef9e35761c",
-      "type": "news",
-      "title": "Explosions heard in Addis Ababa after Ethiopia bans drone flights",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/headlines/addis-ababa-explosions-ethiopia-drone-flight-ban/",
-      "date": "2026-10-01",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Explosions were heard overnight in Ethiopia&#8217;s capital ​Addis Ababa, three diplomatic sources said on Thursday, adding to anxiety about the possible spread of renewed conflict in the country&#8217;s north. A source ‌linked to the opposition alliance fighting"
-    },
-    {
-      "id": "n_b765930896",
-      "type": "news",
-      "title": "Ethiopia to withdraw over 3,000 troops from Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/ethiopia-3000troop-withdrawal-somalia/",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Ethiopia plans to withdraw more than 3,000 troops from Somalia as fighting escalates in its north, Bloomberg News reported on Wednesday, citing people familiar with the matter. The pullout could begin in the coming days or weeks, Bloomberg said. The troops would be"
-    },
-    {
-      "id": "n_604a847bbf",
-      "type": "news",
-      "title": "Eritrea severs diplomatic ties with Ethiopia amid escalating tensions.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/eritrea-severs-diplomatic-ties-with-ethiopia-amid-escalating-tensions/",
-      "date": "2026-10-02",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "Eritrea announced that it has severed diplomatic relations with Ethiopia after Addis Ababa closed the Eritrean embassy and ordered ten Eritrean diplomats to leave the country within 48 hours. On Thursday, Ethiopia announced the closure of the Eritrean embassy, ​​accusing the neighboring country of e"
-    },
-    {
-      "id": "n_322f4b1af8",
-      "type": "news",
-      "title": "Minister Fiqi accuses the opposition of a “plot against the state.”",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/minister-fiqi-accuses-the-opposition-of-a-plot-against-the-state/",
-      "date": "2026-10-02",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Somalia’s Minister of Defense, Ahmed Moallim Fiqi, has leveled serious accusations against opposition politicians, alleging that they are holding meetings regarding Somalia in Abu Dhabi, United Arab Emirates. In a post on his Facebook page, Fiqi stated that the politicians in question have &#8220;no"
     }
   ],
   "articles": [
