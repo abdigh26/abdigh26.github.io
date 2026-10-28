@@ -1,6 +1,127 @@
 {
-  "last_updated": "2026-10-27T11:35:12.430119+00:00",
+  "last_updated": "2026-10-28T12:05:17.789273+00:00",
   "news": [
+    {
+      "id": "n_6306227c44",
+      "type": "news",
+      "title": "Somalia president cancels Russia trip amid security, political pressures",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-cancels-russia-trip/",
+      "date": "2026-10-28",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud has canceled a planned trip to Russia this week because of mounting security and political pressures at home, the Somali Stream reported on Tuesday. The decision followed an ambush by Al Shabaab in Somalia’s Lower Sha"
+    },
+    {
+      "id": "n_40ca9632db",
+      "type": "news",
+      "title": "SOMALILAND:Why  Somalilanders Are Watching Israel’s Election",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandwhy-somalilanders-are-watching-israels-election/",
+      "date": "2026-10-28",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Elections"
+      ],
+      "excerpt": "Why  Somalilanders Are Watching Israel&#8217;s Election &#160; Said Mohamud Ahmed Doctor of Education Candidate October 27, 2026 &#160; In the last week, I have watched something new in Somaliland. Many Somalilanders now know what is going on in Israel. Their journalists talk about it, their televis"
+    },
+    {
+      "id": "n_aad116e7e1",
+      "type": "news",
+      "title": "SOMALILAND:Israel’s Election Will Not Reverse Its Recognition of Somaliland”",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandisraels-election-will-not-reverse-its-recognition-of-somaliland/",
+      "date": "2026-10-28",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Elections"
+      ],
+      "excerpt": "Israel’s election has arrived, and the results of the public vote were announced on the evening of the 28th. Judging by the political atmosphere and the opposition’s rhetoric, the election appeared to be a direct challenge to Likud and Netanyahu, who were seen as fighting for their political surviva"
+    },
+    {
+      "id": "n_f5d9cc929d",
+      "type": "news",
+      "title": "UN: 36,000 people have fled fighting in southern Ethiopia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/un-36000-people-have-fled-fighting-in-southern-ethiopia/",
+      "date": "2026-10-28",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya",
+        "Displacement",
+        "Maritime"
+      ],
+      "excerpt": "The United Nations has reported that nearly 36,000 people have been displaced by armed clashes between Somalis and Oromos in southern Ethiopia over the past few days, with many of these individuals seeking refuge in Kenya. The fighting erupted in the town of Moyale, located on the border between Eth"
+    },
+    {
+      "id": "n_69acfa6719",
+      "type": "news",
+      "title": "Bosaso: Casualties resulting from mortar shells fired by Al-Shabaab at Galgala",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/bosaso-casualties-resulting-from-mortar-shells-fired-by-al-shabaab-at-galgala/",
+      "date": "2026-10-28",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "At least three civilians were killed and seven others sustained serious injuries after the Al-Shabaab group—which maintains bases in the Cal Madow Mountains—shelled the village of Galgala, located in the Bosaso district. According to reports, this bombardment was part of an artillery attack launched"
+    },
+    {
+      "id": "n_ee7caa7343",
+      "type": "news",
+      "title": "AFRICOM denies that airstrikes in Somalia have caused harm to civilians.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/africom-denies-that-airstrikes-in-somalia-have-caused-harm-to-civilians/",
+      "date": "2026-10-27",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union",
+        "Airstrikes"
+      ],
+      "excerpt": "The United States Africa Command (AFRICOM) has denied allegations that airstrikes against Al-Shabaab in southern Somalia are intended to displace civilians or expose them to the risk of flooding—floods that are feared to result from El Niño-related rains. An AFRICOM spokesperson stated that the comm"
+    },
+    {
+      "id": "n_5a3719ecbe",
+      "type": "news",
+      "title": "Somaliland: Relatives Hand Over Suspect Accused of Murder to the Security Committee",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-relatives-hand-over-suspect-accused-of-murder-to-the-security-committee/",
+      "date": "2026-10-27",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "The Governor of the Togdheer Region, Maxamuud Xasan Saleebaan Doob, stated that the relatives of a suspect—wanted in connection with a homicide that occurred in the region four months ago—have handed him over to the Security Committee, following the suspect’s voluntary surrender. The Governor commen"
+    },
+    {
+      "id": "n_c4f2506292",
+      "type": "news",
+      "title": "Ethiopian Airlines and COSKAL Sign Strategic Partnership to Elevate Hospitality and Passenger Experience",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53693/",
+      "date": "2026-10-27",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "The partnership brings together premium beverage innovation, global hospitality training and a major scholarship initiative Ethiopian Airlines, Africa’s leading aviation group, and COSKAL SARL are establishing a strategic partnership to further create distinctive experiences for Ethiopian Airlines’ "
+    },
     {
       "id": "n_b1750a1857",
       "type": "news",
@@ -4144,117 +4265,6 @@
         "Somaliland"
       ],
       "excerpt": "OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA (Gudaha dhulka Somaliland)) WAXAA LAGU OGEYSIINAYAA in shirkadda KT&#38;G Corporation, a South Korean company with head office at: 71, Beotkkotgil, Daedeok-gu, Daejeon, Republic of Korea ay leedahay calaamadda ganacsi ee hoos ku xusan: BOHEM Calaamaddan waxa"
-    },
-    {
-      "id": "n_2419791889",
-      "type": "news",
-      "title": "SOMALILAND:OGEYSIISKA DIGNIINTA SUMADDA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandogeysiiska-digniinta-sumadda-ganacsiga/",
-      "date": "2026-10-02",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "SOMALILAND  OGEYSIISKA DIGNIINTA SUMADDA GANACSIGA ____________________ &#160; &#160; OGEYSIIS BAA HALKAN LAGU BIXINAYAA in summadaha ganacsi ee kor ku xusan ay yihiin summadaha ganacsi ee RADISSON HOSPITALITY BELGIUM BV/SRL of Avenue du Bourget 44, B-1130 Brussels, Belgium, isla markaana loo isticm"
-    },
-    {
-      "id": "n_26685958da",
-      "type": "news",
-      "title": "Somaliland:OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/2948417-2/",
-      "date": "2026-07-30",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "OGEYSIIS DIGNIIN AH OO KU SAABSAN ASTAANTA GANACSIGA OGEYSIISKAN WAXA LAGU WARGELINAYAA in astaanta ganacsi ee kor ku xusan ay tahay hanti ay si sharci ah u leedahay The Peninsular and Oriental Steam Navigation Company, oo xarunteedu tahay 16 Palace Street, London, SW1E 5JQ, Boqortooyada Midowday (U"
-    },
-    {
-      "id": "n_71ee89db11",
-      "type": "news",
-      "title": "Al-Shabaab reported to have cut off the road connecting Hobyo and Harardhere.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/al-shabaab-reported-to-have-cut-off-the-road-connecting-hobyo-and-harardhere/",
-      "date": "2026-10-03",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Maritime"
-      ],
-      "excerpt": "Reports from the Mudug region indicate that Al-Shabaab fighters have cut off the road connecting the towns of Hobyo and Harardhere—a vital route for the movement of people and vehicles between the coastal areas and the interior of the region. According to Somali government officials, this action too"
-    },
-    {
-      "id": "n_faedcf7798",
-      "type": "news",
-      "title": "Somaliland Ministry of Finance Launches SLFMIS at Hargeisa General Hospital",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-ministry-of-finance-launches-slfmis-at-hargeisa-general-hospital/",
-      "date": "2026-10-03",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The Somaliland Ministry of Finance and Economic Development has launched the implementation of the Somaliland Financial Management Information System (SLFMIS) at Hargeisa General Hospital, as part of broader plans to modernize financial management across government institutions. The implementation o"
-    },
-    {
-      "id": "n_55a76564e2",
-      "type": "news",
-      "title": "Pakistan pledges compensation and housing to the families of sailors killed in Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/pakistan-pledges-compensation-and-housing-to-the-families-of-sailors-killed-in-somalia/",
-      "date": "2026-10-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Pakistani government has announced that it will provide 12.5 million rupees ($44,000) and a house to the family of each of the three Pakistani sailors killed during the rescue operation of an oil tanker that had been held off the coast of Somalia for months. The three men were among 10 Pakistani"
-    },
-    {
-      "id": "n_6fe9f1daf5",
-      "type": "news",
-      "title": "UK Allocates £2.5 Million to Somalia to Prevent Autumn Floods",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/uk-allocates-2-5-million-to-somalia-to-prevent-autumn-floods/",
-      "date": "2026-10-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "The United Kingdom has allocated an additional £2.5 million to Somalia to strengthen preparedness for floods expected during the *Deyr* rainy season (October to December 2026), as weather forecasts indicate an increasing risk of flooding in parts of the country. The funds are being channeled through"
-    },
-    {
-      "id": "n_9adb6a2241",
-      "type": "news",
-      "title": "US airstrikes in Somalia have caused civilian casualties totaling 216 people.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/us-airstrikes-in-somalia-have-caused-civilian-casualties-totaling-216-people/",
-      "date": "2026-10-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Airstrikes",
-        "Maritime"
-      ],
-      "excerpt": "A new report published on September 28, 2026, by Arab Reporters for Investigative Journalism (ARIJ)—utilizing data collected by the organization Airwars—states that airstrikes conducted by the United States and the coalition it leads in Somalia between 2007 and the end of May 2025 resulted in civili"
-    },
-    {
-      "id": "n_c89641370b",
-      "type": "news",
-      "title": "The NISA Director Met with Various Segments of Society in Dhusamareb",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-nisa-director-met-with-various-segments-of-society-in-dhusamareb/",
-      "date": "2026-10-02",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Galmudug"
-      ],
-      "excerpt": "The Director of the National Intelligence and Security Agency (NISA), Mahad Mohamed Salad, currently in the city of Dhusamareb, held various meetings tonight with different segments of society from the Galmudug capital. The meetings were attended by politicians, traditional elders, businesspeople, w"
     }
   ],
   "articles": [
