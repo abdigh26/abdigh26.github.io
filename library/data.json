@@ -1,6 +1,136 @@
 {
-  "last_updated": "2026-10-28T12:05:17.789273+00:00",
+  "last_updated": "2026-10-29T12:16:39.807219+00:00",
   "news": [
+    {
+      "id": "n_e3c4902689",
+      "type": "news",
+      "title": "AU troops to leave 4 bases in Somalia’s Lower Shabelle",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/au-troops-leave-4-bases-somalia-lower-shabelle/",
+      "date": "2026-10-29",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; African Union peacekeepers will withdraw from four forward operating bases in Somalia’s Lower Shabelle region next week as the mission scales back under severe financial strain, local media reported on Thursday. The pullback follows Washington’s agreement to extend"
+    },
+    {
+      "id": "n_2419791889",
+      "type": "news",
+      "title": "SOMALILAND:OGEYSIISKA DIGNIINTA SUMADDA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandogeysiiska-digniinta-sumadda-ganacsiga/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "SOMALILAND  OGEYSIISKA DIGNIINTA SUMADDA GANACSIGA ____________________ &#160; &#160; OGEYSIIS BAA HALKAN LAGU BIXINAYAA in summadaha ganacsi ee kor ku xusan ay yihiin summadaha ganacsi ee RADISSON HOSPITALITY BELGIUM BV/SRL of Avenue du Bourget 44, B-1130 Brussels, Belgium, isla markaana loo isticm"
+    },
+    {
+      "id": "n_0dfef46f82",
+      "type": "news",
+      "title": "The Commander of the Somali Army Announces that Al-Shabaab receives weapons and support from foreign countries.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-commander-of-the-somali-army-announces-that-al-shabaab-receives-weapons-and-support-from-foreign-countries/",
+      "date": "2026-10-29",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Maritime"
+      ],
+      "excerpt": "The Commander of the Somali National Army’s Ground Forces, General Sahal Abdullahi Omar, stated that the war the Somali government is waging against Al-Shabaab has transcended direct battlefield confrontations, alleging that other parties are providing the group with weapons, equipment, and training"
+    },
+    {
+      "id": "n_932d0d413a",
+      "type": "news",
+      "title": "NISA Confirms that Al-Shabaab’s former head of finance was killed in an operation in Lower Shabelle.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-confirms-that-al-shabaabs-former-head-of-finance-was-killed-in-an-operation-in-lower-shabelle/",
+      "date": "2026-10-29",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Security"
+      ],
+      "excerpt": "The Somali National Intelligence and Security Agency (NISA) announced that a planned operation in the Kuunyo Barrow area of ​​the Lower Shabelle region resulted in the killing of Faysal Yuusuf Macallin Cabdulle—also known as Cabdikariin Horseed or Gaagaale—whom the agency described as a senior offic"
+    },
+    {
+      "id": "n_d7be0d8320",
+      "type": "news",
+      "title": "Somaliland bans participation in Somali political activities within its territory",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-bans-participation-in-somali-political-activities-within-its-territory/",
+      "date": "2026-10-29",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "The Ministry of Interior and Security of Somaliland has issued a warning regarding political participation and interference—which it claims could originate from the government of Somalia—stating that any actions deemed detrimental to Somaliland’s sovereignty and statehood will not be tolerated. A di"
+    },
+    {
+      "id": "n_f2c2802c1f",
+      "type": "news",
+      "title": "Somaliland launches a large-scale military exercise",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-launches-a-large-scale-military-exercise/",
+      "date": "2026-10-29",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "The General Command of the Somaliland Armed Forces launched a large-scale military exercise on Wednesday, dubbed &#8220;HEEGAN 2026,&#8221; aimed at strengthening the military&#8217;s combat capabilities and operational readiness. The exercise was inaugurated by the Commander of the Somaliland Armed"
+    },
+    {
+      "id": "n_796fd0eda7",
+      "type": "news",
+      "title": "NISA and police apprehend a man suspected of planning an attack.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-and-police-apprehend-a-man-suspected-of-planning-an-attack/",
+      "date": "2026-10-28",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "The National Intelligence and Security Agency of Somalia (NISA) announced that security forces have apprehended a man named Hassan Nur Muse—also known as &#8220;Makane&#8221; or &#8220;Ali Sabti&#8221;—in the Hodan district of Mogadishu, accusing him of planning an act that would compromise security"
+    },
+    {
+      "id": "n_c3762c81b9",
+      "type": "news",
+      "title": "Attacks reportedly target Yemen’s Dhaw Bab, Mocha",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attacks-reportedly-target-yemens-dhaw-bab-mocha",
+      "date": "2026-10-29",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Attacks reportedly target Yemen’s Dhaw Bab, Mocha\n\n    \n    \n\n        \n    \n                A series of air strikes were reported on the Yemeni districts of Dhaw Bab and Mocha,&nbsp;according to media outlets affiliated with Yemen’s Houthis."
+    },
+    {
+      "id": "n_9939cb19b3",
+      "type": "news",
+      "title": "Saudi-led coalition claims it destroyed Houthi ballistic missile fired towards kingdom",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-it-destroyed-houthi-ballistic-missile-fired",
+      "date": "2026-10-29",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi-led coalition claims it destroyed Houthi ballistic missile fired towards kingdom\n\n    \n    \n\n        \n    \n                The Saudi-Led coalition said it destroyed a ballistic missile fired by the Houthis towards Saudi Arabia's eastern region early on Thursday.\n\nMeanwhile, the&nbsp;Saudi civi"
+    },
     {
       "id": "n_6306227c44",
       "type": "news",
@@ -4135,136 +4265,6 @@
         "Ethiopia"
       ],
       "excerpt": "The Amhara regional government is finalizing a directive to establish a dedicated regional education fund and foundation aimed at upgrading school standards, enhancing educational quality, and expanding access across the region. Dr. Mulunesh Desie, Social Sector Coordinator with the rank of Deputy C"
-    },
-    {
-      "id": "n_71a4f08360",
-      "type": "news",
-      "title": "Ethiopia Overhauls Building Codes to Mandate Seismic Safety, Wind Standards",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53177/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Ethiopia has updated its national building codes to enforce stricter seismic safety requirements, establish protocols for evaluating older structures, and account for regional wind variations and advanced construction materials, experts disclosed at an engineering summit in Addis Ababa. The details "
-    },
-    {
-      "id": "n_f498f4e928",
-      "type": "news",
-      "title": "High Digital Transaction Costs, Fraud Gaps Threaten Ethiopia’s Financial Inclusion Targets: Report",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53174/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "High digital transaction fees, undisclosed user charges, and unmitigated digital fraud risks threaten to derail Ethiopia’s push toward universal financial inclusion, according to an assessment of the National Financial Inclusion Strategy II (NFIS II). Launched at the Ethiopian Finance Forum 2026 in "
-    },
-    {
-      "id": "n_2076ac0917",
-      "type": "news",
-      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-      "date": "2026-10-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Federal troops and allied fighters seen in control of the city after capturing main regional airport."
-    },
-    {
-      "id": "n_ca381e2625",
-      "type": "news",
-      "title": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss",
-      "date": "2026-10-04",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Red Sea",
-        "Maritime"
-      ],
-      "excerpt": "Yemenis trapped in the Red Sea port city speak of deteriorating conditions there."
-    },
-    {
-      "id": "n_03c53bf27d",
-      "type": "news",
-      "title": "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
-      "date": "2026-10-04",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses."
-    },
-    {
-      "id": "n_130da5d116",
-      "type": "news",
-      "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Houthis",
-        "Somalia"
-      ],
-      "excerpt": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb"
-    },
-    {
-      "id": "n_8a1039d783",
-      "type": "news",
-      "title": "Pro-government forces claim to retake Mekelle airport in Ethiopia’s Tigray region",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/pro-government-forces-claim-retake-mekelle-airport-ethiopia-tigray/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Militia",
-        "Maritime"
-      ],
-      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; A militia group allied to Ethiopia&#8217;s federal government said they had recaptured ​the main airport in the capital of ‌the northern Tigray region, an opposition stronghold. &#8220;We have taken full control of Mekelle Alula Aba ​Nega Airport. We are currentl"
-    },
-    {
-      "id": "n_e769ea0bb5",
-      "type": "news",
-      "title": "SOMALILAND:OGAYSIISKA DIGNIINTA CALAAMADA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandogaysiiska-digniinta-calaamada-ganacsiga-2/",
-      "date": "2026-10-02",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "OGAYSIISKA DIGNIINTA CALAAMADA GANACSIGA (Gudaha dhulka Somaliland) Halkan waxaa lagu ogeysiinayaa in: : KT&#38;G Corporation, a South Korean company with head office at: 71, Beotkkotgil, Daedeok-gu, Daejeon, Republic of Korea ay tahay milkiilaha iyo lahaanshaha keliya ee calaamaddan ganacsi ee hoos"
-    },
-    {
-      "id": "n_a6bb4d26a0",
-      "type": "news",
-      "title": "SOMALILAND:OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandogeysiiska-digniinta-calaamadda-ganacsiga-2/",
-      "date": "2026-10-02",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA (Gudaha dhulka Somaliland)) WAXAA LAGU OGEYSIINAYAA in shirkadda KT&#38;G Corporation, a South Korean company with head office at: 71, Beotkkotgil, Daedeok-gu, Daejeon, Republic of Korea ay leedahay calaamadda ganacsi ee hoos ku xusan: BOHEM Calaamaddan waxa"
     }
   ],
   "articles": [
