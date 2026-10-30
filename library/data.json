@@ -1,6 +1,119 @@
 {
-  "last_updated": "2026-10-29T12:16:39.807219+00:00",
+  "last_updated": "2026-10-30T12:07:00.446601+00:00",
   "news": [
+    {
+      "id": "n_c20c177098",
+      "type": "news",
+      "title": "Somali army toll climbs after Al-Shabaab assault as inquiry opens into rout",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somali-army-toll-al-shabaab-assault-inquiry/",
+      "date": "2026-10-29",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "African Union",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Casualties from Monday’s Al-Shabaab attack on Somali army forces in the country’s southwest continued to climb, as authorities opened an inquiry into the military’s worst reverse in years. An estimated 2,000 troops were advancing on the town of Burhakabo, which for"
+    },
+    {
+      "id": "n_e769ea0bb5",
+      "type": "news",
+      "title": "SOMALILAND:OGAYSIISKA DIGNIINTA CALAAMADA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandogaysiiska-digniinta-calaamada-ganacsiga-2/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "OGAYSIISKA DIGNIINTA CALAAMADA GANACSIGA (Gudaha dhulka Somaliland) Halkan waxaa lagu ogeysiinayaa in: : KT&#38;G Corporation, a South Korean company with head office at: 71, Beotkkotgil, Daedeok-gu, Daejeon, Republic of Korea ay tahay milkiilaha iyo lahaanshaha keliya ee calaamaddan ganacsi ee hoos"
+    },
+    {
+      "id": "n_a6bb4d26a0",
+      "type": "news",
+      "title": "SOMALILAND:OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandogeysiiska-digniinta-calaamadda-ganacsiga-2/",
+      "date": "2026-10-02",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "OGEYSIISKA DIGNIINTA CALAAMADDA GANACSIGA (Gudaha dhulka Somaliland)) WAXAA LAGU OGEYSIINAYAA in shirkadda KT&#38;G Corporation, a South Korean company with head office at: 71, Beotkkotgil, Daedeok-gu, Daejeon, Republic of Korea ay leedahay calaamadda ganacsi ee hoos ku xusan: BOHEM Calaamaddan waxa"
+    },
+    {
+      "id": "n_f5b4fd8cf8",
+      "type": "news",
+      "title": "Uganda Commences the process of withdrawing its troops from Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/uganda-commences-the-process-of-withdrawing-its-troops-from-somalia/",
+      "date": "2026-10-30",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Chief of Defence Forces of the Uganda People&#8217;s Defence Forces (UPDF), General Muhoozi Kainerugaba, has announced that his country has begun withdrawing its troops from Somalia, following 20 years of sacrifice. In a post shared on his X (formerly Twitter) account this evening, he stated tha"
+    },
+    {
+      "id": "n_1dd680db9d",
+      "type": "news",
+      "title": "What Separates Consistent Traders From Everyone Else?",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53700/",
+      "date": "2026-10-30",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Consistency in trading is a concept that is commonly misunderstood. Some newbies confuse it with always being profitable, always entering positions at the right time, and being able to forecast all the market moves. Consistency for professional traders is something else. It is not about winning ever"
+    },
+    {
+      "id": "n_7c447a1aab",
+      "type": "news",
+      "title": "How Is Saudi Arabia Fueling ‘Conflicts’ in the Red Sea?",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53697/",
+      "date": "2026-10-29",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "By Natnael Gecho&#160; Only days after war broke out in Sudan between the national army and the Rapid Support Forces (RSF) on April 15, 2023, all eyes turned to Saudi Arabia. Riyadh immediately cast itself as a mediator seeking to end the fighting and prevent its regional spread, insisting that it m"
+    },
+    {
+      "id": "n_ccdf83642b",
+      "type": "news",
+      "title": "Ethiopia’s Russian fighter jets raise stakes in Eritrea standoff",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/434873/ethiopias-russian-fighter-jets-raise-stakes-in-eritrea-standoff/",
+      "date": "2026-10-29",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Military"
+      ],
+      "excerpt": "Prime Minister Abiy Ahmed’s latest military purchases could transform Ethiopia’s air power – and raise questions over how the debt-strapped country is paying for them."
+    },
+    {
+      "id": "n_47d2a1e6c0",
+      "type": "news",
+      "title": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss",
+      "date": "2026-10-30",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Houthis deny targeting the region of the Muslim holy city as hostilities continue to escalate."
+    },
     {
       "id": "n_e3c4902689",
       "type": "news",
@@ -4156,115 +4269,6 @@
         "Maritime"
       ],
       "excerpt": "The Somali Navy and Coastal Defense Force conducted a maritime patrol and surveillance operation off the coast of Hobyo district in the Mudug region, where they intercepted a vessel suspected of operating illegally within Somali waters. According to information regarding the operation reported by th"
-    },
-    {
-      "id": "n_7a8f8a71af",
-      "type": "news",
-      "title": "UN Security Council to Hold Closed Talks on Northern Ethiopia Tensions",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53202/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security"
-      ],
-      "excerpt": "The UN Security Council is set to convene closed consultations on the deteriorating situation in northern Ethiopia, as renewed tensions threaten to unravel the fragile calm established by the 2022 Pretoria Agreement and raise the prospect of a wider regional conflict. An official from the UN Departm"
-    },
-    {
-      "id": "n_26b5c918c1",
-      "type": "news",
-      "title": "Policy, Data Credibility Deficit Threatens Ethiopia’s Inflation Fight: EEA Survey",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53199/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "A sweeping expert elicitation survey conducted by the Ethiopian Economics Association (EEA) reveals deep-seated skepticism among economic scholars regarding the credibility of Ethiopia’s macroeconomic policy framework, official inflation data, and the operational independence of the central bank. Th"
-    },
-    {
-      "id": "n_a7e2b164dd",
-      "type": "news",
-      "title": "Central Bank Weighs Greenfield Entry for First Fully Owned Foreign Banks",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53196/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The National Bank of Ethiopia (NBE) is reviewing applications from two foreign banks seeking to establish fully owned subsidiaries in the country, while several other international lenders conduct due diligence on potential equity investments in existing Ethiopian banks, a senior regulator disclosed"
-    },
-    {
-      "id": "n_81e77128cf",
-      "type": "news",
-      "title": "Audit Flags ETB537mln Uncollected at AAU, Including from Unreturned Academicians from Abroad",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53193/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Addis Ababa University (AAU) is holding ETB 537.45 million in unsettled advances and receivables, including more than ETB 145.25 million that has remained outstanding for five to ten years, according to a report by the Office of the Federal Auditor General (OFAG). The audit report for the 2017 Ethio"
-    },
-    {
-      "id": "n_2348e0db0f",
-      "type": "news",
-      "title": "New Federal Government to Take Office as Executive Framework, Dialogue Recommendations Heads to Parliament",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53189/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia’s incoming federal government is set to begin its five-year administrative term on Monday, inheriting a proposed structural framework for federal executive institutions alongside national dialogue recommendations to be presented to parliament ahead of the transition. The newly elected House"
-    },
-    {
-      "id": "n_9287a46c1d",
-      "type": "news",
-      "title": "As Ethiopia-Eritrea Ties Collapse, Diplomacy Must Not Become Another Casualty",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53186/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Diplomacy"
-      ],
-      "excerpt": "The abrupt severing of diplomatic ties between Ethiopia and Eritrea this week is more than a rupture in bilateral relations; it constitutes a profound destabilization of the Horn of Africa. This breakdown, marked by the closure of embassies and the expulsion of diplomats, has transformed a simmering"
-    },
-    {
-      "id": "n_130c752a35",
-      "type": "news",
-      "title": "Funding Bottleneck Forces Goh Betoch to Halt Mortgages as National Housing Fund Takes Shape",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53183/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Goh Betoch Bank, Ethiopia’s sole specialized mortgage lender, is forced to pull the brake on long-term mortgage lending after its loan-to-deposit ratio soared to an unsustainable level. The freeze highlights severe structural liquidity mismatches in the financial sector just as federal authorities a"
-    },
-    {
-      "id": "n_c199d0fe05",
-      "type": "news",
-      "title": "Regional Directive to Establish Amhara Education Fund to Counter Years of School Disruption",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53180/",
-      "date": "2026-10-03",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Amhara regional government is finalizing a directive to establish a dedicated regional education fund and foundation aimed at upgrading school standards, enhancing educational quality, and expanding access across the region. Dr. Mulunesh Desie, Social Sector Coordinator with the rank of Deputy C"
     }
   ],
   "articles": [
