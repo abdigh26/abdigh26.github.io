@@ -1,6 +1,75 @@
 {
-  "last_updated": "2026-10-31T11:40:11.744425+00:00",
+  "last_updated": "2026-11-01T12:39:35.492804+00:00",
   "news": [
+    {
+      "id": "n_5b0e734730",
+      "type": "news",
+      "title": "UN mission in Somalia closes after three decades",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/un-mission-somalia-untmis-closes-after-three-decades/",
+      "date": "2026-10-31",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The United Nations Transitional Assistance Mission in Somalia (UNTMIS) ceased operations on Saturday, ending more than three decades of UN missions in the country at the Somali government&#8217;s request. The closure completes a two-year transition under Security C"
+    },
+    {
+      "id": "n_65de40c60f",
+      "type": "news",
+      "title": "Somaliland:What 273 Million Children Out of School Means Worldwide",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandwhat-273-million-children-out-of-school-means-worldwide/",
+      "date": "2026-10-31",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Maritime"
+      ],
+      "excerpt": "What 273 Million Children Out of School Means Worldwide &#160; Said Mohamud Ahmed Doctor of Education Candidate October 30, 2026 &#160; To education leaders everywhere, &#160; UNESCO&#8217;s 2026 Global Education Monitoring Report delivered a number that should stop every education leader in our tra"
+    },
+    {
+      "id": "n_9acb3f1463",
+      "type": "news",
+      "title": "Somaliland:Moyale: Peace Talks Underway Between Somali and Oromo Sides Amid Continued Clashes",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandmoyale-peace-talks-underway-between-somali-and-oromo-sides-amid-continued-clashes/",
+      "date": "2026-10-31",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "Moyale: Peace Talks Underway Between Somali and Oromo Sides Amid Continued Clashes &#160; Two days ago, a call was made for a peace conference and dialogue between the Somali and Oromo sides, aimed at finding a resolution to the conflict in the town of Moyale and its surrounding areas. &#160; The ta"
+    },
+    {
+      "id": "n_1f9d30ebf5",
+      "type": "news",
+      "title": "Jubbaland is investigating two homicide cases involving women suspected of killing their husbands by poisoning them.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/jubbaland-is-investigating-two-homicide-cases-involving-women-suspected-of-killing-their-husbands-by-poisoning-them/",
+      "date": "2026-11-01",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "The Office of the Attorney General of Jubbaland and the Lower Juba Regional Police Command have conducted investigations in the areas of Abdalle Biroole and Bula-Haji, in connection with two homicide cases. The investigative delegation was led by the Deputy Attorney General of Jubbaland, Abdishukri "
+    },
+    {
+      "id": "n_7d8b0d79f9",
+      "type": "news",
+      "title": "The Somaliland government and prominent figures from Awdal address violence targeting Oromo people living in Borama.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somaliland-government-and-prominent-figures-from-awdal-address-violence-targeting-oromo-people-living-in-borama/",
+      "date": "2026-11-01",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Ethiopia"
+      ],
+      "excerpt": "The government of Somaliland, the Awdal regional administration, and community leaders in Borama have addressed acts of violence committed by groups of youths in the city. These attacks targeted individuals of Oromo ethnicity from Ethiopia, following tensions sparked by conflicts between Somalis and"
+    },
     {
       "id": "n_a4e9fe0db7",
       "type": "news",
@@ -4200,80 +4269,6 @@
         "Ethiopia"
       ],
       "excerpt": "A rebel alliance says it struck the heart of federal power days before Abiy Ahmeds swearing-in. Analysts say the goal is to stretch the army thin — and the neighbours are watching."
-    },
-    {
-      "id": "n_3307537b69",
-      "type": "news",
-      "title": "Ethiopian forces seize Mekelle as regional rivals gather in Egypt",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/432282/ethiopian-forces-seize-mekelle-as-regional-rivals-gather-in-egypt/",
-      "date": "2026-10-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Prime Minister Abiy Ahmed reclaims Tigray’s regional capital without a fight, but an Alamein summit of uneasy neighbours threatens to escalate a domestic war into a proxy conflict."
-    },
-    {
-      "id": "n_664444eae6",
-      "type": "news",
-      "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
-      "date": "2026-10-05",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Army of internationally recognised gov&#039;t claims key gains near strait before Saudi, Pakistani, Turkish officials meet."
-    },
-    {
-      "id": "n_fe210e3e7f",
-      "type": "news",
-      "title": "Yemen war: What’s the latest, as government forces claim advances?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "date": "2026-10-05",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "After launching major military offensive to reclaim Houthi-held areas, Yemeni government says it has taken key district."
-    },
-    {
-      "id": "n_f6c643b8d9",
-      "type": "news",
-      "title": "Somalia won’t accept Israeli presence in Somaliland ‘under any circumstances,’ president says",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-israeli-presence-somaliland-president/",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Israel",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia will not accept Israeli presence in the country “under any circumstances” and will resist any attempts to be pulled into the Middle East’s crises, its President Hassan Sheikh Mohamud tells Al Jazeera. Speaking in an exclusive interview, Mohamud said that Is"
-    },
-    {
-      "id": "n_24f3c12bf5",
-      "type": "news",
-      "title": "US air operations killed or wounded at least 216 civilians in Somalia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/us-airstrikes-somalia-216-civilians-killed-wounded/",
-      "date": "2026-10-03",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; At least 216 civilians in Somalia were recorded as killed or injured by U.S. air operations between 2007 and May 2025, according to an investigation supported by Arab Reporters for Investigative Journalism (ARIJ). The investigation described the figure as the minim"
     }
   ],
   "articles": [
