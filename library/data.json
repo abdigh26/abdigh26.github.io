@@ -1,6 +1,263 @@
 {
-  "last_updated": "2026-11-01T12:39:35.492804+00:00",
+  "last_updated": "2026-11-02T14:43:50.945496+00:00",
   "news": [
+    {
+      "id": "n_0b5e87eb41",
+      "type": "news",
+      "title": "Mawisley militias abandon front lines in central Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/mawisley-militias-abandon-front-lines-central-somalia/",
+      "date": "2026-11-01",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Mogadishu",
+        "Clan Conflict",
+        "Militia"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Hawadle clan militias that fought Al Shabaab alongside government forces have abandoned front-line positions in Somalia’s central Hiran region, Caasimada Online news website reported on Sunday, as clan leaders push to form an administration independent of the feder"
+    },
+    {
+      "id": "n_104b383ccd",
+      "type": "news",
+      "title": "Somaliland:Israel Presents Credentials to Somaliland and Begins Building Its New Embassy in Hargeisa",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandisrael-presents-credentials-to-somaliland-and-begins-building-its-new-embassy-in-hargeisa/",
+      "date": "2026-11-01",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "Israel’s Ambassador to Somaliland, Michael Lotem, presented his credentials to President Abdirahman Mohamed Abdullahi last week in a historic ceremony at the Presidential Palace in Hargeisa. &#160; The ceremony marks another important step in strengthening relations between Israel and Somaliland, fo"
+    },
+    {
+      "id": "n_db151d2504",
+      "type": "news",
+      "title": "Puntland forces seize illegal weapons",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/puntland-forces-seize-illegal-weapons/",
+      "date": "2026-11-02",
+      "region": "Somalia",
+      "tags": [
+        "Security",
+        "Puntland"
+      ],
+      "excerpt": "The Puntland Police Force—specifically the Nugaal Regional Police Command—intercepted a truck carrying illegal weapons during a security and inspection operation at the Laacdheere vehicle checkpoint in Garowe. A press release issued by the Puntland Police Command stated that the vehicle was seized w"
+    },
+    {
+      "id": "n_9462fdf4ab",
+      "type": "news",
+      "title": "The President of Somaliland receives credentials from the Israeli Ambassador to Somaliland",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-president-of-somaliland-receives-credentials-from-the-israeli-ambassador-to-somaliland/",
+      "date": "2026-11-01",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel"
+      ],
+      "excerpt": "The President of the Republic of Somaliland, Mr. Abdirahman Mohamed Abdullahi Irro, received the credentials of the Ambassador of the State of Israel to the Republic of Somaliland, Mr. Michael Lotem, during a ceremony held at the Presidential Palace. This move signifies the strengthening of diplomat"
+    },
+    {
+      "id": "n_5aaf7fd5e1",
+      "type": "news",
+      "title": "Addis Ababa among Rare African Pioneers in Long-term Debt Financing Model: World Bank",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53788/",
+      "date": "2026-11-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Maritime"
+      ],
+      "excerpt": "Addis Ababa is among few cities in Sub-Saharan Africa outside South Africa to finance substantial foundational physical infrastructure through long-term contractual borrowing, underscoring the broader scarcity of municipal debt financing across the region, according to a World Bank report. Titled Su"
+    },
+    {
+      "id": "n_efc2269508",
+      "type": "news",
+      "title": "Ethiopian Anti-Doping Authority Flags 89 Percent of Athlete Evidence as Fabricated",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53782/",
+      "date": "2026-11-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The Ethiopian Anti-Doping Authority has revealed that 89 percent of the evidence submitted by athletes in doping-related cases is unreliable or fabricated, according to Director General Mekonnen Yidersal. In a comprehensive interview with The Reporter, Mekonnen stated that the authority is handling "
+    },
+    {
+      "id": "n_47730461b4",
+      "type": "news",
+      "title": "UN Climate Fund Backs USD30M for Mandera Triangle Project",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53779/",
+      "date": "2026-11-02",
+      "region": "Somalia",
+      "tags": [
+        "Ethiopia",
+        "Kenya",
+        "Somalia",
+        "Drought"
+      ],
+      "excerpt": "The Adaptation Fund has approved a USD30 million grant for a five-year regional climate resilience project spanning Ethiopia, Kenya, and Somalia, targeting pastoralist and agro-pastoralist communities vulnerable to recurring droughts and floods in cross-border areas. Implemented by the UNDP, the ini"
+    },
+    {
+      "id": "n_5ecaf73efd",
+      "type": "news",
+      "title": "Conflict Uproots 1.7 Million Ethiopians, Disasters Add 173,000: UNHCR",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53776/",
+      "date": "2026-11-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Displacement"
+      ],
+      "excerpt": "Conflict has displaced approximately 1.7 million people across Ethiopia, making up the vast majority of the country&#8217;s 1.9 million internally displaced population, according to the latest figures from the United Nations High Commissioner for Refugees (UNHCR). Natural disasters have driven an ad"
+    },
+    {
+      "id": "n_16d01e2363",
+      "type": "news",
+      "title": "Moscow Summit demands Compensation for Colonial-Era Damages on African Countries",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53769/",
+      "date": "2026-10-31",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Condemns Western Sanctions, Asset Freezing and Economic Coercion African heads of state and governments, including Ethiopian PM Abiy Ahmed, and Russian leadership have issued a pressing demand for historical accountability, pushing for the creation of binding legal mechanisms to assess and compensat"
+    },
+    {
+      "id": "n_ee06db7851",
+      "type": "news",
+      "title": "Opposition Parties, UN Agencies Sound Alarm Over Security Incidents, Civilian Safety in Ethiopia",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53766/",
+      "date": "2026-10-31",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "UN agencies report tens of thousands fled to Kenya Opposition political parties and United Nations agencies have voiced mounting concern over civilian casualties, security incidents, and displacement across parts of Ethiopia, urging immediate measures to protect citizens, investigate reported violat"
+    },
+    {
+      "id": "n_ccce5dde44",
+      "type": "news",
+      "title": "Ethiopia Overtakes Tanzania to Become Top LDC Services Exporter: WTO-OECD Report",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53763/",
+      "date": "2026-10-31",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopia has emerged as the largest commercial services exporter among the world’s least-developed countries (LDCs), accounting for 17 percent of the group’s total services exports in 2024, according to a joint report by the World Trade Organization (WTO) and the Organisation for Economic Co-operati"
+    },
+    {
+      "id": "n_159f81bba3",
+      "type": "news",
+      "title": "IMF to Review Implementation Schedule for Ethiopia’s New Economic Forecasting Model",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53759/",
+      "date": "2026-10-31",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "African Union"
+      ],
+      "excerpt": "The International Monetary Fund (IMF) plans to discuss the implementation timeline for Ethiopia’s new macroeconomic forecasting model with government authorities, as questions remain over the project’s completion following an initial September 2026 target. Ethiopia has been working with the IMF to o"
+    },
+    {
+      "id": "n_c22b4b3e41",
+      "type": "news",
+      "title": "Heat Stress Could Cost Ethiopia USD33.3bn in Annual GDP by 2040: ILO Warns",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53755/",
+      "date": "2026-10-31",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Rising temperatures could cost Ethiopia an estimated USD 33.3 billion in annual gross domestic product by 2040 through reduced labor productivity, according to a new study by the International Labour Organization (ILO), which warns that heat exposure is already adversely impacting employment and eco"
+    },
+    {
+      "id": "n_6986d40109",
+      "type": "news",
+      "title": "Press Freedom Is Not A Luxury!",
+      "source": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/53752/",
+      "date": "2026-10-31",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "When Ethiopia enacted its landmark Mass Media Proclamation in 2021, it was widely hailed as a watershed moment for democratic reform in the Horn of Africa. The law was designed to usher in a new era of open civic dialogue, explicitly guaranteeing editorial independence, decriminalizing defamation, a"
+    },
+    {
+      "id": "n_cc140cfa0b",
+      "type": "news",
+      "title": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss",
+      "date": "2026-11-02",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Military"
+      ],
+      "excerpt": "Recent military advances by Yemeni government forces highlight the geographic and strategic significance of Al-Jawf."
+    },
+    {
+      "id": "n_4ed77215bb",
+      "type": "news",
+      "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
+      "date": "2026-11-02",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says."
+    },
+    {
+      "id": "n_7f96a3746c",
+      "type": "news",
+      "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+      "date": "2026-11-02",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Houthi-affiliated media report that seven people were wounded in strikes on the city of Hodeidah."
+    },
+    {
+      "id": "n_4ffbb19954",
+      "type": "news",
+      "title": "Saudi-led coalition says it destroyed Houthi missile targeting kingdom's southern region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-missile-targeting-kingdoms",
+      "date": "2026-11-02",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi-led coalition says it destroyed Houthi missile targeting kingdom's southern region\n\n    \n    \n\n        \n    \n                The Saudi-led coalition said that its air defences&nbsp;intercepted and destroyed a Houthi ballistic missile that was heading toward Saudi Arabia’s southern region.\n\nEar"
+    },
     {
       "id": "n_5b0e734730",
       "type": "news",
@@ -4020,255 +4277,6 @@
         "Maritime"
       ],
       "excerpt": "Houthis say Saudi airports, Aramco facilities being targeted\n\n    \n    \n\n        \n    \n                Yemen’s Houthis on Monday said the group is actively targeting airports and Saudi Aramco oil facilities in Saudi Arabia with drones and ballistic missiles, Houthi military spokesperson Yahya Saree "
-    },
-    {
-      "id": "n_5e45555bc5",
-      "type": "news",
-      "title": "Ethiopia pushes to secure Red Sea access as Tigray war raises regional tensions",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/ethiopia-presses-secure-red-sea-access-tigray-war-raises-regional-tensions",
-      "date": "2026-10-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Red Sea",
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia pushes to secure Red Sea access as Tigray war raises regional tensions\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nTue, 10/06/2026 - 12:01\n\n        \n      \n    \n      \n    \n                Addis Ababa says its ‘legitimate interests’ in the Red Sea must be recog"
-    },
-    {
-      "id": "n_08f212fb9b",
-      "type": "news",
-      "title": "France pledges $3.36m in assistance to Yemen",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-pledges-336m-assistance-yemen",
-      "date": "2026-10-06",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "France pledges $3.36m in assistance to Yemen\n\n    \n    \n\n        \n    \n                France has pledged an additional $3.36m to Yemen as renewed fighting displaces more than 200,000 people.\n\n“The Houthi offensive in the ‌Bab al-Mandab strait has triggered a new humanitarian shock,” French Foreign "
-    },
-    {
-      "id": "n_e01b4a5b9a",
-      "type": "news",
-      "title": "Houthis say they targeted Saudi Arabia's Abha International Airport with missiles",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-arabias-abha-international-airport",
-      "date": "2026-10-06",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Houthis say they targeted Saudi Arabia's Abha International Airport with missiles\n\n    \n    \n\n        \n    \n                Yemen's Houthis said they targeted Saudi Arabia's Abha International Airport in the south-west of the country with missiles on Tuesday.\n\n\"We reiterate our warning to all intern"
-    },
-    {
-      "id": "n_76fa7eb8ec",
-      "type": "news",
-      "title": "US Navy helicopter disappears after declaring emergency over Red Sea near Saudi Arabia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-navy-helicopter-disappears-after-declaring-emergency-over-red-sea",
-      "date": "2026-10-06",
-      "region": "Red Sea",
-      "tags": [
-        "Red Sea",
-        "African Union"
-      ],
-      "excerpt": "US Navy helicopter disappears after declaring emergency over Red Sea near Saudi Arabia\n\n    \n    \n\n        \n    \n                A US Navy helicopter disappeared from publicly available flight-tracking data after it declared and emergency over the&nbsp;Red Sea near Saudi Arabia.\n\nThe Sikorsky MH-60R"
-    },
-    {
-      "id": "n_066274848f",
-      "type": "news",
-      "title": "Somalia: Al-Shabaab signs deal with Hawadle clan to end 4-year war",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-hawadle-deal-end-war-somalia/",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Mogadishu",
-        "Clan Conflict"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab said on Saturday it had signed an agreement with the Hawadle clan to end a four-year conflict in central Somalia&#8217;s Hiran region. The group&#8217;s Al Furqan media arm posted videos on Facebook of a meeting in the town of Mahas, attended by dozens o"
-    },
-    {
-      "id": "n_add8fc46b5",
-      "type": "news",
-      "title": "Ethiopia’s government forces retake Mekelle from Tigray rebels",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/ethiopia-retakes-mekelle-tigray-tplf-withdraws/",
-      "date": "2026-10-04",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Militia"
-      ],
-      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Ethiopian government forces and allied militias have regained control of the capital of Tigray, three sources told Reuters ​on Sunday, dealing a major setback to the ‌opposition alliance that rules the northern region. The Tigray People&#8217;s Liberation Front ("
-    },
-    {
-      "id": "n_2fdcac5222",
-      "type": "news",
-      "title": "The Somali Civil Aviation Authority denies that Aden Adde Airport is being closed.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-somali-civil-aviation-authority-denies-that-aden-adde-airport-is-being-closed/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "The Somali Civil Aviation Authority has stated that operations at Mogadishu’s Aden Adde International Airport are proceeding normally, dismissing circulated reports claiming the airport would close in the coming days. In a statement issued today, Monday, October 5, the Authority confirmed that there"
-    },
-    {
-      "id": "n_28c56ebbb5",
-      "type": "news",
-      "title": "Prof. Ahmed Ismail Samatar criticizes President Irro’s trip to the United States and the Somaliland embassy in Jerusalem.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/prof-ahmed-ismail-samatar-criticizes-president-irros-trip-to-the-united-states-and-the-somaliland-embassy-in-jerusalem/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Prof. Ahmed Ismail Samatar, a prominent Somali politician and scholar who has long commented on affairs concerning Somaliland and the Horn of Africa, has criticized the recent visit to the United States by Somaliland President Abdirahman Mohamed Abdullahi (Irro). Speaking from the United States, Pro"
-    },
-    {
-      "id": "n_37bdc8942b",
-      "type": "news",
-      "title": "Somalia, Egypt, Sudan, and Eritrea issue a warning to the Ethiopian government over GERD dam Dispute",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-egypt-sudan-and-eritrea-issue-a-warning-to-the-ethiopian-government-over-gerd-dam-dispute/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Somalia"
-      ],
-      "excerpt": "The leaders of Egypt, Sudan, Eritrea, and Somalia held a summit in the Egyptian coastal city of El Alamein, rejecting unilateral actions by Ethiopia that could harm the water rights of Egypt and Sudan—both of which are in a dispute with Ethiopia over the GERD dam. Egyptian President Abdel Fattah el-"
-    },
-    {
-      "id": "n_b51854a402",
-      "type": "news",
-      "title": "Prime Minister Hamza Barre visits Ballanbale for clan reconciliation efforts.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/prime-minister-hamza-barre-visits-ballanbale-for-clan-reconciliation-efforts/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "Clan Conflict"
-      ],
-      "excerpt": "Somali Prime Minister Hamza Abdi Barre arrived today in the town of Ballanbale, Galgaduud region, to participate in efforts to resolve a clan dispute stemming from past armed clashes. The Prime Minister&#8217;s visit comes as the federal government intensifies mediation efforts between the conflicti"
-    },
-    {
-      "id": "n_3290b0cc1f",
-      "type": "news",
-      "title": "Shabelle River Breaches at 366 Points; Flood Risk Rising",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/shabelle-river-breaches-at-366-points-flood-risk-rising/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Somali Disaster Management Agency (SODMA) has issued a warning regarding the risk of flooding from the Shabelle River, noting that the river has breached its banks at 366 critical locations. SODMA Commissioner Mohamud Moallim Abdulle stated that the river&#8217;s condition and long-standing negl"
-    },
-    {
-      "id": "n_ffb2797fb5",
-      "type": "news",
-      "title": "The Commander of the Somaliland National Army Met with the Athletes Who Achieved Success in the Hargeisa Half Marathon",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-commander-of-the-somaliland-national-army-met-with-the-athletes-who-achieved-success-in-the-hargeisa-half-marathon/",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Commander of the Somaliland National Army, Brigadier General Nimcaan Yusuf Gaaxnuug, received the &#8220;Gaashaan&#8221; National Army team—who achieved success in the Hargeisa International Half Marathon (21km)—at his General Headquarters office today. The Commander congratulated the athletes o"
-    },
-    {
-      "id": "n_e893a52b59",
-      "type": "news",
-      "title": "Puntland suspends Mudug Police Commander following the escape of pirate prisoners.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-suspends-mudug-police-commander-following-the-escape-of-pirate-prisoners/",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Puntland"
-      ],
-      "excerpt": "The Puntland Police Command has suspended the Mudug Regional Police Commander, Maxamuud Muuse Bile (known as Fardafuul), following an incident involving the escape of prisoners captured during an operation against pirates. The commander has been temporarily replaced by his deputy, Ayuub Siciid Cali "
-    },
-    {
-      "id": "n_9df1e1b150",
-      "type": "news",
-      "title": "The National Army Command Attends the Swearing-in Ceremony for Officer Cadets and the 22nd Gorgor Brigade",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-national-army-command-attends-the-swearing-in-ceremony-for-officer-cadets-and-the-22nd-gorgor-brigade/",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Deputy Commander of the Somali National Army, Brigadier General Madeey Nurey Sheikh Ufurow, attended an official ceremony marking the swearing-in of the 9th batch of officer cadets and the 22nd Brigade of the Gorgor Commandos of the Somali National Army. The event showcased the preparedness, dis"
-    },
-    {
-      "id": "n_6583d75a42",
-      "type": "news",
-      "title": "The Commander of the Somaliland National Army inspects military barracks and the Burao Hospital.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-commander-of-the-somaliland-national-army-inspects-military-barracks-and-the-burao-hospital/",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Military"
-      ],
-      "excerpt": "The Commander of the Somaliland National Army, Brigadier General Nimcaan Yuusuf Gaaxnuug, inspected several National Army barracks in the city of Burao today, specifically the 12th Division Headquarters. The Commander met with officers from the 12th Division Headquarters, inquiring about the general"
-    },
-    {
-      "id": "n_1f33222325",
-      "type": "news",
-      "title": "Taiwan hands over $1 million to Somaliland to strengthen kidney dialysis services.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/taiwan-hands-over-1-million-to-somaliland-to-strengthen-kidney-dialysis-services/",
-      "date": "2026-10-04",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Government of the Republic of Somaliland today received a $1 million grant from the Government of Taiwan, intended to strengthen, expand, and improve dialysis services provided in Somaliland hospitals. Taiwan’s Representative to Somaliland, Allen C. Lou, handed over the grant to Somaliland offic"
-    },
-    {
-      "id": "n_0ff6206e77",
-      "type": "news",
-      "title": "Parliament Reopens with Key Reshuffles in House Leadership",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53214/",
-      "date": "2026-10-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "As Ethiopia’s ruling Prosperity Party prepares to establish its second-term executive administration, significant leadership reshuffles have taken place within the national legislative bodies following the reopening of Parliament today. President Taye Atskeselassie, has opened the parliament session"
-    },
-    {
-      "id": "n_36e9d5d6fd",
-      "type": "news",
-      "title": "Drones over Addis: How Ethiopia’s rebels are trying to nationalise the war",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/432272/drones-over-addis-how-ethiopias-rebels-are-trying-to-nationalise-the-war/",
-      "date": "2026-10-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "A rebel alliance says it struck the heart of federal power days before Abiy Ahmeds swearing-in. Analysts say the goal is to stretch the army thin — and the neighbours are watching."
     }
   ],
   "articles": [
