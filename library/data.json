@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-11-02T14:43:50.945496+00:00",
+  "last_updated": "2026-11-03T13:36:41.577687+00:00",
   "news": [
+    {
+      "id": "n_cc7656e71f",
+      "type": "news",
+      "title": "Somalia opposition agrees to talks with president in test of readiness for electoral breakthrough",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-agrees-talks-president-electoral-breakthrough/",
+      "date": "2026-11-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s opposition National Salvation Forum has agreed to give President Hassan Sheikh Mohamud one final opportunity to resolve the country&#8217;s protracted political dispute through dialogue, signalling a possible breakthrough in a standoff over constitu"
+    },
+    {
+      "id": "n_01bf8d1aeb",
+      "type": "news",
+      "title": "Ugandan troops hand over Barawe and Shalanbood to Somali army in major security test",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/ugandan-troops-handover-barawe-shalanbood-somali-army/",
+      "date": "2026-11-03",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "SNA",
+        "Military",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Ugandan troops have handed over responsibility for security in the strategic towns of Barawe and Shalanbood in southern Somalia to the Somali National Army (SNA), ending more than a decade of military presence in the areas and presenting a critical test of the coun"
+    },
+    {
+      "id": "n_340cfc70a0",
+      "type": "news",
+      "title": "Uganda begins withdrawing troops deployed bilaterally in Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uganda-withdrawing-troops-deployed-bilaterally-somalia/",
+      "date": "2026-11-02",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Uganda’s military has begun withdrawing troops deployed in Somalia under bilateral arrangements with the Somali federal government, a spokesperson said on Monday. “The Uganda People’s Defence Forces (UPDF) has embarked on the drawdown of troops deployed in Somalia "
+    },
+    {
+      "id": "n_8063eeeef6",
+      "type": "news",
+      "title": "The UAE in Sudan",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/pod/africa/sudan/uae-sudan",
+      "date": "2026-10-30",
+      "region": "Somalia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "The UAE in Sudan\n\nhschaub\n\nFri, 10/30/2026 - 17:15\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                                                      "
+    },
+    {
+      "id": "n_e61d185795",
+      "type": "news",
+      "title": "The View from Eritrea",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea",
+      "date": "2026-10-30",
+      "region": "Eritrea",
+      "tags": [
+        "Eritrea",
+        "African Union"
+      ],
+      "excerpt": "The View from Eritrea\n\nhschaub\n\nFri, 10/30/2026 - 16:29\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                                                 "
+    },
+    {
+      "id": "n_9e7e6bcea9",
+      "type": "news",
+      "title": "Centrafrique : contenir les effets de la guerre au Soudan",
+      "source": "Crisis Group",
+      "url": "https://www.crisisgroup.org/fr/rpt/africa/central-african-republic-sudan/323-centrafrique-contenir-les-effets-de-la-guerre-au-soudan",
+      "date": "2026-10-29",
+      "region": "Somalia",
+      "tags": [
+        "African Union"
+      ],
+      "excerpt": "Central African Republic: Containing the Fallout from Sudan’s War\n\nmloukili\n\nThu, 10/29/2026 - 11:34\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n    "
+    },
+    {
+      "id": "n_7b9afd9185",
+      "type": "news",
+      "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia?traffic_source=rss",
+      "date": "2026-11-03",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Sudan demands UN accountability after devastating drone attacks expose a complex regional crisis."
+    },
     {
       "id": "n_0b5e87eb41",
       "type": "news",
@@ -4179,104 +4279,6 @@
         "Somalia"
       ],
       "excerpt": "Somali President Hassan Sheikh Mohamud stated that the war against Al-Shabaab may continue for some time, but there is no possibility of the group regaining overall control of the country. In an interview with Al Jazeera, the President noted that Al-Shabaab previously had a vast presence across the "
-    },
-    {
-      "id": "n_579a85b4e7",
-      "type": "news",
-      "title": "Inside Sudan’s War",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/pod/africa/sudan/inside-sudans-war",
-      "date": "2026-10-01",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Inside Sudan’s War\n\nmloukili\n\nThu, 10/01/2026 - 13:56\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                                                   "
-    },
-    {
-      "id": "n_a782ea64d3",
-      "type": "news",
-      "title": "Back to War in Ethiopia?",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/pod/africa/ethiopia/back-war-ethiopia-0",
-      "date": "2026-09-29",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Back to War in Ethiopia?\n\nhschaub\n\nTue, 09/29/2026 - 13:45\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                                              "
-    },
-    {
-      "id": "n_f710dc718e",
-      "type": "news",
-      "title": "South Sudan’s President Jettisons Unity Government and Hardens Grip on Power",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/anb/africa/south-sudan/south-sudans-president-jettisons-unity-government-and-hardens-grip-power",
-      "date": "2026-09-29",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "South Sudan’s President Jettisons Unity Government and Hardens Grip on Power\n\neschelhaas\n\nTue, 09/29/2026 - 11:07\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n  "
-    },
-    {
-      "id": "n_a42cf018bd",
-      "type": "news",
-      "title": "Pakistan, Turkiye join Saudi deterrence against Houthis: What that means",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
-      "date": "2026-10-06",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Islamabad says its role is defensive, but Riyadh&#039;s offensive in Yemen tests how long it can stay out of the fight."
-    },
-    {
-      "id": "n_80b887c799",
-      "type": "news",
-      "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss",
-      "date": "2026-10-06",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports."
-    },
-    {
-      "id": "n_2c930fb90c",
-      "type": "news",
-      "title": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "date": "2026-10-06",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "The internationally recognised government retakes territories from the Houthis as fighting rages on the western coast."
-    },
-    {
-      "id": "n_ea274b744e",
-      "type": "news",
-      "title": "Houthis say Saudi airports, Aramco facilities being targeted",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-airports-aramco-facilities-being-targeted",
-      "date": "2026-10-06",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "Houthis say Saudi airports, Aramco facilities being targeted\n\n    \n    \n\n        \n    \n                Yemen’s Houthis on Monday said the group is actively targeting airports and Saudi Aramco oil facilities in Saudi Arabia with drones and ballistic missiles, Houthi military spokesperson Yahya Saree "
     }
   ],
   "articles": [
