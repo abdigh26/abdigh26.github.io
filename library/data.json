@@ -1,6 +1,77 @@
 {
-  "last_updated": "2026-11-03T13:36:41.577687+00:00",
+  "last_updated": "2026-11-04T13:45:25.717298+00:00",
   "news": [
+    {
+      "id": "n_143bf53b71",
+      "type": "news",
+      "title": "Somaliland:Obama: Election Results Show Americans Want Unity, Not Division",
+      "source": "Somaliland Sun",
+      "url": "https://somalilandsun.com/somalilandobama-election-results-show-americans-want-unity-not-division/",
+      "date": "2026-11-04",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Elections"
+      ],
+      "excerpt": "Former US President Barack Obama has said that election results demonstrate that the American people want a politics that brings people together rather than divides them, and leaders who offer practical solutions to the challenges facing the country. &#160; In a post on his X account, Obama said tha"
+    },
+    {
+      "id": "n_3fe2022763",
+      "type": "news",
+      "title": "US forces have reportedly withdrawn from the Baledogle base in Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/us-forces-have-reportedly-withdrawn-from-the-baledogle-base-in-somalia/",
+      "date": "2026-11-04",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "U.S. forces have reportedly withdrawn from the Baledogle military base in the Lower Shabelle region, a site that has long served as a key hub for intelligence operations and efforts to combat the Al-Shabaab group in Somalia. According to the prominent newspaper *Stars and Stripes*, all U.S. troops h"
+    },
+    {
+      "id": "n_11733c79b4",
+      "type": "news",
+      "title": "Somaliland police Announce that 82 murders and 254 rape cases were recorded this year.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-police-announce-that-82-murders-and-254-rape-cases-were-recorded-this-year/",
+      "date": "2026-11-03",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The Somaliland Police Force has reported that 82 homicide cases were recorded across Somaliland this year. Authorities have apprehended suspects in 78 of these cases, while four individuals remain at large. According to data released by the police, 254 cases of rape were also recorded this year—crim"
+    },
+    {
+      "id": "n_a7a1f2aa37",
+      "type": "news",
+      "title": "The Excuse Is the Tell in the Violence Against Amhara Civilians",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/11/04/the-excuse-is-the-tell-in-the-violence-against-amhara-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=the-excuse-is-the-tell-in-the-violence-against-amhara-civilians&utm_source=rss&utm_medium=rss&utm_campaign=the-excuse-is-the-tell-in-the-violence-against-amhara-civilians",
+      "date": "2026-11-04",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Claims of self-defense risk concealing possible genocide.\nThe post The Excuse Is the Tell in the Violence Against Amhara Civilians appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_e4c25083df",
+      "type": "news",
+      "title": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
+      "date": "2026-11-04",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Blockade prompts warnings of a &#039;catastrophe&#039; as food, water, fuel and medical supplies are unable to reach city."
+    },
     {
       "id": "n_cc7656e71f",
       "type": "news",
@@ -4210,75 +4281,6 @@
         "Somaliland"
       ],
       "excerpt": "Somaliland Police Spokesperson, Senior Colonel Abdi-Aziz Sheikh Ismail, stated that the Environmental and Wildlife Protection Force will take legal action against anyone who violates Somaliland’s environment and wildlife. The spokesperson made these remarks during an awareness campaign on environmen"
-    },
-    {
-      "id": "n_679cf243f3",
-      "type": "news",
-      "title": "Somaliland’s Minister of Livestock Addresses the Kodayare Incident",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalilands-minister-of-livestock-addresses-the-kodayare-incident/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Security"
-      ],
-      "excerpt": "Somaliland’s Minister of Livestock, Omar Shu&#8217;ayb, addressed an incident that occurred in the Kodayare area of ​​Dacarbudhuq district, stating that the incident involved only one individual and that security forces are currently pursuing the person accused of committing the act. The Minister st"
-    },
-    {
-      "id": "n_9b1a60de49",
-      "type": "news",
-      "title": "Somaliland’s Minister of Environment Launches Environmental Protection Awareness Campaign in Awdal region",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalilands-minister-of-environment-launches-environmental-protection-awareness-campaign-in-awdal-region/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "African Union"
-      ],
-      "excerpt": "The Minister of Environment and Climate Change of Somaliland, Mr. Abdullahi Jama Osman (Geeljire), accompanied by the Governor of Awdal Region, Mr. Hassan Dahir (Hassan Iid), launched a major environmental awareness campaign in the Awdal region today. This awareness initiative, which involves the En"
-    },
-    {
-      "id": "n_f405a14dec",
-      "type": "news",
-      "title": "Danab Commando Forces Conduct a Planned Operation in Jowhar-yareey",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/danab-commando-forces-conduct-a-planned-operation-in-jowhar-yareey/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Danab"
-      ],
-      "excerpt": "The Danab Commando forces of the Somali National Army—specifically the 161st Company of the 16th Brigade—conducted a planned operation from last night through the early hours of this morning in the Jowhar-yareey area of ​​the Lower Shabelle region.  The operation focused on controlling the movement "
-    },
-    {
-      "id": "n_e07fdc57eb",
-      "type": "news",
-      "title": "Jubaland’s Minister of Security participates in the police-community partnership program in Gobweyn.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/jubalands-minister-of-security-participates-in-the-police-community-partnership-program-in-gobweyn/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Jubaland"
-      ],
-      "excerpt": "The Minister of Internal Security for the Jubaland State, Gen. Yusuf Hussein Osman (Dhuumaal), participated in a police-community partnership program in the Gobweyn area, aimed at strengthening the relationship and cooperation between security forces and the local community. The event was attended b"
-    },
-    {
-      "id": "n_30b0940a3e",
-      "type": "news",
-      "title": "President Hassan Sheikh: Al-Shabaab can no longer take over the whole of Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/president-hassan-sheikh-al-shabaab-can-no-longer-take-over-the-whole-of-somalia/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia"
-      ],
-      "excerpt": "Somali President Hassan Sheikh Mohamud stated that the war against Al-Shabaab may continue for some time, but there is no possibility of the group regaining overall control of the country. In an interview with Al Jazeera, the President noted that Al-Shabaab previously had a vast presence across the "
     }
   ],
   "articles": [
