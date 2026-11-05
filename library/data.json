@@ -1,6 +1,80 @@
 {
-  "last_updated": "2026-11-04T13:45:25.717298+00:00",
+  "last_updated": "2026-11-05T13:58:22.552813+00:00",
   "news": [
+    {
+      "id": "n_a85238687a",
+      "type": "news",
+      "title": "Somalia’s president dismisses chief justice to forestall ruling on constitution",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-dismisses-chief-justice-constitution-ruling/",
+      "date": "2026-11-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud on Wednesday dismissed Chief Justice Bashe Yusuf in a surprise move, days after the latter had taken up an opposition petition challenging the government&#8217;s new constitution and ordered the government to submit i"
+    },
+    {
+      "id": "n_4e6c624127",
+      "type": "news",
+      "title": "Turkey intensifies air campaign to shore up embattled Somali president as civilian death toll mounts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-airstrikes-somalia-civilian-deaths-president/",
+      "date": "2026-11-04",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; An elderly Somali woman, Hawo Madow, is among the latest civilian victims of Turkey’s intensifying aerial campaign across southern and central Somalia, as Ankara escalates its military intervention in what appears to be an effort to shore up the increasingly embatt"
+    },
+    {
+      "id": "n_64096e359a",
+      "type": "news",
+      "title": "A month after Yemen government offensive began, war of attrition takes hold",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+      "date": "2026-11-05",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia."
+    },
+    {
+      "id": "n_ee59bc9bb5",
+      "type": "news",
+      "title": "Yemen: Saudi air strikes reported in Sanaa, clashes in Lahij governorate",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-air-strikes-reported-sanaa-clashes-lahj-governorate",
+      "date": "2026-11-05",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Yemen: Saudi air strikes reported in Sanaa, clashes in Lahij governorate\n\n    \n    \n\n        \n    \n                Houthi affiliated media is reporting air strikes targeting the Hamdan district in Sanaa.\n\nMilitary spokesman Yahya Saree said 12 people, including six children, were killed in Saudi str"
+    },
+    {
+      "id": "n_ff1495f89e",
+      "type": "news",
+      "title": "Saudi-led coalition says it intercepted a Houthi-fired missile in the Medina region",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthis-fired-missile-medina",
+      "date": "2026-11-05",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Saudi-led coalition says it intercepted a Houthi-fired missile in the Medina region\n\n    \n    \n\n        \n    \n                The Saudi-led military coalition said on Thursday it had intercepted a missile fired by the Houthis towards the Medina region.\n\n“Interception and destruction of a ballistic m"
+    },
     {
       "id": "n_143bf53b71",
       "type": "news",
@@ -4207,80 +4281,6 @@
         "Maritime"
       ],
       "excerpt": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land."
-    },
-    {
-      "id": "n_96867f5466",
-      "type": "news",
-      "title": "Egypt, Somalia, Eritrea and Sudan summit: Red Sea, Nile and Ethiopia",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/egypt-somalia-eritrea-sudan-summit-ethiopia-red-sea-nile/",
-      "date": "2026-10-05",
-      "region": "Somalia",
-      "tags": [
-        "Red Sea",
-        "Ethiopia",
-        "Eritrea",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "CAIRO (Somaliguardian) &#8211; The leaders of Egypt, Somalia, Eritrea and Sudan have issued a consequential joint declaration on Somalia’s sovereignty, Sudan’s unity, Red Sea governance and Nile water security, creating a new framework for regional coordination as tensions with Ethiopia intensify. T"
-    },
-    {
-      "id": "n_c4423235ca",
-      "type": "news",
-      "title": "Yemen says forces have retaken strategic Bab el-Mandeb from Houthis",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/world/yemen-retakes-bab-el-mandeb-from-houthis/",
-      "date": "2026-10-05",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Bab el-Mandeb",
-        "African Union"
-      ],
-      "excerpt": "SANAA (Somaliguardian) &#8211; Saudi-backed Yemeni government forces have secured effective control of the Bab el-Mandeb Strait, Yemen&#8217;s ​Information Minister Moammar al-Eryani told Reuters on Monday, though fighting continues with Houthi forces in the area. The government forces advanced rapi"
-    },
-    {
-      "id": "n_87bec9143b",
-      "type": "news",
-      "title": "The President of Turkey announces that they have begun construction of their space center in Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-president-of-turkey-announces-that-they-have-begun-construction-of-their-space-center-in-somalia/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union"
-      ],
-      "excerpt": "Turkish President Recep Tayyip Erdogan announced the commencement of construction on a space launch facility in Somalia. Speaking at the opening of the International Astronautical Congress (IAC 2026) in Antalya on Monday, the President stated that they are establishing a new partnership with Somalia"
-    },
-    {
-      "id": "n_a4e44d13dd",
-      "type": "news",
-      "title": "Ahmed Shide becomes the first Somali to serve as Speaker of the Ethiopian House of Representatives.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/ahmed-shide-becomes-the-first-somali-to-serve-as-speaker-of-the-ethiopian-house-of-representatives/",
-      "date": "2026-10-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Elections"
-      ],
-      "excerpt": "The Ethiopian House of Peoples&#8217; Representatives elected Ahmed Shide as its Speaker yesterday, making him the first Somali to lead the lower house of the Ethiopian Federal Parliament. Ahmed Shide’s election took place during the inaugural session of Ethiopia’s 7th Parliament, as the country ent"
-    },
-    {
-      "id": "n_88269a9c27",
-      "type": "news",
-      "title": "Somaliland Police Issue Warning Regarding Environmental and Wildlife Violations",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-police-issue-warning-regarding-environmental-and-wildlife-violations/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Somaliland Police Spokesperson, Senior Colonel Abdi-Aziz Sheikh Ismail, stated that the Environmental and Wildlife Protection Force will take legal action against anyone who violates Somaliland’s environment and wildlife. The spokesperson made these remarks during an awareness campaign on environmen"
     }
   ],
   "articles": [
