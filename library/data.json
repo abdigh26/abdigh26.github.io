@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-11-05T13:58:22.552813+00:00",
+  "last_updated": "2026-11-06T13:43:28.592861+00:00",
   "news": [
+    {
+      "id": "n_e8caf4abcb",
+      "type": "news",
+      "title": "Somalia seeks 20,000 foreign troops as Turkey pledges 15,000 to bolster defences",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-turkey-15000-troops-20000-foreign-forces/",
+      "date": "2026-11-06",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Alarmed by the abrupt withdrawal of Ugandan forces, which reportedly caught the Somali government off guard, President Hassan Sheikh Mohamud has appealed to close allies, including Turkey, to provide 20,000 troops to replace departing Ugandan and other African Unio"
+    },
+    {
+      "id": "n_1ccf92eecc",
+      "type": "news",
+      "title": "Somalia supreme court nullifies constitutional amendments, orders elections within 90 days",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-nullifies-constitutional-amendments-orders-elections-90-days/",
+      "date": "2026-11-05",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s Supreme Court on Thursday declared null and void amendments to the country’s 2012 Provisional Constitution, invalidating the consequential extension of the mandates of the presidency and parliament and ordering that elections be held within 90 days. The l"
+    },
+    {
+      "id": "n_8eb6d02bb5",
+      "type": "news",
+      "title": "Somaliland electricity companies deny raising electricity prices and address their dispute with the government.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-electricity-companies-deny-raising-electricity-prices-and-address-their-dispute-with-the-government/",
+      "date": "2026-11-06",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "The electricity companies SomPower, Indho-birta, and Telesom Electric Company (TEC) have denied increasing electricity prices, stating that the rate of $0.59 per unit—established in January 2026—remains unchanged. The companies explained that the increases observed by some customers on their bills a"
+    },
+    {
+      "id": "n_4144e2b843",
+      "type": "news",
+      "title": "Born to be torn: A generation raised under Houthi rule in Yemen",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen?traffic_source=rss",
+      "date": "2026-11-06",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "As children are recruited to fight, the cost of failing to confront the Houthis is being felt far beyond Yemen."
+    },
     {
       "id": "n_a85238687a",
       "type": "news",
@@ -4219,68 +4276,6 @@
         "Ethiopia"
       ],
       "excerpt": "Ethiopia’s newly sworn-in government plans to raise the country’s tax-to-GDP ratio to 9.62 percent in the 2026/27 fiscal year, placing domestic revenue mobilization at the center of its economic agenda as PM Abiy Ahmed (PhD) begins a new term. President Taye Atske Selassie announced the target on Tu"
-    },
-    {
-      "id": "n_2d3c27b185",
-      "type": "news",
-      "title": "Ethiopia Reaffirms Rights over Nile, Red Sea as Regional Alliances Shift",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53223/",
-      "date": "2026-10-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "TPLF",
-        "Red Sea",
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia has reaffirmed its stance on the Abay River and its strategic interests in the Red Sea as diplomatic tensions with neighboring states escalate alongside renewed fighting between federal forces and the Tigray People&#8217;s Liberation Front (TPLF) in northern Ethiopia. Responding to regional"
-    },
-    {
-      "id": "n_c39126d2d6",
-      "type": "news",
-      "title": "Parliament Re-Elects Abiy Ahmed as Prime Minister",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53219/",
-      "date": "2026-10-05",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union",
-        "Elections"
-      ],
-      "excerpt": "The House of Peoples’ Representatives (HPR) convened this afternoon for its inaugural session following the national elections. During the session, the HPR officially re-elected Abiy Ahmed as Prime Minister of Ethiopia. Nominated by the ruling Prosperity Party, which secured a decisive parliamentary"
-    },
-    {
-      "id": "n_35a57b92f7",
-      "type": "news",
-      "title": "Egypt is trying to contain Ethiopia. Will it succeed?",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/432487/egypt-is-trying-to-contain-ethiopia-will-it-succeed/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "The North African country sees an opportunity to organise Ethiopia’s enemies – but it is unclear how strong an alliance Egypt has built with Eritrea, Sudan and Somalia, nor how Washington will respond."
-    },
-    {
-      "id": "n_3ea205616c",
-      "type": "news",
-      "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
-      "date": "2026-10-07",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land."
     }
   ],
   "articles": [
