@@ -1,6 +1,63 @@
 {
-  "last_updated": "2026-11-06T13:43:28.592861+00:00",
+  "last_updated": "2026-11-07T12:26:19.500291+00:00",
   "news": [
+    {
+      "id": "n_33d0506495",
+      "type": "news",
+      "title": "Hawadle clan chief issues sweeping call to arms against impending federal offensive in central Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/hawadle-clan-chief-call-to-arms-federal-offensive-central-somalia/",
+      "date": "2026-11-07",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Clan Conflict"
+      ],
+      "excerpt": "MOGADISHU  (Somaliguardian) &#8211; The Hawadle clan chief on Friday issued a sweeping call to arms, urging members of his clan to take up arms in defence of their ancestral territory, honour and the Hiran region against what he described as rival clans exploiting the federal government’s name to ad"
+    },
+    {
+      "id": "n_5de8644d87",
+      "type": "news",
+      "title": "Britain expresses security concerns regarding northern Kenya and warns of the threat from Al-Shabaab.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/britain-expresses-security-concerns-regarding-northern-kenya-and-warns-of-the-threat-from-al-shabaab/",
+      "date": "2026-11-07",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Ethiopia",
+        "Kenya",
+        "Security"
+      ],
+      "excerpt": "The British government has issued a new travel advisory for Kenya, advising its citizens against non-essential travel to the town of Moyale and areas near the Ethiopian border—specifically within a five-kilometer radius of the border—due to security concerns and the risk of attacks by Al-Shabaab. Th"
+    },
+    {
+      "id": "n_f88854206f",
+      "type": "news",
+      "title": "Ethiopia: A $201bn economy on paper, a heavier tax bill in practice",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/435714/ethiopia-a-201bn-economy-on-paper-a-heavier-tax-bill-in-practice/",
+      "date": "2026-11-06",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Addis Ababa says rebasing confirms Ethiopia as sub-Saharan Africa’s third-largest economy. Economists say the bigger number does little for borrowing or growth, but a lot for the taxman."
+    },
+    {
+      "id": "n_d53311f27b",
+      "type": "news",
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "date": "2026-11-07",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas."
+    },
     {
       "id": "n_e8caf4abcb",
       "type": "news",
@@ -4222,60 +4279,6 @@
         "Security"
       ],
       "excerpt": "The National Intelligence and Security Agency (NISA) of Somalia announced that a planned operation in Jilib district resulted in the killing of Bashir Ahmed Haji Nunow, whom it described as a former leader within Al-Shabaab’s security wing. According to a press release issued by NISA, the operation "
-    },
-    {
-      "id": "n_047773e64e",
-      "type": "news",
-      "title": "Hargeisa court sentences writer Adan Sahan to three years in prison.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/hargeisa-court-sentences-writer-adan-sahan-to-three-years-in-prison/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "The Hargeisa District Court today sentenced writer Adan Sahan to three years in prison; he had been detained in Hargeisa and was accused of offending religion. The charges against Adan Sahan stem from remarks made during an interview with Galaydh TV, in which he discussed his views on the role of wo"
-    },
-    {
-      "id": "n_40ec5adab7",
-      "type": "news",
-      "title": "Somalia’s Health Minister: 600 health facilities were at risk of closing.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalias-health-minister-600-health-facilities-were-at-risk-of-closing/",
-      "date": "2026-10-06",
-      "region": "Somalia",
-      "tags": [
-        "Somalia"
-      ],
-      "excerpt": "Somalia’s Minister of Health and Social Care, Dr. Ali Haji Adan, stated that nearly 600 health facilities operating in the country were at risk of closure due to a decline in health funding. The Minister noted that these facilities relied on external funding—which has dropped significantly—thereby j"
-    },
-    {
-      "id": "n_9e534a1c9b",
-      "type": "news",
-      "title": "The Eritrean Script Exposes Ethiopia’s Unity Farce",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/10/the-eritrean-script-exposes-ethiopias-unity-farce/?utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce&utm_source=rss&utm_medium=rss&utm_campaign=the-eritrean-script-exposes-ethiopias-unity-farce",
-      "date": "2026-08-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "Addis’ Tigray policies echo the mistakes that drove Eritrea away. Karl Marx famously observed that history repeats itself, first as tragedy, then as farce. Ethiopia is now living the second half of that maxim. The three-decade war that ended with Eritrea&#8217;s independence was the tragedy. What is"
-    },
-    {
-      "id": "n_47e0e9781c",
-      "type": "news",
-      "title": "New Government Targets 9.62 percent Tax-to-GDP Ratio amid Structural Economic Reforms",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53235/",
-      "date": "2026-10-06",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia’s newly sworn-in government plans to raise the country’s tax-to-GDP ratio to 9.62 percent in the 2026/27 fiscal year, placing domestic revenue mobilization at the center of its economic agenda as PM Abiy Ahmed (PhD) begins a new term. President Taye Atske Selassie announced the target on Tu"
     }
   ],
   "articles": [
