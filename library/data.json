@@ -1,6 +1,69 @@
 {
-  "last_updated": "2026-11-08T12:44:12.250033+00:00",
+  "last_updated": "2026-11-09T15:08:12.057021+00:00",
   "news": [
+    {
+      "id": "n_7018b89a57",
+      "type": "news",
+      "title": "Somalia: Senior NISA commander defects to Al-Shabaab, raising fears of intelligence breach",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-nisa-commander-defects-to-al-shabaab/",
+      "date": "2026-11-08",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Military",
+        "Security",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A senior commander of Somalia&#8217;s National Intelligence and Security Agency (NISA) paramilitary Duufaan unit has defected to Al-Shabaab, in an escalating intelligence war. The commander, identified by Somali media outlets as Luqman, led the Duufaan unit, a Turk"
+    },
+    {
+      "id": "n_08a4e8f4a5",
+      "type": "news",
+      "title": "Somalia Future Council welcomes supreme court ruling on president’s term extension",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-ruling-president-term-extension/",
+      "date": "2026-11-08",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s opposition Future Council on Sunday condemned what it described as an aggressive takeover of the Supreme Court by the country&#8217;s &#8220;term-expired&#8221; president, accusing his administration of seizing judicial headquarters and hunting down the c"
+    },
+    {
+      "id": "n_00eac95e87",
+      "type": "news",
+      "title": "Questions arise over a lull in the conflict as the U.S. goes six months without conducting airstrikes on ISIS bases in Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/questions-arise-over-a-lull-in-the-conflict-as-the-u-s-goes-six-months-without-conducting-airstrikes-on-isis-bases-in-somalia/",
+      "date": "2026-11-09",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Airstrikes",
+        "Maritime"
+      ],
+      "excerpt": "AFRICOM data indicates that since May 6, the U.S. has carried out 28 airstrikes in Somalia targeting Al-Shabaab, but has not reported any strikes against ISIS. However, the report notes that there are reports suggesting the United States carried out an airstrike on September 3, 2026, in the Togga Ba"
+    },
+    {
+      "id": "n_439bdb732d",
+      "type": "news",
+      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+      "date": "2026-11-09",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way"
+    },
     {
       "id": "n_d266b415b9",
       "type": "news",
@@ -4218,63 +4281,6 @@
         "African Union"
       ],
       "excerpt": "The African Union will launch Africa’s first continental credit rating agency, seeking to offer an alternative to the three major global ratings agencies as mounting debt burdens weigh on economies across the continent. The AU says the Africa Credit Rating Agency (AfCRA) will provide assessments bas"
-    },
-    {
-      "id": "n_af80c9cb10",
-      "type": "news",
-      "title": "Kenya Confirms First Ebola Case After Patient Dies",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53245/",
-      "date": "2026-10-07",
-      "region": "Kenya",
-      "tags": [
-        "Kenya"
-      ],
-      "excerpt": "Kenya confirmed its first Ebola case on Tuesday after a Kenyan citizen who had traveled from the Democratic Republic of Congo died in Nairobi, raising concerns about the spread of the virus across borders in East Africa. The man had been ill for about a month before traveling by road from Congo to U"
-    },
-    {
-      "id": "n_48fddc0739",
-      "type": "news",
-      "title": "Ethiopia launches drone strikes on Eritrean forces in Tigray",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/432735/ethiopia-launches-drone-strikes-on-eritrean-forces-in-tigray/",
-      "date": "2026-10-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Eritrea",
-        "African Union",
-        "Military"
-      ],
-      "excerpt": "Addis Ababa and Asmara edge closer to open conflict as overnight bombardment near Adigrat hits military convoys and shatter a fragile regional order."
-    },
-    {
-      "id": "n_b68c383b49",
-      "type": "news",
-      "title": "Fitsum Assefa: 10 things to know about Ethiopia’s new finance minister",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/432675/fitsum-assefa-10-things-to-know-about-ethiopias-new-finance-minister/",
-      "date": "2026-10-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "An academic and architect of Abiy Ahmed’s economic reforms, Fitsum Assefa must now secure funding to deliver them – while managing creditors, rising living costs and renewed war in Tigray."
-    },
-    {
-      "id": "n_7b17f0a8f4",
-      "type": "news",
-      "title": "Yemen’s government needs tribes to defeat the Houthis. Will they join?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join?traffic_source=rss",
-      "date": "2026-10-08",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Yemen&#039;s tribes could prove crucial to government&#039;s fight against the Houthis, but many may wait before choosing sides."
     }
   ],
   "articles": [
