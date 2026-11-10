@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-11-09T15:08:12.057021+00:00",
+  "last_updated": "2026-11-10T14:18:15.517963+00:00",
   "news": [
+    {
+      "id": "n_e303af13c0",
+      "type": "news",
+      "title": "Somalia: Mogadishu’s Daynile district gripped by deadly clashes amid forced evictions",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-mogadishu-daynile-deadly-clashes-forced-evictions/",
+      "date": "2026-11-09",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somali police personnel enforcing forced evictions and demolitions in Mogadishu’s Daynile district engaged in a fierce firefight with armed residents on Sunday, leaving casualties as the confrontation extended into a second day. The clashes erupted on Sunday aftern"
+    },
+    {
+      "id": "n_394e2070ed",
+      "type": "news",
+      "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
+      "date": "2026-11-10",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate."
+    },
     {
       "id": "n_7018b89a57",
       "type": "news",
@@ -4255,32 +4283,6 @@
         "African Union"
       ],
       "excerpt": "Prime Minister Abiy Ahmed (PhD) has unveiled a major institutional overhaul of Ethiopia’s federal bureaucracy as he begins his new five-year term, proposing a significant realignment of executive mandates without expanding the overall number of cabinet seats. A draft proclamation submitted to the Ho"
-    },
-    {
-      "id": "n_273c38b55b",
-      "type": "news",
-      "title": "Africa’s 2026 Growth Forecast Rises to 4.3%, World Bank Says",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53251/",
-      "date": "2026-10-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Africa’s economic growth is expected to accelerate to 4.3% in 2026 as stronger performances across the region boost the outlook, the World Bank said, while urging governments to harness artificial intelligence to increase productivity and create jobs. The region’s economy grew by 4.1% in 2025, the b"
-    },
-    {
-      "id": "n_c2a5a3562e",
-      "type": "news",
-      "title": "Africa to Launch Its Own Credit Rating Agency",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53248/",
-      "date": "2026-10-07",
-      "region": "Ethiopia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "The African Union will launch Africa’s first continental credit rating agency, seeking to offer an alternative to the three major global ratings agencies as mounting debt burdens weigh on economies across the continent. The AU says the Africa Credit Rating Agency (AfCRA) will provide assessments bas"
     }
   ],
   "articles": [
