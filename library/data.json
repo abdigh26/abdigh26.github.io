@@ -1,6 +1,167 @@
 {
-  "last_updated": "2026-11-10T14:18:15.517963+00:00",
+  "last_updated": "2026-11-11T13:31:46.290480+00:00",
   "news": [
+    {
+      "id": "n_51175aebc5",
+      "type": "news",
+      "title": "Cruz says Somalia ambassador confirmation depends on Somaliland recognition",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/cruz-somalia-ambassador-somaliland-recognition/",
+      "date": "2026-11-11",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Senator Ted Cruz has said he will condition his support for the confirmation of President Donald Trump’s nominee for US ambassador to Somalia on the State Department formally recognising Somaliland. At a Senate Foreign Relations Committee hearing on Tuesday, the Te"
+    },
+    {
+      "id": "n_8c0c7d7cce",
+      "type": "news",
+      "title": "Somalia army faces waves of desertions as soldiers abandon frontlines following clan leader’s call",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-army-desertions-hawadle-soldiers-abandon-frontlines/",
+      "date": "2026-11-10",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Military",
+        "Mogadishu",
+        "Clan Conflict"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s military is facing a potentially serious internal crisis after waves of soldiers from the Hawadle clan abandoned their positions in the national army and returned to Beledweyne, responding to a directive from their traditional leader, Ugas Yusuf Ugas Hass"
+    },
+    {
+      "id": "n_0b6a17df22",
+      "type": "news",
+      "title": "Eight killed in Al-Shabaab attack near Kenya-Somalia border",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/africa/eight-killed-suspected-al-shabaab-attack-kenya-somalia-border/",
+      "date": "2026-11-10",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Kenya",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Eight people &#8211; two police reservists, five construction workers and a driver &#8211; were killed in northeast Kenya on Tuesday in an attack by suspected Al-Shabaab militants near the Somali border, Reuters reported on Tuesday. Mandera County Police Commander "
+    },
+    {
+      "id": "n_8c44d5ebb6",
+      "type": "news",
+      "title": "The Somaliland government carries out the execution of 9 prisoners who had previously committed murders.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somaliland-government-carries-out-the-execution-of-9-prisoners-who-had-previously-committed-murders/",
+      "date": "2026-11-11",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland"
+      ],
+      "excerpt": "On Wednesday, the government of Somaliland carried out capital punishment (qisas) against nine individuals who had previously been sentenced to death by Somaliland courts after being convicted of various homicide offenses. The execution of these sentences followed an order signed by the President of"
+    },
+    {
+      "id": "n_ab4526f86d",
+      "type": "news",
+      "title": "The Federal Government and members of the Future Forum hold a meeting in Mogadishu.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-federal-government-and-members-of-the-future-forum-hold-a-meeting-in-mogadishu/",
+      "date": "2026-11-11",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Elections",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "Mogadishu – During a meeting held last night in Mogadishu between members of the Federal Government of Somalia and politicians from the &#8216;Madasha Mustaqbalka&#8217; (Future Forum), both sides reportedly reached an agreement on key issues concerning national security, elections, and the strength"
+    },
+    {
+      "id": "n_cc07d606e8",
+      "type": "news",
+      "title": "Senator Ted Cruz urges the new U.S. Ambassador to Somalia to work toward the recognition of Somaliland.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/senator-ted-cruz-urges-the-new-u-s-ambassador-to-somalia-to-work-toward-the-recognition-of-somaliland/",
+      "date": "2026-11-11",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "U.S. Senator Ted Cruz, representing the state of Texas, has strongly advocated for the cause of Somaliland, urging the administration of President Donald Trump to take formal steps toward recognizing Somaliland. Cruz’s remarks were made during a confirmation hearing for Devin Kennington—President Tr"
+    },
+    {
+      "id": "n_021737654a",
+      "type": "news",
+      "title": "At least 8 people killed in an ambush in Kenya’s Mandera County",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/at-least-8-people-killed-in-an-ambush-in-kenyas-mandera-county/",
+      "date": "2026-11-11",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Kenya"
+      ],
+      "excerpt": "At least eight people were killed in an ambush carried out by militants—suspected to be members of Al-Shabaab—against a convoy escorting workers engaged in a road construction project in the Mandera region of northeastern Kenya. The attack occurred on Tuesday morning, between 7:00 and 9:00 AM, near "
+    },
+    {
+      "id": "n_28f4f13e00",
+      "type": "news",
+      "title": "The United States confirms that it has withdrawn its forces from the Baledogle base.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-united-states-confirms-that-it-has-withdrawn-its-forces-from-the-baledogle-base/",
+      "date": "2026-11-11",
+      "region": "Somalia",
+      "tags": [
+        "Military"
+      ],
+      "excerpt": "The United States government has officially confirmed, for the first time, that its forces have withdrawn from the Baledogle military base in the Lower Shabelle region. The departure follows the deterioration of the base’s runway, the repair of which would have required tens of millions of dollars. "
+    },
+    {
+      "id": "n_7a107a519c",
+      "type": "news",
+      "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
+      "date": "2026-11-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis"
+      ],
+      "excerpt": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz."
+    },
+    {
+      "id": "n_6db0544f7a",
+      "type": "news",
+      "title": "A journey down Egypt's Red Sea coast to find Sufi saints and a mystical lyre",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/journey-down-egypts-red-sea-coast-revealed-sufi-saints-and-mystical-lyre",
+      "date": "2026-11-11",
+      "region": "Red Sea",
+      "tags": [
+        "Red Sea"
+      ],
+      "excerpt": "A journey down Egypt's Red Sea coast to find Sufi saints and a mystical lyre \n\n    \n    \n\n          \n      \n      \n        Submitted by \nSean Mathews\n on \nMon, 11/09/2026 - 10:44\n\n        \n      \n    \n      \n    \n                El-Quseir once welcomed explorers, warriors and Hajj pilgrims, but toda"
+    },
+    {
+      "id": "n_a0e0152d58",
+      "type": "news",
+      "title": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-saudi-arabia-urges-americans-exercise-heightened-vigilance",
+      "date": "2026-11-11",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'\n\n    \n    \n\n        \n    \n                The US embassy in Riyadh has warned Americans in Saudi Arabia and across the Middle East about potential \"threats\" from Iran and Yemen's Houthis.&nbs"
+    },
     {
       "id": "n_e303af13c0",
       "type": "news",
@@ -4125,164 +4286,6 @@
         "Military"
       ],
       "excerpt": "Yemen’s deputy defence minister says forces advancing on multiple fronts\n\n    \n    \n\n        \n    \n                Yemen’s deputy defence minister, Major General Samir al-Sabri, has said that the Houthi-held capital, Sanaa, remains a direct military target for government forces, Al Jazeera has repor"
-    },
-    {
-      "id": "n_e26a1b7d51",
-      "type": "news",
-      "title": "Saudi-led coalition says it destroyed three Houthi rocket-launch platforms",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-three-houthi-rocket-launch",
-      "date": "2026-10-09",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi-led coalition says it destroyed three Houthi rocket-launch platforms\n\n    \n    \n\n        \n    \n                Colonel Turki al-Maliki, spokesman for the Saudi-led coalition supporting Yemen’s internationally recognised government, said coalition forces had destroyed three rocket-launch platfo"
-    },
-    {
-      "id": "n_90bea57dd6",
-      "type": "news",
-      "title": "Pakistani premier condemns Houthi attacks on Saudi Arabia",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-premier-condemns-houthi-attacks-saudi-arabia",
-      "date": "2026-10-09",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Pakistani premier condemns Houthi attacks on Saudi Arabia\n\n    \n    \n\n        \n    \n                Pakistani Prime Minister Shehbaz Sharif condemned recent Houthi attacks targeting Saudi Arabia, including strikes on Riyadh's King Khalid International Airport, which resulted in casualties.&nbsp;\n\n\"I"
-    },
-    {
-      "id": "n_1e83b4705e",
-      "type": "news",
-      "title": "Eritrean troops seen in Ethiopia’s Tigray as fears of wider conflict grow",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/africa/eritrean-troops-seen-ethiopia-tigray-wider-conflict/",
-      "date": "2026-10-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "ADDIS ABABA (Somaliguardian) &#8211; Eritrean soldiers drove through the northern Ethiopian town of Adigrat on Wednesday, two witnesses told Reuters, days after the ​Horn of Africa neighbours severed diplomatic ties, raising fears of outright conflict. The sightings of Eritrean troops would be the f"
-    },
-    {
-      "id": "n_a2741bf164",
-      "type": "news",
-      "title": "Al-Shabaab kills people in Hiiraan, and fighting is underway in Tardo..",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/al-shabaab-kills-people-in-hiiraan-and-fighting-is-underway-in-tardo/",
-      "date": "2026-10-08",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Maritime"
-      ],
-      "excerpt": "Reports from the Tardo area in the Hiran region indicate that heavy fighting is underway between Al-Shabaab militants and local residents following an incident in the center of the area, according to the Tardo district commissioner speaking to Risaala Media. The fighting reportedly began after Al-Sh"
-    },
-    {
-      "id": "n_81e65a7601",
-      "type": "news",
-      "title": "Puntland operations and US airstrikes have crippled the revenue sources of ISIS in Somalia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/puntland-operations-and-us-airstrikes-have-crippled-the-revenue-sources-of-isis-in-somalia/",
-      "date": "2026-10-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Airstrikes",
-        "Puntland",
-        "Maritime"
-      ],
-      "excerpt": "The ISIS group in Somalia is facing a significant decline in its financial strength after operations by Puntland and U.S. support crippled networks that were crucial for collecting and transferring the group&#8217;s funds. According to a new report by the Africa Center for Strategic Studies, ISIS-So"
-    },
-    {
-      "id": "n_75febb472e",
-      "type": "news",
-      "title": "Somalia Commences medical screening for people arriving from Africa….",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-commences-medical-screening-for-people-arriving-from-africa/",
-      "date": "2026-10-08",
-      "region": "Somalia",
-      "tags": [
-        "Kenya",
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "Somalia has begun screening travelers arriving from African countries after Kenya confirmed a case of Ebola, with medical teams deployed to airports to monitor incoming passengers. This measure is part of efforts to strengthen Somalia&#8217;s preparedness and to detect potential cases early, before "
-    },
-    {
-      "id": "n_37071654a7",
-      "type": "news",
-      "title": "Ethiopia Cabinet Reshuffle: PM Abiy Fills Four Key Posts",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53269/",
-      "date": "2026-10-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Prime Minister Abiy Ahmed (PhD) has announced four key government appointments, following several cabinet reshuffles made earlier today. Under the new appointments, Alemtsehay Paulos steps in as the Minister of Mines, succeeding Habtamu Tegegn (Eng). Ambassador Betre Mengistu has been named Head of "
-    },
-    {
-      "id": "n_1bbf794a2f",
-      "type": "news",
-      "title": "Ethiopia Unveils New Cabinet Reshuffle",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53263/",
-      "date": "2026-10-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "women represent 41 percent Ethiopia’s House of Peoples’ Representatives on Thursday unanimously approved 22 ministerial nominees presented by Prime Minister Abiy Ahmed, formally establishing the Cabinet of the new  Government. The nominations were submitted during the second regular session of the 7"
-    },
-    {
-      "id": "n_0361386caa",
-      "type": "news",
-      "title": "Aman Properties Is Expanding Its Horizon: Sar Bet Is Next",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53260/",
-      "date": "2026-10-08",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "We have exciting news to share: Aman Properties is expanding to Sar Bet. After establishing developments in areas including Bisrate Gebriel, Kazanchis, Bole and Kara Kore, Aman Properties is widening its presence across the capital, with Sar Bet among the locations shaping what comes next. The expan"
-    },
-    {
-      "id": "n_b35618cafc",
-      "type": "news",
-      "title": "UN Warns of Aid Disruption in Tigray Following Looting of Humanitarian Depots",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53257/",
-      "date": "2026-10-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "The United Nations announced that a UN agency warehouse and several facilities operated by local and international humanitarian organizations have been looted in Tigray, as renewed fighting in northern Ethiopia severely disrupts aid operations and raises alarm over rising civilian casualties.&#160; "
-    },
-    {
-      "id": "n_4e76c37e4b",
-      "type": "news",
-      "title": "Government Overhauls Ministerial Mandates as Cabinet Reshuffle Looms",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53254/",
-      "date": "2026-10-07",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Prime Minister Abiy Ahmed (PhD) has unveiled a major institutional overhaul of Ethiopia’s federal bureaucracy as he begins his new five-year term, proposing a significant realignment of executive mandates without expanding the overall number of cabinet seats. A draft proclamation submitted to the Ho"
     }
   ],
   "articles": [
