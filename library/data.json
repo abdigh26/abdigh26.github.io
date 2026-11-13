@@ -1,6 +1,50 @@
 {
-  "last_updated": "2026-11-12T14:35:48.822856+00:00",
+  "last_updated": "2026-11-13T13:54:34.463113+00:00",
   "news": [
+    {
+      "id": "n_9443953101",
+      "type": "news",
+      "title": "Turkey denies plans to send 15,000 troops to Somalia amid security concerns",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/turkey-denies-15000-troops-somalia/",
+      "date": "2026-11-12",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Turkey has firmly denied reports that it plans to send 15,000 troops to Somalia, saying the claims do not reflect the truth. The Ministry of National Defense said its existing forces in Somalia would continue their training and advisory mission. The denial was issu"
+    },
+    {
+      "id": "n_2600549cc4",
+      "type": "news",
+      "title": "Tigray’s Liberation Must End in Freedom",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/09/16/tigrays-liberation-must-end-in-freedom/?utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom&utm_source=rss&utm_medium=rss&utm_campaign=tigrays-liberation-must-end-in-freedom",
+      "date": "2026-09-16",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "Ethiopia"
+      ],
+      "excerpt": "Liberation secured survival while leaving Tigray’s political order unfinished.\nThe post Tigray’s Liberation Must End in Freedom appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_230aa87995",
+      "type": "news",
+      "title": "Yemeni forces say they repelled large-scale Houthi attack in Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-say-they-repelled-large-scale-houthi-attack-taiz",
+      "date": "2026-11-13",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Yemeni forces say they repelled large-scale Houthi attack in Taiz\n\n    \n    \n\n        \n    \n                Yemeni government forces said they had repelled a large-scale Houthi attack on the al-Aqroud front in the southeast of Taiz governorate, following reports of violent clashes between the two si"
+    },
     {
       "id": "n_8c316d25a7",
       "type": "news",
@@ -4242,50 +4286,6 @@
         "Maritime"
       ],
       "excerpt": "MOGADISHU (Somaliguardian) &#8211; Forces loyal to Abdiasis Laftagaren, Somalia&#8217;s former Southwest leader, captured the strategic town of Qansah-dhere in the Bay region on Thursday without a gunfight, local media reported. The town, 90 kilometers west of Baidoa, is the first to pass fully out "
-    },
-    {
-      "id": "n_3271a56f76",
-      "type": "news",
-      "title": "Abdirashid Janan hands over his forces to Jubaland and flew to Nairobi.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/abdirashid-janan-hands-over-his-forces-to-jubaland-and-flew-to-nairobi/",
-      "date": "2026-10-09",
-      "region": "Somalia",
-      "tags": [
-        "Kenya",
-        "Jubaland"
-      ],
-      "excerpt": "Abdirashid Hassan Abdinur (Janan) has fully handed over the forces he commanded in the Beled-Hawo district of the Gedo region to the Jubaland administration, following days of negotiations between him and Jubaland officials. Local sources confirmed that Janan departed Mandera this morning on a Kenya"
-    },
-    {
-      "id": "n_3181c0e66d",
-      "type": "news",
-      "title": "Clash in the Tardo area of ​​Hiran Region leaves Al-Shabaab members dead.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/clash-in-the-tardo-area-of-hiran-region-leaves-al-shabaab-members-dead/",
-      "date": "2026-10-08",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Militia",
-        "Maritime"
-      ],
-      "excerpt": "Reports from the Hiran region indicate that a clash broke out today between local residents and Al-Shabaab militia in the area of ​​Tardo, located in the eastern part of the region. The confrontation, which resulted in the deaths of four Al-Shabaab fighters, was sparked by outrage over the militia&#"
-    },
-    {
-      "id": "n_7a66eceb29",
-      "type": "news",
-      "title": "Somalia signs agreement with Pakistan to purchase JF-17 fighter jets.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalia-signs-agreement-with-pakistan-to-purchase-jf-17-fighter-jets/",
-      "date": "2026-10-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "Somalia has reportedly entered into an agreement with Pakistan to acquire JF-17 Thunder fighter jets, a move that is part of the Federal Government of Somalia&#8217;s efforts to rebuild and modernize the country&#8217;s Air Force. Turkish media outlet TRHaber reported that Mogadishu and Islamabad ha"
     }
   ],
   "articles": [
