@@ -1,6 +1,52 @@
 {
-  "last_updated": "2026-11-13T13:54:34.463113+00:00",
+  "last_updated": "2026-11-14T12:57:02.410482+00:00",
   "news": [
+    {
+      "id": "n_8454edb9be",
+      "type": "news",
+      "title": "UN experts brand Somalia president’s removal of chief justice a direct assault on judicial independence",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/un-experts-somalia-president-chief-justice-judicial-independence/",
+      "date": "2026-11-14",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; In language of unusual severity, United Nations independent experts have condemned President Hassan Sheikh Mohamud’s abrupt dismissal of Somalia’s Chief Justice, Bashe Yusuf Ahmed, as a “blatant interference with the independence of the judiciary,” and have placed "
+    },
+    {
+      "id": "n_00bdc5971b",
+      "type": "news",
+      "title": "The Bone-Setters’ Ward: How Ancient Healers Are Filling Ethiopia’s Modern Healthcare Vacuum",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/11/the-bone-setters-ward-how-ancient-healers-are-filling-ethiopias-modern-healthcare-vacuum/?utm_source=rss&utm_medium=rss&utm_campaign=the-bone-setters-ward-how-ancient-healers-are-filling-ethiopias-modern-healthcare-vacuum",
+      "date": "2026-11-13",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Maritime"
+      ],
+      "excerpt": "Reporting from Bahir Dar, Ethiopia In a residential neighbourhood of Bahir Dar, in northwestern Ethiopia, patients visit the home of W/ro Birqe Yibre for help with injuries. Birqe, a traditional bone-setter known locally as a Wogesha, has practised for more than 20 years. One of her patients, Yiders"
+    },
+    {
+      "id": "n_67c8d094a9",
+      "type": "news",
+      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
+      "date": "2026-11-14",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia",
+        "Eritrea",
+        "Maritime"
+      ],
+      "excerpt": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support."
+    },
     {
       "id": "n_9443953101",
       "type": "news",
@@ -4242,50 +4288,6 @@
         "Maritime"
       ],
       "excerpt": "Yemeni government forces say they repelled Houthi attack north of Dhubab airport\n\n    \n    \n\n        \n    \n                Forces aligned with the Saudi-backed Yemeni government said on Saturday that they had repelled an attack by the Houthis on an area north of Dhubab airport.\n\nThe Southern Giant F"
-    },
-    {
-      "id": "n_4262b240ef",
-      "type": "news",
-      "title": "Morning recap",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-172",
-      "date": "2026-10-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Morning recap\n\n    \n    \n\n        \n    \n                \nGood morning, Middle East Eye readers,\n\nIf you are just joining us, here are the key developments from across the region and beyond:\n\n* Yemen's government has said more than 1,400 Houthi fighters were \"neutralised\" in more than 2,750 precision"
-    },
-    {
-      "id": "n_46d4748ebe",
-      "type": "news",
-      "title": "Sharif calls for ‘united national front to save Somalia’",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/sharif-sheikh-ahmed-calls-for-united-national-front-to-save-somalia/",
-      "date": "2026-10-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "African Union",
-        "Military",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Opposition leader and former President Sharif Sheikh Ahmed has warned that threats of force and military mobilization against political opponents risk pushing Somalia toward “chaos or authoritarianism.” He called for a broad national front to “save Somalia.” In a s"
-    },
-    {
-      "id": "n_9606b8112c",
-      "type": "news",
-      "title": "Somalia: Laftagaren forces take Qansah-dhere, west of Baidoa",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-laftagaren-forces-capture-qansah-dhere-baidoa/",
-      "date": "2026-10-08",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Forces loyal to Abdiasis Laftagaren, Somalia&#8217;s former Southwest leader, captured the strategic town of Qansah-dhere in the Bay region on Thursday without a gunfight, local media reported. The town, 90 kilometers west of Baidoa, is the first to pass fully out "
     }
   ],
   "articles": [
