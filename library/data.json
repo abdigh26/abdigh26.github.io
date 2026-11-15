@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-11-14T12:57:02.410482+00:00",
+  "last_updated": "2026-11-15T13:25:32.376459+00:00",
   "news": [
+    {
+      "id": "n_cbca7e93fe",
+      "type": "news",
+      "title": "Somalia election talks called by president Hassan Sheikh fail to start as opposition boycotts",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-president-hassan-sheikh-fail-start-opposition-boycott/",
+      "date": "2026-11-14",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The long-anticipated election talks called by President Hassan Sheikh Mohamud failed to open on Saturday as scheduled, after Somalia’s principal opposition alliance boycotted the gathering at Villa Somalia. Hours later, the presidency issued a terse statement affir"
+    },
+    {
+      "id": "n_a3a71e796a",
+      "type": "news",
+      "title": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss",
+      "date": "2026-11-15",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya"
+      ],
+      "excerpt": "Aid agencies are struggling to provide food, medical care and shelter to more than 50,000 Ethiopian refugees in Kenya."
+    },
     {
       "id": "n_8454edb9be",
       "type": "news",
@@ -4260,34 +4289,6 @@
         "African Union"
       ],
       "excerpt": "The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis."
-    },
-    {
-      "id": "n_e79f2fbf03",
-      "type": "news",
-      "title": "Yemen’s Taiz under siege again as food and fuel prices rise",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
-      "date": "2026-10-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege."
-    },
-    {
-      "id": "n_080606bd80",
-      "type": "news",
-      "title": "Yemeni government forces say they repelled Houthi attack north of Dhubab airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-say-they-repelled-houthi-attack-north-dhubab",
-      "date": "2026-10-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Yemeni government forces say they repelled Houthi attack north of Dhubab airport\n\n    \n    \n\n        \n    \n                Forces aligned with the Saudi-backed Yemeni government said on Saturday that they had repelled an attack by the Houthis on an area north of Dhubab airport.\n\nThe Southern Giant F"
     }
   ],
   "articles": [
