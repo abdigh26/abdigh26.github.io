@@ -1,6 +1,262 @@
 {
-  "last_updated": "2026-11-15T13:25:32.376459+00:00",
+  "last_updated": "2026-11-16T14:45:36.216424+00:00",
   "news": [
+    {
+      "id": "n_0efc718cde",
+      "type": "news",
+      "title": "World Bank weighs suspension of budget support to Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/world-bank-weighs-suspension-budget-support-somalia/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; The World Bank is weighing a temporary suspension of budget support to Somalia after the country’s Supreme Court ruled that President Hassan Sheikh Mohamud’s term has expired, Africa Intelligence reported on Monday, raising the prospect of a funding pause similar t"
+    },
+    {
+      "id": "n_881e07f384",
+      "type": "news",
+      "title": "Al-Shabaab fighters capture village near Mataban in central Somalia",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-coomaad-mataban-hiiraan/",
+      "date": "2026-11-15",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab fighters have captured the village of Coomaad, roughly 30km from the strategic town of Mataban in central Somalia’s Hiiraan region, local media reported on Sunday. Somali National Army troops withdrew after brief clashes, allowing the militants to take c"
+    },
+    {
+      "id": "n_00d79dd4f8",
+      "type": "news",
+      "title": "Somalia’s president seeks second Uganda visit in two weeks",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-seeks-second-uganda-visit-two-weeks/",
+      "date": "2026-11-15",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Maritime"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s President Hassan Sheikh Mohamud has requested a one-day visit to Kampala to meet President Yoweri Museveni, in a move that would take him to Uganda for the second time in a fortnight, The Somali Stream reported on Sunday. The request reflects Mogadi"
+    },
+    {
+      "id": "n_156e97553c",
+      "type": "news",
+      "title": "Somaliland sentences man who claimed he would run for President of Somalia—and the journalist who interviewed him—to prison.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-sentences-man-who-claimed-he-would-run-for-president-of-somalia-and-the-journalist-who-interviewed-him-to-prison/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Somalia"
+      ],
+      "excerpt": "The Maroodi-jeex Regional Court has sentenced politician Abdikadir Mohamed Sharaay—who has declared his candidacy for the presidency of Somalia—and journalist Abdirahman Egge, who conducted an interview with him, to prison terms. The court sentenced Abdikadir Sharaay to one year in prison, while jou"
+    },
+    {
+      "id": "n_4df03869f0",
+      "type": "news",
+      "title": "Somaliland Detains five American citizens and subsequently hands them over to the U.S. Embassy.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-detains-five-american-citizens-and-subsequently-hands-them-over-to-the-u-s-embassy/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Security"
+      ],
+      "excerpt": "The Somaliland National Intelligence Agency (NIA) announced that it has detained five American citizens—whose movements had been monitored since their arrival in Somaliland—on allegations that they were engaged in activities posing a threat to Somaliland’s security. In a statement released on Sunday"
+    },
+    {
+      "id": "n_88ece32101",
+      "type": "news",
+      "title": "Federal Government forces and AUSSOM troops conduct operations against Al-Shabaab in Lower Shabelle",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/federal-government-forces-and-aussom-troops-conduct-operations-against-al-shabaab-in-lower-shabelle/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union"
+      ],
+      "excerpt": "Forces from the Federal Government of Somalia and the African Union (AUSSOM) are conducting operations against Al-Shabaab in the Lower Shabelle region, located within the Southwest State. These joint forces are currently pursuing members of Al-Shabaab who, yesterday, launched an attack on Federal Go"
+    },
+    {
+      "id": "n_825edf18a0",
+      "type": "news",
+      "title": "Ugandan forces hand over five military bases located in the Baraawe district to Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/ugandan-forces-hand-over-five-military-bases-located-in-the-baraawe-district-to-somalia/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "SNA",
+        "African Union",
+        "Military",
+        "Security"
+      ],
+      "excerpt": "Ugandan forces, part of the African Union Support and Stabilization Mission in Somalia (AUSSOM), have handed over five military bases in the Baraawe area to the Somali National Army (SNA). This transfer is part of a security transition plan aimed at the gradual handover of responsibilities to Somali"
+    },
+    {
+      "id": "n_2914526126",
+      "type": "news",
+      "title": "Vehicles and troops defect from Sool and join Somaliland troops",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/vehicles-and-troops-defect-from-sool-and-join-somaliland-troops/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Military"
+      ],
+      "excerpt": "It has been confirmed that military vehicles and troops belonging to Sool region—stationed in the Sanaag region—departed from their bases late yesterday and defected to the Somaliland, specifically heading toward the town of Erigavo in the Sanaag region. The troops, who were traveling with two &#822"
+    },
+    {
+      "id": "n_c0c75def37",
+      "type": "news",
+      "title": "The Manager of the Somaliland Ports Authority participates in the Africa-Israel Economic Forum.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-manager-of-the-somaliland-ports-authority-participates-in-the-africa-israel-economic-forum/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "African Union",
+        "Israel",
+        "Maritime"
+      ],
+      "excerpt": "Tel Aviv, Israel &#124; The Manager of the Somaliland Ports Authority, Ali Dirie Ahmed, participated in the Africa-Israel Economic Forum held in Tel Aviv, Israel. The forum, hosted at the Yitzhak Rabin Center, was attended by representatives and officials from various African nations, with Ali Dirie"
+    },
+    {
+      "id": "n_9c73f63749",
+      "type": "news",
+      "title": "Al-Shabaab takes control of the key area of ​​Coomaad.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/al-shabaab-takes-control-of-the-key-area-of-coomaad/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Reports from the Hiiraan region indicate that Al-Shabaab militants seized control of the Coomaad area—located under the jurisdiction of the town of Matabaan—following a battle this morning. According to reports, the Al-Shabaab fighters launched the assault from the direction of the Hees area, advanc"
+    },
+    {
+      "id": "n_a744f585bb",
+      "type": "news",
+      "title": "Somali President Says Israel and Taiwan pose a threat to the existence of Somalia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-president-says-israel-and-taiwan-pose-a-threat-to-the-existence-of-somalia/",
+      "date": "2026-11-16",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Israel",
+        "Mogadishu"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud has stated that Israel and Taiwan pose a threat to the existence and sovereignty of Somalia, accusing both parties of taking actions against the country’s unity. The President made these remarks at an event in Mogadishu marking the launch of the construction of"
+    },
+    {
+      "id": "n_d66e98e250",
+      "type": "news",
+      "title": "Ethiopia’s stock market faces liquidity test as it courts foreign investors",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/436437/ethiopias-stock-market-faces-liquidity-test-as-it-courts-foreign-investors/",
+      "date": "2026-11-16",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia’s nascent stock exchange is courting foreign investors and domestic fund managers to boost sluggish trading volumes and build deeper market liquidity."
+    },
+    {
+      "id": "n_69ed67dd44",
+      "type": "news",
+      "title": "Ethiopia: Meet the 23 ministers Abiy put through military boot camp",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/436002/ethiopia-meet-the-23-ministers-abiy-put-through-military-boot-camp/",
+      "date": "2026-11-16",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Military"
+      ],
+      "excerpt": "As Ethiopia grapples with renewed fighting, regional tensions and economic pressures, Prime Minister Abiy Ahmed has sent his new cabinet for military training. Who are the 23 figures entrusted with delivering his second-term agenda?"
+    },
+    {
+      "id": "n_7dab543887",
+      "type": "news",
+      "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb?traffic_source=rss",
+      "date": "2026-11-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Houthis edge closer to Aden as Yemeni forces retreat from the Red Sea coast, threatening global maritime security."
+    },
+    {
+      "id": "n_4994486181",
+      "type": "news",
+      "title": "Saudi-backed forces retreat from Bab al-Mandab as Houthis gain ground",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-backed-forces-retreat-bab-al-mandab-houthis-gain-ground",
+      "date": "2026-11-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Saudi-backed forces retreat from Bab al-Mandab as Houthis gain ground\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nMon, 11/16/2026 - 12:09\n\n        \n      \n    \n      \n    \n                The Southern Armed Forces say the move is intended to reinforce Aden, while the Ho"
+    },
+    {
+      "id": "n_6b22ab9dc9",
+      "type": "news",
+      "title": "Saudi Arabia removes commander of military coalition in Yemen from his post",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-removes-commander-military-coalition-yemen-his-post",
+      "date": "2026-11-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military",
+        "Maritime"
+      ],
+      "excerpt": "Saudi Arabia removes commander of military coalition in Yemen from his post\n\n    \n    \n\n        \n    \n                Saudi Arabia on Monday dismissed the commander of the military coalition supporting the internationally-recognised Yemeni government against the Houthis, the Saudi Press Agency (SPA)"
+    },
+    {
+      "id": "n_66b7c7f75a",
+      "type": "news",
+      "title": "Attack reported targeting Yemen’s Hodeidah airport",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-hodeidah-airport-targeted-air-strikes",
+      "date": "2026-11-16",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "Maritime"
+      ],
+      "excerpt": "Attack reported targeting Yemen’s Hodeidah airport \n\n    \n    \n\n        \n    \n                An air strike targeted the&nbsp;Hodeidah airport, located on Yemen’s Red Sea coast,&nbsp;Houthi-affiliated media reported."
+    },
     {
       "id": "n_cbca7e93fe",
       "type": "news",
@@ -4054,241 +4310,6 @@
         "Israel"
       ],
       "excerpt": "Somaliland’s Ambassador to Israel, Mohamed Omar Haji Mohamoud, addressed the meeting held by the leaders of Somalia, Eritrea, Egypt, and Sudan—which was reportedly aimed at opposing Somaliland’s recognition—stating that political gatherings lack the authority to determine Somaliland’s future. Commen"
-    },
-    {
-      "id": "n_984544f1f8",
-      "type": "news",
-      "title": "Kenya: Hagadera police commander and his driver killed in landmine blast.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/kenya-hagadera-police-commander-and-his-driver-killed-in-landmine-blast/",
-      "date": "2026-10-09",
-      "region": "Kenya",
-      "tags": [
-        "Kenya",
-        "Security"
-      ],
-      "excerpt": "A vehicle belonging to the Kenyan police was struck by a suspected landmine while traveling on the road connecting Saretho and Dadaab in Garissa County, an area where security concerns persist. The police commander of the Xagardheere station and his driver were killed when a landmine blast hit their"
-    },
-    {
-      "id": "n_b23fd078a1",
-      "type": "news",
-      "title": "The Error in Tsmido’s Trial and Error",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/09/17/the-error-in-tsmidos-trial-and-error/?utm_source=rss&utm_medium=rss&utm_campaign=the-error-in-tsmidos-trial-and-error&utm_source=rss&utm_medium=rss&utm_campaign=the-error-in-tsmidos-trial-and-error",
-      "date": "2026-09-17",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Why Ethiopia’s emerging anti-Abiy alignment cannot defer what comes next\nThe post The Error in Tsmido’s Trial and Error appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_f985ac6e47",
-      "type": "news",
-      "title": "Ethiopia Accuses Eritrea of Military Incursions across Three Tigray Zones",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53378/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia",
-        "Eritrea",
-        "Military"
-      ],
-      "excerpt": "Ethiopia has accused Eritrea of deploying troops &#8211; including mechanized units , up to 60km inside its territory across three zones of Tigray regional state, in a letter to the United Nations warning of violations of its sovereignty and territorial integrity. Ethiopia has formally accused neigh"
-    },
-    {
-      "id": "n_613dfc44b8",
-      "type": "news",
-      "title": "Ethiopia Authorizes Sovereign Guarantees for Strategic Investors to Boost Bankability",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53376/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "Ethiopia has established a new legal framework authorizing the Ministry of Finance to issue binding compensation commitments to investors in strategic projects, potentially holding the federal government liable for losses caused by state actions or defaults by public entities. Dubbed ‘Council of Min"
-    },
-    {
-      "id": "n_2cd2f97abf",
-      "type": "news",
-      "title": "Rights Commission Warns of Alarming Deterioration in Right to Life, Personal Security",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53373/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Security"
-      ],
-      "excerpt": "By Sisay Sahlu and Abraham Tekle Persistent armed conflicts and widespread security breakdowns across multiple regions in Ethiopia have pushed the right to life and personal security into an ‘alarming’ state, the Ethiopian Human Rights Commission (EHRC) announced. Releasing its fifth annual human ri"
-    },
-    {
-      "id": "n_b52cf14280",
-      "type": "news",
-      "title": "Government Steps In to Finish Kombolcha Railway as London Arbitration Nears Conclusion",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53369/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Ethiopian government has taken over the restoration of the stalled Awash–Kombolcha–Hara Gebeya railway line, with the Ethiopian Railways Corporation (ERC) deploying its own workforce, machinery, and materials to revive the corridor project while arbitration with former contractor Yapı Merkezi ne"
-    },
-    {
-      "id": "n_e9e5ee1500",
-      "type": "news",
-      "title": "Ethiopian Airlines Paid USD6Mln for Carbon Credits as Regulatory Pressures, Taxes Mount",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53366/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopian Airlines paid USD6 million for carbon credits during the 2025/26 fiscal year, as international emissions mandates and a growing wave of regulatory costs place mounting financial pressure on the aviation industry, according to the airline’s chief executive. Speaking at the fourth East Afric"
-    },
-    {
-      "id": "n_9bcc111cd3",
-      "type": "news",
-      "title": "Ethiopia Grants State Enterprises Three-Year Grace Period to Write Off Decade-Old Receivables",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53361/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Ministry of Finance has introduced a landmark legal framework allowing state-owned enterprises to clean up their balance sheets by writing off long-standing receivables, unpaid payables, and obsolete assets that have accumulated over years of operations.  Issued under Directive No. 1151/2026, th"
-    },
-    {
-      "id": "n_e6c7f70516",
-      "type": "news",
-      "title": "National Unity Vital To Defending Sovereignty From Foreign Aggression",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53358/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "The Horn of Africa stands once again at a perilous precipice. Eritrea’s recent deployment of troops deep into northern Ethiopia represents a flagrant act of belligerence and a direct violation of international law. For a nation like Eritrea, which has historically sought to exploit Ethiopia&#8217;s "
-    },
-    {
-      "id": "n_d1d99ef27c",
-      "type": "news",
-      "title": "Ethiopia Returns Unspent USD109mln World Bank Loan as Modjo–Hawassa Expressway Wraps Up",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53355/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia has cancelled approximately USD108.9 million in unwithdrawn credits under a long-running World Bank expressway project following multiple budget adjustments, competitive procurement savings, and final project closeout procedures. According to World Bank documentation spanning May 2020 throu"
-    },
-    {
-      "id": "n_8b1e7d6859",
-      "type": "news",
-      "title": "Central Bank Plans Tax Overhaul to Eliminate Double Taxation in Interest-Free Finance",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53347/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "African Union"
-      ],
-      "excerpt": "The National Bank of Ethiopia (NBE) is planning a comprehensive review and amendment of the country’s tax framework to eliminate financial distortions and overlapping tax liabilities that currently hinder interest-free finance. The proposed reforms are a cornerstone of the central bank’s newly relea"
-    },
-    {
-      "id": "n_984a8e6f3b",
-      "type": "news",
-      "title": "CBE Cuts NPL Ratio to 2.15% as Strong Loan Recovery, Digital Push Clean-Up Balance Sheet",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53344/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Commercial Bank of Ethiopia (CBE) reduced its Non-Performing Loan (NPL) ratio to 2.15 percent in the 2025/26 financial year, far below the National Bank of Ethiopia’s (NBE) 5 percent regulatory limit for commercial banks. The significant drop in non-performing assets comes as the state-owned ban"
-    },
-    {
-      "id": "n_81a05a961c",
-      "type": "news",
-      "title": "Tigray insurgency withers as federal forces enter Shire and resume flights to Mekelle",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/432910/tigray-insurgency-withers-as-federal-forces-enter-shire-and-resume-flights-to-mekelle/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Tigray",
-        "Ethiopia"
-      ],
-      "excerpt": "Defections and retreating rebels leave a power vacuum in northern Ethiopia, raising the stakes in an escalating diplomatic standoff over sea access."
-    },
-    {
-      "id": "n_1a60f09c3e",
-      "type": "news",
-      "title": "Enemies of Convenience: Ethiopia’s New Opposition Alignment and the Question of What Comes Next",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/10/enemies-of-convenience-ethiopias-new-opposition-alignment-and-the-question-of-what-comes-next/?utm_source=rss&utm_medium=rss&utm_campaign=enemies-of-convenience-ethiopias-new-opposition-alignment-and-the-question-of-what-comes-next",
-      "date": "2026-10-09",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "On September 20, 2026, seven Ethiopian armed and political movements announced the formation of the Ethiopian Peoples’ Forces Coalition for Survival, declaring that they sought to remove the Prosperity Party-led government and establish an inclusive transitional government. The announcement was foll"
-    },
-    {
-      "id": "n_dc4f0ad51f",
-      "type": "news",
-      "title": "Ethiopia’s volatile politics: the June 2026 parliamentary elections, the National Dialogue, and violent conflict",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/10/ethiopias-volatile-politics-the-june-2026-parliamentary-elections-the-national-dialogue-and-violent-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopias-volatile-politics-the-june-2026-parliamentary-elections-the-national-dialogue-and-violent-conflict",
-      "date": "2026-10-09",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Elections"
-      ],
-      "excerpt": "In a surprise to absolutely no one, Ethiopia’s ruling Prosperity Party (PP) led by PM Abiy Ahmed won the 1 June 2026 parliamentary elections in a landslide. The outcome has evoked few commentaries in the global media or even in Ethiopia itself. There was a c. 90% win of parliamentary seats for the P"
-    },
-    {
-      "id": "n_a98e8370b1",
-      "type": "news",
-      "title": "How Middle Eastern powers are reshaping Somalia’s political order",
-      "source": "African Arguments",
-      "url": "https://africanarguments.org/2026/10/how-middle-eastern-powers-are-reshaping-somalias-political-order/?utm_source=rss&utm_medium=rss&utm_campaign=how-middle-eastern-powers-are-reshaping-somalias-political-order",
-      "date": "2026-10-09",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Red Sea",
-        "Somalia",
-        "Israel"
-      ],
-      "excerpt": "In June, when Somaliland’s president, Abdirahman Mohamed Abdullahi, stood alongside Israeli prime minister Benjamin Netanyahu, the latter drew attention to the geography connecting them. Israel and Somaliland, Netanyahu said, sit at opposite ends of the Red Sea but share an interest in confronting “"
-    },
-    {
-      "id": "n_03e059591b",
-      "type": "news",
-      "title": "Saudi-led coalition says it’s carrying out operation in Yemen",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
-      "date": "2026-10-10",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis."
     }
   ],
   "articles": [
