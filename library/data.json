@@ -1,6 +1,81 @@
 {
-  "last_updated": "2026-11-17T15:28:53.751155+00:00",
+  "last_updated": "2026-11-18T15:04:16.115358+00:00",
   "news": [
+    {
+      "id": "n_2ba9ec8258",
+      "type": "news",
+      "title": "UAE divided Libya and Yemen; It now seeks the same for Somalia and Sudan, president Mohamud declares",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/mohamud-uae-divided-libya-yemen-targets-somalia-sudan/",
+      "date": "2026-11-17",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s President Hassan Sheikh Mohamud on Tuesday launched his first scathing public assault on the United Arab Emirates &#8211; hitherto one of his most steadfast external patrons &#8211; in a calculated broadside that analysts regard as a transparent attempt t"
+    },
+    {
+      "id": "n_0270cf9724",
+      "type": "news",
+      "title": "Jubaland police in Kismayo arrest four youths suspected of human smuggling",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/jubaland-police-in-kismayo-arrest-four-youths-suspected-of-human-smuggling/",
+      "date": "2026-11-18",
+      "region": "Somalia",
+      "tags": [
+        "Jubaland",
+        "Kismayo",
+        "Maritime"
+      ],
+      "excerpt": "The Jubaland State Police Force has apprehended four young individuals—a mix of men and women—in the city of Kismayo. Police officials stated that the group was involved in a human smuggling scheme intended to transport young people to foreign countries. Jubaland Police spokesperson, Captain (Dhamme"
+    },
+    {
+      "id": "n_4326b3e430",
+      "type": "news",
+      "title": "President Hassan Sheikh accuses the UAE of interference against the unity and sovereignty of Somalia.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/president-hassan-sheikh-accuses-the-uae-of-interference-against-the-unity-and-sovereignty-of-somalia/",
+      "date": "2026-11-18",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud has accused the United Arab Emirates (UAE) of interfering in Somalia’s internal affairs for years, alleging that it has provided political, financial, and security support to factions that undermine the country’s unity and statehood. In a recent address to the "
+    },
+    {
+      "id": "n_473cd484ec",
+      "type": "news",
+      "title": "NISA states that it killed a senior official—a member of the group’s finance leadership—during an operation against Al-Shabaab.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/nisa-states-that-it-killed-a-senior-official-a-member-of-the-groups-finance-leadership-during-an-operation-against-al-shabaab/",
+      "date": "2026-11-18",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Security"
+      ],
+      "excerpt": "The National Intelligence and Security Agency of Somalia (NISA), in collaboration with international partners, announced that it carried out two planned operations in the Moqokori district of the Hiiraan region, targeting senior figures within the Al-Shabaab group. In a press release issued on Novem"
+    },
+    {
+      "id": "n_31afff0d59",
+      "type": "news",
+      "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+      "date": "2026-11-18",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen."
+    },
     {
       "id": "n_fb162fafbb",
       "type": "news",
@@ -4237,76 +4312,6 @@
         "Maritime"
       ],
       "excerpt": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh."
-    },
-    {
-      "id": "n_adb4bdb9c7",
-      "type": "news",
-      "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
-      "date": "2026-10-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "Airstrikes"
-      ],
-      "excerpt": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis."
-    },
-    {
-      "id": "n_5a153cdce0",
-      "type": "news",
-      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-      "date": "2026-10-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade."
-    },
-    {
-      "id": "n_976f9b99e0",
-      "type": "news",
-      "title": "Yemen’s Health Ministry raises alarm over ‘near depletion’ of medical, fuel supplies in Taiz",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-health-ministry-raises-alarm-over-near-depletion-medical-fuel",
-      "date": "2026-10-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Yemen’s Health Ministry raises alarm over ‘near depletion’ of medical, fuel supplies in Taiz\n\n    \n    \n\n        \n    \n                Yemen’s Health Ministry warned on Sunday of “serious health and humanitarian repercussions” facing the city of Taiz as a result of the Houthis' obstruction of the de"
-    },
-    {
-      "id": "n_d03a409255",
-      "type": "news",
-      "title": "Iraq, EU leaders denounce alleged Houthi attack on Riyadh airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-eu-leaders-denounce-houthi-attack-ridadh-airport",
-      "date": "2026-10-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Iraq, EU leaders denounce alleged Houthi attack on Riyadh airport\n\n    \n    \n\n        \n    \n                Several international leaders issued condemnations on Sunday following the alleged Houthi attack a day earlier on Saudi Arabia's King Khalid International Airport in Riyadh.&nbsp;\n\nIraq called"
-    },
-    {
-      "id": "n_14849aea8b",
-      "type": "news",
-      "title": "Attack on Riyadh airport leaves 12 dead, more than 300 injured",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-riyadh-airport-leaves-12-dead-more-300-injured",
-      "date": "2026-10-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Attack on Riyadh airport leaves 12 dead, more than 300 injured\n\n    \n    \n\n        \n    \n                At least 12 people were killed and 309 others injured in an attack on Saudi Arabia's King Khalid International Airport in Riyadh as Yemen's Houthis escalated the campaign they launched this summe"
     }
   ],
   "articles": [
