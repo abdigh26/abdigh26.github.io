@@ -1,6 +1,77 @@
 {
-  "last_updated": "2026-11-18T15:04:16.115358+00:00",
+  "last_updated": "2026-11-19T15:13:48.885721+00:00",
   "news": [
+    {
+      "id": "n_46d94b2750",
+      "type": "news",
+      "title": "Labour MPs quit Somaliland group over Israel and far-right ties",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/labour-mps-quit-somaliland-group-israel-restore-britain/",
+      "date": "2026-11-18",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Two Labour MPs have withdrawn from the All-Party Parliamentary Group on Somaliland, citing a decisive shift in the forum’s direction after Israel’s recognition of the breakaway territory and the chair’s ties to the hard-right Restore Britain party, Middle East Eye "
+    },
+    {
+      "id": "n_51a9721c03",
+      "type": "news",
+      "title": "UAE’s Gargash rejects Somalia president’s interference claims",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/uae-gargash-rejects-somalia-president-interference-claims/",
+      "date": "2026-11-18",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; A senior Emirati official on Wednesday rejected accusations by Somalia’s president that the United Arab Emirates had interfered in the country’s internal affairs, describing the remarks as a product of shifting positions and domestic political calculations. Anwar G"
+    },
+    {
+      "id": "n_cc7458f6f8",
+      "type": "news",
+      "title": "Djibouti plays referee in new Gulf war between Emiratis and Saudis",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/436950/djibouti-plays-referee-in-new-gulf-war-between-emiratis-and-saudis/",
+      "date": "2026-11-19",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Djibouti",
+        "African Union",
+        "Israel"
+      ],
+      "excerpt": "Abu Dhabi and Riyadh have spent years trying to consolidate their positions in the Horn of Africa, with Djibouti at the heart of both strategies. We examine a contest for influence in which Israel’s announced arrival in Somaliland has reshuffled the cards."
+    },
+    {
+      "id": "n_cbbcd946e8",
+      "type": "news",
+      "title": "Ethiopia’s Dashen Bank in equity talks with foreign investors ahead of listing",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/436898/ethiopias-dashen-bank-in-equity-talks-with-foreign-investors-ahead-of-listing/",
+      "date": "2026-11-19",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia"
+      ],
+      "excerpt": "Ethiopia’s Dashen Bank is negotiating equity stakes with regional strategic investors to secure technology and expertise ahead of its planned stock market listing."
+    },
+    {
+      "id": "n_e17fd4c52e",
+      "type": "news",
+      "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+      "date": "2026-11-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an &#039;open invasion&#039;."
+    },
     {
       "id": "n_2ba9ec8258",
       "type": "news",
@@ -4242,76 +4313,6 @@
         "Maritime"
       ],
       "excerpt": "RIYADH (Somaliguardian) &#8211; At least 12 people were ​killed and more than 300 wounded in an attack on Riyadh&#8217;s international airport on Saturday, the deadliest in the kingdom in more than a decade, as ‌the Iran-backed Houthis escalate a campaign they launched this summer. The dead from the"
-    },
-    {
-      "id": "n_d43fa2d268",
-      "type": "news",
-      "title": "Somalia’s govt loses three towns in 48 hours as rivals advance",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-three-towns-48-hours/",
-      "date": "2026-10-10",
-      "region": "Somalia",
-      "tags": [
-        "Al-Shabaab",
-        "Somalia",
-        "Jubaland",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Al-Shabaab militants have severed a vital army supply road in central Somalia, and Jubaland forces have wrested a southern town from federal control, leaving the government in Mogadishu with three territorial losses in 48 hours. Fighters from the jihadist group cap"
-    },
-    {
-      "id": "n_86c060d389",
-      "type": "news",
-      "title": "SOMALILAND: ASTAANTA GANACSIGA – OGEYSIIS DIGNIIN AH",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somaliland-astaanta-ganacsiga-ogeysiis-digniin-ah-2/",
-      "date": "2026-09-18",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "SOMALILAND ASTAANTA GANACSIGA &#8211; OGEYSIIS DIGNIIN AH WAXAA HADDAN LAGU OGEYSIINAYAA in astaanta ganacsi ee kor ku xusan ay tahay astaanta ganacsi ee: KADOOGLU YAG SANAYI VE TICARET ANONIM SIRKETI of 4.ORGANIZE SANAYI BOLGESI, 83422 NOLU CADDE, NO:11, SEHITKAMIL /GAZIANTEP oo loo isticmaalo bade"
-    },
-    {
-      "id": "n_3078a2d004",
-      "type": "news",
-      "title": "SOMALILAND:  ASTAANTA GANACSIGA – OGEYSIIS DIGNIIN AH",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somaliland-astaanta-ganacsiga-ogeysiis-digniin-ah/",
-      "date": "2026-09-18",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "SOMALILAND ASTAANTA GANACSIGA – OGEYSIIS DIGNIIN AH WESTERN UNION Waxaa halkan lagu ogeysiinayaa in astaanta ganacsi ee kor ku xusan ay tahay astaanta ganacsi ee WESTERN UNION HOLDINGS, INC., Acorporation organised under the State of Georgia of  7001 East Belleview Avenue, Denver, Colorado 80237, Un"
-    },
-    {
-      "id": "n_bfa70cb3da",
-      "type": "news",
-      "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
-      "date": "2026-10-11",
-      "region": "Djibouti",
-      "tags": [
-        "Djibouti"
-      ],
-      "excerpt": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere."
-    },
-    {
-      "id": "n_2d2b240ac7",
-      "type": "news",
-      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
-      "date": "2026-10-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh."
     }
   ],
   "articles": [
