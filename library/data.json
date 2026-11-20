@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-11-19T15:13:48.885721+00:00",
+  "last_updated": "2026-11-20T14:52:39.157118+00:00",
   "news": [
+    {
+      "id": "n_2006e8ed18",
+      "type": "news",
+      "title": "Somalia: Djibouti peacekeepers killed in clash with Hawadle militias at Beledweyne airport",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-djibouti-peacekeepers-killed-hawadle-militias-beledweyne-airport/",
+      "date": "2026-11-19",
+      "region": "Somalia",
+      "tags": [
+        "Djibouti",
+        "Somalia",
+        "Mogadishu",
+        "Clan Conflict",
+        "Militia"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Two Djiboutian peacekeepers were killed and two others wounded on Thursday when African Union troops clashed with Hawadle clan militias who seized Beledweyne’s Ugaas Khalif Airport to block a plane carrying federal government troops from landing, local reports and "
+    },
+    {
+      "id": "n_e04d4a3ace",
+      "type": "news",
+      "title": "Somalia orders UAE ambassador to leave within 72 hours, recalls own envoy",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-orders-uae-ambassador-leave-72-hours-recalls-envoy/",
+      "date": "2026-11-19",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia ordered the United Arab Emirates ambassador to leave the country within 72 hours and recalled its own envoy from Abu Dhabi on Thursday, accusing Abu Dhabi of violations of sovereignty that officials described as an “open invasion.” The measures, announced b"
+    },
+    {
+      "id": "n_cc2e6e3b7f",
+      "type": "news",
+      "title": "The United States carries out airstrikes in three locations in Somalia, targeting Al-Shabaab.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-united-states-carries-out-airstrikes-in-three-locations-in-somalia-targeting-al-shabaab/",
+      "date": "2026-11-20",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "Airstrikes"
+      ],
+      "excerpt": "The United States government stated that its AFRICOM forces, in coordination with the Federal Government of Somalia, conducted airstrikes against Al-Shabaab militants at three separate locations in Somalia between November 13 and November 15, 2026. A press release issued today, Thursday, by Somalia’"
+    },
+    {
+      "id": "n_a267071d73",
+      "type": "news",
+      "title": "Yemen’s Houthis threaten Saudi energy and financial infrastructure",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-threaten-saudi-energy-and-financial-infrastructure",
+      "date": "2026-11-20",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Military"
+      ],
+      "excerpt": "Yemen’s Houthis threaten Saudi energy and financial infrastructure\n\n    \n    \n\n        \n    \n                Yemen’s Houthis have threatened to strike a power station in southwestern Saudi Arabia and declared Riyadh’s financial centre a military target amid escalating tensions with the Saudi-led coa"
+    },
+    {
+      "id": "n_c5dddeb155",
+      "type": "news",
+      "title": "'Evacuate immediately': Houthis threaten to target Saudi Red Sea ports",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evacuate-immediately-houthis-threaten-target-saudi-red-sea-ports",
+      "date": "2026-11-20",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Red Sea",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "'Evacuate immediately': Houthis threaten to target Saudi Red Sea ports\n\n    \n    \n\n        \n    \n                Yemen’s Houthis have threatened to target Jeddah port and other Saudi ports along the Red Sea coast if the Saudi-led coalition carries out an apparent threat to strike the Houthi-held por"
+    },
+    {
+      "id": "n_099cdb6a69",
+      "type": "news",
+      "title": "Air strikes hit warehouses and factory in Yemen’s Sanaa, Houthi authorities say",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strikes-hit-warehouses-and-factory-yemens-sanaa-houthi-authorities",
+      "date": "2026-11-20",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Air strikes hit warehouses and factory in Yemen’s Sanaa, Houthi authorities say\n\n    \n    \n\n        \n    \n                A series of heavy air strikes hit Yemen’s capital, Sanaa, with Houthi authorities reporting damage to a food storage warehouse, a warehouse and a factory belonging to the Yemeni-"
+    },
     {
       "id": "n_46d94b2750",
       "type": "news",
@@ -4229,90 +4321,6 @@
         "Security"
       ],
       "excerpt": "Somali President Hassan Sheikh Mohamud met with the UK Ambassador to Somalia, Charles King, to discuss bilateral cooperation, security, the political situation, and preparations for addressing humanitarian needs. In a post on X, the UK Ambassador stated that meeting the President was an honor, notin"
-    },
-    {
-      "id": "n_5b2a277fe7",
-      "type": "news",
-      "title": "Two people die and four others were injured by gunfire at a market in Garowe.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/two-people-die-and-four-others-were-injured-by-gunfire-at-a-market-in-garowe/",
-      "date": "2026-10-11",
-      "region": "Somalia",
-      "tags": [
-        "Maritime"
-      ],
-      "excerpt": "At least two civilians were killed and four others injured after a gunman opened fire at a business premises in the Inji market in Garowe. According to reports on the incident, the gunman opened fire in the shoe-selling section of the Inji market, one of Garowe&#8217;s bustling commercial areas. The"
-    },
-    {
-      "id": "n_63566d446d",
-      "type": "news",
-      "title": "Abiy Appoints Former Digital ID Official as State Minister",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53382/",
-      "date": "2026-10-10",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Abiy Appoints FormePrime Minister Abiy Ahmed has appointed Yodahe Arayasellassie, formerly the head of the National ID Program, as a state minister in the Ministry of Innovation and Technology as the government reshuffles senior positions across the federal administration. The Office of the Prime Mi"
-    },
-    {
-      "id": "n_2825e3033c",
-      "type": "news",
-      "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
-      "date": "2026-10-12",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Yemen&#039;s Southern Giants Brigades have emerged as one of the leading forces against the Houthis."
-    },
-    {
-      "id": "n_9cebbd0125",
-      "type": "news",
-      "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-      "date": "2026-10-12",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience."
-    },
-    {
-      "id": "n_1f9be416e9",
-      "type": "news",
-      "title": "Somalia: Government forces mass near opposition leaders’ homes",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-government-masses-forces-near-opposition-leaders-homes-mogadishu/",
-      "date": "2026-10-11",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu",
-        "Maritime"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Large numbers of government forces have been deployed around the residences of Somalia&#8217;s former President Sharif Sheikh Ahmed and former Prime Minister Hassan Ali Khaire near Mogadishu airport. Local media increasingly report that President Hassan Sheikh Moha"
-    },
-    {
-      "id": "n_ed8cf1d778",
-      "type": "news",
-      "title": "Saudi Arabia: 12 killed, 300 injured in Riyadh airport attack",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/world/riyadh-airport-attack-12-killed-300-injured/",
-      "date": "2026-10-11",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "RIYADH (Somaliguardian) &#8211; At least 12 people were ​killed and more than 300 wounded in an attack on Riyadh&#8217;s international airport on Saturday, the deadliest in the kingdom in more than a decade, as ‌the Iran-backed Houthis escalate a campaign they launched this summer. The dead from the"
     }
   ],
   "articles": [
