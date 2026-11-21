@@ -1,6 +1,65 @@
 {
-  "last_updated": "2026-11-20T14:52:39.157118+00:00",
+  "last_updated": "2026-11-21T14:11:32.500824+00:00",
   "news": [
+    {
+      "id": "n_a590767db5",
+      "type": "news",
+      "title": "Somalia opposition rejects another request for talks from president Hassan Sheikh Mohamud",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-rejects-talks-president-hassan-sheikh-mohamud/",
+      "date": "2026-11-21",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s opposition leaders have unanimously rejected any talks with President Hassan Sheikh Mohamud after he telephoned former Prime Minister Abdi Farah Shirdon and asked him to host the meeting at his home. The president promised major concessions and said Somal"
+    },
+    {
+      "id": "n_d59b35c0b3",
+      "type": "news",
+      "title": "The TPLF’s Setbacks Do Not Determine Tigray’s Political Future",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/11/21/the-tplfs-setbacks-do-not-determine-tigrays-political-future/?utm_source=rss&utm_medium=rss&utm_campaign=the-tplfs-setbacks-do-not-determine-tigrays-political-future&utm_source=rss&utm_medium=rss&utm_campaign=the-tplfs-setbacks-do-not-determine-tigrays-political-future",
+      "date": "2026-11-21",
+      "region": "Ethiopia",
+      "tags": [
+        "Tigray",
+        "TPLF",
+        "Ethiopia"
+      ],
+      "excerpt": "The TPLF's Setbacks Do Not Determine Tigray's Political Future\nThe post The TPLF&#8217;s Setbacks Do Not Determine Tigray&#8217;s Political Future appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_f56cfe6610",
+      "type": "news",
+      "title": "Ethiopia-Eritrea: Why Badme, the town that sparked a bloody war, is back in the firing line",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/437126/ethiopia-eritrea-why-badme-the-town-that-sparked-a-bloody-war-is-back-in-the-firing-line/",
+      "date": "2026-11-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "Maritime"
+      ],
+      "excerpt": "Eritrean troops have retaken Badme as reports of drone strikes and heavy artillery bombardments this week raise fears of another war over a town awarded to Asmara 25 years ago."
+    },
+    {
+      "id": "n_598ca65cb9",
+      "type": "news",
+      "title": "From Aksum to Badme: Zeinab Badawi’s map of Africa’s fault lines",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/436940/from-aksum-to-badme-zeinab-badawis-map-of-africas-fault-lines/",
+      "date": "2026-11-20",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Eritrea",
+        "African Union"
+      ],
+      "excerpt": "As Ethiopia and Eritrea trade fire and Sudan’s generals fight on, the broadcaster-historian argues that a shared past could be part of the way out."
+    },
     {
       "id": "n_2006e8ed18",
       "type": "news",
@@ -4260,67 +4319,6 @@
         "Somaliland"
       ],
       "excerpt": "Abdirashid Said Mohamed, the Coordinator for the Ministry of Environment and Climate Change in the Sahil Region, stated that the Ministry has invested significant effort in combating land degradation, protecting vegetation, and preventing wildlife trafficking; he noted that the production of charcoa"
-    },
-    {
-      "id": "n_0e3d3f9f18",
-      "type": "news",
-      "title": "Somalia’s Defense Minister issues a warning to the opposition.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalias-defense-minister-issues-a-warning-to-the-opposition/",
-      "date": "2026-10-12",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security",
-        "Mogadishu",
-        "Militia"
-      ],
-      "excerpt": "The Minister of Defense of the Federal Government of Somalia, Ahmed Moallim Fiqi, has leveled accusations against certain political opposition factions, alleging that they are mobilizing armed militias and undertaking actions that threaten the security and stability of the capital, Mogadishu. In a s"
-    },
-    {
-      "id": "n_c4fba75eb4",
-      "type": "news",
-      "title": "Uganda, Somalia Agree to Strengthen Military and Economic Cooperation",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/uganda-somalia-agree-to-strengthen-military-and-economic-cooperation/",
-      "date": "2026-10-12",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Military",
-        "Maritime"
-      ],
-      "excerpt": "Uganda and Somalia are set to strengthen their long-standing military cooperation, with General Ibrahim Mohamed Mohamud of the Somali National Army commending the Uganda People&#8217;s Defence Forces (UPDF) for the continuous training and advisory support provided to the Somali National Army. During"
-    },
-    {
-      "id": "n_8fb75f191b",
-      "type": "news",
-      "title": "UAE accused of airstrike that killed civilians in the mountains of Puntland.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/uae-accused-of-airstrike-that-killed-civilians-in-the-mountains-of-puntland/",
-      "date": "2026-10-11",
-      "region": "Somalia",
-      "tags": [
-        "Security",
-        "Airstrikes",
-        "Puntland",
-        "Maritime"
-      ],
-      "excerpt": "Puntland security officials have accused the United Arab Emirates of carrying out an airstrike that killed four members of the same family and injured five others during operations against the ISIS group in the Al-Miskaad Mountains of the Bari region in January 2025. A report published by the media "
-    },
-    {
-      "id": "n_206071e0a9",
-      "type": "news",
-      "title": "President Hassan Sheikh and the UK Ambassador discuss security, the political situation, and humanitarian preparedness.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/president-hassan-sheikh-and-the-uk-ambassador-discuss-security-the-political-situation-and-humanitarian-preparedness/",
-      "date": "2026-10-11",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "Somali President Hassan Sheikh Mohamud met with the UK Ambassador to Somalia, Charles King, to discuss bilateral cooperation, security, the political situation, and preparations for addressing humanitarian needs. In a post on X, the UK Ambassador stated that meeting the President was an honor, notin"
     }
   ],
   "articles": [
