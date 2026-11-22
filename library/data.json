@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-11-21T14:11:32.500824+00:00",
+  "last_updated": "2026-11-22T14:01:06.587456+00:00",
   "news": [
+    {
+      "id": "n_c287f1964d",
+      "type": "news",
+      "title": "EACJ steps into Somalia constitutional crisis over president term extension",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/eacj-steps-into-somalia-constitutional-crisis-president-term-extension/",
+      "date": "2026-11-22",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s constitutional crisis has reached the East African Court of Justice after six Supreme Court judges, including the ousted Chief Justice, filed a case against the federal government. The judges took the step after President Hassan Sheikh Mohamud rejected th"
+    },
+    {
+      "id": "n_9daa57c4fa",
+      "type": "news",
+      "title": "Somalia quietly relaunches failed operation Banooda with major troop convoy",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/archives/somalia-quietly-relaunches-failed-operation-banooda-major-reinforcements/",
+      "date": "2026-11-22",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Somalia",
+        "African Union",
+        "Military",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s federal government has sent a large military convoy from Mogadishu toward Yaqbariwayne village, signaling the resumption of the stalled Operation Banooda after a major setback against Al-Shabaab along the Mogadishu-Baidoa road. Residents near Bellidogle a"
+    },
+    {
+      "id": "n_78ef949746",
+      "type": "news",
+      "title": "Somaliland Says that U.S. recognition could lead to a diplomatic shift similar to that of Kosovo.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somaliland-says-that-u-s-recognition-could-lead-to-a-diplomatic-shift-similar-to-that-of-kosovo/",
+      "date": "2026-11-22",
+      "region": "Somalia",
+      "tags": [
+        "Somaliland",
+        "Israel"
+      ],
+      "excerpt": "Somaliland’s representative to Israel, Dr. Mohamed Haji, stated that if the United States were to recognize Somaliland’s independence, it could trigger a diplomatic shift similar to the one seen in the case of Kosovo—where other nations subsequently felt emboldened to extend their own recognition. “"
+    },
+    {
+      "id": "n_6cb6e39f17",
+      "type": "news",
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "date": "2026-11-22",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone."
+    },
     {
       "id": "n_a590767db5",
       "type": "news",
@@ -4262,63 +4322,6 @@
         "Houthis"
       ],
       "excerpt": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz."
-    },
-    {
-      "id": "n_380a9e8273",
-      "type": "news",
-      "title": "Somalia: Former president Sharif Sheikh Ahmed denies his guards harassed NISA officers",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-sharif-sheikh-ahmed-denies-guards-harassed-nisa-officers/",
-      "date": "2026-10-12",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Security",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s former President Sharif Sheikh Ahmed on Sunday, June 28, 2026, disputed an account by the National Intelligence and Security Agency (NISA) that armed men under his command attacked its personnel in the capital. The dispute comes amid fears of armed "
-    },
-    {
-      "id": "n_9e18e1cb05",
-      "type": "news",
-      "title": "Somaliland Foreign Minister: We are ready for Ethiopia to utilize the port of Berbera.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-foreign-minister-we-are-ready-for-ethiopia-to-utilize-the-port-of-berbera/",
-      "date": "2026-10-12",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Berbera",
-        "Ethiopia",
-        "Maritime"
-      ],
-      "excerpt": "Somaliland’s Minister of Foreign Affairs, Abdirahman Dahir Adan Bakaal, stated that Somaliland is ready to discuss Ethiopia’s need for sea access, noting that the port of Berbera is available for Ethiopia to utilize.  In an interview with the UAE-based Sky News Arabia, the minister discussed Somalil"
-    },
-    {
-      "id": "n_d199500a4c",
-      "type": "news",
-      "title": "Somaliland Ministry of Telecommunications Conducts Training on Branding Guidelines and Government Communication Systems",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-ministry-of-telecommunications-conducts-training-on-branding-guidelines-and-government-communication-systems/",
-      "date": "2026-10-12",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "The Ministry of Telecommunications and Technology of the Republic of Somaliland conducted a training session for its staff and various departments regarding the Government Branding and Communication System Guidelines. Somaliland’s Minister of Telecommunications and Technology, Dr. Abdisalan Hussein "
-    },
-    {
-      "id": "n_aed462bd03",
-      "type": "news",
-      "title": "Somaliland’s Ministry of Environment Steps Up the Fight Against Land Degradation and Wildlife Smuggling",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somalilands-ministry-of-environment-steps-up-the-fight-against-land-degradation-and-wildlife-smuggling/",
-      "date": "2026-10-12",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "Abdirashid Said Mohamed, the Coordinator for the Ministry of Environment and Climate Change in the Sahil Region, stated that the Ministry has invested significant effort in combating land degradation, protecting vegetation, and preventing wildlife trafficking; he noted that the production of charcoa"
     }
   ],
   "articles": [
