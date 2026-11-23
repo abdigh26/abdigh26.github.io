@@ -1,6 +1,80 @@
 {
-  "last_updated": "2026-11-22T14:01:06.587456+00:00",
+  "last_updated": "2026-11-23T17:21:11.917953+00:00",
   "news": [
+    {
+      "id": "n_3c06766719",
+      "type": "news",
+      "title": "Somalia’s president accepts Museveni-mediated election dialogue, abandons unilateral vote plans",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-president-accepts-museveni-mediated-election-dialogue/",
+      "date": "2026-11-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s President Hassan Sheikh Mohamud and Ugandan President Yoweri Museveni reached agreement on Monday following the Somali leader’s one-day visit to Kampala. Mohamud accepted a Museveni-mediated process designed to convene the full spectrum of Somalia’s oppos"
+    },
+    {
+      "id": "n_1038eb0b85",
+      "type": "news",
+      "title": "The Somali government Announces that 285 Al-Shabaab members, including commanders, have been killed in military operations.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/the-somali-government-announces-that-285-al-shabaab-members-including-commanders-have-been-killed-in-military-operations/",
+      "date": "2026-11-23",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Military"
+      ],
+      "excerpt": "The Somali government has announced that 285 members of the Al-Shabaab group—including 12 senior commanders and key figures within the group’s leadership—were killed during planned military operations in the Daynuunay area of ​​the Bay region over the past few days. Minister of Defense Ahmed Moallim"
+    },
+    {
+      "id": "n_bd3aba68f4",
+      "type": "news",
+      "title": "Commander of the Ugandan Land Forces inspects the withdrawal plan for UPDF troops in Somalia",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/commander-of-the-ugandan-land-forces-inspects-the-withdrawal-plan-for-updf-troops-in-somalia/",
+      "date": "2026-11-23",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "The Commander of the Uganda Land Forces, Brigadier General Kayanja Muhanga, visited Ugandan troops operating in Somalia—who are part of the African Union Support and Stabilization Mission in Somalia (AUSSOM)—to assess the progress of the troop withdrawal plan, the status of ongoing operations, and t"
+    },
+    {
+      "id": "n_5c161abe69",
+      "type": "news",
+      "title": "ISIS and Al-Shabaab carry out attacks and explosions in areas within Puntland",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/isis-and-al-shabaab-carry-out-attacks-and-explosions-in-areas-within-puntland/",
+      "date": "2026-11-23",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Puntland"
+      ],
+      "excerpt": "An attack carried out by the Islamic State (Daesh) group around midnight last night on a Golis Telecommunications facility in the Sheebaab area of ​​the Bari region resulted in the deaths of four people, including two company employees and two soldiers. The targeted facility was completely engulfed "
+    },
+    {
+      "id": "n_6cf95f78b4",
+      "type": "news",
+      "title": "Red Sea tensions: How Djibouti is profiting from the global maritime crisis",
+      "source": "Africa Report",
+      "url": "https://www.theafricareport.com/437037/red-sea-tensions-how-djibouti-is-profiting-from-the-global-maritime-crisis/",
+      "date": "2026-11-23",
+      "region": "Djibouti",
+      "tags": [
+        "Red Sea",
+        "Djibouti",
+        "Security",
+        "Maritime"
+      ],
+      "excerpt": "Unsettled by insecurity in the Persian Gulf, shipping companies are redrawing their routes. But the extra cost of detours is also drawing them back towards Suez — a realignment that is boosting Djibouti."
+    },
     {
       "id": "n_c287f1964d",
       "type": "news",
@@ -4253,75 +4327,6 @@
         "Ethiopia"
       ],
       "excerpt": "The evolving landscape of peptide-based inquiry continues to uncover fragments that diverge meaningfully from their parent molecules, not by replicating their full signaling spectrum, but by selectively engaging specific intracellular cascades. Within this framework, B7-33 has emerged as a particula"
-    },
-    {
-      "id": "n_82cc5d5d5e",
-      "type": "news",
-      "title": "As war with Ethiopia looms, how much weaponry does Eritrea have?",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/433139/as-war-with-ethiopia-looms-how-much-weaponry-does-eritrea-have/",
-      "date": "2026-10-13",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea",
-        "Military"
-      ],
-      "excerpt": "The growing threat of another war with its neighbour is putting Asmara’s military strength under scrutiny, particularly its ability to sustain a prolonged conflict and the extent to which it has modernised its ageing arsenal."
-    },
-    {
-      "id": "n_08b8c7fe8f",
-      "type": "news",
-      "title": "Pulling Ethiopia and Eritrea Back from War",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war",
-      "date": "2026-10-12",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "Pulling Ethiopia and Eritrea Back from War\n\ncmoore\n\nMon, 10/12/2026 - 21:44\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                             "
-    },
-    {
-      "id": "n_5c165ed1ac",
-      "type": "news",
-      "title": "How Close Are Ethiopia and Eritrea to All-out War?",
-      "source": "Crisis Group",
-      "url": "https://www.crisisgroup.org/pod/africa/horn-africa/how-close-are-ethiopia-and-eritrea-all-out-war",
-      "date": "2026-10-09",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia",
-        "Eritrea"
-      ],
-      "excerpt": "How Close Are Ethiopia and Eritrea to All-out War?\n\nmloukili\n\nFri, 10/09/2026 - 15:41\n\n  \n    \n\n  \n    \n      Latest Updates\n    \n  \n\n        \n                                      \n            Africa\n          \n                                \n            Asia-Pacific\n          \n                   "
-    },
-    {
-      "id": "n_b318399471",
-      "type": "news",
-      "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
-      "date": "2026-10-13",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint."
-    },
-    {
-      "id": "n_9b6b843d3d",
-      "type": "news",
-      "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
-      "source": "Al Jazeera Horn",
-      "url": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
-      "date": "2026-10-13",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis"
-      ],
-      "excerpt": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz."
     }
   ],
   "articles": [
