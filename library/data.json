@@ -1,6 +1,106 @@
 {
-  "last_updated": "2026-11-23T17:21:11.917953+00:00",
+  "last_updated": "2026-11-24T16:56:48.155234+00:00",
   "news": [
+    {
+      "id": "n_a384ff5d2e",
+      "type": "news",
+      "title": "Somalia parliament speaker accuses neighbours of colluding with Al-Shabaab",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-speaker-accuses-neighbours-colluding-al-shabaab/",
+      "date": "2026-11-24",
+      "region": "Somalia",
+      "tags": [
+        "Al-Shabaab",
+        "Ethiopia",
+        "Kenya",
+        "Somalia",
+        "Israel"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia’s parliamentary speaker has accused Kenya, Ethiopia and Uganda of colluding with the Islamist group Al-Shabaab, alleging that Israel has assembled African Union troop-contributing countries, the militants and forces loyal to a former regional leader into a "
+    },
+    {
+      "id": "n_f9480bffa2",
+      "type": "news",
+      "title": "Somalia replaces defence minister Ahmed Moallim Fiqi with Saadaq Omar Mohamed Hassan",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-replaces-defence-minister-ahmed-moallim-fiqi-saadaq-omar-mohamed-hassan/",
+      "date": "2026-11-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Mogadishu",
+        "Clan Conflict"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somali Prime Minister Hamza Abdi Barre removed Defence Minister Ahmed Moallim Fiqi on Monday and immediately installed lawmaker Saadaq Omar Mohamed Hassan (known as Saadaq Joon) in his place. The move is a limited cabinet reshuffle driven by clan power-sharing arit"
+    },
+    {
+      "id": "n_6e9c98d21f",
+      "type": "news",
+      "title": "Somali Airlines is expected to resume flights on December 10, 2026.",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/somali-airlines-is-expected-to-resume-flights-on-december-10-2026/",
+      "date": "2026-11-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Maritime"
+      ],
+      "excerpt": "Somalia’s Minister of Transport and Civil Aviation, Mohamed Farah Nuh, has announced that the national carrier, Somali Airlines, will resume flights on December 10, 2026, following a hiatus of more than 35 years. The Minister stated that preparations for the airline&#8217;s reactivation are underway"
+    },
+    {
+      "id": "n_cea4bd47eb",
+      "type": "news",
+      "title": "President Museveni accepts invitation to visit Somalia following talks with Hassan Sheikh",
+      "source": "Somaliland Standard",
+      "url": "https://somalilandstandard.com/president-museveni-accepts-invitation-to-visit-somalia-following-talks-with-hassan-sheikh/",
+      "date": "2026-11-24",
+      "region": "Somalia",
+      "tags": [
+        "Somalia"
+      ],
+      "excerpt": "Somali President Hassan Sheikh Mohamud and his Ugandan counterpart, Yoweri Kaguta Museveni, discussed the political conflict in Somalia, calling for strengthened cooperation between the Federal Government, the regional states, and other political stakeholders. A joint communiqué issued following Pre"
+    },
+    {
+      "id": "n_b884e67c08",
+      "type": "news",
+      "title": "Ethiopia Needs Political Reconciliation, Not Another Military Victory",
+      "source": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/2026/11/24/ethiopia-needs-political-reconciliation-not-another-military-victory/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-needs-political-reconciliation-not-another-military-victory&utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-needs-political-reconciliation-not-another-military-victory",
+      "date": "2026-11-23",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Military"
+      ],
+      "excerpt": "What Tibor Nagy’s insights reveal about Ethiopia’s political choices.\nThe post Ethiopia Needs Political Reconciliation, Not Another Military Victory appeared first on Ethiopia Insight."
+    },
+    {
+      "id": "n_636304af16",
+      "type": "news",
+      "title": "The tensions playing out in Kenya’s marine conservation",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/11/the-tensions-playing-out-in-kenyas-marine-conservation/?utm_source=rss&utm_medium=rss&utm_campaign=the-tensions-playing-out-in-kenyas-marine-conservation",
+      "date": "2026-11-24",
+      "region": "Kenya",
+      "tags": [
+        "Kenya"
+      ],
+      "excerpt": "Mombasa, Kenya: Khadija Dossa charmed a group of visitors at her village in Wasini Island in Kenya’s coastal region with tales of how conserving coral reefs was improving livelihoods in her community. When she finally delivered her message however, it was clear there were gaps that needed mending. D"
+    },
+    {
+      "id": "n_64e8a37995",
+      "type": "news",
+      "title": "11 injured in Houthi attack on Riyadh tower, Saudi civil defence says",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+      "date": "2026-11-24",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Two Saudi nationals, nine foreigners injured in Houthi attack on building in Riyadh&#039;s financial district."
+    },
     {
       "id": "n_3c06766719",
       "type": "news",
@@ -4229,104 +4329,6 @@
         "Maritime"
       ],
       "excerpt": "Houthis claim attacks on Aramco sites and Riyadh airport\n\n    \n    \n\n        \n    \n                Yemen’s Houthi movement said on Wednesday it had targeted Saudi Aramco facilities in Dhahran, King Khalid International Airport and an Aramco refinery in Riyadh.\n\nThe group said it would continue opera"
-    },
-    {
-      "id": "n_7e04b0f820",
-      "type": "news",
-      "title": "Larry André calls Somalia’s government ‘illegitimate,’ urges action to halt Southwest conflict",
-      "source": "Somali Guardian",
-      "url": "https://www.somaliguardian.com/news/somalia-news/larry-andre-somalia-government-illegitimate-southwest-conflict/",
-      "date": "2026-10-13",
-      "region": "Somalia",
-      "tags": [
-        "Somalia",
-        "Mogadishu"
-      ],
-      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Former United States Ambassador to Somalia Larry André Jr. has called on the international community to intensify pressure on President Hassan Sheikh Mohamud’s government to halt conflict and civilian displacement in Southwest State, warning that continued instabil"
-    },
-    {
-      "id": "n_a277b87976",
-      "type": "news",
-      "title": "SOMALILAND:Trump’s Remarks on Somalia and Somaliland: Guulleed Dafac Explains Their Significance",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandtrumps-remarks-on-somalia-and-somaliland-guulleed-dafac-explains-their-significance/",
-      "date": "2026-10-13",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia"
-      ],
-      "excerpt": "SOMALILANDSUN: Trump’s Remarks on Somalia and Somaliland: Guulleed Dafac Explains Their Significance https://youtu.be/sRuYzJ4Phh8?si=JIzwu6Feiu0pYGhk"
-    },
-    {
-      "id": "n_21547bb2e6",
-      "type": "news",
-      "title": "SOMALILAND:The U.S. President has made it clear that Somalia and Somaliland are not one and the same.",
-      "source": "Somaliland Sun",
-      "url": "https://somalilandsun.com/somalilandthe-u-s-president-has-made-it-clear-that-somalia-and-somaliland-are-not-one-and-the-same/",
-      "date": "2026-10-13",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia",
-        "Maritime"
-      ],
-      "excerpt": "Somalilandsun: President Donald Trump of the United States, speaking at an outdoor event in the state of Ohio, officially declared that Somalia and Somaliland are two separate countries. Trump said that many people like or support Somaliland, but he raised concerns about its name, suggesting that So"
-    },
-    {
-      "id": "n_e9a1f98dac",
-      "type": "news",
-      "title": "The Somali Regional State confirm that Somali troops have entered Ethiopia.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-somali-regional-state-confirm-that-somali-troops-have-entered-ethiopia/",
-      "date": "2026-10-13",
-      "region": "Somalia",
-      "tags": [
-        "Ethiopia",
-        "Somalia",
-        "Security"
-      ],
-      "excerpt": "The Ethiopian Somali Regional State has confirmed for the first time that troops trained by the Federal Government of Somalia have entered Ethiopian territory and are currently undergoing a formal bilateral process. The region&#8217;s security chief, Abdulkadir Rashid Duale, stated that the troops r"
-    },
-    {
-      "id": "n_079a9655b1",
-      "type": "news",
-      "title": "The President of the Somali Region inaugurates the MESOB and Smart City centers in Jigjiga.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-president-of-the-somali-region-inaugurates-the-mesob-and-smart-city-centers-in-jigjiga/",
-      "date": "2026-10-13",
-      "region": "Somalia",
-      "tags": [
-        "African Union",
-        "Security"
-      ],
-      "excerpt": "The President of the Somali Regional State (SRS), Mustafe Muxumed Cumar, inaugurated the One-Stop Service Center (MESOB) and the Smart City Center in Jigjiga; these facilities are designed to streamline public services and enhance security in the capital. The MESOB center consolidates various servic"
-    },
-    {
-      "id": "n_20b51bf1ed",
-      "type": "news",
-      "title": "G-24 Advances Quota Reform Agenda as Previous IMF Review Awaits Full Implementation",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53410/",
-      "date": "2026-10-13",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The Group of 24 developing countries is pressing for changes to the International Monetary Fund’s quota system as discussions turn to the 17th review, while the previous round remains short of the approvals required for its implementation. Iyabo Masha, director of the G-24 Secretariat, said the IMF’"
-    },
-    {
-      "id": "n_1330221f13",
-      "type": "news",
-      "title": "B7-33 Peptide: A Signaling Fragment Reframing Relaxin Pathways in Molecular Research",
-      "source": "The Reporter Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53408/",
-      "date": "2026-10-13",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "The evolving landscape of peptide-based inquiry continues to uncover fragments that diverge meaningfully from their parent molecules, not by replicating their full signaling spectrum, but by selectively engaging specific intracellular cascades. Within this framework, B7-33 has emerged as a particula"
     }
   ],
   "articles": [
