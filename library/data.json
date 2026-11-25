@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-11-24T16:56:48.155234+00:00",
+  "last_updated": "2026-11-25T16:46:14.507196+00:00",
   "news": [
+    {
+      "id": "n_0647daf471",
+      "type": "news",
+      "title": "Somalia cabinet rewrites election laws the day after Museveni talks",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/somalia-cabinet-rewrites-election-laws-after-museveni-talks/",
+      "date": "2026-11-25",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Elections",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Somalia&#8217;s cabinet on Tuesday approved amendments to 23 articles of the National Elections Law and eight articles of the law on political organisations and parties. The headline changes are technical-sounding but politically decisive: parliamentary candidates "
+    },
+    {
+      "id": "n_aa99a09628",
+      "type": "news",
+      "title": "The tensions playing out in Kenya’s marine conservation",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/11/the-tensions-playing-out-in-kenyas-marine-conservation-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-tensions-playing-out-in-kenyas-marine-conservation-2",
+      "date": "2026-11-24",
+      "region": "Kenya",
+      "tags": [
+        "Kenya"
+      ],
+      "excerpt": "Mombasa, Kenya: Khadija Dossa charmed a group of visitors at her village in Wasini Island in Kenya’s coastal region with tales of how conserving coral reefs was improving livelihoods in her community. When she finally delivered her message however, it was clear there were gaps that needed mending. D"
+    },
     {
       "id": "n_a384ff5d2e",
       "type": "news",
@@ -4300,35 +4328,6 @@
         "Somaliland"
       ],
       "excerpt": "US president’s remarks come less than a month after Somaliland President Abdirahman Mohamed ‘Irro’ Abdullahi’s visit to Washington."
-    },
-    {
-      "id": "n_5c49114bcb",
-      "type": "news",
-      "title": "Yemen's Houthis vow to continue targeting Saudi Aramco facilities",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/yemen-houthis-vow-continue-targeting-saudi-aramco-facilities",
-      "date": "2026-10-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union"
-      ],
-      "excerpt": "Yemen's Houthis vow to continue targeting Saudi Aramco facilities \n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nWed, 10/14/2026 - 09:59\n\n        \n      \n    \n      \n    \n                As retaliation escalates, the group says it has targeted Saudi Arabia with ballistic "
-    },
-    {
-      "id": "n_e2f8bd9fd7",
-      "type": "news",
-      "title": "Houthis claim attacks on Aramco sites and Riyadh airport",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-aramco-sites-and-riyadh-airport",
-      "date": "2026-10-14",
-      "region": "Red Sea",
-      "tags": [
-        "Houthis",
-        "African Union",
-        "Maritime"
-      ],
-      "excerpt": "Houthis claim attacks on Aramco sites and Riyadh airport\n\n    \n    \n\n        \n    \n                Yemen’s Houthi movement said on Wednesday it had targeted Saudi Aramco facilities in Dhahran, King Khalid International Airport and an Aramco refinery in Riyadh.\n\nThe group said it would continue opera"
     }
   ],
   "articles": [
