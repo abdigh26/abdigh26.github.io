@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-25T16:46:14.507196+00:00",
+  "last_updated": "2026-11-26T16:21:52.880312+00:00",
   "news": [
+    {
+      "id": "n_61d6fed467",
+      "type": "news",
+      "title": "Puntland’s Deni calls Somalia president’s UAE interference claim ‘unfortunate’",
+      "source": "Somali Guardian",
+      "url": "https://www.somaliguardian.com/news/somalia-news/puntland-deni-calls-somalia-president-uae-interference-claim-unfortunate/",
+      "date": "2026-11-26",
+      "region": "Somalia",
+      "tags": [
+        "Somalia",
+        "Puntland",
+        "Mogadishu"
+      ],
+      "excerpt": "MOGADISHU (Somaliguardian) &#8211; Puntland President Said Abdullahi Deni on Wednesday dismissed Somalia President Hassan Sheikh Mohamud’s charge of United Arab Emirates interference—framed by some federal officials as an “open invasion”—as an outdated political habit and a source of national embarr"
+    },
+    {
+      "id": "n_aa36a77c91",
+      "type": "news",
+      "title": "Moyale and the Limits of Kenya’s Silence on Ethiopia",
+      "source": "African Arguments",
+      "url": "https://africanarguments.org/2026/11/moyale-and-the-limits-of-kenyas-silence-on-ethiopia/?utm_source=rss&utm_medium=rss&utm_campaign=moyale-and-the-limits-of-kenyas-silence-on-ethiopia",
+      "date": "2026-11-25",
+      "region": "Ethiopia",
+      "tags": [
+        "Ethiopia",
+        "Kenya"
+      ],
+      "excerpt": "At the end of October, staff from UNHCR and the Kenya Red Cross began issuing coded wristbands to Ethiopian families sheltering in schools and churches in Moyale, a town in Kenya&#8217;s Marsabit County that shares its name, and in practice its streets, with the Ethiopian town across the border. By "
+    },
+    {
+      "id": "n_ce3fd1b88e",
+      "type": "news",
+      "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+      "date": "2026-11-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East."
+    },
+    {
+      "id": "n_3701c7e266",
+      "type": "news",
+      "title": "Blasts reported in Yemen's Houthi-held Hodeidah, while government forces attack positions south of Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-reported-yemens-houthi-held-hodeidah-while-yemeni-forces-attacks",
+      "date": "2026-11-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union",
+        "Maritime"
+      ],
+      "excerpt": "Blasts reported in Yemen's Houthi-held Hodeidah, while government forces attack positions south of Taiz\n\n    \n    \n\n        \n    \n                Al Jazeera reports, citing local sources, that blasts have been heard in western Yemen's Houthi-controlled Hodeidah.\n\nThe Saudi-led coaltion had recently "
+    },
+    {
+      "id": "n_30a95872ed",
+      "type": "news",
+      "title": "Houthi shelling reportedly kills woman in Yemen's Taiz",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-shelling-reportedly-kills-woman-yemens-taiz",
+      "date": "2026-11-26",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "Maritime"
+      ],
+      "excerpt": "Houthi shelling reportedly kills woman in Yemen's Taiz\n\n    \n    \n\n        \n    \n                Houthi shelling south east of Yemen's Taiz has killed a woman and wounded at least seven others, including a child, the government-run Saba news agency reported."
+    },
     {
       "id": "n_0647daf471",
       "type": "news",
@@ -4260,74 +4332,6 @@
         "African Union"
       ],
       "excerpt": "The National Committee for Anti-Money Laundering and Countering the Financing of Terrorism has added the former President of Southwest State, Abdiaziz Hassan Mohamed &#8220;Laftagareen,&#8221; the former commander of the Custodial Corps, Mahad Abdirahman Adan &#8220;Shub,&#8221; and eight other indi"
-    },
-    {
-      "id": "n_85a3cb7b2d",
-      "type": "news",
-      "title": "Kulmiye welcomes Trump’s remarks on Somaliland and calls for official recognition.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/kulmiye-welcomes-trumps-remarks-on-somaliland-and-calls-for-official-recognition/",
-      "date": "2026-10-14",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia"
-      ],
-      "excerpt": "The Kulmiye Party has welcomed a statement made yesterday, October 13, 2026, by U.S. President Donald Trump, in which he described Somaliland and Somalia as two entirely distinct countries and called for formal steps toward recognizing Somaliland. A press release issued by the party on October 14, 2"
-    },
-    {
-      "id": "n_0ef1a1d8ed",
-      "type": "news",
-      "title": "MP Mohamed Abiib Welcomes Trump’s Remarks on Somaliland and Somalia",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/mp-mohamed-abiib-welcomes-trumps-remarks-on-somaliland-and-somalia/",
-      "date": "2026-10-14",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Somalia"
-      ],
-      "excerpt": "MP Mohamed Abiib of the Somaliland House of Representatives welcomed the statement by U.S. President Donald Trump distinguishing between Somaliland and Somalia, describing it as a politically significant move that demonstrates the impossibility of ignoring Somaliland’s existence, as well as the peac"
-    },
-    {
-      "id": "n_ef78ed0ec3",
-      "type": "news",
-      "title": "Somaliland National Army Commander Holds Meeting with Ethiopian Ambassador",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/somaliland-national-army-commander-holds-meeting-with-ethiopian-ambassador/",
-      "date": "2026-10-14",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland",
-        "Ethiopia"
-      ],
-      "excerpt": "The Commander of the Somaliland National Army, Brigadier General Nimaan Yusuf Gaaxnuug, held a meeting at the National Army Headquarters in Hargeisa with Ethiopia’s Ambassador to Somaliland, Ambassador Teshome, the Ethiopian Consul General in Somaliland, and the Defense Attaché of the Ethiopian Emba"
-    },
-    {
-      "id": "n_0582629019",
-      "type": "news",
-      "title": "Minority Protection is Ethiopia’s Federal Test",
-      "source": "Ethiopia Insight",
-      "url": "https://www.ethiopia-insight.com/2026/08/24/minority-protection-is-ethiopias-federal-test/?utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test&utm_source=rss&utm_medium=rss&utm_campaign=minority-protection-is-ethiopias-federal-test",
-      "date": "2026-08-24",
-      "region": "Ethiopia",
-      "tags": [
-        "Ethiopia"
-      ],
-      "excerpt": "Ethiopia needs stronger safeguards against the politics of demographic dominance.\nThe post Minority Protection is Ethiopia&#8217;s Federal Test appeared first on Ethiopia Insight."
-    },
-    {
-      "id": "n_9de761677d",
-      "type": "news",
-      "title": "US-Africa: Trump calls Somaliland ‘totally different country’ during midterm rally",
-      "source": "Africa Report",
-      "url": "https://www.theafricareport.com/433413/us-africa-trump-calls-somaliland-totally-different-country-during-midterm-rally/",
-      "date": "2026-10-13",
-      "region": "Somalia",
-      "tags": [
-        "Somaliland"
-      ],
-      "excerpt": "US president’s remarks come less than a month after Somaliland President Abdirahman Mohamed ‘Irro’ Abdullahi’s visit to Washington."
     }
   ],
   "articles": [
