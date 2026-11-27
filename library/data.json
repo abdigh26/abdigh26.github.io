@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-11-26T16:21:52.880312+00:00",
+  "last_updated": "2026-11-27T16:06:50.982374+00:00",
   "news": [
+    {
+      "id": "n_4b519f0020",
+      "type": "news",
+      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+      "source": "Al Jazeera Horn",
+      "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+      "date": "2026-11-27",
+      "region": "Red Sea",
+      "tags": [
+        "Houthis",
+        "African Union"
+      ],
+      "excerpt": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis."
+    },
     {
       "id": "n_61d6fed467",
       "type": "news",
@@ -4319,19 +4333,6 @@
         "Maritime"
       ],
       "excerpt": "The Somali National Army, specifically the Gorgor Commandos, carried out a planned operation in the area between the city of Baidoa and the Deynuunay locality in the Bay region. The operation, which took place specifically in the Hinshiloole area, targeted Al-Shabaab militants who were reportedly ga"
-    },
-    {
-      "id": "n_3f8fee9ee2",
-      "type": "news",
-      "title": "The government imposes economic sanctions on Laftagareen and the former commander of the Correctional Corps.",
-      "source": "Somaliland Standard",
-      "url": "https://somalilandstandard.com/the-government-imposes-economic-sanctions-on-laftagareen-and-the-former-commander-of-the-correctional-corps/",
-      "date": "2026-10-14",
-      "region": "Somalia",
-      "tags": [
-        "African Union"
-      ],
-      "excerpt": "The National Committee for Anti-Money Laundering and Countering the Financing of Terrorism has added the former President of Southwest State, Abdiaziz Hassan Mohamed &#8220;Laftagareen,&#8221; the former commander of the Custodial Corps, Mahad Abdirahman Adan &#8220;Shub,&#8221; and eight other indi"
     }
   ],
   "articles": [
